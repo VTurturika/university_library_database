@@ -11,6 +11,7 @@ CREATE TABLE IF NOT EXISTS reader (
   priority SMALLINT NOT NULL,
   phone VARCHAR(20),
   email VARCHAR(20),
+  is_active bool NOT NULL DEFAULT true
   address_country VARCHAR(45),
   address_state VARCHAR(45),
   address_region VARCHAR(45),
@@ -110,7 +111,9 @@ CREATE TABLE IF NOT EXISTS book (
   adding_date DATE NOT NULL,
   periodic_release INT,
   count INT,
-  genre VARCHAR(45) NOT NULL
+  genre VARCHAR(45) NOT NULL,
+  lang varchar(10) NOT NULL,
+  subject varchar(50) NOT NULL
 
 );
 
@@ -161,11 +164,11 @@ CREATE TABLE IF NOT EXISTS book_event (
   book_id INT REFERENCES book (id) ON UPDATE CASCADE,
   start_date DATE NOT NULL,
   end_date DATE,
-  order_date DATE NULL,
+  order_date DATE,
   event_state VARCHAR(45) NOT NULL,
   violation VARCHAR(45),
   punishment VARCHAR(45),
-  sanctions_period SMALLINT NULL,
+  sanctions_period SMALLINT,
   PRIMARY KEY (reader_id, section_id, book_id)
 
 );
