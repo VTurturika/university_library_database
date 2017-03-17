@@ -1,1 +1,3 @@
 *.bak
+data-generator/node_modules
+data-generator/credentials
