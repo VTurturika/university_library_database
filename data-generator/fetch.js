@@ -99,5 +99,26 @@ module.exports = {
             })
             callback(records);
         });
+    },
+
+    preparatory: (rowsCount, callback) => {
+
+        console.log("Fetching records for preparatory schema...");
+        client.generate({
+            count: rowsCount,
+            schema: "preparatory"
+        }).then((records) => {
+            console.log("Fetched " + records.length + " records");
+            console.log("Processing records...");
+
+            records.forEach( record => {
+                let yearOffset = getRandomInt(0,7);
+                let year = +record.start_studying.substr(0,4) - yearOffset;
+                record.start_studying = record.start_studying.replace(/^\d{4}/, year);
+                record.end_studying = record.end_studying.replace(/^\d{4}/, year);
+                record.is_active = year == 0;
+            })
+            callback(records);
+        });
     }
 }
