@@ -30,7 +30,7 @@ CREATE TABLE IF NOT EXISTS student (
   faculty VARCHAR(100) NOT NULL,
   group_number VARCHAR(10) NOT NULL,
   speciality_code VARCHAR(30) NOT NULL,
-  speciality_title VARCHAR(45) NOT NULL,
+  speciality_title VARCHAR(100) NOT NULL,
   course SMALLINT NOT NULL,
   start_date DATE NOT NULL,
   graduation_date DATE NOT NULL,
@@ -56,10 +56,10 @@ CREATE TABLE IF NOT EXISTS postgraduate (
 
   postgraduate_id SERIAL PRIMARY KEY,
   speciality_code VARCHAR(30) NOT NULL,
-  speciality_title VARCHAR(45) NOT NULL,
-  faculty VARCHAR(50),
+  speciality_title VARCHAR(100) NOT NULL,
+  faculty VARCHAR(100),
   education_type VARCHAR(45) NOT NULL,
-  is_break_work SMALLINT,
+  is_break_work BOOLEAN,
   start_date DATE NOT NULL,
   graduation_date DATE NOT NULL
 
@@ -81,7 +81,7 @@ CREATE TABLE IF NOT EXISTS applicant (
   applicant_id SERIAL PRIMARY KEY,
   education_level VARCHAR(20) NOT NULL,
   speciality_code VARCHAR(30) NOT NULL,
-  speciality_title VARCHAR(45) NOT NULL,
+  speciality_title VARCHAR(100) NOT NULL,
   entry_year SMALLINT NOT NULL
 
 ) INHERITS (reader);
@@ -92,8 +92,8 @@ CREATE TABLE IF NOT EXISTS certification_training (
   ct_id SERIAL PRIMARY KEY,
   start_training DATE NOT NULL,
   end_training DATE NOT NULL,
-  departument VARCHAR(50) NOT NULL,
-  speciality VARCHAR(50) NOT NULL
+  departument VARCHAR(100) NOT NULL,
+  speciality VARCHAR(100) NOT NULL
 
 ) INHERITS (reader);
 

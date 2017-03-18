@@ -8,9 +8,8 @@ const client = new Mockaroo.Client({
     apiKey: conf.MOCKAROO_API_KEY
 })
 
-function getRandomArrayItem(array) {
-    return array[Math.floor(Math.random()*array.length)];
-}
+const getRandomArrayItem = array => array[Math.floor(Math.random()*array.length)];
+const getRandomInt = (min,max) => Math.floor(Math.random() * (max - min + 1)) + min;
 
 module.exports = {
 
@@ -21,7 +20,7 @@ module.exports = {
             count: rowsCount,
             schema: "student"
         }).then((records) => {
-            
+
             console.log("Fetched " + records.length + " records");
             console.log("Processing records...");
 
@@ -75,6 +74,29 @@ module.exports = {
                 }
             });
             console.log("Records processed");
+            callback(records);
+        });
+    },
+
+    postgraduate: (rowsCount, callback) => {
+
+        console.log("Fetching records for postgraduate schema...");
+        client.generate({
+            count: rowsCount,
+            schema: "postgraduate"
+        }).then((records) => {
+            console.log("Fetched " + records.length + " records");
+            console.log("Processing records...");
+
+            records.forEach( record => {
+                record.speciality_title = data.student.speciality[record.speciality_code];
+                let yearOffset = getRandomInt(1,7);
+                let startYear = +record.start_date.substr(0,4) - yearOffset;
+                let endYear = startYear + 3;
+                record.start_date = record.start_date.replace(/^\d{4}/, startYear);
+                record.graduation_date = record.graduation_date.replace(/^\d{4}/, endYear);
+                record.is_active = yearOffset < 4;
+            })
             callback(records);
         });
     }
