@@ -142,5 +142,30 @@ module.exports = {
             console.log("Records processed");
             callback(records);
         });
+    },
+
+    certification_training: (rowsCount, callback) => {
+
+        console.log("Fetching records for certification_training schema...");
+        client.generate({
+            count: rowsCount,
+            schema: "certification_training"
+        }).then((records) => {
+            console.log("Fetched " + records.length + " records");
+            console.log("Processing records...");
+
+            records.forEach( record => {
+                record.departument = getRandomArrayItem(data.teacher.departument[record.faculty]);
+                record.speciality_title = data.student.speciality[record.speciality_code];
+                let yearOffset = getRandomInt(0,7);
+                let year = +record.start_training.substr(0,4) - yearOffset;
+                record.start_training = record.start_training.replace(/^\d{4}/, year);
+                record.end_training = record.end_training.replace(/^\d{4}/, year);
+                record.is_active = false;
+            });
+            console.log("Records processed");
+            console.log(records);
+            callback(records);
+        });
     }
 }

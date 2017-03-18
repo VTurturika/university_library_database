@@ -92,8 +92,10 @@ CREATE TABLE IF NOT EXISTS certification_training (
   ct_id SERIAL PRIMARY KEY,
   start_training DATE NOT NULL,
   end_training DATE NOT NULL,
+  faculty VARCHAR(100),
   departument VARCHAR(100) NOT NULL,
-  speciality VARCHAR(100) NOT NULL
+  speciality_code VARCHAR(30) NOT NULL,
+  speciality_title VARCHAR(100) NOT NULL
 
 ) INHERITS (reader);
 
