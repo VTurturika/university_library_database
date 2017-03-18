@@ -11,7 +11,7 @@ CREATE TABLE IF NOT EXISTS reader (
   gender VARCHAR(1) NOT NULL,
   priority SMALLINT NOT NULL,
   phone VARCHAR(20),
-  email VARCHAR(20),
+  email VARCHAR(50),
   is_active bool NOT NULL DEFAULT true,
   address_country VARCHAR(45),
   address_state VARCHAR(45),
@@ -43,11 +43,11 @@ CREATE TABLE IF NOT EXISTS student (
 CREATE TABLE IF NOT EXISTS teacher (
 
   teacher_id SERIAL PRIMARY KEY,
-  faculty VARCHAR(50) NOT NULL ,
-  departument VARCHAR(50) NOT NULL,
-  position VARCHAR(45) NOT NULL,
-  degree VARCHAR(20),
-  rank VARCHAR(20)
+  faculty VARCHAR(100) NOT NULL ,
+  departument VARCHAR(100) NOT NULL,
+  position VARCHAR(100) NOT NULL,
+  degree VARCHAR(100),
+  rank VARCHAR(50)
 
 ) INHERITS (reader);
 
