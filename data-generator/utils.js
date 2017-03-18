@@ -25,7 +25,7 @@ module.exports = {
 
     showHelp: () => {
         console.log("Usage: node generator.js table=TABLE [rows_count=COUNT]\n");
-        console.log("\tTABLE: student | teacher | postgraduate | preparatory");
+        console.log("\tTABLE: student | teacher | postgraduate | preparatory | applicant");
         console.log("\tCOUNT: min=2, max=5000, default=10");
     },
 

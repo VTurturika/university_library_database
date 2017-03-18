@@ -96,7 +96,8 @@ module.exports = {
                 record.start_date = record.start_date.replace(/^\d{4}/, startYear);
                 record.graduation_date = record.graduation_date.replace(/^\d{4}/, endYear);
                 record.is_active = yearOffset < 4;
-            })
+            });
+            console.log("Records processed");
             callback(records);
         });
     },
@@ -117,7 +118,28 @@ module.exports = {
                 record.start_studying = record.start_studying.replace(/^\d{4}/, year);
                 record.end_studying = record.end_studying.replace(/^\d{4}/, year);
                 record.is_active = year == 0;
-            })
+            });
+            console.log("Records processed");
+            callback(records);
+        });
+    },
+
+    applicant: (rowsCount, callback) => {
+
+        console.log("Fetching records for applicant schema...");
+        client.generate({
+            count: rowsCount,
+            schema: "applicant"
+        }).then((records) => {
+            console.log("Fetched " + records.length + " records");
+            console.log("Processing records...");
+
+            records.forEach( record => {
+                record.speciality_title = data.student.speciality[record.speciality_code];
+                record.entry_year = +record.entry_year.substr(0,4);
+                record.is_active = record.entry_year == 2017;
+            });
+            console.log("Records processed");
             callback(records);
         });
     }
