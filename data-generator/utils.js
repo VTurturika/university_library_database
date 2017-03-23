@@ -10,7 +10,7 @@ function createInsertStatement(table, record) {
     result = result.slice(0,-1) + ") VALUES (";
 
     Object.values(record).forEach( value => result = result.concat(
-        typeof value === "string" ? "'" + value.replace(/\'/g, "\\'") + "'," : value + ","));
+        typeof value === "string" ? "'" + value.replace(/\'/g, "`") + "'," : value + ","));
 
     return result.slice(0,-1) + ");";
 }
