@@ -1,0 +1,1227 @@
+[
+  {
+    "key": "/books/OL10900310M",
+    "data": {
+      "title": "Joy! a Soulful Celebration of the Season",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2000-05-19",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/OL2892328A",
+          "last_name": "Dave Williamson",
+          "first_name": "Dave"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900311M",
+    "data": {
+      "title": "Joy! a Soulful Celebration of the Season",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2006-08-25",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/OL2892328A",
+          "last_name": "Dave Williamson",
+          "first_name": "Dave"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900312M",
+    "data": {
+      "title": "Joy! a Soulful Celebration of the Season",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2002-11-27",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/OL2892328A",
+          "last_name": "Dave Williamson",
+          "first_name": "Dave"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900313M",
+    "data": {
+      "title": "Joy! a Soulful Celebration of the Season",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2003-07-29",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL2892328A",
+          "last_name": "Dave Williamson",
+          "first_name": "Dave"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900314M",
+    "data": {
+      "title": "Joy! a Soulful Celebration of the Season",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2003-04-03",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/OL2892328A",
+          "last_name": "Dave Williamson",
+          "first_name": "Dave"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900315M",
+    "data": {
+      "title": "Joy! a Soulful Celebration of the Season",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2004-08-20",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL2892328A",
+          "last_name": "Dave Williamson",
+          "first_name": "Dave"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900316M",
+    "data": {
+      "title": "Joy! a Soulful Celebration of the Season",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2002-01-05",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL2892328A",
+          "last_name": "Dave Williamson",
+          "first_name": "Dave"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900317M",
+    "data": {
+      "title": "Sweeter As the Days Go By",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2008-11-21",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/OL2899745A",
+          "last_name": "Jim Gray",
+          "first_name": "Jim"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900318M",
+    "data": {
+      "title": "Sweeter As the Days Go By",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2004-04-29",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/OL2899745A",
+          "last_name": "Jim Gray",
+          "first_name": "Jim"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900319M",
+    "data": {
+      "title": "Fresh Fire-Instrumental",
+      "city": null,
+      "publisher": "Brentwood Music",
+      "year": 1997,
+      "subject": "Unassigned Title",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2003-01-16",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1090031M",
+    "data": {
+      "title": "Gay ethics",
+      "city": "New York",
+      "publisher": "Haworth Press",
+      "year": 1994,
+      "subject": "Homosexuality -- Moral and ethical aspects -- United States",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 365,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2009-01-28",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900320M",
+    "data": {
+      "title": "It's a Great Day to Praise the Lord",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2010-01-02",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/OL2741414A",
+          "last_name": "Hal Leonard Corp.",
+          "first_name": "Hal"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900321M",
+    "data": {
+      "title": "The Night Christ Was Born",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2001-09-22",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL2837110A",
+          "last_name": "Dale Mathews",
+          "first_name": "Dale"
+        },
+        {
+          "key": "/authors/OL237669A",
+          "last_name": "Michael Frazier",
+          "first_name": "Michael"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900322M",
+    "data": {
+      "title": "Ready to Sing Contemporary - Volume 3",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2016-05-19",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/OL3174753A",
+          "last_name": "Russell Mauldin",
+          "first_name": "Russell"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900323M",
+    "data": {
+      "title": "Ready to Sing Contemporary - Volume 3",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2011-02-28",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/OL3174753A",
+          "last_name": "Russell Mauldin",
+          "first_name": "Russell"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900324M",
+    "data": {
+      "title": "Ready to Sing Contemporary - Volume 3",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2004-02-14",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/OL3174753A",
+          "last_name": "Russell Mauldin",
+          "first_name": "Russell"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900325M",
+    "data": {
+      "title": "Ready to Sing Contemporary - Volume 3",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2013-01-21",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/OL3174753A",
+          "last_name": "Russell Mauldin",
+          "first_name": "Russell"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900326M",
+    "data": {
+      "title": "Ready to Sing Contemporary - Volume 3",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2008-04-28",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/OL3174753A",
+          "last_name": "Russell Mauldin",
+          "first_name": "Russell"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900327M",
+    "data": {
+      "title": "Ready to Sing Contemporary - Volume 3",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2008-05-12",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/OL3174753A",
+          "last_name": "Russell Mauldin",
+          "first_name": "Russell"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900328M",
+    "data": {
+      "title": "Ready to Sing Contemporary - Volume 3",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2005-08-02",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/OL3174753A",
+          "last_name": "Russell Mauldin",
+          "first_name": "Russell"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900329M",
+    "data": {
+      "title": "Ready to Sing Contemporary - Volume 3",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2002-08-04",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/OL3174753A",
+          "last_name": "Russell Mauldin",
+          "first_name": "Russell"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1090032M",
+    "data": {
+      "title": "The Prima guide to better business letters",
+      "city": "Rocklin, CA",
+      "publisher": "Prima Pub.",
+      "year": 1995,
+      "subject": "Commercial correspondence -- Handbooks, manuals, etc",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 234,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2016-07-10",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/OL579567A",
+          "last_name": "Fitzgerald, Michael",
+          "first_name": "Fitzgerald,"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900330M",
+    "data": {
+      "title": "Natural",
+      "city": null,
+      "publisher": "Brentwood Kids Company",
+      "year": 1998,
+      "subject": "Alternative & Indie",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2013-03-18",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL3511012A",
+          "last_name": "Eric Champion",
+          "first_name": "Eric"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900331M",
+    "data": {
+      "title": "Extreme!",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2007-03-18",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/OL2837112A",
+          "last_name": "Steven V. Taylor",
+          "first_name": "Steven"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900332M",
+    "data": {
+      "title": "Sweeter As the Days Go By",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2002-10-23",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL2899745A",
+          "last_name": "Jim Gray",
+          "first_name": "Jim"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900333M",
+    "data": {
+      "title": "Mission Possible",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 95,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2016-12-07",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/OL527771A",
+          "last_name": "Don Marsh",
+          "first_name": "Don"
+        },
+        {
+          "key": "/authors/OL3511013A",
+          "last_name": "Lorie Marsh",
+          "first_name": "Lorie"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900334M",
+    "data": {
+      "title": "Mission Possible",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2011-01-07",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/OL527771A",
+          "last_name": "Don Marsh",
+          "first_name": "Don"
+        },
+        {
+          "key": "/authors/OL3511013A",
+          "last_name": "Lorie Marsh",
+          "first_name": "Lorie"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900335M",
+    "data": {
+      "title": "Mission Possible",
+      "city": null,
+      "publisher": "Brentwood Benson Music",
+      "year": 1997,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2005-04-01",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL3511014A",
+          "last_name": "D. Marsh",
+          "first_name": "D."
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900336M",
+    "data": {
+      "title": "Mission Possible",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2002-09-11",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/OL527771A",
+          "last_name": "Don Marsh",
+          "first_name": "Don"
+        },
+        {
+          "key": "/authors/OL3511013A",
+          "last_name": "Lorie Marsh",
+          "first_name": "Lorie"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900337M",
+    "data": {
+      "title": "Mission Possible",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2014-09-30",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/OL527771A",
+          "last_name": "Don Marsh",
+          "first_name": "Don"
+        },
+        {
+          "key": "/authors/OL3511013A",
+          "last_name": "Lorie Marsh",
+          "first_name": "Lorie"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900338M",
+    "data": {
+      "title": "Classics-Preschool So BLS Pk",
+      "city": null,
+      "publisher": "Riversong Records",
+      "year": 1997,
+      "subject": "Music - General",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2010-06-29",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900339M",
+    "data": {
+      "title": "Nyt",
+      "city": null,
+      "publisher": "Riversong Records",
+      "year": 1997,
+      "subject": "Unassigned Title",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2003-08-15",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1090033M",
+    "data": {
+      "title": "Moving meetings",
+      "city": "Burr Ridge, Ill",
+      "publisher": "Irwin Professional Pub./Mirror Press",
+      "year": 1994,
+      "subject": "Business meetings -- Planning.",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 110,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2010-09-11",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL579568A",
+          "last_name": "Jana M. Kemp",
+          "first_name": "Jana"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900340M",
+    "data": {
+      "title": "My Soul Got Another",
+      "city": null,
+      "publisher": "Verity",
+      "year": 1997,
+      "subject": "Christian - Gospel",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2016-03-06",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/OL3511015A",
+          "last_name": "Alabama Mass Choir",
+          "first_name": "Alabama"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900341M",
+    "data": {
+      "title": "Jesus Did It",
+      "city": null,
+      "publisher": "Verity",
+      "year": 1997,
+      "subject": "Christian - Gospel",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2011-06-24",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/OL3511016A",
+          "last_name": "Tyrone Dickerson",
+          "first_name": "Tyrone"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900342M",
+    "data": {
+      "title": "Let's Praise the Lord",
+      "city": null,
+      "publisher": "Verity",
+      "year": 1997,
+      "subject": "Christian - Gospel",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2015-12-31",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/OL3511016A",
+          "last_name": "Tyrone Dickerson",
+          "first_name": "Tyrone"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900343M",
+    "data": {
+      "title": "All the Way Live",
+      "city": null,
+      "publisher": "Verity",
+      "year": 1997,
+      "subject": "Christian - Gospel",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2014-09-26",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL3511017A",
+          "last_name": "Queens Comm Choir",
+          "first_name": "Queens"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900344M",
+    "data": {
+      "title": "All Keyed Up",
+      "city": null,
+      "publisher": "Air Records",
+      "year": 1911,
+      "subject": "Christian - Gospel",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2012-11-07",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL3511018A",
+          "last_name": "Ben Tankard",
+          "first_name": "Ben"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900345M",
+    "data": {
+      "title": "Instrumental Christmas",
+      "city": null,
+      "publisher": "Verity",
+      "year": 1997,
+      "subject": "Christian - Gospel",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2010-08-07",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/OL3511018A",
+          "last_name": "Ben Tankard",
+          "first_name": "Ben"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900346M",
+    "data": {
+      "title": "Instrumentally Yours",
+      "city": null,
+      "publisher": "Verity",
+      "year": 1997,
+      "subject": "Genres & Styles - Jazz",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2003-08-21",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/OL3511018A",
+          "last_name": "Ben Tankard",
+          "first_name": "Ben"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900347M",
+    "data": {
+      "title": "Keynote Speaker",
+      "city": null,
+      "publisher": "Verity",
+      "year": 1997,
+      "subject": "Genres & Styles - Jazz",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2004-01-27",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL3511018A",
+          "last_name": "Ben Tankard",
+          "first_name": "Ben"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900348M",
+    "data": {
+      "title": "Play Me in Your Key",
+      "city": null,
+      "publisher": "Verity",
+      "year": 1997,
+      "subject": "Genres & Styles - Jazz",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2006-08-21",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL3511018A",
+          "last_name": "Ben Tankard",
+          "first_name": "Ben"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900349M",
+    "data": {
+      "title": "Sunday Driving",
+      "city": null,
+      "publisher": "Verity",
+      "year": 1997,
+      "subject": "Genres & Styles - Jazz",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2014-05-17",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/OL3511018A",
+          "last_name": "Ben Tankard",
+          "first_name": "Ben"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1090034M",
+    "data": {
+      "title": "The lessons of love",
+      "city": "[San Francisco]",
+      "publisher": "HarperSanFrancisco",
+      "year": 1994,
+      "subject": "Consolation",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 225,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2008-02-14",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/OL34190A",
+          "last_name": "Melody Beattie",
+          "first_name": "Melody"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900350M",
+    "data": {
+      "title": "I Am Persuaded",
+      "city": null,
+      "publisher": "Verity",
+      "year": 1997,
+      "subject": "Christian - Gospel",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2000-12-10",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL3252353A",
+          "last_name": "Fred Hammond",
+          "first_name": "Fred"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900351M",
+    "data": {
+      "title": "Plugged in",
+      "city": null,
+      "publisher": "Verity",
+      "year": 1997,
+      "subject": "Christian - General",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2012-09-27",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL3511019A",
+          "last_name": "Straight Company",
+          "first_name": "Straight"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900352M",
+    "data": {
+      "title": "So Excited",
+      "city": null,
+      "publisher": "Verity",
+      "year": 1997,
+      "subject": "Christian - Gospel",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2012-07-08",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL3511019A",
+          "last_name": "Straight Company",
+          "first_name": "Straight"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900353M",
+    "data": {
+      "title": "A & V",
+      "city": null,
+      "publisher": "Verity",
+      "year": 1997,
+      "subject": "Christian - Gospel",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2008-12-06",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/OL3511020A",
+          "last_name": "Angelo & Veronica",
+          "first_name": "Angelo"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900354M",
+    "data": {
+      "title": "Da Tu Vida",
+      "city": null,
+      "publisher": "Verity",
+      "year": 1997,
+      "subject": "Christian - Gospel",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2004-10-13",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL3511020A",
+          "last_name": "Angelo & Veronica",
+          "first_name": "Angelo"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900355M",
+    "data": {
+      "title": "Give Your Life",
+      "city": null,
+      "publisher": "Verity",
+      "year": 1997,
+      "subject": "Christian - Gospel",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2004-11-24",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL3511020A",
+          "last_name": "Angelo & Veronica",
+          "first_name": "Angelo"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,1252 @@
+[
+  {
+    "key": "/books/OL10900266M",
+    "data": {
+      "title": "Tree of Light",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1996,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2005-12-21",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/OL2837110A",
+          "last_name": "Dale Mathews",
+          "first_name": "Dale"
+        },
+        {
+          "key": "/authors/OL237669A",
+          "last_name": "Michael Frazier",
+          "first_name": "Michael"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900267M",
+    "data": {
+      "title": "Tree of Light",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1996,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2001-03-02",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL2837110A",
+          "last_name": "Dale Mathews",
+          "first_name": "Dale"
+        },
+        {
+          "key": "/authors/OL237669A",
+          "last_name": "Michael Frazier",
+          "first_name": "Michael"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900268M",
+    "data": {
+      "title": "Free Gift",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1996,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 80,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2012-04-18",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/OL2889281A",
+          "last_name": "Pam Andrews",
+          "first_name": "Pam"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900269M",
+    "data": {
+      "title": "Free Gift",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1996,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2016-08-07",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL2889281A",
+          "last_name": "Pam Andrews",
+          "first_name": "Pam"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1090026M",
+    "data": {
+      "title": "Poverty reduction in South Asia",
+      "city": "Washington, D.C",
+      "publisher": "World Bank",
+      "year": 1994,
+      "subject": "Economic assistance, Domestic -- Asia, South -- Congresses.",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 34,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2008-02-28",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900270M",
+    "data": {
+      "title": "Free Gift",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1996,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2009-12-21",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/OL2889281A",
+          "last_name": "Pam Andrews",
+          "first_name": "Pam"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900271M",
+    "data": {
+      "title": "Free Gift",
+      "city": null,
+      "publisher": "Brentwood Music",
+      "year": 1996,
+      "subject": "Christian Education - Children & Youth",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2006-06-20",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/OL2889281A",
+          "last_name": "Pam Andrews",
+          "first_name": "Pam"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900272M",
+    "data": {
+      "title": "Ambience Peace",
+      "city": null,
+      "publisher": "Brentwood Records",
+      "year": 1996,
+      "subject": "Unassigned Title",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2016-07-25",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900273M",
+    "data": {
+      "title": "Men of God Arise!",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1996,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2003-07-16",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/OL3511010A",
+          "last_name": "Marty Hamby",
+          "first_name": "Marty"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900274M",
+    "data": {
+      "title": "Happy Now",
+      "city": null,
+      "publisher": "Brentwood Music",
+      "year": 1997,
+      "subject": "Unassigned Title",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2004-02-11",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900275M",
+    "data": {
+      "title": "Happy Now",
+      "city": null,
+      "publisher": "Brentwood Music",
+      "year": 1997,
+      "subject": "Unassigned Title",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2003-10-31",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900276M",
+    "data": {
+      "title": "It's a Great Day to Praise the Lord",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2016-09-09",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL2741414A",
+          "last_name": "Hal Leonard Corp.",
+          "first_name": "Hal"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900277M",
+    "data": {
+      "title": "Santa Bowed at Christmas",
+      "city": null,
+      "publisher": "Brentwood Music",
+      "year": 1996,
+      "subject": "Unassigned Title",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2016-05-28",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900278M",
+    "data": {
+      "title": "This Little Light of Mine",
+      "city": null,
+      "publisher": "Brentwood Music",
+      "year": 1996,
+      "subject": "Unassigned Title",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2008-11-20",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900279M",
+    "data": {
+      "title": "His Favorite Song ",
+      "city": null,
+      "publisher": "Brentwood Music",
+      "year": 1996,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2002-06-01",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1090027M",
+    "data": {
+      "title": "Dynamic statutory interpretation",
+      "city": "Cambridge, Massachusetts",
+      "publisher": "Harvard University Press",
+      "year": 1994,
+      "subject": "Law -- United States -- Interpretation and construction.",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 438,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2004-07-07",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL24730A",
+          "last_name": "William N. Eskridge",
+          "first_name": "William"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900280M",
+    "data": {
+      "title": "His Favorite Song-Split",
+      "city": null,
+      "publisher": "Brentwood Music",
+      "year": 1996,
+      "subject": "Unassigned Title",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2006-07-26",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900281M",
+    "data": {
+      "title": "His Favorite Song",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1996,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2000-06-02",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL2892328A",
+          "last_name": "Dave Williamson",
+          "first_name": "Dave"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900282M",
+    "data": {
+      "title": "His Favorite Song",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1996,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2015-08-21",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/OL2892328A",
+          "last_name": "Dave Williamson",
+          "first_name": "Dave"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900283M",
+    "data": {
+      "title": "His Favorite Song",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1996,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2004-10-21",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/OL2892328A",
+          "last_name": "Dave Williamson",
+          "first_name": "Dave"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900284M",
+    "data": {
+      "title": "Crucified with Christ",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1996,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2014-06-17",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/OL2837110A",
+          "last_name": "Dale Mathews",
+          "first_name": "Dale"
+        },
+        {
+          "key": "/authors/OL237669A",
+          "last_name": "Michael Frazier",
+          "first_name": "Michael"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900285M",
+    "data": {
+      "title": "Crucified with Christ",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1996,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2002-01-18",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/OL2837110A",
+          "last_name": "Dale Mathews",
+          "first_name": "Dale"
+        },
+        {
+          "key": "/authors/OL237669A",
+          "last_name": "Michael Frazier",
+          "first_name": "Michael"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900286M",
+    "data": {
+      "title": "Crucified with Christ",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1996,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2006-09-14",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL2837110A",
+          "last_name": "Dale Mathews",
+          "first_name": "Dale"
+        },
+        {
+          "key": "/authors/OL237669A",
+          "last_name": "Michael Frazier",
+          "first_name": "Michael"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900287M",
+    "data": {
+      "title": "Crucified with Christ",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1996,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2004-01-16",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/OL2837110A",
+          "last_name": "Dale Mathews",
+          "first_name": "Dale"
+        },
+        {
+          "key": "/authors/OL237669A",
+          "last_name": "Michael Frazier",
+          "first_name": "Michael"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900288M",
+    "data": {
+      "title": "Men of God Arise",
+      "city": null,
+      "publisher": "Brentwood Music",
+      "year": 1996,
+      "subject": "Social Science",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2014-02-07",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900289M",
+    "data": {
+      "title": "Men of God Arise",
+      "city": null,
+      "publisher": "Brentwood Music",
+      "year": 1996,
+      "subject": "Social Science",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2016-08-31",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1090028M",
+    "data": {
+      "title": "Who pays the price?",
+      "city": "Washington, D.C",
+      "publisher": "Island Press",
+      "year": 1994,
+      "subject": "Green movement",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 249,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2008-11-22",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900290M",
+    "data": {
+      "title": "Crucified with Christ",
+      "city": null,
+      "publisher": "Brentwood Music",
+      "year": 1996,
+      "subject": "Unassigned Title",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2015-07-11",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900291M",
+    "data": {
+      "title": "America's 101 Favorite Old-Time Gospel Songs",
+      "city": null,
+      "publisher": "Brentwood Music",
+      "year": 1997,
+      "subject": "Music",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2002-11-21",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900292M",
+    "data": {
+      "title": "Oh What a Savior",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1996,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2016-12-16",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/OL3511010A",
+          "last_name": "Marty Hamby",
+          "first_name": "Marty"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900293M",
+    "data": {
+      "title": "God's Top Ten",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1996,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2010-05-03",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/OL3511008A",
+          "last_name": "Genie Nilson",
+          "first_name": "Genie"
+        },
+        {
+          "key": "/authors/OL3511009A",
+          "last_name": "Troy Nilson",
+          "first_name": "Troy"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900294M",
+    "data": {
+      "title": "God's Top Ten",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1996,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2005-04-26",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/OL3511008A",
+          "last_name": "Genie Nilson",
+          "first_name": "Genie"
+        },
+        {
+          "key": "/authors/OL3511009A",
+          "last_name": "Troy Nilson",
+          "first_name": "Troy"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900295M",
+    "data": {
+      "title": "Ralph Carmichael & Friends",
+      "city": null,
+      "publisher": "Brentwood Music",
+      "year": 1997,
+      "subject": "Christian - General",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2002-12-16",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900296M",
+    "data": {
+      "title": "Crucified with Christ",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1996,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2004-11-20",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL2837110A",
+          "last_name": "Dale Mathews",
+          "first_name": "Dale"
+        },
+        {
+          "key": "/authors/OL237669A",
+          "last_name": "Michael Frazier",
+          "first_name": "Michael"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900297M",
+    "data": {
+      "title": "I've Been Redeemed",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1996,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 32,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2012-05-31",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/OL2837110A",
+          "last_name": "Dale Mathews",
+          "first_name": "Dale"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900298M",
+    "data": {
+      "title": "I've Been Redeemed",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1996,
+      "subject": "Christian - General",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2015-06-05",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL2837110A",
+          "last_name": "Dale Mathews",
+          "first_name": "Dale"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900299M",
+    "data": {
+      "title": "I've Been Redeemed",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1996,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2009-05-31",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/OL2837110A",
+          "last_name": "Dale Mathews",
+          "first_name": "Dale"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1090029M",
+    "data": {
+      "title": "When living hurts",
+      "city": "New York",
+      "publisher": "UAHC Press",
+      "year": 1994,
+      "subject": "Youth -- Suicidal behavior.",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 127,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2006-02-13",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL188935A",
+          "last_name": "Sol Gordon",
+          "first_name": "Sol"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL109002M",
+    "data": {
+      "title": "Narodnosni i vjerski sastav stanovništva Hrvatske, 1880-1991",
+      "city": "Zagreb",
+      "publisher": "Državni zavod za statistiku Republike Hrvatske",
+      "year": 1998,
+      "subject": "Croatia -- Population -- Statistics",
+      "genre": "Statistics.",
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "scr",
+      "days_keep_count": 50,
+      "adding_date": "2006-01-06",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL73057A",
+          "last_name": "Jakov Gelo",
+          "first_name": "Jakov"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900300M",
+    "data": {
+      "title": "God's Top Ten",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1996,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2005-07-23",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/OL3511008A",
+          "last_name": "Genie Nilson",
+          "first_name": "Genie"
+        },
+        {
+          "key": "/authors/OL3511009A",
+          "last_name": "Troy Nilson",
+          "first_name": "Troy"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900301M",
+    "data": {
+      "title": "Jesus the Resurrection",
+      "city": null,
+      "publisher": null,
+      "year": 1950,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2013-10-20",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900302M",
+    "data": {
+      "title": "I've Been Redeemed",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1996,
+      "subject": "Christian - General",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2016-01-18",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL2837110A",
+          "last_name": "Dale Mathews",
+          "first_name": "Dale"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900303M",
+    "data": {
+      "title": "Scripture Rock",
+      "city": null,
+      "publisher": "Brentwood Music",
+      "year": 1997,
+      "subject": "Music - Rock",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2014-04-06",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL3338699A",
+          "last_name": "Brentwood Kids",
+          "first_name": "Brentwood"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900304M",
+    "data": {
+      "title": "Sweeter As the Days Go By",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 144,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2010-04-21",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/OL2899745A",
+          "last_name": "Jim Gray",
+          "first_name": "Jim"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900305M",
+    "data": {
+      "title": "Sweeter As the Days Go By",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2000-09-21",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL2899745A",
+          "last_name": "Jim Gray",
+          "first_name": "Jim"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900306M",
+    "data": {
+      "title": "Sweeter As the Days Go By",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2011-04-20",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL2899745A",
+          "last_name": "Jim Gray",
+          "first_name": "Jim"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900307M",
+    "data": {
+      "title": "Fresh Fire - Sion Alford",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2007-11-28",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL3511011A",
+          "last_name": "Sion Alford",
+          "first_name": "Sion"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900308M",
+    "data": {
+      "title": "Joy! a Soulful Celebration of the Season",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 120,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2015-08-30",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/OL2892328A",
+          "last_name": "Dave Williamson",
+          "first_name": "Dave"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900309M",
+    "data": {
+      "title": "Joy! a Soulful Celebration of the Season",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2003-05-01",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/OL2892328A",
+          "last_name": "Dave Williamson",
+          "first_name": "Dave"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1090030M",
+    "data": {
+      "title": "Single parent families",
+      "city": "New York",
+      "publisher": "Haworth Press",
+      "year": 1994,
+      "subject": "Single parents -- United States.",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 593,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2016-05-29",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  }
+]

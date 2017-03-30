@@ -1,0 +1,1227 @@
+[
+  {
+    "key": "/books/OL10900356M",
+    "data": {
+      "title": "Higher Place",
+      "city": null,
+      "publisher": "Verity",
+      "year": 1971,
+      "subject": "Christian - Gospel",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2014-06-10",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL3511020A",
+          "last_name": "Angelo & Veronica",
+          "first_name": "Angelo"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900357M",
+    "data": {
+      "title": "Not Enough",
+      "city": null,
+      "publisher": "Verity",
+      "year": 1997,
+      "subject": "Christian - Gospel",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2006-11-04",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/OL3511020A",
+          "last_name": "Angelo & Veronica",
+          "first_name": "Angelo"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900358M",
+    "data": {
+      "title": "Watch God Move",
+      "city": null,
+      "publisher": "Verity",
+      "year": 1997,
+      "subject": "Christian - Gospel",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2014-04-22",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/OL3511021A",
+          "last_name": "Colorado Mass Choir",
+          "first_name": "Colorado"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900359M",
+    "data": {
+      "title": "He Keeps on Blessing",
+      "city": null,
+      "publisher": "Verity",
+      "year": 1997,
+      "subject": "Christian - Gospel",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2005-02-05",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/OL3511022A",
+          "last_name": "Albertina Walker",
+          "first_name": "Albertina"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1090035M",
+    "data": {
+      "title": "Boom, again",
+      "city": "Harvard, MA",
+      "publisher": "Abbot-Hill Pub.",
+      "year": 1994,
+      "subject": "Computer industry",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2012-09-14",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/OL579569A",
+          "last_name": "Ed Gustafson",
+          "first_name": "Ed"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900360M",
+    "data": {
+      "title": "Live in Chicago",
+      "city": null,
+      "publisher": "Verity",
+      "year": 1997,
+      "subject": "Christian - Gospel",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2016-08-08",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL3511022A",
+          "last_name": "Albertina Walker",
+          "first_name": "Albertina"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900361M",
+    "data": {
+      "title": "Songs of the Church",
+      "city": null,
+      "publisher": "Verity",
+      "year": 1997,
+      "subject": "Christian - Gospel",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2005-01-28",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/OL3511022A",
+          "last_name": "Albertina Walker",
+          "first_name": "Albertina"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900362M",
+    "data": {
+      "title": "Focus on Glory",
+      "city": null,
+      "publisher": "Verity",
+      "year": 1997,
+      "subject": "Christian - Gospel",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2014-09-12",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/OL3346532A",
+          "last_name": "Hezakiah Walker",
+          "first_name": "Hezakiah"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900363M",
+    "data": {
+      "title": "Live in Toronto",
+      "city": null,
+      "publisher": "Verity",
+      "year": 1997,
+      "subject": "Christian - Gospel",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2004-07-30",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/OL3346532A",
+          "last_name": "Hezakiah Walker",
+          "first_name": "Hezakiah"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900364M",
+    "data": {
+      "title": "Go Tell It on the Mountain",
+      "city": null,
+      "publisher": "Verity",
+      "year": 1997,
+      "subject": "Christian - Gospel",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2008-07-19",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL3511023A",
+          "last_name": "Christmas Mass Choir",
+          "first_name": "Christmas"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900365M",
+    "data": {
+      "title": "Shakin' the House",
+      "city": null,
+      "publisher": "Verity",
+      "year": 1997,
+      "subject": "Christian - Gospel",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2008-02-20",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900366M",
+    "data": {
+      "title": "Let the Redeemed of the Lord",
+      "city": null,
+      "publisher": "Verity",
+      "year": 1997,
+      "subject": "Christian - Gospel",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2015-02-04",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL3511024A",
+          "last_name": "Et Bird Inspirational Choir",
+          "first_name": "Et"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900367M",
+    "data": {
+      "title": "Shakin' the House",
+      "city": null,
+      "publisher": "Verity",
+      "year": 1997,
+      "subject": "Christian - Gospel",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2011-12-15",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900368M",
+    "data": {
+      "title": "Chicago Westside Choir",
+      "city": null,
+      "publisher": "Verity",
+      "year": 1997,
+      "subject": "Christian - Gospel",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2004-11-05",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/OL3511025A",
+          "last_name": "Chicago Westside Choir",
+          "first_name": "Chicago"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900369M",
+    "data": {
+      "title": "Surely the Lord is in",
+      "city": null,
+      "publisher": "Verity",
+      "year": 2001,
+      "subject": "Christian - Gospel",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2013-07-09",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/OL3511026A",
+          "last_name": "First Church of Deliverance",
+          "first_name": "First"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1090036M",
+    "data": {
+      "title": "Light detectors, photoreceptors, and imaging systems in nature",
+      "city": "New York",
+      "publisher": "Oxford University Press",
+      "year": 1995,
+      "subject": "Photoreceptors.",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 259,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2016-12-06",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/OL579570A",
+          "last_name": "Jerome J. Wolken",
+          "first_name": "Jerome"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900370M",
+    "data": {
+      "title": "Live in L.A.",
+      "city": null,
+      "publisher": "Verity",
+      "year": 1997,
+      "subject": "Christian - Gospel",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2000-10-21",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL3347545A",
+          "last_name": "Gmwa Mass Choir",
+          "first_name": "Gmwa"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900371M",
+    "data": {
+      "title": "Torchbearers of Excellence",
+      "city": null,
+      "publisher": "Verity",
+      "year": 1997,
+      "subject": "Christian - Gospel",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2012-05-27",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL3347545A",
+          "last_name": "Gmwa Mass Choir",
+          "first_name": "Gmwa"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900372M",
+    "data": {
+      "title": "Live in Indianapolis",
+      "city": null,
+      "publisher": "Verity",
+      "year": 1997,
+      "subject": "Christian - Gospel",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2014-04-01",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL3347545A",
+          "last_name": "Gmwa Mass Choir",
+          "first_name": "Gmwa"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900373M",
+    "data": {
+      "title": "Live in Chicago",
+      "city": null,
+      "publisher": "Verity",
+      "year": 1997,
+      "subject": "Christian - Gospel",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2010-10-19",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/OL3347545A",
+          "last_name": "Gmwa Mass Choir",
+          "first_name": "Gmwa"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900374M",
+    "data": {
+      "title": "25th Anniversary",
+      "city": null,
+      "publisher": "Verity",
+      "year": 1997,
+      "subject": "Christian - Gospel",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2010-03-16",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/OL3347545A",
+          "last_name": "Gmwa Mass Choir",
+          "first_name": "Gmwa"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900375M",
+    "data": {
+      "title": "What Shall I Render",
+      "city": null,
+      "publisher": "Verity",
+      "year": 1997,
+      "subject": "Christian - Gospel",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2008-02-01",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/OL3511027A",
+          "last_name": "Living Faith Mass Choir",
+          "first_name": "Living"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900376M",
+    "data": {
+      "title": "I'm Saved",
+      "city": null,
+      "publisher": "Verity",
+      "year": 1911,
+      "subject": "Christian - Gospel",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2012-08-11",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL3511028A",
+          "last_name": "Louisiana Mass Choir",
+          "first_name": "Louisiana"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900377M",
+    "data": {
+      "title": "Hope of the World",
+      "city": null,
+      "publisher": "Verity",
+      "year": 1997,
+      "subject": "Christian - Gospel",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2012-07-15",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/OL3511029A",
+          "last_name": "New Jersey Mass Choir",
+          "first_name": "New"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900378M",
+    "data": {
+      "title": "Redeemed",
+      "city": null,
+      "publisher": "Verity",
+      "year": 1911,
+      "subject": "Christian - Gospel",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2011-10-16",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL3511030A",
+          "last_name": "Redeemed",
+          "first_name": "Redeemed"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900379M",
+    "data": {
+      "title": "Christmas Memories",
+      "city": null,
+      "publisher": "Verity",
+      "year": 1911,
+      "subject": "Unassigned Title",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2012-12-18",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1090037M",
+    "data": {
+      "title": "Suppliant women",
+      "city": "New York",
+      "publisher": "Oxford University Press",
+      "year": 1995,
+      "subject": "Seven against Thebes (Greek mythology) -- Drama",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 82,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2002-06-03",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL21589A",
+          "last_name": "Euripides",
+          "first_name": "Euripides"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900380M",
+    "data": {
+      "title": "Christmas Memories",
+      "city": null,
+      "publisher": "Verity",
+      "year": 1911,
+      "subject": "Unassigned Title",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2002-02-22",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900381M",
+    "data": {
+      "title": "A Simple Christmas",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 32,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2003-01-19",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/OL3511031A",
+          "last_name": "John M. DeVries",
+          "first_name": "John"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900382M",
+    "data": {
+      "title": "A Simple Christmas",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2005-09-13",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL3511031A",
+          "last_name": "John M. DeVries",
+          "first_name": "John"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900383M",
+    "data": {
+      "title": "A Simple Christmas",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2001-08-02",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/OL3511031A",
+          "last_name": "John M. DeVries",
+          "first_name": "John"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900384M",
+    "data": {
+      "title": "Shades of Grace",
+      "city": null,
+      "publisher": "Diadem Distribution",
+      "year": 1997,
+      "subject": "Unassigned Title",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2004-08-18",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900385M",
+    "data": {
+      "title": "The Night Christ Was Born",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2011-03-04",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL2837110A",
+          "last_name": "Dale Mathews",
+          "first_name": "Dale"
+        },
+        {
+          "key": "/authors/OL237669A",
+          "last_name": "Michael Frazier",
+          "first_name": "Michael"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900386M",
+    "data": {
+      "title": "Tis So Sweet",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2007-03-01",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/OL3511032A",
+          "last_name": "Paul Ferrin",
+          "first_name": "Paul"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900387M",
+    "data": {
+      "title": "For What Earthly Reason",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2013-12-13",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/OL3347579A",
+          "last_name": "Lari Goss",
+          "first_name": "Lari"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900388M",
+    "data": {
+      "title": "The Healer",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2005-04-05",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/OL3347579A",
+          "last_name": "Lari Goss",
+          "first_name": "Lari"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900389M",
+    "data": {
+      "title": "Rich Young Ruler",
+      "city": null,
+      "publisher": "Tribute Book",
+      "year": 1998,
+      "subject": "Christian - General",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2011-04-28",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/OL3511033A",
+          "last_name": "Rich Young Ruler",
+          "first_name": "Rich"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1090038M",
+    "data": {
+      "title": "The Intel 32-bit microprocessors",
+      "city": "Columbus, Ohio",
+      "publisher": "Prentice Hall",
+      "year": 1995,
+      "subject": "Intel 80386 (Microprocessor)",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 801,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2013-03-18",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL389560A",
+          "last_name": "Barry B. Brey",
+          "first_name": "Barry"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900390M",
+    "data": {
+      "title": "New Song-CD Single",
+      "city": null,
+      "publisher": "Brentwood Music",
+      "year": 1997,
+      "subject": "Unassigned Title",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2012-10-02",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL3511034A",
+          "last_name": "New Song",
+          "first_name": "New"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900391M",
+    "data": {
+      "title": "The Night Christ Was Born",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2016-02-17",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/OL2837110A",
+          "last_name": "Dale Mathews",
+          "first_name": "Dale"
+        },
+        {
+          "key": "/authors/OL237669A",
+          "last_name": "Michael Frazier",
+          "first_name": "Michael"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900392M",
+    "data": {
+      "title": "The Night Christ Was Born",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2008-01-24",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/OL2837110A",
+          "last_name": "Dale Mathews",
+          "first_name": "Dale"
+        },
+        {
+          "key": "/authors/OL237669A",
+          "last_name": "Michael Frazier",
+          "first_name": "Michael"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900393M",
+    "data": {
+      "title": "The Night Christ Was Born",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2008-07-30",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/OL2837110A",
+          "last_name": "Dale Mathews",
+          "first_name": "Dale"
+        },
+        {
+          "key": "/authors/OL237669A",
+          "last_name": "Michael Frazier",
+          "first_name": "Michael"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900394M",
+    "data": {
+      "title": "Ralph Carmichael and Friends - Complete Set of Ralph Carmichael and Friends",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2001-07-29",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/OL1189766A",
+          "last_name": "Ralph Carmichael",
+          "first_name": "Ralph"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900395M",
+    "data": {
+      "title": "He Knows My Heart",
+      "city": null,
+      "publisher": "Brentwood Music",
+      "year": 1997,
+      "subject": "Unassigned Title",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2000-02-26",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL3511035A",
+          "last_name": "Vicki Yohe",
+          "first_name": "Vicki"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900396M",
+    "data": {
+      "title": "He Knows My Heart",
+      "city": null,
+      "publisher": "Brentwood Music",
+      "year": 1997,
+      "subject": "Unassigned Title",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2010-01-17",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900397M",
+    "data": {
+      "title": "Clay Crosse - Stained Glass",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 75,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2010-12-21",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL1425464A",
+          "last_name": "Clay Crosse",
+          "first_name": "Clay"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900398M",
+    "data": {
+      "title": "God Save America, The Musical, SATB",
+      "city": null,
+      "publisher": "Brentwood-Benson Music Publishing",
+      "year": 1997,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 181,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2000-10-07",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900399M",
+    "data": {
+      "title": "Were You There",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2012-03-07",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL396316A",
+          "last_name": "Dave Clark",
+          "first_name": "Dave"
+        },
+        {
+          "key": "/authors/OL3174753A",
+          "last_name": "Russell Mauldin",
+          "first_name": "Russell"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1090039M",
+    "data": {
+      "title": "Dora Stock, portrait painter of the Körner circle in Dresden (1785-1815)",
+      "city": "Lewiston, N.Y",
+      "publisher": "E. Mellen Press",
+      "year": 1993,
+      "subject": "Stock, Dora, 1760-1832.",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 194,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2000-02-25",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL579571A",
+          "last_name": "Linda Siegel",
+          "first_name": "Linda"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL109003M",
+    "data": {
+      "title": "La préhistoire",
+      "city": "Paris",
+      "publisher": "De Boeck Université",
+      "year": 1999,
+      "subject": "Prehistoric peoples.",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 369,
+      "lang": "fre",
+      "days_keep_count": 30,
+      "adding_date": "2011-09-20",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/OL73058A",
+          "last_name": "Marcel Otte",
+          "first_name": "Marcel"
+        }
+      ]
+    }
+  }
+]

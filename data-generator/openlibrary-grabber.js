@@ -2,20 +2,21 @@
 
 const request = require("request");
 const utils = require("./utils.js");
+const args = utils.args;
 
-const options = {
-    uri: "http://openlibrary.org/api/things",
-    qs: {
-        'query': '{"type":"\/type\/edition"}'
-    },
-    json: true
-}
-
-let count = 1;
+let totalCount = 0;
 const baseUrl = "http://openlibrary.org";
 const getRandomArrayItem = array => array[Math.floor(Math.random()*array.length)];
 const getRandomDate = (start, end) => new Date(start.getTime() + Math.random() * (end.getTime() - start.getTime()))
                                             .toISOString().slice(0, 10);
+
+function runSerial(tasks) {
+    let result = Promise.resolve();
+    tasks.forEach(task => {
+        result = result.then(() => task());
+    });
+    return result;
+}
 
 function processBook(book) {
 
@@ -23,7 +24,6 @@ function processBook(book) {
 
         request.get(baseUrl + book + ".json", (err, res, body) => {
 
-            console.log("Processing book record " + count++);
             let data = JSON.parse(body);
             let processedBook = {
                 title: data.title,
@@ -44,7 +44,7 @@ function processBook(book) {
             if(data.authors) {
 
                 let authorsPromises = [];
-                data.authors.forEach(author => authorsPromises.push(processAuthor(author)));
+                data.authors.forEach(author => authorsPromises.push(processAuthor(author.key)));
 
                 Promise
                     .all(authorsPromises)
@@ -56,6 +56,11 @@ function processBook(book) {
                     });
             }
             else {
+                processedBook.authors.push({
+                    key: "/authors/unknown",
+                    last_name: "Unknown",
+                    first_name: "Unknown"
+                });
                 resolve({key: book, data: processedBook});
             }
         });
@@ -66,41 +71,95 @@ function processAuthor(author) {
 
     return new Promise( (resolve, reject) => {
         request.get(baseUrl + author + ".json", (err, res, body) => {
+
             let data = JSON.parse(body);
-            let processedAuthor;
+            let processedAuthor = {
+                key: data.name ? author: "/authors/unknown",
+                last_name: data.name ? data.name.replace(/^\S\s+/, "") : "Unknown",
+                first_name: data.name ? data.name.replace(/(\s\S+)+$/, "") : "Unknown"
+            };
 
-            if(data.name) {
-
-                processedAuthor = {
-                    key: author,
-                    last_name: data.name.replace(/^\S\s+/, ""),
-                    first_name: data.name.replace(/(\s\S+)+$/, "")
-                };
-            }
             resolve(processedAuthor);
         });
     });
 }
 
-request(options, (err, res, body) => {
+function processRequest(params) {
 
-    if(err) {
-        console.log(err);
-        return;
+    return () => new Promise( (resolve, reject) => {
+
+        const options = {
+            uri: "http://openlibrary.org/api/things",
+            qs: {
+                'query' : params.offset
+                        ? `{"type":"\/type\/edition", "limit":${params.count}, "offset":${params.offset}}`
+                        : `{"type":"\/type\/edition", "limit":${params.count}}`
+            },
+            json: true
+        }
+        console.log(`Sending request ${params.number}...`);
+
+        request(options, (err, res, body) => {
+
+            if(body.status == "ok") {
+
+                console.log(`Fetched ${body.result.length} records\nStart processing...`);
+
+                let booksPromises = [];
+                body.result.forEach(book => booksPromises.push(processBook(book)));
+                Promise.all(booksPromises).then( data => {
+                    console.log("Records processed");
+                    totalCount += data.length;
+                    utils.writeJsonToFile({name: `books${params.number}`, data: data});
+                    resolve();
+                });
+            }
+        });
+    });
+}
+
+if(utils.hasArguments() && args.books_count) {
+
+    let booksCount = +args.books_count;
+    let startOffset = args.offset ? args.offset : 0;
+    utils.clearOpenLibraryDirectory();
+
+    if(booksCount <= 50) {
+
+        runSerial([
+            processRequest({
+                count:booksCount,
+                number: 1,
+                offset: startOffset
+            })
+        ]).then(() => console.log(`\nAll requests finished\nFetched ${totalCount} records, wrote to 1 file`));
     }
+    else {
 
-    if(body.status == "ok") {
+        let requestsPromises = [];
+        let requestsCount = Math.floor(booksCount/50);
 
-        console.log("Fetched " + body.result.length + "records\nStart processing...");
+        for(let i=0; i < requestsCount; i++) {
+            requestsPromises.push(processRequest({
+                count: 50,
+                offset: startOffset + i*50,
+                number: i+1
+            }));
+        }
 
-        let bookPromises = [];
-        body.result.forEach(book => bookPromises.push(processBook(book)));
+        if(booksCount%50 != 0) {
+            requestsPromises.push(processRequest({
+                count: booksCount%50,
+                offset: startOffset + requestsCount*50,
+                number: requestsCount+1
+            }))
+        }
 
-        Promise
-            .all(bookPromises)
-            .then( (data) => {
-
-                utils.writeJsonToFile({ name: "books", data: data });
-            });
+        runSerial(requestsPromises)
+            .then(() => console.log(`\nAll requests finished\n`+
+                                    `Fetched ${totalCount} records, wrote to ${requestsCount} files`));
     }
-});
+}
+else {
+    utils.showGrabberHelp();
+}

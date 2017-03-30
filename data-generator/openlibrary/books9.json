@@ -1,0 +1,1257 @@
+[
+  {
+    "key": "/books/OL10900536M",
+    "data": {
+      "title": "Ferrari 330/P4",
+      "city": null,
+      "publisher": "Motorbooks International",
+      "year": 2001,
+      "subject": "Automotive - History",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 128,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2004-04-28",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL3511069A",
+          "last_name": "Paolo Marasca",
+          "first_name": "Paolo"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900537M",
+    "data": {
+      "title": "Motorbooks Calendar Chrysler PT Cruiser 2002",
+      "city": null,
+      "publisher": "Motorbooks Intl",
+      "year": 2001,
+      "subject": "Non-Classifiable",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 24,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2014-05-22",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/OL53163A",
+          "last_name": "John Lamm",
+          "first_name": "John"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900538M",
+    "data": {
+      "title": "Inside Amarc",
+      "city": null,
+      "publisher": "Motorbooks International",
+      "year": 2001,
+      "subject": "Military - Aviation",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 160,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2013-04-09",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL3511070A",
+          "last_name": "Jerry Fugere",
+          "first_name": "Jerry"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900539M",
+    "data": {
+      "title": "Motorbooks Calendar Classic American Railroads 2002",
+      "city": null,
+      "publisher": "Motorbooks Intl",
+      "year": 2001,
+      "subject": "Non-Classifiable",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 24,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2012-05-31",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL2755599A",
+          "last_name": "Brian Solomon",
+          "first_name": "Brian"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1090053M",
+    "data": {
+      "title": "An American pursuit pilot in France",
+      "city": "Shippensburg, PA, USA",
+      "publisher": "White Mane Pub. Co.",
+      "year": 1994,
+      "subject": "Richardson, Roland W. 1897-1991.",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 198,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2015-01-22",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/OL579576A",
+          "last_name": "Roland W. Richardson",
+          "first_name": "Roland"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900540M",
+    "data": {
+      "title": "Motorbooks Calendar Classic American Railroad Terminals 2002",
+      "city": null,
+      "publisher": "Motorbooks Intl",
+      "year": 2001,
+      "subject": "Non-Classifiable",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 24,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2014-11-01",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL223058A",
+          "last_name": "Mike Schafer",
+          "first_name": "Mike"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900541M",
+    "data": {
+      "title": "Motorbooks Calendar Buddies 2002 Men. Dogs. And World War II 2002",
+      "city": null,
+      "publisher": "Motorbooks Intl",
+      "year": 2001,
+      "subject": "Non-Classifiable",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 24,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2005-01-07",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/OL3511071A",
+          "last_name": "Doug Keeney",
+          "first_name": "Doug"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900542M",
+    "data": {
+      "title": "Motorbooks Calendar American Drag Racing 2002",
+      "city": null,
+      "publisher": "Motorbooks Intl",
+      "year": 2001,
+      "subject": "Non-Classifiable",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 24,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2014-02-03",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/OL67225A",
+          "last_name": "Robert Genat",
+          "first_name": "Robert"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900543M",
+    "data": {
+      "title": "The Railroad Encyclopedia",
+      "city": null,
+      "publisher": "Motorbooks International",
+      "year": 2001,
+      "subject": "Engineering - General",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 192,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2012-08-24",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900544M",
+    "data": {
+      "title": "The Pacific War",
+      "city": null,
+      "publisher": "Motorbooks International",
+      "year": 2001,
+      "subject": "Military - General",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 256,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2015-08-05",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/OL581435A",
+          "last_name": "Andrew A. Wiest",
+          "first_name": "Andrew"
+        },
+        {
+          "key": "/authors/OL1520778A",
+          "last_name": "Gregory Louis Mattson",
+          "first_name": "Gregory"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900545M",
+    "data": {
+      "title": "Volkswagen",
+      "city": null,
+      "publisher": "Motorbooks Intl",
+      "year": 2003,
+      "subject": "Motor cars: general interest",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 192,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2007-09-28",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/OL237603A",
+          "last_name": "Keith Seume",
+          "first_name": "Keith"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900546M",
+    "data": {
+      "title": "The Great Cars",
+      "city": null,
+      "publisher": "Motorbooks Intl",
+      "year": 2003,
+      "subject": "Automotive - History",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 160,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2003-12-14",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL219392A",
+          "last_name": "Dennis Adler",
+          "first_name": "Dennis"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900547M",
+    "data": {
+      "title": "Monstrous American Car Spotters' Guide 1920-1980",
+      "city": null,
+      "publisher": "Motorbooks Intl",
+      "year": 2001,
+      "subject": "Transportation",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2016-01-21",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900548M",
+    "data": {
+      "title": "Mighty Musclecars",
+      "city": null,
+      "publisher": "Motorbooks",
+      "year": 2002,
+      "subject": "Motor cars: general interest",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 128,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2012-10-20",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL884491A",
+          "last_name": "Henry Rasmussen",
+          "first_name": "Henry"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900549M",
+    "data": {
+      "title": "Sabre Vs. Mig",
+      "city": null,
+      "publisher": "Motorbooks Intl",
+      "year": 2002,
+      "subject": "Military - Korean War",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 192,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2003-07-22",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL2837219A",
+          "last_name": "Robert Dorr",
+          "first_name": "Robert"
+        },
+        {
+          "key": "/authors/OL2033298A",
+          "last_name": "Warren Thompson",
+          "first_name": "Warren"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1090054M",
+    "data": {
+      "title": "Exchanging writing, exchanging cultures",
+      "city": "Cambridge, Mass",
+      "publisher": "Harvard University Press",
+      "year": 1994,
+      "subject": "English language -- Composition and exercises -- Study and teaching -- United States.",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 270,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2013-03-15",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL579577A",
+          "last_name": "Sarah Warshauer Freedman",
+          "first_name": "Sarah"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900550M",
+    "data": {
+      "title": "Ferrari Road and Competition Cars 1947-1977",
+      "city": null,
+      "publisher": "Motorbooks Intl",
+      "year": 2002,
+      "subject": "Automotive - History",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 352,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2001-05-02",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/OL401331A",
+          "last_name": "Dean Batchelor",
+          "first_name": "Dean"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900551M",
+    "data": {
+      "title": "A-Z of Cars of the World 1920-1990",
+      "city": null,
+      "publisher": "Motorbooks Intl",
+      "year": 2002,
+      "subject": "Automotive - History",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 1016,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2008-12-16",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/OL216326A",
+          "last_name": "Nick Baldwin",
+          "first_name": "Nick"
+        },
+        {
+          "key": "/authors/OL785848A",
+          "last_name": "John Harold Haynes",
+          "first_name": "John"
+        },
+        {
+          "key": "/authors/OL1469270A",
+          "last_name": "Martin Lewis",
+          "first_name": "Martin"
+        },
+        {
+          "key": "/authors/OL1102163A",
+          "last_name": "Michael Sedgwick",
+          "first_name": "Michael"
+        },
+        {
+          "key": "/authors/OL2718032A",
+          "last_name": "Mark Gillies",
+          "first_name": "Mark"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900552M",
+    "data": {
+      "title": "Original Morgan 1936-1991",
+      "city": null,
+      "publisher": "Motorbooks Intl",
+      "year": 2002,
+      "subject": "Automotive - History",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 128,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2013-01-13",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/OL2837299A",
+          "last_name": "Nigel Worrell",
+          "first_name": "Nigel"
+        },
+        {
+          "key": "/authors/OL3511072A",
+          "last_name": "Stevie Turner",
+          "first_name": "Stevie"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900553M",
+    "data": {
+      "title": "Jeep Off-Road 2003 Calendar",
+      "city": null,
+      "publisher": "Motorbooks International",
+      "year": 2002,
+      "subject": "Automotive - Pictorial",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 24,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2008-08-21",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/OL1606300A",
+          "last_name": "Jim Allen",
+          "first_name": "Jim"
+        },
+        {
+          "key": "/authors/OL2837284A",
+          "last_name": "Ken Brubaker",
+          "first_name": "Ken"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900554M",
+    "data": {
+      "title": "Tractor Boneyards 2003 Calendar",
+      "city": null,
+      "publisher": "Motorbooks International",
+      "year": 2002,
+      "subject": "Automotive - Miscellaneous Vehicles",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 24,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2010-05-04",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/OL542153A",
+          "last_name": "Lee Klancher",
+          "first_name": "Lee"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900555M",
+    "data": {
+      "title": "Route 66 2003 Calendar",
+      "city": null,
+      "publisher": "Motorbooks International",
+      "year": 2002,
+      "subject": "General",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 24,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2005-10-09",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/OL3511073A",
+          "last_name": "Lunning",
+          "first_name": "Lunning"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900556M",
+    "data": {
+      "title": "Bmw Motorcycles 2003 Calendar",
+      "city": null,
+      "publisher": "Motorbooks International",
+      "year": 2002,
+      "subject": "General",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 24,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2003-12-12",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL3511074A",
+          "last_name": "Brian J. Nelson",
+          "first_name": "Brian"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900557M",
+    "data": {
+      "title": "Classic Grand Prix Cars 2003 Calendar",
+      "city": null,
+      "publisher": "Motorbooks International",
+      "year": 2002,
+      "subject": "Motor Sports",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 24,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2008-06-16",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900558M",
+    "data": {
+      "title": "Roger Welsh 2003 Calendar",
+      "city": null,
+      "publisher": "Motorbooks Intl",
+      "year": 2002,
+      "subject": "Non-Classifiable",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 320,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2004-12-18",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL3511075A",
+          "last_name": "Roger Welsh",
+          "first_name": "Roger"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900559M",
+    "data": {
+      "title": "Bloomington Gold Corvette 2003 Calendar",
+      "city": null,
+      "publisher": "Motorbooks International",
+      "year": 2002,
+      "subject": "Automotive - Pictorial",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 13,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2012-03-18",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/OL223638A",
+          "last_name": "Mike Mueller",
+          "first_name": "Mike"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1090055M",
+    "data": {
+      "title": "Absolutely free!",
+      "city": "Rocklin, CA",
+      "publisher": "Prima Pub.",
+      "year": 1995,
+      "subject": "Free material -- Catalogs.",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 248,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2005-10-06",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/OL361987A",
+          "last_name": "Dawn Hardy",
+          "first_name": "Dawn"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900560M",
+    "data": {
+      "title": "Drag Racing 2003 Calendar",
+      "city": null,
+      "publisher": "Motorbooks International",
+      "year": 2002,
+      "subject": "Motor Sports",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 24,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2000-12-06",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/OL3511076A",
+          "last_name": "Jon Asher",
+          "first_name": "Jon"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900561M",
+    "data": {
+      "title": "Vintage Aircraft Nose Art 2003 Calendar",
+      "city": null,
+      "publisher": "Motorbooks International",
+      "year": 2002,
+      "subject": "Aviation - Pictorial",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 24,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2013-10-27",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/OL2781085A",
+          "last_name": "Michael O'Leary",
+          "first_name": "Michael"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900562M",
+    "data": {
+      "title": "Century of Ford 2003 Calendar",
+      "city": null,
+      "publisher": "Motorbooks International",
+      "year": 2002,
+      "subject": "Automotive - Pictorial",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 24,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2011-06-03",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900563M",
+    "data": {
+      "title": "Us Counter-Terrorist Forces",
+      "city": null,
+      "publisher": "Motorbooks Intl",
+      "year": 2002,
+      "subject": "United States - General",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2002-01-14",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/OL3511077A",
+          "last_name": "Griswold Pushies",
+          "first_name": "Griswold"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900564M",
+    "data": {
+      "title": "America's Top WWII ACES in Their Own Words",
+      "city": null,
+      "publisher": "MBI Publishing Company",
+      "year": 2001,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2006-02-01",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900565M",
+    "data": {
+      "title": "The tractor",
+      "city": null,
+      "publisher": "MBI Pub. Co",
+      "year": 2002,
+      "subject": "Farm tractors",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 96,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2009-01-12",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/OL383986A",
+          "last_name": "Andrew Morland",
+          "first_name": "Andrew"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900566M",
+    "data": {
+      "title": "Illustrated Directory of Sports Cars",
+      "city": null,
+      "publisher": "Motorbooks International",
+      "year": 2002,
+      "subject": "Automotive - Pictorial",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 480,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2004-12-24",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/OL2743234A",
+          "last_name": "Ray Bonds",
+          "first_name": "Ray"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900567M",
+    "data": {
+      "title": "Hot Wheels Hot Rods (Hot Wheels)",
+      "city": null,
+      "publisher": "Motorbooks International",
+      "year": 2002,
+      "subject": "Transportation - Cars & Trucks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 64,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2004-08-15",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL216887A",
+          "last_name": "Dain Gingerelli",
+          "first_name": "Dain"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900568M",
+    "data": {
+      "title": "Hot Wheels Fantasy",
+      "city": null,
+      "publisher": "Motorbooks International",
+      "year": 2002,
+      "subject": "Transportation - Cars & Trucks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 64,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2011-08-20",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL3224792A",
+          "last_name": "Matt Delorenzo",
+          "first_name": "Matt"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900569M",
+    "data": {
+      "title": "Defenders and Avengers",
+      "city": null,
+      "publisher": "Crestline",
+      "year": 2004,
+      "subject": "Military - Aviation",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 176,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2003-12-01",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/OL395052A",
+          "last_name": "Nick Veronico",
+          "first_name": "Nick"
+        },
+        {
+          "key": "/authors/OL407472A",
+          "last_name": "Jim Dunn",
+          "first_name": "Jim"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1090056M",
+    "data": {
+      "title": "Don't forget to write",
+      "city": "New York",
+      "publisher": "Collier Books",
+      "year": 1994,
+      "subject": "Bands (Music) -- Fiction",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2006-02-08",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/OL576045A",
+          "last_name": "Chelsea Brooks",
+          "first_name": "Chelsea"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900570M",
+    "data": {
+      "title": "Mitsubishi Eclipse Performance Projects, 1990 - 1999",
+      "city": null,
+      "publisher": "Motorbooks Intl",
+      "year": 2000,
+      "subject": "Transportation",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2004-08-14",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/OL3511078A",
+          "last_name": "Rick Shindley",
+          "first_name": "Rick"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900571M",
+    "data": {
+      "title": "Hot Wheels Stock Cars 8 (Hot Wheels)",
+      "city": null,
+      "publisher": "Motorbooks International",
+      "year": 2003,
+      "subject": "Transportation - Cars & Trucks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2002-12-20",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/OL2872144A",
+          "last_name": "Motorbooks International",
+          "first_name": "Motorbooks"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900572M",
+    "data": {
+      "title": "Classic Railroads 2004 Calendar",
+      "city": null,
+      "publisher": "Motorbooks International",
+      "year": 2003,
+      "subject": "Railroads - General",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 24,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2003-02-11",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/OL2755599A",
+          "last_name": "Brian Solomon",
+          "first_name": "Brian"
+        },
+        {
+          "key": "/authors/OL217416A",
+          "last_name": "Jay Solomon",
+          "first_name": "Jay"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900573M",
+    "data": {
+      "title": "Mountain Bike Extreme 2004 Calendar",
+      "city": null,
+      "publisher": "Motorbooks International",
+      "year": 2003,
+      "subject": "Cycling - Mountain Biking",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 24,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2002-04-18",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/OL5491568A",
+          "last_name": "John C. L. Gibson",
+          "first_name": "John"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900574M",
+    "data": {
+      "title": "John Deere Farm Tractors 2004 Calendar",
+      "city": null,
+      "publisher": "Motorbooks International",
+      "year": 2003,
+      "subject": "Miscellaneous Items",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 24,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2002-03-31",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL388332A",
+          "last_name": "Randy Leffingwell",
+          "first_name": "Randy"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900575M",
+    "data": {
+      "title": "Farmall 2004 Calendar",
+      "city": null,
+      "publisher": "Motorbooks International",
+      "year": 2003,
+      "subject": "Miscellaneous Items",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 24,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2000-05-14",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/OL388332A",
+          "last_name": "Randy Leffingwell",
+          "first_name": "Randy"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900576M",
+    "data": {
+      "title": "American Farm Tractors 2004 Calendar",
+      "city": null,
+      "publisher": "Motorbooks International",
+      "year": 2003,
+      "subject": "Automotive - Miscellaneous Vehicles",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 24,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2011-04-01",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/OL388332A",
+          "last_name": "Randy Leffingwell",
+          "first_name": "Randy"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900577M",
+    "data": {
+      "title": "American Muscle Cars 2004 Calendar",
+      "city": null,
+      "publisher": "Motorbooks International",
+      "year": 2003,
+      "subject": "Miscellaneous Items",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 24,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2016-03-22",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/OL223638A",
+          "last_name": "Mike Mueller",
+          "first_name": "Mike"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900578M",
+    "data": {
+      "title": "Fire Trucks in Action 2004 Calendar",
+      "city": null,
+      "publisher": "Motorbooks International",
+      "year": 2003,
+      "subject": "Automotive - Miscellaneous Vehicles",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 24,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2003-09-07",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/OL2837479A",
+          "last_name": "Bill Tompkins",
+          "first_name": "Bill"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900579M",
+    "data": {
+      "title": "Hot Rods 2004 Calendar",
+      "city": null,
+      "publisher": "Motorbooks International",
+      "year": 2003,
+      "subject": "Automotive - General",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 13,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2013-09-14",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL2009398A",
+          "last_name": "Peter Vincent",
+          "first_name": "Peter"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1090057M",
+    "data": {
+      "title": "The Gamemaster",
+      "city": "New York",
+      "publisher": "Simon & Schuster Books for Young Readers",
+      "year": 1995,
+      "subject": "Fantasy",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2010-08-14",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL579578A",
+          "last_name": "John Bochak",
+          "first_name": "John"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900580M",
+    "data": {
+      "title": "Hot Wheels 2004 Calendar",
+      "city": null,
+      "publisher": "Motorbooks International",
+      "year": 2003,
+      "subject": "Toys",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 320,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2007-01-21",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/OL1509567A",
+          "last_name": "Mac Ragan",
+          "first_name": "Mac"
+        },
+        {
+          "key": "/authors/OL2872144A",
+          "last_name": "Motorbooks International",
+          "first_name": "Motorbooks"
+        }
+      ]
+    }
+  }
+]

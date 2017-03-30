@@ -1,0 +1,1222 @@
+[
+  {
+    "key": "/books/OL10900400M",
+    "data": {
+      "title": "Were You There",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2000-04-11",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL396316A",
+          "last_name": "Dave Clark",
+          "first_name": "Dave"
+        },
+        {
+          "key": "/authors/OL3174753A",
+          "last_name": "Russell Mauldin",
+          "first_name": "Russell"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900401M",
+    "data": {
+      "title": "The Power of His Touch",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 100,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2006-01-03",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/OL2892328A",
+          "last_name": "Dave Williamson",
+          "first_name": "Dave"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900402M",
+    "data": {
+      "title": "The Power of His Touch",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2006-12-28",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL2892328A",
+          "last_name": "Dave Williamson",
+          "first_name": "Dave"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900403M",
+    "data": {
+      "title": "The Power of His Touch",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2004-10-07",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/OL2892328A",
+          "last_name": "Dave Williamson",
+          "first_name": "Dave"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900404M",
+    "data": {
+      "title": "The Power of His Touch",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2008-12-24",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/OL2892328A",
+          "last_name": "Dave Williamson",
+          "first_name": "Dave"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900405M",
+    "data": {
+      "title": "The Power of His Touch",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2008-06-21",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL2892328A",
+          "last_name": "Dave Williamson",
+          "first_name": "Dave"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900406M",
+    "data": {
+      "title": "After the Cross",
+      "city": null,
+      "publisher": "Brentwood Music",
+      "year": 1997,
+      "subject": "Unassigned Title",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2003-09-10",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/OL3511036A",
+          "last_name": "Burt Kenny Mann",
+          "first_name": "Burt"
+        },
+        {
+          "key": "/authors/OL2630220A",
+          "last_name": "Bruce Greer",
+          "first_name": "Bruce"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900407M",
+    "data": {
+      "title": "After the Cross",
+      "city": null,
+      "publisher": "Brentwood Music",
+      "year": 1997,
+      "subject": "Unassigned Title",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2005-11-27",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/OL3511036A",
+          "last_name": "Burt Kenny Mann",
+          "first_name": "Burt"
+        },
+        {
+          "key": "/authors/OL2630220A",
+          "last_name": "Bruce Greer",
+          "first_name": "Bruce"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900408M",
+    "data": {
+      "title": "After the Cross",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2013-03-06",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/OL2630220A",
+          "last_name": "Bruce Greer",
+          "first_name": "Bruce"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900409M",
+    "data": {
+      "title": "After the Cross",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2011-12-26",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/OL2630220A",
+          "last_name": "Bruce Greer",
+          "first_name": "Bruce"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1090040M",
+    "data": {
+      "title": "Islamic urban studies",
+      "city": "London",
+      "publisher": "Kegan Paul International",
+      "year": 1994,
+      "subject": "Islamic cities and towns -- Arab countries.",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 365,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2015-06-16",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900410M",
+    "data": {
+      "title": "Third Day Conspiracy No. 5",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1999,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 104,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2016-03-24",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/OL2741846A",
+          "last_name": "Third Day",
+          "first_name": "Third"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900411M",
+    "data": {
+      "title": "Spirit of Brokeness",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2001-01-28",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/OL3511037A",
+          "last_name": "Bradley T. Cooke",
+          "first_name": "Bradley"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900412M",
+    "data": {
+      "title": "I Should Have Been Crucified",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2004-07-07",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL527771A",
+          "last_name": "Don Marsh",
+          "first_name": "Don"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900413M",
+    "data": {
+      "title": "Celebration Song",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2014-01-07",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL3295751A",
+          "last_name": "Geron Davis",
+          "first_name": "Geron"
+        },
+        {
+          "key": "/authors/OL3295752A",
+          "last_name": "Michael Burt",
+          "first_name": "Michael"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900414M",
+    "data": {
+      "title": "Total Praise",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2016-05-20",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/OL2892328A",
+          "last_name": "Dave Williamson",
+          "first_name": "Dave"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900415M",
+    "data": {
+      "title": "Spring Music Shopping List Sampler-Shelftalker",
+      "city": null,
+      "publisher": "Brentwood/Provident",
+      "year": 1998,
+      "subject": "Promotional Items",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2011-10-03",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900416M",
+    "data": {
+      "title": "No Other Name but Jesus",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2013-01-24",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/OL2889272A",
+          "last_name": "Camp Kirkland",
+          "first_name": "Camp"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900417M",
+    "data": {
+      "title": "Ready to Sing Classics",
+      "city": null,
+      "publisher": "Brentwood Music Publishing",
+      "year": 1997,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2016-01-15",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900418M",
+    "data": {
+      "title": "Touch Through Me",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1997,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2004-09-12",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/OL3174753A",
+          "last_name": "Russell Mauldin",
+          "first_name": "Russell"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900419M",
+    "data": {
+      "title": "Simulcast",
+      "city": null,
+      "publisher": "Sublime Records",
+      "year": 1998,
+      "subject": "Christian - Gospel",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2009-01-26",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/OL3511038A",
+          "last_name": "Kosmos Express",
+          "first_name": "Kosmos"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1090041M",
+    "data": {
+      "title": "Golden opportunities",
+      "city": "New York",
+      "publisher": "H. Holt",
+      "year": 1994,
+      "subject": "Older people -- United States -- Finance, Personal.",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 654,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2001-08-20",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL579572A",
+          "last_name": "Amy Budish",
+          "first_name": "Amy"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900420M",
+    "data": {
+      "title": "Smoky Mountain Hymns",
+      "city": null,
+      "publisher": "Brentwood Records",
+      "year": 1998,
+      "subject": "Christian - Gospel",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2004-07-13",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/OL3511039A",
+          "last_name": "Brentwood Music",
+          "first_name": "Brentwood"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900421M",
+    "data": {
+      "title": "Butterfly Kisses Song Book",
+      "city": null,
+      "publisher": "Brentwood-Benson Music Publishing",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2005-01-22",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/OL3511040A",
+          "last_name": "Don & Lori Marsh",
+          "first_name": "Don"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900422M",
+    "data": {
+      "title": "Buck",
+      "city": null,
+      "publisher": "Tattoo Records",
+      "year": 1999,
+      "subject": "Alternative",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2002-07-24",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/OL2674648A",
+          "last_name": "Buck",
+          "first_name": "Buck"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900423M",
+    "data": {
+      "title": "Michael W. Smith / Live the Life",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1999,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 80,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2008-04-20",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/OL2741630A",
+          "last_name": "Michael W. Smith",
+          "first_name": "Michael"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900424M",
+    "data": {
+      "title": "4Him - Obvious",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1998,
+      "subject": "Songbooks - General",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 78,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2006-11-11",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/OL3130711A",
+          "last_name": "4Him",
+          "first_name": "4Him"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900425M",
+    "data": {
+      "title": "Cissy Houston - He Leadeth Me and Face to Face",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1950,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 106,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2002-02-16",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/OL399011A",
+          "last_name": "Cissy Houston",
+          "first_name": "Cissy"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900426M",
+    "data": {
+      "title": "Leann Rimes - You Light Up My Life",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1950,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 48,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2012-09-02",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/OL2834616A",
+          "last_name": "Leann Rimes",
+          "first_name": "Leann"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900427M",
+    "data": {
+      "title": "Cherished Lullabies:Sleepy Time Instr",
+      "city": null,
+      "publisher": "PROVIDENT MUSIC GROUP",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2000-05-09",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL3511041A",
+          "last_name": "Cherished Lullabies  Csprdt          4111",
+          "first_name": "Cherished Lullabies  Csprdt         "
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900428M",
+    "data": {
+      "title": "Cherished Lullabies:Sleepy Time Instr",
+      "city": null,
+      "publisher": "PROVIDENT MUSIC GROUP",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2015-10-20",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/OL3511042A",
+          "last_name": "Cherished Lullabies  Cdprdt          4111",
+          "first_name": "Cherished Lullabies  Cdprdt         "
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900429M",
+    "data": {
+      "title": "Cherished Lullabies:Angels Watching",
+      "city": null,
+      "publisher": "PROVIDENT MUSIC GROUP",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2001-09-13",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL3511043A",
+          "last_name": "Cherished Lullabies  Cdprdt          4112",
+          "first_name": "Cherished Lullabies  Cdprdt         "
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1090042M",
+    "data": {
+      "title": "Financial management for international business",
+      "city": "London",
+      "publisher": "McGraw-Hill Book Co.",
+      "year": 1994,
+      "subject": "International business enterprises -- Finance.",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 390,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2009-03-26",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/OL579573A",
+          "last_name": "Istemi Demirag",
+          "first_name": "Istemi"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900430M",
+    "data": {
+      "title": "Summer Music Shopping List",
+      "city": null,
+      "publisher": "Brentwood/Provident",
+      "year": 1998,
+      "subject": "Promotional Items",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2009-06-13",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/OL3511044A",
+          "last_name": "Provident Music",
+          "first_name": "Provident"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900431M",
+    "data": {
+      "title": "Giving You Nothing But Praise",
+      "city": null,
+      "publisher": "Verity",
+      "year": 1998,
+      "subject": "Christian - Gospel",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2016-02-29",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL3511045A",
+          "last_name": "Here II Praise",
+          "first_name": "Here"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900432M",
+    "data": {
+      "title": "Bob Carlisle - Stories from the Heart",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1998,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 88,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2011-10-21",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/OL407920A",
+          "last_name": "Bob Carlisle",
+          "first_name": "Bob"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900433M",
+    "data": {
+      "title": "Take Me as I Am-EP",
+      "city": null,
+      "publisher": "Essential Records",
+      "year": 1998,
+      "subject": "Christian - Gospel",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2010-04-03",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/OL3511046A",
+          "last_name": "Far from Home",
+          "first_name": "Far"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900434M",
+    "data": {
+      "title": "Prince of Egypt; Nashville",
+      "city": null,
+      "publisher": "Brentwood/Provident",
+      "year": 1998,
+      "subject": "Christian Music - Country (CW)",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2014-04-16",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL3511044A",
+          "last_name": "Provident Music",
+          "first_name": "Provident"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900435M",
+    "data": {
+      "title": "Larnelle Harris - First Love",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1998,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 88,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2015-08-27",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/OL2622504A",
+          "last_name": "Larnelle Harris",
+          "first_name": "Larnelle"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900436M",
+    "data": {
+      "title": "FFH - I Want to Be Like You",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1999,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 94,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2014-04-30",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL3509129A",
+          "last_name": "FFH",
+          "first_name": "FFH"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900437M",
+    "data": {
+      "title": "Shaded Red",
+      "city": null,
+      "publisher": "Warner Audio Pub",
+      "year": 1998,
+      "subject": "Christian Music - Rock (RK)",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2009-03-22",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL3511047A",
+          "last_name": "Ashley Cleveland",
+          "first_name": "Ashley"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900438M",
+    "data": {
+      "title": "Third Day - Time",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 1999,
+      "subject": "Musical Instruments - Guitar",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 83,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2008-11-11",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/OL2741846A",
+          "last_name": "Third Day",
+          "first_name": "Third"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900439M",
+    "data": {
+      "title": "If You Believe",
+      "city": null,
+      "publisher": "Windham Hill Records",
+      "year": 2000,
+      "subject": "Christian - Contemporary",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2016-12-19",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/OL3511048A",
+          "last_name": "Jim Brickman & Friends",
+          "first_name": "Jim"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1090043M",
+    "data": {
+      "title": "Your privacy",
+      "city": "New York",
+      "publisher": "Cobblehill Books",
+      "year": 1995,
+      "subject": "Privacy, Right of -- United States.",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 119,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2000-05-28",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/OL237653A",
+          "last_name": "Edward F. Dolan",
+          "first_name": "Edward"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900440M",
+    "data": {
+      "title": "FFH - Found a Place",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 2000,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 71,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2008-12-26",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/OL3509129A",
+          "last_name": "FFH",
+          "first_name": "FFH"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900441M",
+    "data": {
+      "title": "Celebrate Gospel 2000 Shopping Guides",
+      "city": null,
+      "publisher": "Provident-Integrity Distribution",
+      "year": 2000,
+      "subject": "Gospel",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2009-01-09",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/OL3511044A",
+          "last_name": "Provident Music",
+          "first_name": "Provident"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900442M",
+    "data": {
+      "title": "City on a Hill - Songs of Worship and Praise",
+      "city": null,
+      "publisher": "Brentwood-Benson",
+      "year": 2000,
+      "subject": "Music / Songbooks",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 112,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2003-09-16",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/OL2741414A",
+          "last_name": "Hal Leonard Corp.",
+          "first_name": "Hal"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900443M",
+    "data": {
+      "title": "Safe Deposit Participants Workbook",
+      "city": null,
+      "publisher": "Irwin",
+      "year": 1994,
+      "subject": "Finance",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2002-08-23",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/OL3511049A",
+          "last_name": "MCGUINN",
+          "first_name": "MCGUINN"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900444M",
+    "data": {
+      "title": "Cash Reporting & Money Laundering",
+      "city": null,
+      "publisher": "William C. Brown",
+      "year": 1991,
+      "subject": "Finance",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2006-07-23",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/OL3511050A",
+          "last_name": "ALERT INTL",
+          "first_name": "ALERT"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10900445M",
+    "data": {
+      "title": "Safe Deposit Pol Proc",
+      "city": null,
+      "publisher": "Irwin",
+      "year": 1993,
+      "subject": "Finance",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2010-02-19",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/OL3511051A",
+          "last_name": "MCGUINN & EGBERT",
+          "first_name": "MCGUINN"
+        }
+      ]
+    }
+  }
+]

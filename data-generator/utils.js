@@ -26,7 +26,11 @@ module.exports = {
     showHelp: () => {
         console.log("Usage: node generator.js table=TABLE [rows_count=COUNT]\n");
         console.log("\tTABLE: student | teacher | postgraduate | preparatory | applicant | certification_training");
-        console.log("\tCOUNT: min=2, max=5000, default=10");
+        console.log("\tCOUNT: min=2, max=5000, default=20");
+    },
+
+    showGrabberHelp: () => {
+        console.log("Usage:\n\tnode openlibrary-grabber.js books_count=COUNT [offset=OFFSET]");
     },
 
     writeSqlToFile: (params) => {
@@ -40,6 +44,12 @@ module.exports = {
     writeJsonToFile: (params) => {
         fs.writeFileSync("openlibrary/" + params.name + ".json", JSON.stringify(params.data, null,2))
         console.log("Wrote " + params.data.length + " book records to openlibrary/" + params.name + ".json");
+    },
+
+    clearOpenLibraryDirectory: () => {
+        fs.readdir("openlibrary", (err, files) => {
+            files.forEach(file => fs.unlink(`openlibrary/${file}`) );
+        });
     }
 
 }

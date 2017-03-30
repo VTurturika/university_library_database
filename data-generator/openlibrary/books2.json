@@ -1,0 +1,1227 @@
+[
+  {
+    "key": "/books/OL1009005M",
+    "data": {
+      "title": "Last year in Hong Kong",
+      "city": "New York",
+      "publisher": "W. Morrow",
+      "year": 1997,
+      "subject": "Hong Kong (China) -- Fiction.",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 225,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2008-04-19",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL4331292A",
+          "last_name": "Robert S. Elegant",
+          "first_name": "Robert"
+        },
+        {
+          "key": "/authors/OL6887299A",
+          "last_name": "Robert S. Elegant",
+          "first_name": "Robert"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10090060M",
+    "data": {
+      "title": "Calculus & Math Calculus & Analytical Geometry",
+      "city": null,
+      "publisher": "Prentice Hall College Div",
+      "year": 1996,
+      "subject": "Calculus & mathematical analysis",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2008-03-24",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/OL353743A",
+          "last_name": "Frank G. Hagin",
+          "first_name": "Frank"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10090061M",
+    "data": {
+      "title": "Calculus With Matlab",
+      "city": null,
+      "publisher": "Prentice Hall",
+      "year": 1996,
+      "subject": "Miscellaneous Software",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 136,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2008-12-23",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/OL353743A",
+          "last_name": "Frank G. Hagin",
+          "first_name": "Frank"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10090062M",
+    "data": {
+      "title": "Instructor's solutions manual for Differential equations and boundary value problems",
+      "city": null,
+      "publisher": "Prentice-Hall",
+      "year": 1996,
+      "subject": "Differential equations",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 385,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2008-04-27",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/OL22656A",
+          "last_name": "C. H. Edwards",
+          "first_name": "C."
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10090063M",
+    "data": {
+      "title": "Almanac of Business and Industrial Financial Ratios 1996 (Serial)",
+      "city": null,
+      "publisher": "Prentice Hall",
+      "year": 1996,
+      "subject": "Budgeting & financial management",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 740,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2009-11-06",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/OL575723A",
+          "last_name": "Leo Troy",
+          "first_name": "Leo"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10090064M",
+    "data": {
+      "title": "Children in Conflict",
+      "city": null,
+      "publisher": "Pearson US Imports & PHIPEs",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2008-05-06",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL3369606A",
+          "last_name": "HUANG",
+          "first_name": "HUANG"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10090065M",
+    "data": {
+      "title": "Construction Management",
+      "city": null,
+      "publisher": "Prentice Hall College Div",
+      "year": 2003,
+      "subject": "Building construction & materials",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 500,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2010-05-17",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL3369607A",
+          "last_name": "Hasso",
+          "first_name": "Hasso"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10090066M",
+    "data": {
+      "title": "A Dozen Common Teaching Mistakes and What to Do Instead",
+      "city": null,
+      "publisher": "Prentice Hall",
+      "year": 2005,
+      "subject": "Teaching Methods & Materials - General",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2004-03-10",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/OL3314690A",
+          "last_name": "Patricia M. Barbetta",
+          "first_name": "Patricia"
+        },
+        {
+          "key": "/authors/OL3314691A",
+          "last_name": "Rodney A. Cavanaugh",
+          "first_name": "Rodney"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10090067M",
+    "data": {
+      "title": "Sm Corporate Finance Investment I/M Phec",
+      "city": null,
+      "publisher": "Prentice-Hall",
+      "year": 1996,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2005-09-18",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/OL2749113A",
+          "last_name": "Pike",
+          "first_name": "Pike"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10090068M",
+    "data": {
+      "title": "LABORATORY MANUAL FOR INTEGRATED COMPUTER CIRCUITS",
+      "city": null,
+      "publisher": "Prentice Hall",
+      "year": 1968,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 152,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2009-02-01",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/OL387931A",
+          "last_name": "Robert F. Coughlin",
+          "first_name": "Robert"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10090069M",
+    "data": {
+      "title": "Classroom Teaching Strategies (Monograph)",
+      "city": null,
+      "publisher": "Prentice Hall",
+      "year": 1997,
+      "subject": "ELT: Learning Material & Coursework",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 144,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2015-08-10",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL3369608A",
+          "last_name": "Richard Watson-Todd",
+          "first_name": "Richard"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1009006M",
+    "data": {
+      "title": "Snakes and ladders",
+      "city": "New York",
+      "publisher": "N.A. Talese",
+      "year": 1997,
+      "subject": "India -- Description and travel.",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 297,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2003-02-06",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/OL310959A",
+          "last_name": "Gita Mehta",
+          "first_name": "Gita"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10090070M",
+    "data": {
+      "title": "Laboratory Processes",
+      "city": null,
+      "publisher": "Appleton & Lange",
+      "year": 1992,
+      "subject": "Popular medicine",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 574,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2009-06-19",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/OL2777606A",
+          "last_name": "WHITE",
+          "first_name": "WHITE"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10090071M",
+    "data": {
+      "title": "Lado Eng Series 6 Demo Tape",
+      "city": null,
+      "publisher": "Pearson Education Ltd.",
+      "year": 2000,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2002-07-14",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10090072M",
+    "data": {
+      "title": "Language Experience Approach to Reading (And Writing) ",
+      "city": null,
+      "publisher": "Prentice Hall",
+      "year": 1983,
+      "subject": "ELT: teaching theory & methods",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 136,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2011-09-26",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/OL450030A",
+          "last_name": "Carol Dixon",
+          "first_name": "Carol"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10090073M",
+    "data": {
+      "title": "LABORATORY HANDBK CHROMATOG$$$",
+      "city": null,
+      "publisher": "Prentice Hall Europe (a Pearson Education company)",
+      "year": 1979,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 1522,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2013-05-26",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/OL3369609A",
+          "last_name": "MIKES",
+          "first_name": "MIKES"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10090074M",
+    "data": {
+      "title": "Lado Picture Dictionary - Beginning Workbook",
+      "city": null,
+      "publisher": "Prentice Hall",
+      "year": 1993,
+      "subject": "ELT dictionaries & reference",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 160,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2004-05-17",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/OL164231A",
+          "last_name": "Robert Lado",
+          "first_name": "Robert"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10090075M",
+    "data": {
+      "title": "Lado Picture Dictionary",
+      "city": null,
+      "publisher": "Prentice Hall",
+      "year": 1996,
+      "subject": "ELT dictionaries & reference",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2003-03-16",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/OL164231A",
+          "last_name": "Robert Lado",
+          "first_name": "Robert"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10090076M",
+    "data": {
+      "title": "Labor and Employment Law Desk Book",
+      "city": null,
+      "publisher": "Prentice Hall Trade",
+      "year": 1991,
+      "subject": "Employment & labour law",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2016-12-13",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL2649778A",
+          "last_name": "Gordon E. Jackson",
+          "first_name": "Gordon"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10090077M",
+    "data": {
+      "title": "Lado Picture Dictionary TB ** Lado **",
+      "city": null,
+      "publisher": "Prentice Hall",
+      "year": 1993,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 100,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2002-09-05",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10090078M",
+    "data": {
+      "title": "Lakeside Company ",
+      "city": null,
+      "publisher": "Prentice-Hall Canada, Incorporated",
+      "year": 1992,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2004-07-14",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/OL162066A",
+          "last_name": "Hoyle.",
+          "first_name": "Hoyle."
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10090079M",
+    "data": {
+      "title": "Lakeside Company Solutions Manual",
+      "city": null,
+      "publisher": "Prentice-Hall Canada, Incorporated",
+      "year": 1992,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2009-07-04",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/OL6745023A",
+          "last_name": "john m.trussel",
+          "first_name": "john"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1009007M",
+    "data": {
+      "title": "Lessons in space",
+      "city": "Gainesville, Fla",
+      "publisher": "University Press of Florida",
+      "year": 1997,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 59,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2012-05-21",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/OL225362A",
+          "last_name": "Cathleen Calbert",
+          "first_name": "Cathleen"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10090080M",
+    "data": {
+      "title": "La Doble Vida",
+      "city": null,
+      "publisher": "Prentice Hall",
+      "year": 1986,
+      "subject": "Single Author",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 302,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2011-06-07",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/OL90123A",
+          "last_name": "Antonio Buero Vallejo",
+          "first_name": "Antonio"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10090081M",
+    "data": {
+      "title": "First Certificate Practice Tests (FCE)",
+      "city": null,
+      "publisher": "Prentice-Hall",
+      "year": 1996,
+      "subject": "ELT grammars & grammar practice",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 151,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2016-05-04",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/OL3366505A",
+          "last_name": "K. Lukey-Coutsocostas",
+          "first_name": "K."
+        },
+        {
+          "key": "/authors/OL3366506A",
+          "last_name": "D. Dalmaris",
+          "first_name": "D."
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10090082M",
+    "data": {
+      "title": "First Certificate Practice Tests (FCE)",
+      "city": null,
+      "publisher": "Prentice-Hall",
+      "year": 1996,
+      "subject": "ELT grammars & grammar practice",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 130,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2011-10-20",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL3366505A",
+          "last_name": "K. Lukey-Coutsocostas",
+          "first_name": "K."
+        },
+        {
+          "key": "/authors/OL3366506A",
+          "last_name": "D. Dalmaris",
+          "first_name": "D."
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10090083M",
+    "data": {
+      "title": "The Game Fishing Bible",
+      "city": null,
+      "publisher": "Macmillan General Reference",
+      "year": 1991,
+      "subject": "Fishing, angling",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 256,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2005-08-13",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/OL1194467A",
+          "last_name": "John Buckland",
+          "first_name": "John"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10090084M",
+    "data": {
+      "title": "Lado English Series L1 Bk1",
+      "city": null,
+      "publisher": "Prentice Hall",
+      "year": 1987,
+      "subject": "English as a Second Language",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 255,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2001-01-31",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/OL3369610A",
+          "last_name": "Lado",
+          "first_name": "Lado"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10090085M",
+    "data": {
+      "title": "Lado English Series, Book 2",
+      "city": null,
+      "publisher": "Prentice Hall",
+      "year": 1978,
+      "subject": "Usage guides",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 236,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2002-04-05",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/OL164231A",
+          "last_name": "Robert Lado",
+          "first_name": "Robert"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10090086M",
+    "data": {
+      "title": "Lado English Series, Book 3",
+      "city": null,
+      "publisher": "Prentice Hall College Div",
+      "year": 1978,
+      "subject": "English as a Second Language",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 287,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2006-10-06",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/OL164231A",
+          "last_name": "Robert Lado",
+          "first_name": "Robert"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10090087M",
+    "data": {
+      "title": "Lado English Series L5 Bk5",
+      "city": null,
+      "publisher": "Prentice Hall",
+      "year": 1987,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 294,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2011-12-18",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL3369611A",
+          "last_name": "LADO",
+          "first_name": "LADO"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10090088M",
+    "data": {
+      "title": "Lado English Series L6 Bk6",
+      "city": null,
+      "publisher": "Prentice Hall",
+      "year": 1987,
+      "subject": "Conversation and phrase books",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 299,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2012-11-09",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/OL3369611A",
+          "last_name": "LADO",
+          "first_name": "LADO"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10090089M",
+    "data": {
+      "title": "Lado English Series L1 Wbk",
+      "city": null,
+      "publisher": "Prentice Hall",
+      "year": 1987,
+      "subject": "Language",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 146,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2016-06-06",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/OL3369610A",
+          "last_name": "Lado",
+          "first_name": "Lado"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1009008M",
+    "data": {
+      "title": "The Oxford dictionary of foreign words and phrases",
+      "city": "Oxford",
+      "publisher": "Oxford University Press",
+      "year": 1997,
+      "subject": "English language -- Foreign words and phrases -- Dictionaries",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 512,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2005-01-22",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10090090M",
+    "data": {
+      "title": "Lado English Series  Book 3",
+      "city": null,
+      "publisher": "Prentice Hall College Div",
+      "year": 1978,
+      "subject": "English",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 215,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2010-01-21",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/OL164231A",
+          "last_name": "Robert Lado",
+          "first_name": "Robert"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10090091M",
+    "data": {
+      "title": "Lado English Series  Book 4",
+      "city": null,
+      "publisher": "Prentice Hall College Div",
+      "year": 1978,
+      "subject": "English as a Second Language",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 274,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2011-08-22",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/OL164231A",
+          "last_name": "Robert Lado",
+          "first_name": "Robert"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10090092M",
+    "data": {
+      "title": "Lado English Series Book 5 (New)",
+      "city": null,
+      "publisher": "Prentice Hall College Div",
+      "year": 1992,
+      "subject": "Language self-study & phrasebooks",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 256,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2008-10-11",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL164231A",
+          "last_name": "Robert Lado",
+          "first_name": "Robert"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10090093M",
+    "data": {
+      "title": "Lado English Series  Book 6",
+      "city": null,
+      "publisher": "Prentice Hall College Div",
+      "year": 1980,
+      "subject": "General",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 269,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2001-04-04",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/OL164231A",
+          "last_name": "Robert Lado",
+          "first_name": "Robert"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10090094M",
+    "data": {
+      "title": "Lado English Series Book 1",
+      "city": null,
+      "publisher": "Prentice Hall College Div",
+      "year": 1977,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2003-03-21",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/OL164231A",
+          "last_name": "Robert Lado",
+          "first_name": "Robert"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10090095M",
+    "data": {
+      "title": "Lado English Series  Book 3",
+      "city": null,
+      "publisher": "Prentice Hall College Div",
+      "year": 1978,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2016-12-27",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL164231A",
+          "last_name": "Robert Lado",
+          "first_name": "Robert"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10090096M",
+    "data": {
+      "title": "Lado English Series  Book 5",
+      "city": null,
+      "publisher": "Prentice Hall College Div",
+      "year": 1980,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2009-07-23",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL164231A",
+          "last_name": "Robert Lado",
+          "first_name": "Robert"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10090097M",
+    "data": {
+      "title": "Lado English Series  Book 6",
+      "city": null,
+      "publisher": "Prentice Hall College Div",
+      "year": 1980,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2015-08-16",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL164231A",
+          "last_name": "Robert Lado",
+          "first_name": "Robert"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10090098M",
+    "data": {
+      "title": "Lado English Series Book 1",
+      "city": null,
+      "publisher": "Prentice Hall College Div",
+      "year": 1989,
+      "subject": "Language teaching & learning material & coursework",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 730,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2016-06-27",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10090099M",
+    "data": {
+      "title": "Lado English Series Book 3",
+      "city": null,
+      "publisher": "Prentice Hall College Div",
+      "year": 1990,
+      "subject": "Education",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 569,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2009-12-21",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/OL164231A",
+          "last_name": "Robert Lado",
+          "first_name": "Robert"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1009009M",
+    "data": {
+      "title": "Novels and other writings",
+      "city": "New York",
+      "publisher": "Library of America",
+      "year": 1997,
+      "subject": "Advice columnists -- Fiction",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 829,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2011-01-14",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL544344A",
+          "last_name": "Nathanael West",
+          "first_name": "Nathanael"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL100900M",
+    "data": {
+      "title": "Birds in a sagebrush sea",
+      "city": "Boise, ID",
+      "publisher": "Partners in Flight, Western Working Group",
+      "year": 1999,
+      "subject": "Birds -- Habitat -- Conservation.",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 47,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2013-09-07",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/OL67790A",
+          "last_name": "Christine Paige",
+          "first_name": "Christine"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10090100M",
+    "data": {
+      "title": "Lado English Series Book 5",
+      "city": null,
+      "publisher": "Prentice Hall College Div",
+      "year": 1990,
+      "subject": "Education",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 736,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2013-06-13",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/OL164231A",
+          "last_name": "Robert Lado",
+          "first_name": "Robert"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10090101M",
+    "data": {
+      "title": "Lado English Series Book 6",
+      "city": null,
+      "publisher": "Prentice Hall",
+      "year": 1987,
+      "subject": "Education",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 741,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2008-02-14",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/OL3369610A",
+          "last_name": "Lado",
+          "first_name": "Lado"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10090102M",
+    "data": {
+      "title": "Lado English Series 4",
+      "city": null,
+      "publisher": "Prentice Hall",
+      "year": 1989,
+      "subject": "ELT: Learning Material & Coursework",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 184,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2011-04-08",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/OL164231A",
+          "last_name": "Robert Lado",
+          "first_name": "Robert"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10090103M",
+    "data": {
+      "title": "Student Placement and Evaluation Package, New Edition",
+      "city": null,
+      "publisher": "Prentice Hall College Div",
+      "year": 1992,
+      "subject": "ELT: Learning Material & Coursework",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 112,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2009-06-19",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/OL3369610A",
+          "last_name": "Lado",
+          "first_name": "Lado"
+        },
+        {
+          "key": "/authors/OL164231A",
+          "last_name": "Robert Lado",
+          "first_name": "Robert"
+        }
+      ]
+    }
+  }
+]
