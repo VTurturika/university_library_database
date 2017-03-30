@@ -1,0 +1,440 @@
+[
+  {
+    "key": "/books/OL25433363M",
+    "data": {
+      "title": "El español coloquial en la conversación",
+      "city": "Barcelona",
+      "publisher": "Editorial Ariel",
+      "year": 2001,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 257,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2014-05-11",
+      "count": 10,
+      "authors": []
+    }
+  },
+  {
+    "key": "/books/OL25433364M",
+    "data": {
+      "title": "La conoscenza come bene comune. Dalla teoria alla pratica",
+      "city": "Milano, Italy",
+      "publisher": "Bruno Mondadori",
+      "year": 2009,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2016-11-13",
+      "count": 20,
+      "authors": []
+    }
+  },
+  {
+    "key": "/books/OL21478883M",
+    "data": {
+      "title": "Lithic illustration",
+      "city": "Chicago",
+      "publisher": "University of Chicago Press",
+      "year": 1950,
+      "subject": "Archaeological illustration.",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 139,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2005-05-06",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/OL1296406A",
+          "last_name": "Lucile R. Addington",
+          "first_name": "Lucile"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL25433367M",
+    "data": {
+      "title": "Soledad",
+      "city": "Barcelona, Spain",
+      "publisher": "ElCobre",
+      "year": 2004,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 305,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2006-07-07",
+      "count": 300,
+      "authors": []
+    }
+  },
+  {
+    "key": "/books/OL25433368M",
+    "data": {
+      "title": "Mentre Barcelona dorm",
+      "city": "Barcelona, Spain",
+      "publisher": "Columna",
+      "year": 2006,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 249,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2011-04-23",
+      "count": 100,
+      "authors": []
+    }
+  },
+  {
+    "key": "/books/OL25433369M",
+    "data": {
+      "title": "Técnicas de estudio para Secundaria y Universidad",
+      "city": "Madrid, Spain",
+      "publisher": "Alianza Editorial",
+      "year": 2000,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 304,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2013-05-04",
+      "count": 50,
+      "authors": []
+    }
+  },
+  {
+    "key": "/books/OL25433374M",
+    "data": {
+      "title": "La sirvienta y el luchador",
+      "city": "Barcelona, Spain",
+      "publisher": "Tusquets editores",
+      "year": 2011,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 267,
+      "lang": "spa",
+      "days_keep_count": 10,
+      "adding_date": "2000-12-12",
+      "count": 5,
+      "authors": []
+    }
+  },
+  {
+    "key": "/books/OL25433378M",
+    "data": {
+      "title": "Josafat",
+      "city": "Barceona, Spain",
+      "publisher": "Barcanova",
+      "year": 1995,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 171,
+      "lang": "cat",
+      "days_keep_count": 10,
+      "adding_date": "2013-04-26",
+      "count": 100,
+      "authors": []
+    }
+  },
+  {
+    "key": "/books/OL17910702M",
+    "data": {
+      "title": "FACILITATORS, BARRIERS, BENEFITS, AND LIMITATIONS OF A NURSE MENTORING RELATIONSHIP (NURSING EDUCATION).",
+      "city": null,
+      "publisher": null,
+      "year": 1993,
+      "subject": "Education, Administration.",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 174,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2004-10-29",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL5368045A",
+          "last_name": "Hattie Lowe Johnson",
+          "first_name": "Hattie"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL22691075M",
+    "data": {
+      "title": "The euro",
+      "city": "New Haven",
+      "publisher": "Yale University Press",
+      "year": 2009,
+      "subject": "Money -- European Union countries -- History",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2003-02-03",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL325321A",
+          "last_name": "Marsh, David",
+          "first_name": "Marsh,"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL18497493M",
+    "data": {
+      "title": "Justiz wird zum Verbrechen",
+      "city": "Berlin",
+      "publisher": "Das Neue Berlin",
+      "year": 1950,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "ger",
+      "days_keep_count": 10,
+      "adding_date": "2004-11-02",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/OL1573251A",
+          "last_name": "Friedrich Karl Kaul",
+          "first_name": "Friedrich"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL16241881M",
+    "data": {
+      "title": "Shi yi jia zhu Sunzi",
+      "city": "[China",
+      "publisher": "s.n.",
+      "year": 1950,
+      "subject": "Military art and science -- China.",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "chi",
+      "days_keep_count": 30,
+      "adding_date": "2010-03-17",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL30553A",
+          "last_name": "Sunzi",
+          "first_name": "Sunzi"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL17860773M",
+    "data": {
+      "title": "The  shapes of fiction",
+      "city": "New York",
+      "publisher": "Holt, Rinehart and Winston",
+      "year": 1950,
+      "subject": "Short stories",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 434,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2013-06-26",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/OL2144873A",
+          "last_name": "Beverly Gross",
+          "first_name": "Beverly"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL14825375M",
+    "data": {
+      "title": "L' architecture soumise au principe de la nature et des arts, ou, Essai sur les moyens qui peuvent rapprocher les trois architectures d'une unité théorique et pratique",
+      "city": "A Périgeux",
+      "publisher": "Chez L. Canler, imprimeur",
+      "year": 1804,
+      "subject": "Architecture",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 308,
+      "lang": "fre",
+      "days_keep_count": 50,
+      "adding_date": "2005-09-15",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/OL4712851A",
+          "last_name": "Taillefer, Henri-François-Athanase Wlgrin de comte",
+          "first_name": "Taillefer,"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL17210465M",
+    "data": {
+      "title": "Tonghak kwa nongmin ponggi",
+      "city": "Sŏul Tʻŭkpyŏlsi",
+      "publisher": "Ilchogak",
+      "year": 1950,
+      "subject": "Tonghak Incident, 1894.",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 228,
+      "lang": "kor",
+      "days_keep_count": 100,
+      "adding_date": "2014-03-13",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/OL4292901A",
+          "last_name": "U-gŭn Han",
+          "first_name": "U-gŭn"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL14825376M",
+    "data": {
+      "title": "Tradiciones peruanas",
+      "city": "Buenos Aires",
+      "publisher": "Espasa-Calpe Argentina",
+      "year": 1943,
+      "subject": "Legends -- Peru",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 180,
+      "lang": "spa",
+      "days_keep_count": 200,
+      "adding_date": "2000-03-12",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/OL129457A",
+          "last_name": "Ricardo Palma",
+          "first_name": "Ricardo"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL14825377M",
+    "data": {
+      "title": "Nel regno delle maschere",
+      "city": "Napoli",
+      "publisher": "Perrella",
+      "year": 1914,
+      "subject": "Goldoni, Carlo, -- 1707-1793.",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 366,
+      "lang": "ita",
+      "days_keep_count": 10,
+      "adding_date": "2000-07-27",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL4712852A",
+          "last_name": "Emilio del Cerro",
+          "first_name": "Emilio"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL6034835M",
+    "data": {
+      "title": "Pressure of population and economic efficiency in India.",
+      "city": "New Delhi",
+      "publisher": "Indian Council of World Affairs",
+      "year": 1946,
+      "subject": "India -- Population",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 109,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2006-03-06",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL2236938A",
+          "last_name": "Dwarkanath Ghosh",
+          "first_name": "Dwarkanath"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL6036346M",
+    "data": {
+      "title": "Petite histoire de Guienne et de Gascogne.",
+      "city": "Grenoble",
+      "publisher": "B. Arthaud",
+      "year": 1946,
+      "subject": "Guyenne (France) -- History",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 138,
+      "lang": "fre",
+      "days_keep_count": 200,
+      "adding_date": "2007-12-13",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/OL960428A",
+          "last_name": "Masson, André",
+          "first_name": "Masson,"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL6032869M",
+    "data": {
+      "title": "See without glasses",
+      "city": "New York",
+      "publisher": "Random House",
+      "year": 1948,
+      "subject": "Eye -- Accommodation and refraction",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 229,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2011-08-21",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/OL2236247A",
+          "last_name": "Ralph J. MacFadyen",
+          "first_name": "Ralph"
+        }
+      ]
+    }
+  }
+]

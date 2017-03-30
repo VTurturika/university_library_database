@@ -35,5 +35,11 @@ module.exports = {
         console.log("Writing insert script to sql/" + params.table + ".sql");
         params.records.forEach(record => file.write(createInsertStatement(params.table, record) + "\n"));
         console.log("Wrote " + params.records.length + " records to sql/" + params.table + ".sql");
+    },
+
+    writeJsonToFile: (params) => {
+        fs.writeFileSync("openlibrary/" + params.name + ".json", JSON.stringify(params.data, null,2))
+        console.log("Wrote " + params.data.length + " book records to openlibrary/" + params.name + ".json");
     }
+
 }
