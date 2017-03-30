@@ -8,12 +8,12 @@
       "year": 2001,
       "subject": null,
       "genre": null,
-      "periodic_release": null,
+      "periodic_release": 1,
       "page_count": 257,
       "lang": null,
-      "days_keep_count": 100,
-      "adding_date": "2014-05-11",
-      "count": 10,
+      "days_keep_count": 200,
+      "adding_date": "2015-11-24",
+      "count": 500,
       "authors": []
     }
   },
@@ -29,9 +29,9 @@
       "periodic_release": 3,
       "page_count": 0,
       "lang": null,
-      "days_keep_count": 100,
-      "adding_date": "2016-11-13",
-      "count": 20,
+      "days_keep_count": 30,
+      "adding_date": "2000-01-04",
+      "count": 50,
       "authors": []
     }
   },
@@ -44,19 +44,13 @@
       "year": 1950,
       "subject": "Archaeological illustration.",
       "genre": null,
-      "periodic_release": null,
+      "periodic_release": 1,
       "page_count": 139,
       "lang": "eng",
-      "days_keep_count": 200,
-      "adding_date": "2005-05-06",
+      "days_keep_count": 30,
+      "adding_date": "2001-03-08",
       "count": 300,
-      "authors": [
-        {
-          "key": "/authors/OL1296406A",
-          "last_name": "Lucile R. Addington",
-          "first_name": "Lucile"
-        }
-      ]
+      "authors": []
     }
   },
   {
@@ -68,12 +62,12 @@
       "year": 2004,
       "subject": null,
       "genre": null,
-      "periodic_release": null,
+      "periodic_release": 2,
       "page_count": 305,
       "lang": null,
       "days_keep_count": 100,
-      "adding_date": "2006-07-07",
-      "count": 300,
+      "adding_date": "2005-08-28",
+      "count": 500,
       "authors": []
     }
   },
@@ -86,12 +80,12 @@
       "year": 2006,
       "subject": null,
       "genre": null,
-      "periodic_release": 2,
+      "periodic_release": null,
       "page_count": 249,
       "lang": null,
       "days_keep_count": 10,
-      "adding_date": "2011-04-23",
-      "count": 100,
+      "adding_date": "2010-08-19",
+      "count": 5,
       "authors": []
     }
   },
@@ -104,12 +98,12 @@
       "year": 2000,
       "subject": null,
       "genre": null,
-      "periodic_release": 1,
+      "periodic_release": 3,
       "page_count": 304,
       "lang": null,
-      "days_keep_count": 10,
-      "adding_date": "2013-05-04",
-      "count": 50,
+      "days_keep_count": 100,
+      "adding_date": "2010-06-27",
+      "count": 5,
       "authors": []
     }
   },
@@ -125,9 +119,9 @@
       "periodic_release": null,
       "page_count": 267,
       "lang": "spa",
-      "days_keep_count": 10,
-      "adding_date": "2000-12-12",
-      "count": 5,
+      "days_keep_count": 30,
+      "adding_date": "2000-06-04",
+      "count": 500,
       "authors": []
     }
   },
@@ -143,9 +137,9 @@
       "periodic_release": null,
       "page_count": 171,
       "lang": "cat",
-      "days_keep_count": 10,
-      "adding_date": "2013-04-26",
-      "count": 100,
+      "days_keep_count": 50,
+      "adding_date": "2013-08-18",
+      "count": 20,
       "authors": []
     }
   },
@@ -158,19 +152,13 @@
       "year": 1993,
       "subject": "Education, Administration.",
       "genre": null,
-      "periodic_release": 3,
+      "periodic_release": null,
       "page_count": 174,
       "lang": null,
-      "days_keep_count": 200,
-      "adding_date": "2004-10-29",
-      "count": 20,
-      "authors": [
-        {
-          "key": "/authors/OL5368045A",
-          "last_name": "Hattie Lowe Johnson",
-          "first_name": "Hattie"
-        }
-      ]
+      "days_keep_count": 50,
+      "adding_date": "2011-04-15",
+      "count": 500,
+      "authors": []
     }
   },
   {
@@ -182,19 +170,13 @@
       "year": 2009,
       "subject": "Money -- European Union countries -- History",
       "genre": null,
-      "periodic_release": 1,
+      "periodic_release": 3,
       "page_count": 0,
       "lang": "eng",
-      "days_keep_count": 10,
-      "adding_date": "2003-02-03",
-      "count": 10,
-      "authors": [
-        {
-          "key": "/authors/OL325321A",
-          "last_name": "Marsh, David",
-          "first_name": "Marsh,"
-        }
-      ]
+      "days_keep_count": 200,
+      "adding_date": "2009-09-14",
+      "count": 100,
+      "authors": []
     }
   },
   {
@@ -206,19 +188,13 @@
       "year": 1950,
       "subject": null,
       "genre": null,
-      "periodic_release": null,
+      "periodic_release": 3,
       "page_count": 0,
       "lang": "ger",
       "days_keep_count": 10,
-      "adding_date": "2004-11-02",
-      "count": 500,
-      "authors": [
-        {
-          "key": "/authors/OL1573251A",
-          "last_name": "Friedrich Karl Kaul",
-          "first_name": "Friedrich"
-        }
-      ]
+      "adding_date": "2003-11-17",
+      "count": 100,
+      "authors": []
     }
   },
   {
@@ -233,16 +209,10 @@
       "periodic_release": null,
       "page_count": 0,
       "lang": "chi",
-      "days_keep_count": 30,
-      "adding_date": "2010-03-17",
-      "count": 10,
-      "authors": [
-        {
-          "key": "/authors/OL30553A",
-          "last_name": "Sunzi",
-          "first_name": "Sunzi"
-        }
-      ]
+      "days_keep_count": 10,
+      "adding_date": "2016-05-18",
+      "count": 50,
+      "authors": []
     }
   },
   {
@@ -254,19 +224,13 @@
       "year": 1950,
       "subject": "Short stories",
       "genre": null,
-      "periodic_release": 1,
+      "periodic_release": null,
       "page_count": 434,
       "lang": "eng",
-      "days_keep_count": 100,
-      "adding_date": "2013-06-26",
+      "days_keep_count": 50,
+      "adding_date": "2003-12-29",
       "count": 500,
-      "authors": [
-        {
-          "key": "/authors/OL2144873A",
-          "last_name": "Beverly Gross",
-          "first_name": "Beverly"
-        }
-      ]
+      "authors": []
     }
   },
   {
@@ -278,19 +242,13 @@
       "year": 1804,
       "subject": "Architecture",
       "genre": null,
-      "periodic_release": 2,
+      "periodic_release": null,
       "page_count": 308,
       "lang": "fre",
       "days_keep_count": 50,
-      "adding_date": "2005-09-15",
-      "count": 5,
-      "authors": [
-        {
-          "key": "/authors/OL4712851A",
-          "last_name": "Taillefer, Henri-François-Athanase Wlgrin de comte",
-          "first_name": "Taillefer,"
-        }
-      ]
+      "adding_date": "2000-12-31",
+      "count": 500,
+      "authors": []
     }
   },
   {
@@ -305,16 +263,10 @@
       "periodic_release": null,
       "page_count": 228,
       "lang": "kor",
-      "days_keep_count": 100,
-      "adding_date": "2014-03-13",
-      "count": 50,
-      "authors": [
-        {
-          "key": "/authors/OL4292901A",
-          "last_name": "U-gŭn Han",
-          "first_name": "U-gŭn"
-        }
-      ]
+      "days_keep_count": 50,
+      "adding_date": "2005-08-04",
+      "count": 500,
+      "authors": []
     }
   },
   {
@@ -326,19 +278,13 @@
       "year": 1943,
       "subject": "Legends -- Peru",
       "genre": null,
-      "periodic_release": null,
+      "periodic_release": 3,
       "page_count": 180,
       "lang": "spa",
-      "days_keep_count": 200,
-      "adding_date": "2000-03-12",
-      "count": 300,
-      "authors": [
-        {
-          "key": "/authors/OL129457A",
-          "last_name": "Ricardo Palma",
-          "first_name": "Ricardo"
-        }
-      ]
+      "days_keep_count": 30,
+      "adding_date": "2005-05-09",
+      "count": 500,
+      "authors": []
     }
   },
   {
@@ -354,15 +300,9 @@
       "page_count": 366,
       "lang": "ita",
       "days_keep_count": 10,
-      "adding_date": "2000-07-27",
-      "count": 10,
-      "authors": [
-        {
-          "key": "/authors/OL4712852A",
-          "last_name": "Emilio del Cerro",
-          "first_name": "Emilio"
-        }
-      ]
+      "adding_date": "2001-11-21",
+      "count": 100,
+      "authors": []
     }
   },
   {
@@ -377,16 +317,10 @@
       "periodic_release": null,
       "page_count": 109,
       "lang": "eng",
-      "days_keep_count": 100,
-      "adding_date": "2006-03-06",
-      "count": 10,
-      "authors": [
-        {
-          "key": "/authors/OL2236938A",
-          "last_name": "Dwarkanath Ghosh",
-          "first_name": "Dwarkanath"
-        }
-      ]
+      "days_keep_count": 30,
+      "adding_date": "2012-02-02",
+      "count": 500,
+      "authors": []
     }
   },
   {
@@ -401,16 +335,10 @@
       "periodic_release": null,
       "page_count": 138,
       "lang": "fre",
-      "days_keep_count": 200,
-      "adding_date": "2007-12-13",
-      "count": 100,
-      "authors": [
-        {
-          "key": "/authors/OL960428A",
-          "last_name": "Masson, André",
-          "first_name": "Masson,"
-        }
-      ]
+      "days_keep_count": 100,
+      "adding_date": "2004-08-06",
+      "count": 500,
+      "authors": []
     }
   },
   {
@@ -426,15 +354,9 @@
       "page_count": 229,
       "lang": "eng",
       "days_keep_count": 30,
-      "adding_date": "2011-08-21",
+      "adding_date": "2007-09-04",
       "count": 5,
-      "authors": [
-        {
-          "key": "/authors/OL2236247A",
-          "last_name": "Ralph J. MacFadyen",
-          "first_name": "Ralph"
-        }
-      ]
+      "authors": []
     }
   }
 ]
