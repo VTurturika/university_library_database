@@ -9,7 +9,7 @@ if(!utils.hasArguments()) {
 }
 else {
 
-    fetch[ args.table ]( args.rows_count || 10, (records) => {
+    fetch[ args.table ]( args.rows_count || 10).then( records => {
 
         utils.writeSqlToFile({
             table: args.table,

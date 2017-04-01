@@ -11,14 +11,6 @@ const maxAuthorOffset = 500000;
 const baseUrl = "http://openlibrary.org";
 const requestUrl = "http://openlibrary.org/api/things";
 
-const getRandomArrayItem = array => array[Math.floor(Math.random()*array.length)];
-const getRandomInt = (min,max) => Math.floor(Math.random() * (max - min + 1)) + min;
-const splitFirstName = fullName => fullName ? fullName.replace(/(\s\S+)+$/, "") : "Unknown";
-const splitLastName = fullName => fullName ? fullName.replace(/^\S+\s/, "") : "Unknown";
-const getRandomDate = (start, end) => new Date(start.getTime() +
-                                      Math.random() * (end.getTime() - start.getTime()))
-                                      .toISOString().slice(0, 10);
-
 function main() {
 
     if(utils.hasArguments() && args.books_count) {
@@ -84,15 +76,15 @@ function processBook(book) {
                 title: data.title,
                 city: data.publish_places ? data.publish_places[0] : null,
                 publisher: data.publishers ? data.publishers[0] : null,
-                year: data.publish_date ? +data.publish_date.slice(-4) : 1950,
+                year: data.publish_date ? +data.publish_date.slice(-4) : null,
                 subject: data.subjects ? data.subjects[0] : null,
                 genre: data.genres ? data.genres[0] : null,
-                periodic_release: getRandomArrayItem([null, null, null, null, null, 1, 2, 3]),
+                periodic_release: utils.getRandomArrayItem([null, null, null, null, null, 1, 2, 3]),
                 page_count: data.number_of_pages ? +data.number_of_pages : 0,
                 lang: data.languages ? data.languages[0].key.slice(11) : null,
-                days_keep_count: getRandomArrayItem([10,30,50,100,200]),
-                adding_date: getRandomDate(new Date(2000,0,1), new Date(2016,11,31)),
-                count: getRandomArrayItem([5,10,20,50,100,300,500]),
+                days_keep_count: utils.getRandomArrayItem([10,30,50,100,200]),
+                adding_date: utils.getRandomDate(new Date(2000,0,1), new Date(2016,11,31)),
+                count: utils.getRandomArrayItem([5,10,20,50,100,300,500]),
                 authors: []
             }
 
@@ -115,8 +107,8 @@ function processBook(book) {
                     .then(randomAuthor => {
                         processedBook.authors.push({
                             key: randomAuthor.key,
-                            last_name: splitLastName(randomAuthor.name),
-                            first_name: splitFirstName(randomAuthor.name),
+                            last_name: utils.splitLastName(randomAuthor.name),
+                            first_name: utils.splitFirstName(randomAuthor.name),
                         });
                         resolve({key: book, data: processedBook});
                     });
@@ -134,8 +126,8 @@ function processAuthor(author) {
             if(data.name) {
                 resolve({
                     key: author,
-                    last_name: splitLastName(data.name),
-                    first_name: splitFirstName(data.name),
+                    last_name: utils.splitLastName(data.name),
+                    first_name: utils.splitFirstName(data.name),
                 });
             }
             else {
@@ -143,8 +135,8 @@ function processAuthor(author) {
                     .then(randomAuthor => {
                         resolve({
                             key: randomAuthor.key,
-                            last_name: splitLastName(randomAuthor.name),
-                            first_name: splitFirstName(randomAuthor.name),
+                            last_name: utils.splitLastName(randomAuthor.name),
+                            first_name: utils.splitFirstName(randomAuthor.name),
                         });
                     });
             }
@@ -160,7 +152,7 @@ function fetchRandomAuthor() {
             uri: requestUrl,
             qs: {
                 'query': `{"type":"\/type\/author", "limit":1, `+
-                          `"offset":${getRandomInt(0,maxAuthorOffset)}}`
+                          `"offset":${utils.getRandomInt(0,maxAuthorOffset)}}`
             },
             json: true
         },(err, res, body) => {
@@ -190,7 +182,7 @@ function processRequest(params) {
             uri: requestUrl,
             qs: {
                 'query' : `{"type":"\/type\/edition", "limit":${params.count},`+
-                           `"offset":${getRandomInt(0,maxBookOffset)}}`
+                           `"offset":${utils.getRandomInt(0,maxBookOffset)}}`
             },
             json: true
         }
