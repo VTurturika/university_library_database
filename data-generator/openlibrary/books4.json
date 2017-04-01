@@ -1,234 +1,354 @@
 [
   {
-    "key": "/books/OL10900310M",
+    "key": "/books/OL10000541M",
     "data": {
-      "title": "Joy! a Soulful Celebration of the Season",
+      "title": "National Lottery Bill [H.L.]",
       "city": null,
-      "publisher": "Brentwood-Benson",
+      "publisher": "Stationery Office Books",
       "year": 1997,
-      "subject": "Music / Songbooks",
+      "subject": null,
       "genre": null,
       "periodic_release": null,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 30,
-      "adding_date": "2000-05-19",
-      "count": 50,
-      "authors": [
-        {
-          "key": "/authors/OL2892328A",
-          "last_name": "Dave Williamson",
-          "first_name": "Dave"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900311M",
-    "data": {
-      "title": "Joy! a Soulful Celebration of the Season",
-      "city": null,
-      "publisher": "Brentwood-Benson",
-      "year": 1997,
-      "subject": "Music / Songbooks",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 0,
-      "lang": "eng",
+      "page_count": 4,
+      "lang": null,
       "days_keep_count": 10,
-      "adding_date": "2006-08-25",
-      "count": 500,
-      "authors": [
-        {
-          "key": "/authors/OL2892328A",
-          "last_name": "Dave Williamson",
-          "first_name": "Dave"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900312M",
-    "data": {
-      "title": "Joy! a Soulful Celebration of the Season",
-      "city": null,
-      "publisher": "Brentwood-Benson",
-      "year": 1997,
-      "subject": "Music / Songbooks",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 30,
-      "adding_date": "2002-11-27",
-      "count": 300,
-      "authors": [
-        {
-          "key": "/authors/OL2892328A",
-          "last_name": "Dave Williamson",
-          "first_name": "Dave"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900313M",
-    "data": {
-      "title": "Joy! a Soulful Celebration of the Season",
-      "city": null,
-      "publisher": "Brentwood-Benson",
-      "year": 1997,
-      "subject": "Music / Songbooks",
-      "genre": null,
-      "periodic_release": 1,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 50,
-      "adding_date": "2003-07-29",
-      "count": 20,
-      "authors": [
-        {
-          "key": "/authors/OL2892328A",
-          "last_name": "Dave Williamson",
-          "first_name": "Dave"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900314M",
-    "data": {
-      "title": "Joy! a Soulful Celebration of the Season",
-      "city": null,
-      "publisher": "Brentwood-Benson",
-      "year": 1997,
-      "subject": "Music / Songbooks",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 30,
-      "adding_date": "2003-04-03",
-      "count": 500,
-      "authors": [
-        {
-          "key": "/authors/OL2892328A",
-          "last_name": "Dave Williamson",
-          "first_name": "Dave"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900315M",
-    "data": {
-      "title": "Joy! a Soulful Celebration of the Season",
-      "city": null,
-      "publisher": "Brentwood-Benson",
-      "year": 1997,
-      "subject": "Music / Songbooks",
-      "genre": null,
-      "periodic_release": 3,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 10,
-      "adding_date": "2004-08-20",
-      "count": 10,
-      "authors": [
-        {
-          "key": "/authors/OL2892328A",
-          "last_name": "Dave Williamson",
-          "first_name": "Dave"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900316M",
-    "data": {
-      "title": "Joy! a Soulful Celebration of the Season",
-      "city": null,
-      "publisher": "Brentwood-Benson",
-      "year": 1997,
-      "subject": "Music / Songbooks",
-      "genre": null,
-      "periodic_release": 2,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 30,
-      "adding_date": "2002-01-05",
-      "count": 20,
-      "authors": [
-        {
-          "key": "/authors/OL2892328A",
-          "last_name": "Dave Williamson",
-          "first_name": "Dave"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900317M",
-    "data": {
-      "title": "Sweeter As the Days Go By",
-      "city": null,
-      "publisher": "Brentwood-Benson",
-      "year": 1997,
-      "subject": "Music / Songbooks",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 200,
-      "adding_date": "2008-11-21",
+      "adding_date": "2008-02-13",
       "count": 5,
       "authors": [
         {
-          "key": "/authors/OL2899745A",
-          "last_name": "Jim Gray",
-          "first_name": "Jim"
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
         }
       ]
     }
   },
   {
-    "key": "/books/OL10900318M",
+    "key": "/books/OL10000542M",
     "data": {
-      "title": "Sweeter As the Days Go By",
+      "title": "Human Rights Bill [H.L.]",
       "city": null,
-      "publisher": "Brentwood-Benson",
-      "year": 1997,
-      "subject": "Music / Songbooks",
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
       "genre": null,
-      "periodic_release": null,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 100,
-      "adding_date": "2004-04-29",
-      "count": 300,
-      "authors": [
-        {
-          "key": "/authors/OL2899745A",
-          "last_name": "Jim Gray",
-          "first_name": "Jim"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900319M",
-    "data": {
-      "title": "Fresh Fire-Instrumental",
-      "city": null,
-      "publisher": "Brentwood Music",
-      "year": 1997,
-      "subject": "Unassigned Title",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 0,
+      "periodic_release": 1,
+      "page_count": 8,
       "lang": null,
       "days_keep_count": 100,
-      "adding_date": "2003-01-16",
+      "adding_date": "2004-07-31",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000543M",
+    "data": {
+      "title": "Human Rights Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 3,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2008-09-27",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000544M",
+    "data": {
+      "title": "Teaching and Higher Education Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2000-12-10",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000545M",
+    "data": {
+      "title": "Teaching and Higher Education Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2002-11-05",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000546M",
+    "data": {
+      "title": "National Lottery Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 3,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2002-07-28",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000547M",
+    "data": {
+      "title": "Teaching and Higher Education Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2012-11-10",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000548M",
+    "data": {
+      "title": "Human Rights Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 16,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2001-11-09",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000549M",
+    "data": {
+      "title": "National Lottery Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 12,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2012-03-24",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000054M",
+    "data": {
+      "title": "Mirrors & masks",
+      "city": "New Brunswick, N.J",
+      "publisher": "Transaction Publishers",
+      "year": 1997,
+      "subject": "Identity (Psychology)",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 188,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2008-01-10",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL228499A",
+          "last_name": "L. Strauss",
+          "first_name": "Anselm"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000550M",
+    "data": {
+      "title": "Social Security Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2004-06-25",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000551M",
+    "data": {
+      "title": "Teaching and Higher Education Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 20,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2005-01-26",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000552M",
+    "data": {
+      "title": "Greater London Authority (Referendum) Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2012-01-02",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000553M",
+    "data": {
+      "title": "Late Payment of Commercial Debts (Interest) Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2004-02-09",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000554M",
+    "data": {
+      "title": "Crime and Disorder Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: criminal law",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2004-07-12",
       "count": 20,
       "authors": [
         {
@@ -240,19 +360,259 @@
     }
   },
   {
-    "key": "/books/OL1090031M",
+    "key": "/books/OL10000555M",
     "data": {
-      "title": "Gay ethics",
-      "city": "New York",
-      "publisher": "Haworth Press",
-      "year": 1994,
-      "subject": "Homosexuality -- Moral and ethical aspects -- United States",
+      "title": "Teaching and Higher Education Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 3,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2014-09-29",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000556M",
+    "data": {
+      "title": "National Lottery Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 3,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2016-12-08",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000557M",
+    "data": {
+      "title": "Greater London Authority (Referendum) Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
       "genre": null,
       "periodic_release": null,
-      "page_count": 365,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2009-01-26",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000558M",
+    "data": {
+      "title": "Late Payment of Commercial Debts (Interest) Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2008-07-08",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000559M",
+    "data": {
+      "title": "Competition Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2016-03-09",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000055M",
+    "data": {
+      "title": "Thinking politically",
+      "city": "New Brunswick, NJ",
+      "publisher": "Transaction Publishers",
+      "year": 1997,
+      "subject": "Aron, Raymond, 1905- -- Interviews",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 347,
       "lang": "eng",
       "days_keep_count": 50,
-      "adding_date": "2009-01-28",
+      "adding_date": "2003-12-23",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL151396A",
+          "last_name": "Aron",
+          "first_name": "Raymond"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000560M",
+    "data": {
+      "title": "Crime and Disorder Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: criminal law",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2011-08-30",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000561M",
+    "data": {
+      "title": "Local Government (Experimental Arrangements) Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2008-10-16",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000562M",
+    "data": {
+      "title": "Social Security Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2002-01-01",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000563M",
+    "data": {
+      "title": "Greater London Authority (Referndum) Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2013-06-05",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000564M",
+    "data": {
+      "title": "Late Payment of Commercial Debts (Interest) Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2013-12-28",
       "count": 5,
       "authors": [
         {
@@ -264,500 +624,3115 @@
     }
   },
   {
-    "key": "/books/OL10900320M",
+    "key": "/books/OL10000565M",
     "data": {
-      "title": "It's a Great Day to Praise the Lord",
+      "title": "Teaching and Higher Education Bill [H.L.]",
       "city": null,
-      "publisher": "Brentwood-Benson",
-      "year": 1997,
-      "subject": "Music / Songbooks",
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
       "genre": null,
       "periodic_release": null,
-      "page_count": 0,
-      "lang": "eng",
+      "page_count": 4,
+      "lang": null,
       "days_keep_count": 10,
-      "adding_date": "2010-01-02",
-      "count": 300,
-      "authors": [
-        {
-          "key": "/authors/OL2741414A",
-          "last_name": "Hal Leonard Corp.",
-          "first_name": "Hal"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900321M",
-    "data": {
-      "title": "The Night Christ Was Born",
-      "city": null,
-      "publisher": "Brentwood-Benson",
-      "year": 1997,
-      "subject": "Music / Songbooks",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 50,
-      "adding_date": "2001-09-22",
-      "count": 10,
-      "authors": [
-        {
-          "key": "/authors/OL2837110A",
-          "last_name": "Dale Mathews",
-          "first_name": "Dale"
-        },
-        {
-          "key": "/authors/OL237669A",
-          "last_name": "Michael Frazier",
-          "first_name": "Michael"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900322M",
-    "data": {
-      "title": "Ready to Sing Contemporary - Volume 3",
-      "city": null,
-      "publisher": "Brentwood-Benson",
-      "year": 1997,
-      "subject": "Music / Songbooks",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 30,
-      "adding_date": "2016-05-19",
-      "count": 300,
-      "authors": [
-        {
-          "key": "/authors/OL3174753A",
-          "last_name": "Russell Mauldin",
-          "first_name": "Russell"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900323M",
-    "data": {
-      "title": "Ready to Sing Contemporary - Volume 3",
-      "city": null,
-      "publisher": "Brentwood-Benson",
-      "year": 1997,
-      "subject": "Music / Songbooks",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 10,
-      "adding_date": "2011-02-28",
-      "count": 50,
-      "authors": [
-        {
-          "key": "/authors/OL3174753A",
-          "last_name": "Russell Mauldin",
-          "first_name": "Russell"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900324M",
-    "data": {
-      "title": "Ready to Sing Contemporary - Volume 3",
-      "city": null,
-      "publisher": "Brentwood-Benson",
-      "year": 1997,
-      "subject": "Music / Songbooks",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 100,
-      "adding_date": "2004-02-14",
+      "adding_date": "2009-07-20",
       "count": 5,
       "authors": [
         {
-          "key": "/authors/OL3174753A",
-          "last_name": "Russell Mauldin",
-          "first_name": "Russell"
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
         }
       ]
     }
   },
   {
-    "key": "/books/OL10900325M",
+    "key": "/books/OL10000566M",
     "data": {
-      "title": "Ready to Sing Contemporary - Volume 3",
+      "title": "Crime and Disorder Bill [H.L.]",
       "city": null,
-      "publisher": "Brentwood-Benson",
-      "year": 1997,
-      "subject": "Music / Songbooks",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 50,
-      "adding_date": "2013-01-21",
-      "count": 100,
-      "authors": [
-        {
-          "key": "/authors/OL3174753A",
-          "last_name": "Russell Mauldin",
-          "first_name": "Russell"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900326M",
-    "data": {
-      "title": "Ready to Sing Contemporary - Volume 3",
-      "city": null,
-      "publisher": "Brentwood-Benson",
-      "year": 1997,
-      "subject": "Music / Songbooks",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 10,
-      "adding_date": "2008-04-28",
-      "count": 100,
-      "authors": [
-        {
-          "key": "/authors/OL3174753A",
-          "last_name": "Russell Mauldin",
-          "first_name": "Russell"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900327M",
-    "data": {
-      "title": "Ready to Sing Contemporary - Volume 3",
-      "city": null,
-      "publisher": "Brentwood-Benson",
-      "year": 1997,
-      "subject": "Music / Songbooks",
-      "genre": null,
-      "periodic_release": 1,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 30,
-      "adding_date": "2008-05-12",
-      "count": 50,
-      "authors": [
-        {
-          "key": "/authors/OL3174753A",
-          "last_name": "Russell Mauldin",
-          "first_name": "Russell"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900328M",
-    "data": {
-      "title": "Ready to Sing Contemporary - Volume 3",
-      "city": null,
-      "publisher": "Brentwood-Benson",
-      "year": 1997,
-      "subject": "Music / Songbooks",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 200,
-      "adding_date": "2005-08-02",
-      "count": 300,
-      "authors": [
-        {
-          "key": "/authors/OL3174753A",
-          "last_name": "Russell Mauldin",
-          "first_name": "Russell"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900329M",
-    "data": {
-      "title": "Ready to Sing Contemporary - Volume 3",
-      "city": null,
-      "publisher": "Brentwood-Benson",
-      "year": 1997,
-      "subject": "Music / Songbooks",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 100,
-      "adding_date": "2002-08-04",
-      "count": 100,
-      "authors": [
-        {
-          "key": "/authors/OL3174753A",
-          "last_name": "Russell Mauldin",
-          "first_name": "Russell"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL1090032M",
-    "data": {
-      "title": "The Prima guide to better business letters",
-      "city": "Rocklin, CA",
-      "publisher": "Prima Pub.",
-      "year": 1995,
-      "subject": "Commercial correspondence -- Handbooks, manuals, etc",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 234,
-      "lang": "eng",
-      "days_keep_count": 100,
-      "adding_date": "2016-07-10",
-      "count": 500,
-      "authors": [
-        {
-          "key": "/authors/OL579567A",
-          "last_name": "Fitzgerald, Michael",
-          "first_name": "Fitzgerald,"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900330M",
-    "data": {
-      "title": "Natural",
-      "city": null,
-      "publisher": "Brentwood Kids Company",
+      "publisher": "Stationery Office Books",
       "year": 1998,
-      "subject": "Alternative & Indie",
+      "subject": "English law: criminal law",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2014-11-20",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000567M",
+    "data": {
+      "title": "Local Government (Experimental Arrangements) Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2006-05-29",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000568M",
+    "data": {
+      "title": "Crime and Disorder Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: criminal law",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2001-09-03",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000569M",
+    "data": {
+      "title": "Human Rights Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
       "genre": null,
       "periodic_release": 3,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 10,
-      "adding_date": "2013-03-18",
-      "count": 10,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2002-06-29",
+      "count": 20,
       "authors": [
         {
-          "key": "/authors/OL3511012A",
-          "last_name": "Eric Champion",
-          "first_name": "Eric"
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
         }
       ]
     }
   },
   {
-    "key": "/books/OL10900331M",
+    "key": "/books/OL1000056M",
     "data": {
-      "title": "Extreme!",
-      "city": null,
-      "publisher": "Brentwood-Benson",
+      "title": "Essays on the garrison state",
+      "city": "New Brunswick, NJ",
+      "publisher": "Transaction Publishers",
       "year": 1997,
-      "subject": "Music / Songbooks",
+      "subject": "Civil-military relations.",
       "genre": null,
-      "periodic_release": 2,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 10,
-      "adding_date": "2007-03-18",
-      "count": 5,
-      "authors": [
-        {
-          "key": "/authors/OL2837112A",
-          "last_name": "Steven V. Taylor",
-          "first_name": "Steven"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900332M",
-    "data": {
-      "title": "Sweeter As the Days Go By",
-      "city": null,
-      "publisher": "Brentwood-Benson",
-      "year": 1997,
-      "subject": "Music / Songbooks",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 100,
-      "adding_date": "2002-10-23",
-      "count": 10,
-      "authors": [
-        {
-          "key": "/authors/OL2899745A",
-          "last_name": "Jim Gray",
-          "first_name": "Jim"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900333M",
-    "data": {
-      "title": "Mission Possible",
-      "city": null,
-      "publisher": "Brentwood-Benson",
-      "year": 1997,
-      "subject": "Music / Songbooks",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 95,
+      "periodic_release": 1,
+      "page_count": 143,
       "lang": "eng",
       "days_keep_count": 200,
-      "adding_date": "2016-12-07",
+      "adding_date": "2015-09-06",
       "count": 500,
       "authors": [
         {
-          "key": "/authors/OL527771A",
-          "last_name": "Don Marsh",
-          "first_name": "Don"
-        },
-        {
-          "key": "/authors/OL3511013A",
-          "last_name": "Lorie Marsh",
-          "first_name": "Lorie"
+          "key": "/authors/OL506055A",
+          "last_name": "Dwight Lasswell",
+          "first_name": "Harold"
         }
       ]
     }
   },
   {
-    "key": "/books/OL10900334M",
+    "key": "/books/OL10000570M",
     "data": {
-      "title": "Mission Possible",
+      "title": "Local Government (Experimental Arrangements) Bill [H.L.]",
       "city": null,
-      "publisher": "Brentwood-Benson",
-      "year": 1997,
-      "subject": "Music / Songbooks",
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
       "genre": null,
-      "periodic_release": 2,
-      "page_count": 0,
+      "periodic_release": 3,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2010-07-01",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000571M",
+    "data": {
+      "title": "Late Payment of Commercial Debts (Interest) Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2012-07-15",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000572M",
+    "data": {
+      "title": "Social Security Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2004-09-29",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000573M",
+    "data": {
+      "title": "Greater London Authority (Referendum) Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2011-10-04",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000574M",
+    "data": {
+      "title": "National Lottery Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2011-06-04",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000575M",
+    "data": {
+      "title": "Late Payment of Commercial Debts (Interest) Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2010-06-13",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000576M",
+    "data": {
+      "title": "Social Security Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2005-02-21",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000577M",
+    "data": {
+      "title": "Crime and Disorder Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: criminal law",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2002-03-01",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000578M",
+    "data": {
+      "title": "Competition Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2006-11-24",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000579M",
+    "data": {
+      "title": "Teaching and Higher Education Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2006-05-26",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000057M",
+    "data": {
+      "title": "Crosscutting social circles",
+      "city": "New Brunswick, N.J",
+      "publisher": "Transaction Publishers",
+      "year": 1997,
+      "subject": "Social groups.",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 257,
       "lang": "eng",
       "days_keep_count": 200,
-      "adding_date": "2011-01-07",
+      "adding_date": "2016-08-22",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/OL540756A",
+          "last_name": "Michael Blau",
+          "first_name": "Peter"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000580M",
+    "data": {
+      "title": "Crime and Disorder Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: criminal law",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 16,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2003-03-04",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000581M",
+    "data": {
+      "title": "National Lottery Bill [H.L.[",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2002-09-26",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000582M",
+    "data": {
+      "title": "Human Rights Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 12,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2011-08-01",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000583M",
+    "data": {
+      "title": "Greater London Authority (Referendum) Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2002-10-05",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000584M",
+    "data": {
+      "title": "Competition Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2016-09-28",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000585M",
+    "data": {
+      "title": "Social Security Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2010-01-26",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000586M",
+    "data": {
+      "title": "Crime and Disorder Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: criminal law",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 28,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2014-10-30",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000587M",
+    "data": {
+      "title": "Teaching and Higher Education Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2003-12-05",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000588M",
+    "data": {
+      "title": "Social Security Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2015-03-30",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000589M",
+    "data": {
+      "title": "Competition Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2003-10-17",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000058M",
+    "data": {
+      "title": "When men revolt and why",
+      "city": "New Brunswick",
+      "publisher": "Transaction Publishers",
+      "year": 1997,
+      "subject": "Revolutions.",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 357,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2016-03-23",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000590M",
+    "data": {
+      "title": "Crime and Disorder Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: criminal law",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2010-08-18",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000591M",
+    "data": {
+      "title": "Human Rights Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2002-02-04",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000592M",
+    "data": {
+      "title": "Crime and Disorder Bill [H.L]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: criminal law",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 50,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2002-12-08",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000593M",
+    "data": {
+      "title": "Human Rights Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2011-06-15",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000594M",
+    "data": {
+      "title": "Competition Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 10,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2013-04-28",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000595M",
+    "data": {
+      "title": "Social Security Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2016-09-23",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000596M",
+    "data": {
+      "title": "Crime and Disorder Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: criminal law",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2015-04-28",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000597M",
+    "data": {
+      "title": "Human Rights Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2012-01-24",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000598M",
+    "data": {
+      "title": "Competition Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2005-05-31",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000599M",
+    "data": {
+      "title": "Human Rights Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2014-05-04",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000059M",
+    "data": {
+      "title": "Will, imagination, & reason",
+      "city": "New Brunswick, USA",
+      "publisher": "Transaction Publishers",
+      "year": 1997,
+      "subject": "Babbitt, Irving, 1865-1933.",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 228,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2000-07-09",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL540757A",
+          "last_name": "G. Ryn",
+          "first_name": "Claes"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL100005M",
+    "data": {
+      "title": "Older Americans Act, oversight and review",
+      "city": "Washington",
+      "publisher": "U.S. G.P.O.",
+      "year": 1999,
+      "subject": "Older people -- Legal status, laws, etc. -- United States.",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 69,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2009-09-21",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/OL4613565A",
+          "last_name": "States. Congress. Senate. Committee on Health, Education, Labor, and Pensions. Subcommittee on Aging",
+          "first_name": "United"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000600M",
+    "data": {
+      "title": "Crime and Disorder Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: criminal law",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2003-07-15",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000601M",
+    "data": {
+      "title": "Teaching and Higher Education Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2011-03-24",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000602M",
+    "data": {
+      "title": "Competition Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 16,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2012-03-30",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000603M",
+    "data": {
+      "title": "Competition Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 12,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2002-05-16",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000604M",
+    "data": {
+      "title": "Crime and Disorder Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: criminal law",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2006-12-31",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000605M",
+    "data": {
+      "title": "Teaching and Higher Education Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2015-08-10",
       "count": 5,
       "authors": [
         {
-          "key": "/authors/OL527771A",
-          "last_name": "Don Marsh",
-          "first_name": "Don"
-        },
-        {
-          "key": "/authors/OL3511013A",
-          "last_name": "Lorie Marsh",
-          "first_name": "Lorie"
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
         }
       ]
     }
   },
   {
-    "key": "/books/OL10900335M",
+    "key": "/books/OL10000606M",
     "data": {
-      "title": "Mission Possible",
+      "title": "Competition Bill [H.L.]",
       "city": null,
-      "publisher": "Brentwood Benson Music",
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 38,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2015-12-09",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000607M",
+    "data": {
+      "title": "Crime and Disorder Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: criminal law",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2010-11-05",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000608M",
+    "data": {
+      "title": "Teaching and Higher Education Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2005-05-14",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000609M",
+    "data": {
+      "title": "Local Government (Experimental Arrangements) Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2014-08-11",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000060M",
+    "data": {
+      "title": "Evaluating treatment environments",
+      "city": "New Brunswick, N.J., U.S.A",
+      "publisher": "Transaction Publishers",
+      "year": 1997,
+      "subject": "Psychiatric hospitals -- Evaluation.",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 302,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2001-11-18",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/OL529943A",
+          "last_name": "H. Moos",
+          "first_name": "Rudolf"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000610M",
+    "data": {
+      "title": "Crime and Disorder Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: criminal law",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 51,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2011-01-08",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000611M",
+    "data": {
+      "title": "Teaching and Higher Education Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2004-09-12",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000612M",
+    "data": {
+      "title": "Local Government (Experimental Arrangements) Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2016-07-13",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000613M",
+    "data": {
+      "title": "Crime and Disorder Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: criminal law",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 40,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2002-12-07",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000614M",
+    "data": {
+      "title": "Local Government (Experimental Arrangements) Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2011-07-10",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000615M",
+    "data": {
+      "title": "Data Protection Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2008-03-24",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000616M",
+    "data": {
+      "title": "Competition Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2012-11-05",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000617M",
+    "data": {
+      "title": "Teaching and Higher Education Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2005-11-30",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000618M",
+    "data": {
+      "title": "Mental Health (Amendment) (No. 2) Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2014-10-15",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000619M",
+    "data": {
+      "title": "Competition Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2007-07-10",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000061M",
+    "data": {
+      "title": "Purinergic approaches in experimental therapeutics",
+      "city": "New York",
+      "publisher": "Wiley-Liss",
+      "year": 1997,
+      "subject": "Purines -- Receptors -- Agonists.",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 581,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2005-04-12",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000620M",
+    "data": {
+      "title": "Late Payment of Commercial Debts (Interest) Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2016-06-28",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000621M",
+    "data": {
+      "title": "Crime and Disorder Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: criminal law",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2014-01-18",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000622M",
+    "data": {
+      "title": "Data Protection Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2005-10-02",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000623M",
+    "data": {
+      "title": "Teaching and Higher Education Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2016-04-16",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000624M",
+    "data": {
+      "title": "Data Protection Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2001-07-31",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000625M",
+    "data": {
+      "title": "Competition Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2010-03-16",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000626M",
+    "data": {
+      "title": "Data Protection Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2001-04-18",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000627M",
+    "data": {
+      "title": "Late Payment of Commercial Debts (Interest) Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2005-07-10",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000628M",
+    "data": {
+      "title": "Teaching and Higher Education Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2008-11-11",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000629M",
+    "data": {
+      "title": "Teaching and Higher Education Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2013-11-01",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000062M",
+    "data": {
+      "title": "Medicinal chemistry",
+      "city": "Oxford [England]",
+      "publisher": "Blackwell Science",
+      "year": 1997,
+      "subject": "Pharmaceutical chemistry -- Congresses.",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 278,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2006-03-14",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/OL540758A",
+          "last_name": "International Medicinal Chemistry Symposium (1995 Tokyo, Japan)",
+          "first_name": "AFMC"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000630M",
+    "data": {
+      "title": "Late Payment of Commercial Debts (Interest) Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2012-10-16",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000631M",
+    "data": {
+      "title": "Data Protection Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2000-01-25",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000632M",
+    "data": {
+      "title": "Competition Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 16,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2010-01-15",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000633M",
+    "data": {
+      "title": "Teaching and Higher Education Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 3,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2005-09-23",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000634M",
+    "data": {
+      "title": "Competition Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2007-01-08",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000635M",
+    "data": {
+      "title": "Late Payment of Commercial Debts (Interest) Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2002-12-25",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000636M",
+    "data": {
+      "title": "Business Improvement Districts Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2015-11-30",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000637M",
+    "data": {
+      "title": "Data Protection Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2006-09-26",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000638M",
+    "data": {
+      "title": "Data Protection Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 6,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2003-01-06",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000639M",
+    "data": {
+      "title": "Northern Ireland (Emergency Provisions) Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2003-11-22",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000063M",
+    "data": {
+      "title": "Drugs and human lactation",
+      "city": "Amsterdam",
+      "publisher": "Elsevier",
+      "year": 1996,
+      "subject": "Breastfeeding -- Health aspects.",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 712,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2013-06-25",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000640M",
+    "data": {
+      "title": "Teaching and Higher Education Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 6,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2012-01-25",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000641M",
+    "data": {
+      "title": "Business Improvement Districts Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2006-02-16",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000642M",
+    "data": {
+      "title": "Teaching and Higher Education Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 16,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2015-10-27",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000643M",
+    "data": {
+      "title": "Crime and Disorder Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: criminal law",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2000-09-30",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000644M",
+    "data": {
+      "title": "Competition Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 32,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2001-08-17",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000645M",
+    "data": {
+      "title": "Data Protection Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 20,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2007-11-04",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000646M",
+    "data": {
+      "title": "Business Improvement Districts Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2004-04-25",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000647M",
+    "data": {
+      "title": "Bank of England Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2009-04-18",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000648M",
+    "data": {
+      "title": "Crime and Disorder Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: criminal law",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 32,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2012-05-30",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000649M",
+    "data": {
+      "title": "Social Security Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2013-02-24",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000064M",
+    "data": {
+      "title": "150 practice ECGs",
+      "city": "Cambridge, Mass., USA",
+      "publisher": "Blackwell Science",
+      "year": 1997,
+      "subject": "Electrocardiography -- Problems, exercises, etc.",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 271,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2004-02-13",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/OL540759A",
+          "last_name": "Jesse Taylor",
+          "first_name": "George"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000650M",
+    "data": {
+      "title": "Late Payment of Commercial Debts (Interest) Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2001-10-23",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000651M",
+    "data": {
+      "title": "Teaching and Higher Education Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2007-09-17",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000652M",
+    "data": {
+      "title": "Teaching and Higher Education Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2016-11-05",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000653M",
+    "data": {
+      "title": "Social Security Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2004-06-06",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000654M",
+    "data": {
+      "title": "Bank of England Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2016-11-22",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000655M",
+    "data": {
+      "title": "Data Protection Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 16,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2010-12-19",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000656M",
+    "data": {
+      "title": "Business Improvement Districts Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2009-03-19",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000657M",
+    "data": {
+      "title": "Late Payment of Commercial Debts (Interest) Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2012-10-26",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000658M",
+    "data": {
+      "title": "Crime and Disorder Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: criminal law",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2008-09-19",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000659M",
+    "data": {
+      "title": "Teaching and Higher Education Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 17,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2001-11-02",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000065M",
+    "data": {
+      "title": "Discovering the soul",
+      "city": "Virginia Beach, Va",
+      "publisher": "A.R.E. Press",
+      "year": 1997,
+      "subject": "Hypnotic age regression -- Therapeutic use -- Case studies.",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 215,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2011-10-24",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/OL540760A",
+          "last_name": "G. Jarmon",
+          "first_name": "Robert"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000660M",
+    "data": {
+      "title": "Social Security Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 5,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2000-12-21",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000661M",
+    "data": {
+      "title": "Bank of England Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2012-11-25",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000662M",
+    "data": {
+      "title": "Business Improvement Districts Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2011-06-18",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000663M",
+    "data": {
+      "title": "Data Protection Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2012-07-20",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000664M",
+    "data": {
+      "title": "Teaching and Higher Education Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 10,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2000-03-28",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000665M",
+    "data": {
+      "title": "Bank of England Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2006-07-07",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000666M",
+    "data": {
+      "title": "Competition Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2006-02-05",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000667M",
+    "data": {
+      "title": "Data Protection Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2012-09-30",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000668M",
+    "data": {
+      "title": "Bank of England Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 12,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2005-07-06",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000669M",
+    "data": {
+      "title": "Crime and Disorder Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: criminal law",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 24,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2011-11-22",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000066M",
+    "data": {
+      "title": "Teaching and advocacy",
+      "city": "York, Me",
+      "publisher": "Stenhouse Publishers",
+      "year": 1997,
+      "subject": "Special education -- United States -- Case studies.",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 244,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2001-05-27",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000670M",
+    "data": {
+      "title": "Competition Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2003-12-20",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000671M",
+    "data": {
+      "title": "Social Security Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2016-06-11",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000672M",
+    "data": {
+      "title": "Bank of England Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2013-03-01",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000673M",
+    "data": {
+      "title": "Data Protection Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2004-08-13",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000674M",
+    "data": {
+      "title": "Competition Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 10,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2012-04-01",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000675M",
+    "data": {
+      "title": "Competition Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 20,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2009-03-14",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000676M",
+    "data": {
+      "title": "Northern Ireland (Emergency Provisions) Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2014-09-05",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000677M",
+    "data": {
+      "title": "National Lottery Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2016-10-04",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000678M",
+    "data": {
+      "title": "Teaching and Higher Education Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2008-04-08",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000679M",
+    "data": {
+      "title": "Social Security Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2004-09-11",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000067M",
+    "data": {
+      "title": "The heart of parenting",
+      "city": "New York, NY",
+      "publisher": "Simon & Schuster",
+      "year": 1997,
+      "subject": "Emotions in children.",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 239,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2001-12-03",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/OL238425A",
+          "last_name": "Mordechai Gottman",
+          "first_name": "John"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000680M",
+    "data": {
+      "title": "National Lottery Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2010-10-10",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000681M",
+    "data": {
+      "title": "European Communities (Amendment) Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
       "year": 1997,
       "subject": null,
       "genre": null,
       "periodic_release": 2,
-      "page_count": 0,
+      "page_count": 4,
       "lang": null,
-      "days_keep_count": 100,
-      "adding_date": "2005-04-01",
-      "count": 20,
-      "authors": [
-        {
-          "key": "/authors/OL3511014A",
-          "last_name": "D. Marsh",
-          "first_name": "D."
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900336M",
-    "data": {
-      "title": "Mission Possible",
-      "city": null,
-      "publisher": "Brentwood-Benson",
-      "year": 1997,
-      "subject": "Music / Songbooks",
-      "genre": null,
-      "periodic_release": 2,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 200,
-      "adding_date": "2002-09-11",
-      "count": 300,
-      "authors": [
-        {
-          "key": "/authors/OL527771A",
-          "last_name": "Don Marsh",
-          "first_name": "Don"
-        },
-        {
-          "key": "/authors/OL3511013A",
-          "last_name": "Lorie Marsh",
-          "first_name": "Lorie"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900337M",
-    "data": {
-      "title": "Mission Possible",
-      "city": null,
-      "publisher": "Brentwood-Benson",
-      "year": 1997,
-      "subject": "Music / Songbooks",
-      "genre": null,
-      "periodic_release": 2,
-      "page_count": 0,
-      "lang": "eng",
       "days_keep_count": 30,
-      "adding_date": "2014-09-30",
-      "count": 300,
-      "authors": [
-        {
-          "key": "/authors/OL527771A",
-          "last_name": "Don Marsh",
-          "first_name": "Don"
-        },
-        {
-          "key": "/authors/OL3511013A",
-          "last_name": "Lorie Marsh",
-          "first_name": "Lorie"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900338M",
-    "data": {
-      "title": "Classics-Preschool So BLS Pk",
-      "city": null,
-      "publisher": "Riversong Records",
-      "year": 1997,
-      "subject": "Music - General",
-      "genre": null,
-      "periodic_release": 2,
-      "page_count": 0,
-      "lang": null,
-      "days_keep_count": 10,
-      "adding_date": "2010-06-29",
+      "adding_date": "2015-06-15",
       "count": 100,
       "authors": [
         {
@@ -769,19 +3744,19 @@
     }
   },
   {
-    "key": "/books/OL10900339M",
+    "key": "/books/OL10000682M",
     "data": {
-      "title": "Nyt",
+      "title": "Teaching and Higher Education Bill [H.L.]",
       "city": null,
-      "publisher": "Riversong Records",
-      "year": 1997,
-      "subject": "Unassigned Title",
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
       "genre": null,
       "periodic_release": null,
-      "page_count": 0,
+      "page_count": 8,
       "lang": null,
-      "days_keep_count": 30,
-      "adding_date": "2003-08-15",
+      "days_keep_count": 50,
+      "adding_date": "2003-11-09",
       "count": 100,
       "authors": [
         {
@@ -793,433 +3768,1033 @@
     }
   },
   {
-    "key": "/books/OL1090033M",
+    "key": "/books/OL10000683M",
     "data": {
-      "title": "Moving meetings",
-      "city": "Burr Ridge, Ill",
-      "publisher": "Irwin Professional Pub./Mirror Press",
-      "year": 1994,
-      "subject": "Business meetings -- Planning.",
+      "title": "Social Security Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
       "genre": null,
       "periodic_release": null,
-      "page_count": 110,
-      "lang": "eng",
-      "days_keep_count": 100,
-      "adding_date": "2010-09-11",
-      "count": 10,
-      "authors": [
-        {
-          "key": "/authors/OL579568A",
-          "last_name": "Jana M. Kemp",
-          "first_name": "Jana"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900340M",
-    "data": {
-      "title": "My Soul Got Another",
-      "city": null,
-      "publisher": "Verity",
-      "year": 1997,
-      "subject": "Christian - Gospel",
-      "genre": null,
-      "periodic_release": 2,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 200,
-      "adding_date": "2016-03-06",
-      "count": 300,
-      "authors": [
-        {
-          "key": "/authors/OL3511015A",
-          "last_name": "Alabama Mass Choir",
-          "first_name": "Alabama"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900341M",
-    "data": {
-      "title": "Jesus Did It",
-      "city": null,
-      "publisher": "Verity",
-      "year": 1997,
-      "subject": "Christian - Gospel",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 10,
-      "adding_date": "2011-06-24",
-      "count": 300,
-      "authors": [
-        {
-          "key": "/authors/OL3511016A",
-          "last_name": "Tyrone Dickerson",
-          "first_name": "Tyrone"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900342M",
-    "data": {
-      "title": "Let's Praise the Lord",
-      "city": null,
-      "publisher": "Verity",
-      "year": 1997,
-      "subject": "Christian - Gospel",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 100,
-      "adding_date": "2015-12-31",
-      "count": 50,
-      "authors": [
-        {
-          "key": "/authors/OL3511016A",
-          "last_name": "Tyrone Dickerson",
-          "first_name": "Tyrone"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900343M",
-    "data": {
-      "title": "All the Way Live",
-      "city": null,
-      "publisher": "Verity",
-      "year": 1997,
-      "subject": "Christian - Gospel",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 10,
-      "adding_date": "2014-09-26",
-      "count": 20,
-      "authors": [
-        {
-          "key": "/authors/OL3511017A",
-          "last_name": "Queens Comm Choir",
-          "first_name": "Queens"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900344M",
-    "data": {
-      "title": "All Keyed Up",
-      "city": null,
-      "publisher": "Air Records",
-      "year": 1911,
-      "subject": "Christian - Gospel",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 200,
-      "adding_date": "2012-11-07",
-      "count": 10,
-      "authors": [
-        {
-          "key": "/authors/OL3511018A",
-          "last_name": "Ben Tankard",
-          "first_name": "Ben"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900345M",
-    "data": {
-      "title": "Instrumental Christmas",
-      "city": null,
-      "publisher": "Verity",
-      "year": 1997,
-      "subject": "Christian - Gospel",
-      "genre": null,
-      "periodic_release": 2,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 100,
-      "adding_date": "2010-08-07",
-      "count": 50,
-      "authors": [
-        {
-          "key": "/authors/OL3511018A",
-          "last_name": "Ben Tankard",
-          "first_name": "Ben"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900346M",
-    "data": {
-      "title": "Instrumentally Yours",
-      "city": null,
-      "publisher": "Verity",
-      "year": 1997,
-      "subject": "Genres & Styles - Jazz",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 0,
+      "page_count": 2,
       "lang": null,
-      "days_keep_count": 100,
-      "adding_date": "2003-08-21",
-      "count": 300,
-      "authors": [
-        {
-          "key": "/authors/OL3511018A",
-          "last_name": "Ben Tankard",
-          "first_name": "Ben"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900347M",
-    "data": {
-      "title": "Keynote Speaker",
-      "city": null,
-      "publisher": "Verity",
-      "year": 1997,
-      "subject": "Genres & Styles - Jazz",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 30,
-      "adding_date": "2004-01-27",
-      "count": 20,
-      "authors": [
-        {
-          "key": "/authors/OL3511018A",
-          "last_name": "Ben Tankard",
-          "first_name": "Ben"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900348M",
-    "data": {
-      "title": "Play Me in Your Key",
-      "city": null,
-      "publisher": "Verity",
-      "year": 1997,
-      "subject": "Genres & Styles - Jazz",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 30,
-      "adding_date": "2006-08-21",
-      "count": 20,
-      "authors": [
-        {
-          "key": "/authors/OL3511018A",
-          "last_name": "Ben Tankard",
-          "first_name": "Ben"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900349M",
-    "data": {
-      "title": "Sunday Driving",
-      "city": null,
-      "publisher": "Verity",
-      "year": 1997,
-      "subject": "Genres & Styles - Jazz",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 0,
-      "lang": "eng",
       "days_keep_count": 200,
-      "adding_date": "2014-05-17",
-      "count": 500,
+      "adding_date": "2010-08-13",
+      "count": 100,
       "authors": [
         {
-          "key": "/authors/OL3511018A",
-          "last_name": "Ben Tankard",
-          "first_name": "Ben"
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
         }
       ]
     }
   },
   {
-    "key": "/books/OL1090034M",
+    "key": "/books/OL10000684M",
     "data": {
-      "title": "The lessons of love",
-      "city": "[San Francisco]",
-      "publisher": "HarperSanFrancisco",
-      "year": 1994,
-      "subject": "Consolation",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 225,
-      "lang": "eng",
-      "days_keep_count": 30,
-      "adding_date": "2008-02-14",
-      "count": 500,
-      "authors": [
-        {
-          "key": "/authors/OL34190A",
-          "last_name": "Melody Beattie",
-          "first_name": "Melody"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900350M",
-    "data": {
-      "title": "I Am Persuaded",
+      "title": "Crime and Disorder Bill [H.L.]",
       "city": null,
-      "publisher": "Verity",
-      "year": 1997,
-      "subject": "Christian - Gospel",
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: criminal law",
       "genre": null,
       "periodic_release": null,
-      "page_count": 0,
-      "lang": "eng",
+      "page_count": 2,
+      "lang": null,
       "days_keep_count": 10,
-      "adding_date": "2000-12-10",
-      "count": 10,
+      "adding_date": "2011-03-18",
+      "count": 50,
       "authors": [
         {
-          "key": "/authors/OL3252353A",
-          "last_name": "Fred Hammond",
-          "first_name": "Fred"
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
         }
       ]
     }
   },
   {
-    "key": "/books/OL10900351M",
+    "key": "/books/OL10000685M",
     "data": {
-      "title": "Plugged in",
+      "title": "Teaching and Higher Education Bill [H.L.]",
       "city": null,
-      "publisher": "Verity",
-      "year": 1997,
-      "subject": "Christian - General",
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
       "genre": null,
       "periodic_release": null,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 30,
-      "adding_date": "2012-09-27",
-      "count": 20,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2000-06-22",
+      "count": 100,
       "authors": [
         {
-          "key": "/authors/OL3511019A",
-          "last_name": "Straight Company",
-          "first_name": "Straight"
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
         }
       ]
     }
   },
   {
-    "key": "/books/OL10900352M",
+    "key": "/books/OL10000686M",
     "data": {
-      "title": "So Excited",
+      "title": "National Lottery Bill [H.L.]",
       "city": null,
-      "publisher": "Verity",
-      "year": 1997,
-      "subject": "Christian - Gospel",
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
       "genre": null,
       "periodic_release": 3,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 100,
-      "adding_date": "2012-07-08",
-      "count": 10,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2002-09-11",
+      "count": 5,
       "authors": [
         {
-          "key": "/authors/OL3511019A",
-          "last_name": "Straight Company",
-          "first_name": "Straight"
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
         }
       ]
     }
   },
   {
-    "key": "/books/OL10900353M",
+    "key": "/books/OL10000687M",
     "data": {
-      "title": "A & V",
+      "title": "Teaching and Higher Education Bill [H.L.]",
       "city": null,
-      "publisher": "Verity",
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 10,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2004-06-02",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000688M",
+    "data": {
+      "title": "Crime and Disorder Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: criminal law",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2011-08-22",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000689M",
+    "data": {
+      "title": "European Communities (Amendment) Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2002-12-06",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000068M",
+    "data": {
+      "title": "Transition in the Baltic States",
+      "city": "New York",
+      "publisher": "St. Martin's Press",
       "year": 1997,
-      "subject": "Christian - Gospel",
+      "subject": "Post-communism -- Economic aspects -- Baltic States -- Congresses.",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 299,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2016-09-03",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000690M",
+    "data": {
+      "title": "Data Protection Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2005-08-02",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000691M",
+    "data": {
+      "title": "European Communities (Amendment) Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2016-06-08",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000692M",
+    "data": {
+      "title": "Data Protection Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2001-04-11",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000693M",
+    "data": {
+      "title": "Crime and Disorder Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: criminal law",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2011-11-07",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000694M",
+    "data": {
+      "title": "Bank of England Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2012-05-27",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000695M",
+    "data": {
+      "title": "European Communities (Amendment) Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 16,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2003-04-02",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000696M",
+    "data": {
+      "title": "Crime and Disorder Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: criminal law",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 20,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2003-08-26",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000697M",
+    "data": {
+      "title": "Data Protection Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 20,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2011-10-18",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000698M",
+    "data": {
+      "title": "National Lottery Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2000-06-30",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000699M",
+    "data": {
+      "title": "Crime and Disorder Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: criminal law",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 16,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2004-03-13",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000069M",
+    "data": {
+      "title": "Justice v. law in Greek political thought",
+      "city": "Lanham, Md",
+      "publisher": "Rowman & Littlefield Publishers",
+      "year": 1997,
+      "subject": "Justice",
       "genre": null,
       "periodic_release": null,
       "page_count": 0,
       "lang": "eng",
       "days_keep_count": 200,
-      "adding_date": "2008-12-06",
+      "adding_date": "2006-02-11",
       "count": 300,
       "authors": [
         {
-          "key": "/authors/OL3511020A",
-          "last_name": "Angelo & Veronica",
-          "first_name": "Angelo"
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
         }
       ]
     }
   },
   {
-    "key": "/books/OL10900354M",
+    "key": "/books/OL100006M",
     "data": {
-      "title": "Da Tu Vida",
-      "city": null,
-      "publisher": "Verity",
-      "year": 1997,
-      "subject": "Christian - Gospel",
+      "title": "Internet indecency",
+      "city": "Washington",
+      "publisher": "U.S. G.P.O.",
+      "year": 1999,
+      "subject": "Internet and children -- United States.",
       "genre": null,
       "periodic_release": null,
-      "page_count": 0,
+      "page_count": 77,
       "lang": "eng",
-      "days_keep_count": 50,
-      "adding_date": "2004-10-13",
-      "count": 10,
+      "days_keep_count": 30,
+      "adding_date": "2003-09-06",
+      "count": 500,
       "authors": [
         {
-          "key": "/authors/OL3511020A",
-          "last_name": "Angelo & Veronica",
-          "first_name": "Angelo"
+          "key": "/authors/OL51624A",
+          "last_name": "States. Congress. Senate. Committee on Commerce, Science, and Transportation.",
+          "first_name": "United"
         }
       ]
     }
   },
   {
-    "key": "/books/OL10900355M",
+    "key": "/books/OL10000700M",
     "data": {
-      "title": "Give Your Life",
+      "title": "Data Protection Bill [H.L.]",
       "city": null,
-      "publisher": "Verity",
-      "year": 1997,
-      "subject": "Christian - Gospel",
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
       "genre": null,
       "periodic_release": null,
-      "page_count": 0,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2007-09-07",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000701M",
+    "data": {
+      "title": "Bank of England Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 4,
       "lang": null,
       "days_keep_count": 50,
-      "adding_date": "2004-11-24",
+      "adding_date": "2005-11-28",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000702M",
+    "data": {
+      "title": "Crime and Disorder Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: criminal law",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2000-01-08",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000703M",
+    "data": {
+      "title": "Data Protection Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 21,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2003-10-31",
       "count": 20,
       "authors": [
         {
-          "key": "/authors/OL3511020A",
-          "last_name": "Angelo & Veronica",
-          "first_name": "Angelo"
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000704M",
+    "data": {
+      "title": "Crime and Disorder Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: criminal law",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 44,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2011-05-29",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000705M",
+    "data": {
+      "title": "European Communities (Amendment) Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2000-09-19",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000706M",
+    "data": {
+      "title": "European Communities (Amendment) Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2004-04-13",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000707M",
+    "data": {
+      "title": "Crime and Disorder Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: criminal law",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2000-05-05",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000708M",
+    "data": {
+      "title": "Crime and Disorder Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: criminal law",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 32,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2016-07-28",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000709M",
+    "data": {
+      "title": "Data Protection Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2007-06-01",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000070M",
+    "data": {
+      "title": "Women-headed households",
+      "city": "New York",
+      "publisher": "St. Martin's Press",
+      "year": 1997,
+      "subject": "Women heads of households.",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 338,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2009-03-27",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/OL225481A",
+          "last_name": "H. Chant",
+          "first_name": "Sylvia"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000710M",
+    "data": {
+      "title": "Criminal Justice (International Co-Operation ) (Amendment) Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2007-02-28",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000711M",
+    "data": {
+      "title": "Bank of England Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2004-06-14",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000712M",
+    "data": {
+      "title": "Bank of England Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2016-01-11",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000713M",
+    "data": {
+      "title": "Data Protection Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2014-07-13",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000714M",
+    "data": {
+      "title": "Business Improvement Districts Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2012-11-03",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000715M",
+    "data": {
+      "title": "Northern Ireland (Emergency Provisions) Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2013-09-05",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000716M",
+    "data": {
+      "title": "Crime and Disorder Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: criminal law",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2004-02-27",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000717M",
+    "data": {
+      "title": "Data Protection Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2015-09-04",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000718M",
+    "data": {
+      "title": "Bank of England Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2013-03-12",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000719M",
+    "data": {
+      "title": "Social Security Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2004-12-19",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000071M",
+    "data": {
+      "title": "Helping kids resolve conflicts without violence",
+      "city": "Minneapolis, MN",
+      "publisher": "Johnson Institute",
+      "year": 1997,
+      "subject": "Violence in children -- Prevention.",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 19,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2008-04-07",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/OL454282A",
+          "last_name": "Remboldt",
+          "first_name": "Carole"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000720M",
+    "data": {
+      "title": "Crime and Disorder Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: criminal law",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2001-03-31",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
         }
       ]
     }

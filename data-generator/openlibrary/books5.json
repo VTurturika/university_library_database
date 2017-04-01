@@ -1,1095 +1,19 @@
 [
   {
-    "key": "/books/OL10900356M",
+    "key": "/books/OL10000721M",
     "data": {
-      "title": "Higher Place",
+      "title": "Data Protection Bill [H.L.]",
       "city": null,
-      "publisher": "Verity",
-      "year": 1971,
-      "subject": "Christian - Gospel",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 50,
-      "adding_date": "2014-06-10",
-      "count": 20,
-      "authors": [
-        {
-          "key": "/authors/OL3511020A",
-          "last_name": "Angelo & Veronica",
-          "first_name": "Angelo"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900357M",
-    "data": {
-      "title": "Not Enough",
-      "city": null,
-      "publisher": "Verity",
-      "year": 1997,
-      "subject": "Christian - Gospel",
-      "genre": null,
-      "periodic_release": 1,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 10,
-      "adding_date": "2006-11-04",
-      "count": 500,
-      "authors": [
-        {
-          "key": "/authors/OL3511020A",
-          "last_name": "Angelo & Veronica",
-          "first_name": "Angelo"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900358M",
-    "data": {
-      "title": "Watch God Move",
-      "city": null,
-      "publisher": "Verity",
-      "year": 1997,
-      "subject": "Christian - Gospel",
-      "genre": null,
-      "periodic_release": 2,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 30,
-      "adding_date": "2014-04-22",
-      "count": 50,
-      "authors": [
-        {
-          "key": "/authors/OL3511021A",
-          "last_name": "Colorado Mass Choir",
-          "first_name": "Colorado"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900359M",
-    "data": {
-      "title": "He Keeps on Blessing",
-      "city": null,
-      "publisher": "Verity",
-      "year": 1997,
-      "subject": "Christian - Gospel",
-      "genre": null,
-      "periodic_release": 2,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 100,
-      "adding_date": "2005-02-05",
-      "count": 100,
-      "authors": [
-        {
-          "key": "/authors/OL3511022A",
-          "last_name": "Albertina Walker",
-          "first_name": "Albertina"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL1090035M",
-    "data": {
-      "title": "Boom, again",
-      "city": "Harvard, MA",
-      "publisher": "Abbot-Hill Pub.",
-      "year": 1994,
-      "subject": "Computer industry",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 50,
-      "adding_date": "2012-09-14",
-      "count": 50,
-      "authors": [
-        {
-          "key": "/authors/OL579569A",
-          "last_name": "Ed Gustafson",
-          "first_name": "Ed"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900360M",
-    "data": {
-      "title": "Live in Chicago",
-      "city": null,
-      "publisher": "Verity",
-      "year": 1997,
-      "subject": "Christian - Gospel",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 0,
-      "lang": null,
-      "days_keep_count": 10,
-      "adding_date": "2016-08-08",
-      "count": 20,
-      "authors": [
-        {
-          "key": "/authors/OL3511022A",
-          "last_name": "Albertina Walker",
-          "first_name": "Albertina"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900361M",
-    "data": {
-      "title": "Songs of the Church",
-      "city": null,
-      "publisher": "Verity",
-      "year": 1997,
-      "subject": "Christian - Gospel",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 30,
-      "adding_date": "2005-01-28",
-      "count": 50,
-      "authors": [
-        {
-          "key": "/authors/OL3511022A",
-          "last_name": "Albertina Walker",
-          "first_name": "Albertina"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900362M",
-    "data": {
-      "title": "Focus on Glory",
-      "city": null,
-      "publisher": "Verity",
-      "year": 1997,
-      "subject": "Christian - Gospel",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 100,
-      "adding_date": "2014-09-12",
-      "count": 100,
-      "authors": [
-        {
-          "key": "/authors/OL3346532A",
-          "last_name": "Hezakiah Walker",
-          "first_name": "Hezakiah"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900363M",
-    "data": {
-      "title": "Live in Toronto",
-      "city": null,
-      "publisher": "Verity",
-      "year": 1997,
-      "subject": "Christian - Gospel",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 10,
-      "adding_date": "2004-07-30",
-      "count": 50,
-      "authors": [
-        {
-          "key": "/authors/OL3346532A",
-          "last_name": "Hezakiah Walker",
-          "first_name": "Hezakiah"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900364M",
-    "data": {
-      "title": "Go Tell It on the Mountain",
-      "city": null,
-      "publisher": "Verity",
-      "year": 1997,
-      "subject": "Christian - Gospel",
-      "genre": null,
-      "periodic_release": 3,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 100,
-      "adding_date": "2008-07-19",
-      "count": 10,
-      "authors": [
-        {
-          "key": "/authors/OL3511023A",
-          "last_name": "Christmas Mass Choir",
-          "first_name": "Christmas"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900365M",
-    "data": {
-      "title": "Shakin' the House",
-      "city": null,
-      "publisher": "Verity",
-      "year": 1997,
-      "subject": "Christian - Gospel",
-      "genre": null,
-      "periodic_release": 2,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 100,
-      "adding_date": "2008-02-20",
-      "count": 10,
-      "authors": [
-        {
-          "key": "/authors/unknown",
-          "last_name": "Unknown",
-          "first_name": "Unknown"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900366M",
-    "data": {
-      "title": "Let the Redeemed of the Lord",
-      "city": null,
-      "publisher": "Verity",
-      "year": 1997,
-      "subject": "Christian - Gospel",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 10,
-      "adding_date": "2015-02-04",
-      "count": 10,
-      "authors": [
-        {
-          "key": "/authors/OL3511024A",
-          "last_name": "Et Bird Inspirational Choir",
-          "first_name": "Et"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900367M",
-    "data": {
-      "title": "Shakin' the House",
-      "city": null,
-      "publisher": "Verity",
-      "year": 1997,
-      "subject": "Christian - Gospel",
-      "genre": null,
-      "periodic_release": 2,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 100,
-      "adding_date": "2011-12-15",
-      "count": 500,
-      "authors": [
-        {
-          "key": "/authors/unknown",
-          "last_name": "Unknown",
-          "first_name": "Unknown"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900368M",
-    "data": {
-      "title": "Chicago Westside Choir",
-      "city": null,
-      "publisher": "Verity",
-      "year": 1997,
-      "subject": "Christian - Gospel",
-      "genre": null,
-      "periodic_release": 3,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 30,
-      "adding_date": "2004-11-05",
-      "count": 300,
-      "authors": [
-        {
-          "key": "/authors/OL3511025A",
-          "last_name": "Chicago Westside Choir",
-          "first_name": "Chicago"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900369M",
-    "data": {
-      "title": "Surely the Lord is in",
-      "city": null,
-      "publisher": "Verity",
-      "year": 2001,
-      "subject": "Christian - Gospel",
-      "genre": null,
-      "periodic_release": 2,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 30,
-      "adding_date": "2013-07-09",
-      "count": 500,
-      "authors": [
-        {
-          "key": "/authors/OL3511026A",
-          "last_name": "First Church of Deliverance",
-          "first_name": "First"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL1090036M",
-    "data": {
-      "title": "Light detectors, photoreceptors, and imaging systems in nature",
-      "city": "New York",
-      "publisher": "Oxford University Press",
-      "year": 1995,
-      "subject": "Photoreceptors.",
-      "genre": null,
-      "periodic_release": 3,
-      "page_count": 259,
-      "lang": "eng",
-      "days_keep_count": 10,
-      "adding_date": "2016-12-06",
-      "count": 50,
-      "authors": [
-        {
-          "key": "/authors/OL579570A",
-          "last_name": "Jerome J. Wolken",
-          "first_name": "Jerome"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900370M",
-    "data": {
-      "title": "Live in L.A.",
-      "city": null,
-      "publisher": "Verity",
-      "year": 1997,
-      "subject": "Christian - Gospel",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 200,
-      "adding_date": "2000-10-21",
-      "count": 20,
-      "authors": [
-        {
-          "key": "/authors/OL3347545A",
-          "last_name": "Gmwa Mass Choir",
-          "first_name": "Gmwa"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900371M",
-    "data": {
-      "title": "Torchbearers of Excellence",
-      "city": null,
-      "publisher": "Verity",
-      "year": 1997,
-      "subject": "Christian - Gospel",
-      "genre": null,
-      "periodic_release": 2,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 10,
-      "adding_date": "2012-05-27",
-      "count": 10,
-      "authors": [
-        {
-          "key": "/authors/OL3347545A",
-          "last_name": "Gmwa Mass Choir",
-          "first_name": "Gmwa"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900372M",
-    "data": {
-      "title": "Live in Indianapolis",
-      "city": null,
-      "publisher": "Verity",
-      "year": 1997,
-      "subject": "Christian - Gospel",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 200,
-      "adding_date": "2014-04-01",
-      "count": 20,
-      "authors": [
-        {
-          "key": "/authors/OL3347545A",
-          "last_name": "Gmwa Mass Choir",
-          "first_name": "Gmwa"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900373M",
-    "data": {
-      "title": "Live in Chicago",
-      "city": null,
-      "publisher": "Verity",
-      "year": 1997,
-      "subject": "Christian - Gospel",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 50,
-      "adding_date": "2010-10-19",
-      "count": 5,
-      "authors": [
-        {
-          "key": "/authors/OL3347545A",
-          "last_name": "Gmwa Mass Choir",
-          "first_name": "Gmwa"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900374M",
-    "data": {
-      "title": "25th Anniversary",
-      "city": null,
-      "publisher": "Verity",
-      "year": 1997,
-      "subject": "Christian - Gospel",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 30,
-      "adding_date": "2010-03-16",
-      "count": 50,
-      "authors": [
-        {
-          "key": "/authors/OL3347545A",
-          "last_name": "Gmwa Mass Choir",
-          "first_name": "Gmwa"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900375M",
-    "data": {
-      "title": "What Shall I Render",
-      "city": null,
-      "publisher": "Verity",
-      "year": 1997,
-      "subject": "Christian - Gospel",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 10,
-      "adding_date": "2008-02-01",
-      "count": 5,
-      "authors": [
-        {
-          "key": "/authors/OL3511027A",
-          "last_name": "Living Faith Mass Choir",
-          "first_name": "Living"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900376M",
-    "data": {
-      "title": "I'm Saved",
-      "city": null,
-      "publisher": "Verity",
-      "year": 1911,
-      "subject": "Christian - Gospel",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 30,
-      "adding_date": "2012-08-11",
-      "count": 10,
-      "authors": [
-        {
-          "key": "/authors/OL3511028A",
-          "last_name": "Louisiana Mass Choir",
-          "first_name": "Louisiana"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900377M",
-    "data": {
-      "title": "Hope of the World",
-      "city": null,
-      "publisher": "Verity",
-      "year": 1997,
-      "subject": "Christian - Gospel",
-      "genre": null,
-      "periodic_release": 3,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 200,
-      "adding_date": "2012-07-15",
-      "count": 300,
-      "authors": [
-        {
-          "key": "/authors/OL3511029A",
-          "last_name": "New Jersey Mass Choir",
-          "first_name": "New"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900378M",
-    "data": {
-      "title": "Redeemed",
-      "city": null,
-      "publisher": "Verity",
-      "year": 1911,
-      "subject": "Christian - Gospel",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 30,
-      "adding_date": "2011-10-16",
-      "count": 20,
-      "authors": [
-        {
-          "key": "/authors/OL3511030A",
-          "last_name": "Redeemed",
-          "first_name": "Redeemed"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900379M",
-    "data": {
-      "title": "Christmas Memories",
-      "city": null,
-      "publisher": "Verity",
-      "year": 1911,
-      "subject": "Unassigned Title",
-      "genre": null,
-      "periodic_release": 3,
-      "page_count": 0,
-      "lang": null,
-      "days_keep_count": 100,
-      "adding_date": "2012-12-18",
-      "count": 500,
-      "authors": [
-        {
-          "key": "/authors/unknown",
-          "last_name": "Unknown",
-          "first_name": "Unknown"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL1090037M",
-    "data": {
-      "title": "Suppliant women",
-      "city": "New York",
-      "publisher": "Oxford University Press",
-      "year": 1995,
-      "subject": "Seven against Thebes (Greek mythology) -- Drama",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 82,
-      "lang": "eng",
-      "days_keep_count": 30,
-      "adding_date": "2002-06-03",
-      "count": 10,
-      "authors": [
-        {
-          "key": "/authors/OL21589A",
-          "last_name": "Euripides",
-          "first_name": "Euripides"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900380M",
-    "data": {
-      "title": "Christmas Memories",
-      "city": null,
-      "publisher": "Verity",
-      "year": 1911,
-      "subject": "Unassigned Title",
-      "genre": null,
-      "periodic_release": 3,
-      "page_count": 0,
-      "lang": null,
-      "days_keep_count": 100,
-      "adding_date": "2002-02-22",
-      "count": 50,
-      "authors": [
-        {
-          "key": "/authors/unknown",
-          "last_name": "Unknown",
-          "first_name": "Unknown"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900381M",
-    "data": {
-      "title": "A Simple Christmas",
-      "city": null,
-      "publisher": "Brentwood-Benson",
-      "year": 1997,
-      "subject": "Music / Songbooks",
-      "genre": null,
-      "periodic_release": 3,
-      "page_count": 32,
-      "lang": "eng",
-      "days_keep_count": 200,
-      "adding_date": "2003-01-19",
-      "count": 50,
-      "authors": [
-        {
-          "key": "/authors/OL3511031A",
-          "last_name": "John M. DeVries",
-          "first_name": "John"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900382M",
-    "data": {
-      "title": "A Simple Christmas",
-      "city": null,
-      "publisher": "Brentwood-Benson",
-      "year": 1997,
-      "subject": "Music / Songbooks",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 30,
-      "adding_date": "2005-09-13",
-      "count": 10,
-      "authors": [
-        {
-          "key": "/authors/OL3511031A",
-          "last_name": "John M. DeVries",
-          "first_name": "John"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900383M",
-    "data": {
-      "title": "A Simple Christmas",
-      "city": null,
-      "publisher": "Brentwood-Benson",
-      "year": 1997,
-      "subject": "Music / Songbooks",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 30,
-      "adding_date": "2001-08-02",
-      "count": 300,
-      "authors": [
-        {
-          "key": "/authors/OL3511031A",
-          "last_name": "John M. DeVries",
-          "first_name": "John"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900384M",
-    "data": {
-      "title": "Shades of Grace",
-      "city": null,
-      "publisher": "Diadem Distribution",
-      "year": 1997,
-      "subject": "Unassigned Title",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 0,
-      "lang": null,
-      "days_keep_count": 10,
-      "adding_date": "2004-08-18",
-      "count": 20,
-      "authors": [
-        {
-          "key": "/authors/unknown",
-          "last_name": "Unknown",
-          "first_name": "Unknown"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900385M",
-    "data": {
-      "title": "The Night Christ Was Born",
-      "city": null,
-      "publisher": "Brentwood-Benson",
-      "year": 1997,
-      "subject": "Music / Songbooks",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 200,
-      "adding_date": "2011-03-04",
-      "count": 10,
-      "authors": [
-        {
-          "key": "/authors/OL2837110A",
-          "last_name": "Dale Mathews",
-          "first_name": "Dale"
-        },
-        {
-          "key": "/authors/OL237669A",
-          "last_name": "Michael Frazier",
-          "first_name": "Michael"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900386M",
-    "data": {
-      "title": "Tis So Sweet",
-      "city": null,
-      "publisher": "Brentwood-Benson",
-      "year": 1997,
-      "subject": "Music / Songbooks",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 30,
-      "adding_date": "2007-03-01",
-      "count": 5,
-      "authors": [
-        {
-          "key": "/authors/OL3511032A",
-          "last_name": "Paul Ferrin",
-          "first_name": "Paul"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900387M",
-    "data": {
-      "title": "For What Earthly Reason",
-      "city": null,
-      "publisher": "Brentwood-Benson",
-      "year": 1997,
-      "subject": "Music / Songbooks",
-      "genre": null,
-      "periodic_release": 2,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 10,
-      "adding_date": "2013-12-13",
-      "count": 50,
-      "authors": [
-        {
-          "key": "/authors/OL3347579A",
-          "last_name": "Lari Goss",
-          "first_name": "Lari"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900388M",
-    "data": {
-      "title": "The Healer",
-      "city": null,
-      "publisher": "Brentwood-Benson",
-      "year": 1997,
-      "subject": "Music / Songbooks",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 100,
-      "adding_date": "2005-04-05",
-      "count": 300,
-      "authors": [
-        {
-          "key": "/authors/OL3347579A",
-          "last_name": "Lari Goss",
-          "first_name": "Lari"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900389M",
-    "data": {
-      "title": "Rich Young Ruler",
-      "city": null,
-      "publisher": "Tribute Book",
+      "publisher": "Stationery Office Books",
       "year": 1998,
-      "subject": "Christian - General",
+      "subject": null,
       "genre": null,
       "periodic_release": null,
-      "page_count": 0,
+      "page_count": 8,
       "lang": null,
-      "days_keep_count": 50,
-      "adding_date": "2011-04-28",
-      "count": 50,
-      "authors": [
-        {
-          "key": "/authors/OL3511033A",
-          "last_name": "Rich Young Ruler",
-          "first_name": "Rich"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL1090038M",
-    "data": {
-      "title": "The Intel 32-bit microprocessors",
-      "city": "Columbus, Ohio",
-      "publisher": "Prentice Hall",
-      "year": 1995,
-      "subject": "Intel 80386 (Microprocessor)",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 801,
-      "lang": "eng",
-      "days_keep_count": 30,
-      "adding_date": "2013-03-18",
-      "count": 10,
-      "authors": [
-        {
-          "key": "/authors/OL389560A",
-          "last_name": "Barry B. Brey",
-          "first_name": "Barry"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900390M",
-    "data": {
-      "title": "New Song-CD Single",
-      "city": null,
-      "publisher": "Brentwood Music",
-      "year": 1997,
-      "subject": "Unassigned Title",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 30,
-      "adding_date": "2012-10-02",
-      "count": 10,
-      "authors": [
-        {
-          "key": "/authors/OL3511034A",
-          "last_name": "New Song",
-          "first_name": "New"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900391M",
-    "data": {
-      "title": "The Night Christ Was Born",
-      "city": null,
-      "publisher": "Brentwood-Benson",
-      "year": 1997,
-      "subject": "Music / Songbooks",
-      "genre": null,
-      "periodic_release": 2,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 50,
-      "adding_date": "2016-02-17",
+      "days_keep_count": 200,
+      "adding_date": "2012-03-21",
       "count": 500,
-      "authors": [
-        {
-          "key": "/authors/OL2837110A",
-          "last_name": "Dale Mathews",
-          "first_name": "Dale"
-        },
-        {
-          "key": "/authors/OL237669A",
-          "last_name": "Michael Frazier",
-          "first_name": "Michael"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900392M",
-    "data": {
-      "title": "The Night Christ Was Born",
-      "city": null,
-      "publisher": "Brentwood-Benson",
-      "year": 1997,
-      "subject": "Music / Songbooks",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 100,
-      "adding_date": "2008-01-24",
-      "count": 500,
-      "authors": [
-        {
-          "key": "/authors/OL2837110A",
-          "last_name": "Dale Mathews",
-          "first_name": "Dale"
-        },
-        {
-          "key": "/authors/OL237669A",
-          "last_name": "Michael Frazier",
-          "first_name": "Michael"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900393M",
-    "data": {
-      "title": "The Night Christ Was Born",
-      "city": null,
-      "publisher": "Brentwood-Benson",
-      "year": 1997,
-      "subject": "Music / Songbooks",
-      "genre": null,
-      "periodic_release": 1,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 30,
-      "adding_date": "2008-07-30",
-      "count": 300,
-      "authors": [
-        {
-          "key": "/authors/OL2837110A",
-          "last_name": "Dale Mathews",
-          "first_name": "Dale"
-        },
-        {
-          "key": "/authors/OL237669A",
-          "last_name": "Michael Frazier",
-          "first_name": "Michael"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900394M",
-    "data": {
-      "title": "Ralph Carmichael and Friends - Complete Set of Ralph Carmichael and Friends",
-      "city": null,
-      "publisher": "Brentwood-Benson",
-      "year": 1997,
-      "subject": "Music / Songbooks",
-      "genre": null,
-      "periodic_release": 1,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 100,
-      "adding_date": "2001-07-29",
-      "count": 50,
-      "authors": [
-        {
-          "key": "/authors/OL1189766A",
-          "last_name": "Ralph Carmichael",
-          "first_name": "Ralph"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900395M",
-    "data": {
-      "title": "He Knows My Heart",
-      "city": null,
-      "publisher": "Brentwood Music",
-      "year": 1997,
-      "subject": "Unassigned Title",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 30,
-      "adding_date": "2000-02-26",
-      "count": 10,
-      "authors": [
-        {
-          "key": "/authors/OL3511035A",
-          "last_name": "Vicki Yohe",
-          "first_name": "Vicki"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10900396M",
-    "data": {
-      "title": "He Knows My Heart",
-      "city": null,
-      "publisher": "Brentwood Music",
-      "year": 1997,
-      "subject": "Unassigned Title",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 0,
-      "lang": null,
-      "days_keep_count": 50,
-      "adding_date": "2010-01-17",
-      "count": 10,
       "authors": [
         {
           "key": "/authors/unknown",
@@ -1100,43 +24,259 @@
     }
   },
   {
-    "key": "/books/OL10900397M",
+    "key": "/books/OL10000722M",
     "data": {
-      "title": "Clay Crosse - Stained Glass",
+      "title": "European Communities (Amendment) Bill",
       "city": null,
-      "publisher": "Brentwood-Benson",
-      "year": 1997,
-      "subject": "Music / Songbooks",
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
       "genre": null,
-      "periodic_release": 3,
-      "page_count": 75,
-      "lang": "eng",
-      "days_keep_count": 50,
-      "adding_date": "2010-12-21",
-      "count": 10,
+      "periodic_release": null,
+      "page_count": 20,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2001-01-04",
+      "count": 500,
       "authors": [
         {
-          "key": "/authors/OL1425464A",
-          "last_name": "Clay Crosse",
-          "first_name": "Clay"
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
         }
       ]
     }
   },
   {
-    "key": "/books/OL10900398M",
+    "key": "/books/OL10000723M",
     "data": {
-      "title": "God Save America, The Musical, SATB",
+      "title": "Crime and Disorder Bill [H.L.]",
       "city": null,
-      "publisher": "Brentwood-Benson Music Publishing",
-      "year": 1997,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: criminal law",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2005-06-26",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000724M",
+    "data": {
+      "title": "Business Improvement Districts Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2001-02-14",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000725M",
+    "data": {
+      "title": "Lord Chancellor (Tenure of Office) (Amendment) Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2006-06-22",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000726M",
+    "data": {
+      "title": "Crime and Disorder Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: criminal law",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2015-12-01",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000727M",
+    "data": {
+      "title": "Social Security Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
       "subject": null,
       "genre": null,
       "periodic_release": 2,
-      "page_count": 181,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2013-08-21",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000728M",
+    "data": {
+      "title": "Bank of England Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2016-08-28",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000729M",
+    "data": {
+      "title": "European Communities (Amendment) Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 20,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2007-04-22",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000072M",
+    "data": {
+      "title": "A day with a troubadour",
+      "city": "Minneapolis",
+      "publisher": "Runestone Press",
+      "year": 1997,
+      "subject": "Peire Vidal, fl. 1200 -- Juvenile fiction.",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 48,
       "lang": "eng",
       "days_keep_count": 100,
-      "adding_date": "2000-10-07",
+      "adding_date": "2003-07-02",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/OL38343A",
+          "last_name": "Pernoud",
+          "first_name": "Régine"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000730M",
+    "data": {
+      "title": "Northern Ireland (Emergency Provisions) Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2001-10-14",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000731M",
+    "data": {
+      "title": "Business Improvement Districts Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2010-11-09",
       "count": 500,
       "authors": [
         {
@@ -1148,78 +288,4512 @@
     }
   },
   {
-    "key": "/books/OL10900399M",
+    "key": "/books/OL10000732M",
     "data": {
-      "title": "Were You There",
+      "title": "Crime and Disorder Bill [H.L.]",
       "city": null,
-      "publisher": "Brentwood-Benson",
-      "year": 1997,
-      "subject": "Music / Songbooks",
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: criminal law",
       "genre": null,
-      "periodic_release": 3,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 30,
-      "adding_date": "2012-03-07",
+      "periodic_release": null,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2002-08-28",
       "count": 20,
       "authors": [
         {
-          "key": "/authors/OL396316A",
-          "last_name": "Dave Clark",
-          "first_name": "Dave"
-        },
-        {
-          "key": "/authors/OL3174753A",
-          "last_name": "Russell Mauldin",
-          "first_name": "Russell"
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
         }
       ]
     }
   },
   {
-    "key": "/books/OL1090039M",
+    "key": "/books/OL10000733M",
     "data": {
-      "title": "Dora Stock, portrait painter of the Körner circle in Dresden (1785-1815)",
-      "city": "Lewiston, N.Y",
-      "publisher": "E. Mellen Press",
-      "year": 1993,
-      "subject": "Stock, Dora, 1760-1832.",
+      "title": "Social Security Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
       "genre": null,
       "periodic_release": null,
-      "page_count": 194,
-      "lang": "eng",
+      "page_count": 4,
+      "lang": null,
       "days_keep_count": 10,
-      "adding_date": "2000-02-25",
-      "count": 10,
+      "adding_date": "2010-08-24",
+      "count": 100,
       "authors": [
         {
-          "key": "/authors/OL579571A",
-          "last_name": "Linda Siegel",
-          "first_name": "Linda"
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
         }
       ]
     }
   },
   {
-    "key": "/books/OL109003M",
+    "key": "/books/OL10000734M",
     "data": {
-      "title": "La préhistoire",
-      "city": "Paris",
-      "publisher": "De Boeck Université",
-      "year": 1999,
-      "subject": "Prehistoric peoples.",
+      "title": "Business Improvement Districts Bill [Hl]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
       "genre": null,
-      "periodic_release": 1,
-      "page_count": 369,
-      "lang": "fre",
-      "days_keep_count": 30,
-      "adding_date": "2011-09-20",
+      "periodic_release": null,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2012-12-03",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000735M",
+    "data": {
+      "title": "Mental Health (Amendment) (No. 2) Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2016-05-19",
       "count": 50,
       "authors": [
         {
-          "key": "/authors/OL73058A",
-          "last_name": "Marcel Otte",
-          "first_name": "Marcel"
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000736M",
+    "data": {
+      "title": "Bank of England Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2009-10-01",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000737M",
+    "data": {
+      "title": "Crime and Disorder Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: criminal law",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2009-03-26",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000738M",
+    "data": {
+      "title": "Criminal Justice (International Co-Operation) (Amendment) Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2008-02-14",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000739M",
+    "data": {
+      "title": "Bank of England Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2015-06-06",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000073M",
+    "data": {
+      "title": "The social contract and other later political writings",
+      "city": "Cambridge, U.K",
+      "publisher": "Cambridge University Press",
+      "year": 1997,
+      "subject": "Political science.",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 341,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2010-08-24",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/OL29048A",
+          "last_name": "Rousseau",
+          "first_name": "Jean-Jacques"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000740M",
+    "data": {
+      "title": "Social Security Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 32,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2001-03-31",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000741M",
+    "data": {
+      "title": "Crime and Disorder Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: criminal law",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 16,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2000-04-20",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000742M",
+    "data": {
+      "title": "National Minimum Wage Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2003-08-31",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000743M",
+    "data": {
+      "title": "Criminal Justice (International Co-Operation) (Amendment) Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2016-03-15",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000744M",
+    "data": {
+      "title": "National Minimum Wage Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2002-05-13",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000745M",
+    "data": {
+      "title": "Social Security Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 10,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2007-09-28",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000746M",
+    "data": {
+      "title": "Social Security Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 36,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2007-01-05",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000747M",
+    "data": {
+      "title": "National Minimum Wage Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2001-06-07",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000748M",
+    "data": {
+      "title": "Regional Development Agencies Bill (House of Lords Bills)",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "Laws of Other Jurisdictions & General Law",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 55,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2016-10-15",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000749M",
+    "data": {
+      "title": "Social Security Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2010-04-08",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000074M",
+    "data": {
+      "title": "The discourses and other political writings",
+      "city": "Cambridge",
+      "publisher": "Cambridge University Press",
+      "year": 1997,
+      "subject": "Political science -- Early works to 1800.",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 437,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2000-12-02",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/OL29048A",
+          "last_name": "Rousseau",
+          "first_name": "Jean-Jacques"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000750M",
+    "data": {
+      "title": "Social Security Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 24,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2011-11-22",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000751M",
+    "data": {
+      "title": "National Minimum Wage Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2006-06-01",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000752M",
+    "data": {
+      "title": "Social Security Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 16,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2008-02-29",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000753M",
+    "data": {
+      "title": "National Minimum Wage Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2005-10-03",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000754M",
+    "data": {
+      "title": "Social Security Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2000-12-04",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000755M",
+    "data": {
+      "title": "European Parliamentary Elections Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2008-02-23",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000756M",
+    "data": {
+      "title": "Social Security Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2007-06-23",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000757M",
+    "data": {
+      "title": "Social Security Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2013-09-05",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000758M",
+    "data": {
+      "title": "Social Security Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 24,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2009-12-20",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000759M",
+    "data": {
+      "title": "Social Security Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2001-09-05",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000075M",
+    "data": {
+      "city": null,
+      "publisher": null,
+      "year": 1950,
+      "subject": "Finance -- History -- 20th century.",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 222,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2015-03-18",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000760M",
+    "data": {
+      "title": "National Minimum Wage Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2016-01-04",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000761M",
+    "data": {
+      "title": "Social Security Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2001-08-01",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000762M",
+    "data": {
+      "title": "Social Security Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 17,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2016-09-03",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000763M",
+    "data": {
+      "title": "School Standards and Framework Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2006-02-03",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000764M",
+    "data": {
+      "title": "Government of Wales Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 12,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2006-11-18",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000765M",
+    "data": {
+      "title": "European Communities (Amendment) Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2000-06-10",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000766M",
+    "data": {
+      "title": "School Standards and Framework Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2003-12-26",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000767M",
+    "data": {
+      "title": "European Communities (Amendment) Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 16,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2013-10-13",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000768M",
+    "data": {
+      "title": "School Standards and Framework Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2009-04-28",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000769M",
+    "data": {
+      "title": "European Communities (Amendment) Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 14,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2016-02-25",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000076M",
+    "data": {
+      "title": "Mind, culture, and activity",
+      "city": "Cambridge",
+      "publisher": "Cambridge University Press",
+      "year": 1997,
+      "subject": "Ethnopsychology.",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 501,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2012-10-25",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000770M",
+    "data": {
+      "title": "Fireworks Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2012-08-25",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000771M",
+    "data": {
+      "title": "Government of Wales Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2012-08-02",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000772M",
+    "data": {
+      "title": "Government of Wales Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2005-01-08",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000773M",
+    "data": {
+      "title": "School Standards and Framework Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 20,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2004-06-19",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000774M",
+    "data": {
+      "title": "Pesticides Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2010-06-19",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000775M",
+    "data": {
+      "title": "Government of Wales Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2003-02-14",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000776M",
+    "data": {
+      "title": "Social Security Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2015-04-04",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000777M",
+    "data": {
+      "title": "School Standards and Framework Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2003-08-03",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000778M",
+    "data": {
+      "title": "School Standards and Framework Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 16,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2012-05-16",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000779M",
+    "data": {
+      "title": "Government of Wales Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2010-08-20",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000077M",
+    "data": {
+      "title": "Metaphysics and the origin of species",
+      "city": "Albany",
+      "publisher": "State University of New York Press",
+      "year": 1997,
+      "subject": "Evolution (Biology) -- Philosophy.",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 377,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2011-04-13",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/OL540761A",
+          "last_name": "T. Ghiselin",
+          "first_name": "Michael"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000780M",
+    "data": {
+      "title": "Social Security Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2012-12-01",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000781M",
+    "data": {
+      "title": "Northern Ireland (Elections) Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2016-05-26",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000782M",
+    "data": {
+      "title": "Social Security Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2011-01-30",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000783M",
+    "data": {
+      "title": "School Standards and Framework Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 36,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2002-07-03",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000784M",
+    "data": {
+      "title": "Fireworks Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2002-02-04",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000785M",
+    "data": {
+      "title": "Government of Wales Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2011-12-25",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000786M",
+    "data": {
+      "title": "Social Security Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2011-03-07",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000787M",
+    "data": {
+      "title": "Northern Ireland (Elections) Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2015-07-03",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000788M",
+    "data": {
+      "title": "Government of Wales Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2016-05-30",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000789M",
+    "data": {
+      "title": "School Standards and Framework Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2002-11-19",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000078M",
+    "data": {
+      "title": "Adult development, therapy, and culture",
+      "city": "New York",
+      "publisher": "Plenum Press",
+      "year": 1997,
+      "subject": "Psychotherapy",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 380,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2013-04-13",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/OL540762A",
+          "last_name": "Young",
+          "first_name": "Gerald"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000790M",
+    "data": {
+      "title": "Northern Ireland (Elections) Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2005-07-01",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000791M",
+    "data": {
+      "title": "Social Security Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 6,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2014-01-20",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000792M",
+    "data": {
+      "title": "Government of Wales Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 48,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2001-12-03",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000793M",
+    "data": {
+      "title": "Government of Wales Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 12,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2008-07-22",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000794M",
+    "data": {
+      "title": "Pesticides Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2000-12-18",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000795M",
+    "data": {
+      "title": "School Standards and Framework Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2001-01-20",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000796M",
+    "data": {
+      "title": "European Parliamentary Elections Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2006-05-21",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000797M",
+    "data": {
+      "title": "European Communities (Amendment) Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2006-03-31",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000798M",
+    "data": {
+      "title": "Government of Wales Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 65,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2001-11-16",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000799M",
+    "data": {
+      "title": "European Parliamentary Elections Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2013-04-01",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000079M",
+    "data": {
+      "title": "Policing desire",
+      "city": "Minneapolis",
+      "publisher": "University of Minnesota Press",
+      "year": 1996,
+      "subject": "AIDS (Disease) -- Social aspects.",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 172,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2001-08-21",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL440654A",
+          "last_name": "Watney",
+          "first_name": "Simon"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL100007M",
+    "data": {
+      "title": "Hundezeiten",
+      "city": "München",
+      "publisher": "C. Hanser",
+      "year": 1999,
+      "subject": "Trojanow, Ilija -- Homes and haunts -- Bulgaria.",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 311,
+      "lang": "ger",
+      "days_keep_count": 100,
+      "adding_date": "2006-08-24",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/OL67193A",
+          "last_name": "Trojanow",
+          "first_name": "Ilija"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000800M",
+    "data": {
+      "title": "European Communities (Amendment) Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2004-02-28",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000801M",
+    "data": {
+      "title": "Government of Wales Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2002-02-09",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000802M",
+    "data": {
+      "title": "European Parliamentary Elections Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2005-01-31",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000803M",
+    "data": {
+      "title": "School Standards and Framework Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2011-07-10",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000804M",
+    "data": {
+      "title": "School Standards and Framework Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 12,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2000-05-31",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000805M",
+    "data": {
+      "title": "Government of Wales Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2006-08-28",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000806M",
+    "data": {
+      "title": "European Communities (Amendment) Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2009-04-10",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000807M",
+    "data": {
+      "title": "European Parliamentary Elections Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2014-03-19",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000808M",
+    "data": {
+      "title": "Government of Wales Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2002-09-05",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000809M",
+    "data": {
+      "title": "School Standards and Framework Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2002-05-25",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000080M",
+    "data": {
+      "title": "Congress reconsidered",
+      "city": "Washington, D.C",
+      "publisher": "CQ Press",
+      "year": 1997,
+      "subject": "United States. Congress.",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 450,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2005-02-02",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000810M",
+    "data": {
+      "title": "Government of Wales Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2015-04-22",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000811M",
+    "data": {
+      "title": "National Minimum Wage Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2006-08-23",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000812M",
+    "data": {
+      "title": "School Standards and Framework Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2011-01-21",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000813M",
+    "data": {
+      "title": "School Standards and Framework Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2003-10-31",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000814M",
+    "data": {
+      "title": "European Communities (Amendment) Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2014-01-22",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000815M",
+    "data": {
+      "title": "National Minimum Wage Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2012-09-28",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000816M",
+    "data": {
+      "title": "Government of Wales Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2006-06-29",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000817M",
+    "data": {
+      "title": "European Communities (Amendment) Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2000-11-02",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000818M",
+    "data": {
+      "title": "Regional Development Agencies Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2012-08-10",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000819M",
+    "data": {
+      "title": "European Communities (Amendment) Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2001-03-07",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000820M",
+    "data": {
+      "title": "Regional Development Agencies Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2015-05-21",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000821M",
+    "data": {
+      "title": "Government of Wales Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 12,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2002-01-25",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000822M",
+    "data": {
+      "title": "School Standards and Framework Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 12,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2007-07-13",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000823M",
+    "data": {
+      "title": "Public Interest Disclosure Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2014-06-22",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000824M",
+    "data": {
+      "title": "School Standards and Framework Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 16,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2001-12-22",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000825M",
+    "data": {
+      "title": "National Minimum Wage Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2003-02-05",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000826M",
+    "data": {
+      "title": "School Standards and Framework Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2008-04-19",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000827M",
+    "data": {
+      "title": "Government of Wales Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2014-07-30",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000828M",
+    "data": {
+      "title": "Government of Wales Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2005-07-28",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000829M",
+    "data": {
+      "title": "School Standards and Framework Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 59,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2007-12-11",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000082M",
+    "data": {
+      "title": "Healthcare market research",
+      "city": "[Burr Ridge, IL]",
+      "publisher": "Irwin",
+      "year": 1997,
+      "subject": "Medical care -- Marketing.",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 276,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2006-11-07",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/OL452769A",
+          "last_name": "N. Berkowitz",
+          "first_name": "Eric"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000830M",
+    "data": {
+      "title": "Pesticides Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2002-11-30",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000831M",
+    "data": {
+      "title": "Government of Wales Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 80,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2002-09-26",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000832M",
+    "data": {
+      "title": "National Minimum Wage Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2008-03-03",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000833M",
+    "data": {
+      "title": "Public Interest Disclosure Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2011-12-20",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000834M",
+    "data": {
+      "title": "School Standards and Framework Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2012-05-01",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000835M",
+    "data": {
+      "title": "Fireworks Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2008-07-03",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000836M",
+    "data": {
+      "title": "Regional Development Agencies Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2001-04-19",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000837M",
+    "data": {
+      "title": "Government of Wales Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 63,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2005-05-08",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000838M",
+    "data": {
+      "title": "School Standards and Framework Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2000-10-21",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000839M",
+    "data": {
+      "title": "School Standards and Framework Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 62,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2003-05-28",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000083M",
+    "data": {
+      "title": "The financial institutions Internet sourcebook",
+      "city": "New York",
+      "publisher": "McGraw-Hill",
+      "year": 1997,
+      "subject": "Financial services industry -- Computer network -- United States.",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 150,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2016-01-05",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/OL540764A",
+          "last_name": "Lewis Evans",
+          "first_name": "Gary"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000840M",
+    "data": {
+      "title": "Government of Wales Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2014-04-03",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000841M",
+    "data": {
+      "title": "National Minimum Wage Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2010-02-09",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000842M",
+    "data": {
+      "title": "Police (Northern Ireland) Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2009-08-23",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000843M",
+    "data": {
+      "title": "School Standards and Framework Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2013-01-23",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000844M",
+    "data": {
+      "title": "Government of Wales Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2013-11-27",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000845M",
+    "data": {
+      "title": "European Parliamentary Elections Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2001-01-03",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000846M",
+    "data": {
+      "title": "Fireworks Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2015-12-21",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000847M",
+    "data": {
+      "title": "Public Interest Disclosure Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2006-04-23",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000848M",
+    "data": {
+      "title": "Regional Development Agencies Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2012-07-07",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000849M",
+    "data": {
+      "title": "Police (Northern Ireland) Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2008-01-21",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000084M",
+    "data": {
+      "title": "The management of telecommunications",
+      "city": "Chicago",
+      "publisher": "Irwin",
+      "year": 1997,
+      "subject": "Business -- Communication systems.",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 726,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2008-09-04",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/OL540765A",
+          "last_name": "H. Carr",
+          "first_name": "Houston"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000850M",
+    "data": {
+      "title": "School Standards and Framework Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 57,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2010-04-15",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000851M",
+    "data": {
+      "title": "Police (Northern Ireland) Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 3,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2011-08-19",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000852M",
+    "data": {
+      "title": "Regional Development Agencies Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2011-04-09",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000853M",
+    "data": {
+      "title": "School Standards and Framework Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2010-04-17",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000854M",
+    "data": {
+      "title": "Government of Wales Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 56,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2011-09-03",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000855M",
+    "data": {
+      "title": "National Minimum Wage Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2009-01-03",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000856M",
+    "data": {
+      "title": "School Standards and Framework Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 38,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2001-03-03",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000857M",
+    "data": {
+      "title": "National Minimum Wage Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 20,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2011-04-08",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000858M",
+    "data": {
+      "title": "Public Interest Disclosure Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2006-12-24",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000859M",
+    "data": {
+      "title": "School Standards and Framework Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2003-01-06",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000085M",
+    "data": {
+      "title": "The ISO 140001 implementation tool kit",
+      "city": "Chicago",
+      "publisher": "Irwin",
+      "year": 1996,
+      "subject": "ISO 14000 Series Standards",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2006-05-05",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/OL540766A",
+          "last_name": "Zottola",
+          "first_name": "Vincent"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000860M",
+    "data": {
+      "title": "Regional Development Agencies Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2001-11-16",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000861M",
+    "data": {
+      "title": "Road Traffic Reduction (National Targets) Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2016-10-20",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000862M",
+    "data": {
+      "title": "Government of Wales Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 48,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2009-03-03",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000863M",
+    "data": {
+      "title": "National Minimum Wage Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 12,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2015-10-28",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000864M",
+    "data": {
+      "title": "School Standards and Framework Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2011-06-13",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000865M",
+    "data": {
+      "title": "Teaching and Higher Education Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2007-08-23",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000866M",
+    "data": {
+      "title": "School Standards and Framework Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 28,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2004-04-15",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000867M",
+    "data": {
+      "title": "National Minimum Wage Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2010-01-18",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000868M",
+    "data": {
+      "title": "Road Traffic Reduction (National Targets) Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2006-01-21",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000869M",
+    "data": {
+      "title": "Pesticides Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2001-01-24",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000086M",
+    "data": {
+      "title": "Applied statistics",
+      "city": "Chicago",
+      "publisher": "Irwin",
+      "year": 1997,
+      "subject": "Commercial statistics.",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 1273,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2007-11-27",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/OL540767A",
+          "last_name": "L. Bowerman",
+          "first_name": "Bruce"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000870M",
+    "data": {
+      "title": "Regional Development Agencies Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2001-05-06",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000871M",
+    "data": {
+      "title": "Road Traffic Reduction (National Targets) Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2002-02-13",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000872M",
+    "data": {
+      "title": "Police (Northern Ireland) Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2006-08-27",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000873M",
+    "data": {
+      "title": "Teaching and Higher Education Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2010-01-18",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000874M",
+    "data": {
+      "title": "Road Traffic Reduction (National Targets) Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2008-04-19",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000875M",
+    "data": {
+      "title": "Police (Northern Ireland) Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2007-03-26",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000876M",
+    "data": {
+      "title": "Government of Wales Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2002-07-15",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000877M",
+    "data": {
+      "title": "Government of Wales Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2012-03-19",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000878M",
+    "data": {
+      "title": "Scotland Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "Scots Law",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2011-04-02",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000879M",
+    "data": {
+      "title": "Police (Northern Ireland) Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2014-12-07",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000087M",
+    "data": {
+      "title": "John Tyndall's transcendental materialism and the conflict between religion and science in Victorian England",
+      "city": "Lewiston",
+      "publisher": "Mellen University Press",
+      "year": 1996,
+      "subject": "Tyndall, John, 1820-1893.",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 217,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2007-10-28",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/OL540768A",
+          "last_name": "S. Kim",
+          "first_name": "Stephen"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000880M",
+    "data": {
+      "title": "National Minimum Wage Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2009-11-28",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000881M",
+    "data": {
+      "title": "European Parliamentary Elections Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2003-06-22",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000882M",
+    "data": {
+      "title": "Teaching and Higher Education Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2003-08-22",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000883M",
+    "data": {
+      "title": "Road Traffic Reduction (National Targets) Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2004-12-11",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000884M",
+    "data": {
+      "title": "Scotland Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "Constitution: government & the state",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2009-01-01",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000885M",
+    "data": {
+      "title": "Government of Wales Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2008-11-15",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000886M",
+    "data": {
+      "title": "School Standards and Framework Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 16,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2010-04-26",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000887M",
+    "data": {
+      "title": "European Parliamentary Elections Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 12,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2004-01-26",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000888M",
+    "data": {
+      "title": "Road Traffic Reduction (National Targets) Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2014-09-08",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000889M",
+    "data": {
+      "title": "Scotland Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2016-02-05",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000088M",
+    "data": {
+      "title": "Standards in the services industry",
+      "city": "Aldershot, Hampshire, England",
+      "publisher": "Gower",
+      "year": 1997,
+      "subject": "Service industries -- Standards.",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 177,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2009-04-10",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/OL446718A",
+          "last_name": "Rothery",
+          "first_name": "Brian"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000890M",
+    "data": {
+      "title": "School Standards and Framework Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 6,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2008-05-27",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000891M",
+    "data": {
+      "title": "Government of Wales Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2006-02-07",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000892M",
+    "data": {
+      "title": "Scotland Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "Scots Law",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2010-09-27",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000893M",
+    "data": {
+      "title": "European Parliamentary Elections Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 12,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2012-05-06",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000894M",
+    "data": {
+      "title": "Government of Wales Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 3,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2016-12-18",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000895M",
+    "data": {
+      "title": "Scotland Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "Scots Law",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2001-08-22",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000896M",
+    "data": {
+      "title": "School Standards and Framework Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 21,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2002-11-13",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000897M",
+    "data": {
+      "title": "Regional Development Agencies Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2004-09-20",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000898M",
+    "data": {
+      "title": "Government of Wales Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2006-06-28",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000899M",
+    "data": {
+      "title": "Scotland Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2014-09-30",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000089M",
+    "data": {
+      "title": "Helping kids handle anger without violence",
+      "city": "Minneapolis, MN",
+      "publisher": "Johnson Institute",
+      "year": 1997,
+      "subject": "Children and violence.",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 21,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2009-04-25",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/OL454282A",
+          "last_name": "Remboldt",
+          "first_name": "Carole"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL100008M",
+    "data": {
+      "title": "La mies de la tierra está madura",
+      "city": "Buenos Aires",
+      "publisher": "Grupo Editor Latinoamericano",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 246,
+      "lang": "spa",
+      "days_keep_count": 50,
+      "adding_date": "2015-08-31",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/OL67194A",
+          "last_name": "Rubén.",
+          "first_name": "Benítez,"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000900M",
+    "data": {
+      "title": "School Standards and Framework Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2010-01-13",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000901M",
+    "data": {
+      "title": "Government of Wales Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 12,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2009-05-13",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
         }
       ]
     }

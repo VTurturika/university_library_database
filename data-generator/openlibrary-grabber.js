@@ -5,10 +5,61 @@ const utils = require("./utils.js");
 const args = utils.args;
 
 let totalCount = 0;
+const recordsPerRequest = 200;
 const baseUrl = "http://openlibrary.org";
 const getRandomArrayItem = array => array[Math.floor(Math.random()*array.length)];
 const getRandomDate = (start, end) => new Date(start.getTime() + Math.random() * (end.getTime() - start.getTime()))
                                             .toISOString().slice(0, 10);
+
+function main() {
+    
+    if(utils.hasArguments() && args.books_count) {
+
+        let booksCount = +args.books_count;
+        let startOffset = args.offset ? args.offset : 0;
+        utils.clearOpenLibraryDirectory();
+
+        if(booksCount <= recordsPerRequest) {
+
+            runSerial([
+                processRequest({
+                    count:booksCount,
+                    number: 1,
+                    offset: startOffset
+                })
+            ]).then(() => console.log(`\nAll requests finished\n`+
+                                      `Fetched ${totalCount} records, wrote to 1 file`));
+        }
+        else {
+
+            let requestsPromises = [];
+            let requestsCount = Math.floor(booksCount/recordsPerRequest);
+
+            for(let i=0; i < requestsCount; i++) {
+                requestsPromises.push(processRequest({
+                    count: recordsPerRequest,
+                    offset: startOffset + i*recordsPerRequest,
+                    number: i+1
+                }));
+            }
+
+            if(booksCount%recordsPerRequest != 0) {
+                requestsPromises.push(processRequest({
+                    count: booksCount%recordsPerRequest,
+                    offset: startOffset + requestsCount*recordsPerRequest,
+                    number: requestsCount+1
+                }))
+            }
+
+            runSerial(requestsPromises)
+                .then(() => console.log(`\nAll requests finished\n`+
+                                        `Fetched ${totalCount} records, wrote to ${requestsCount} files`));
+        }
+    }
+    else {
+        utils.showGrabberHelp();
+    }
+}
 
 function runSerial(tasks) {
     let result = Promise.resolve();
@@ -75,7 +126,7 @@ function processAuthor(author) {
             let data = JSON.parse(body);
             let processedAuthor = {
                 key: data.name ? author: "/authors/unknown",
-                last_name: data.name ? data.name.replace(/^\S\s+/, "") : "Unknown",
+                last_name: data.name ? data.name.replace(/^\S+\s/, "") : "Unknown",
                 first_name: data.name ? data.name.replace(/(\s\S+)+$/, "") : "Unknown"
             };
 
@@ -118,48 +169,4 @@ function processRequest(params) {
     });
 }
 
-if(utils.hasArguments() && args.books_count) {
-
-    let booksCount = +args.books_count;
-    let startOffset = args.offset ? args.offset : 0;
-    utils.clearOpenLibraryDirectory();
-
-    if(booksCount <= 50) {
-
-        runSerial([
-            processRequest({
-                count:booksCount,
-                number: 1,
-                offset: startOffset
-            })
-        ]).then(() => console.log(`\nAll requests finished\nFetched ${totalCount} records, wrote to 1 file`));
-    }
-    else {
-
-        let requestsPromises = [];
-        let requestsCount = Math.floor(booksCount/50);
-
-        for(let i=0; i < requestsCount; i++) {
-            requestsPromises.push(processRequest({
-                count: 50,
-                offset: startOffset + i*50,
-                number: i+1
-            }));
-        }
-
-        if(booksCount%50 != 0) {
-            requestsPromises.push(processRequest({
-                count: booksCount%50,
-                offset: startOffset + requestsCount*50,
-                number: requestsCount+1
-            }))
-        }
-
-        runSerial(requestsPromises)
-            .then(() => console.log(`\nAll requests finished\n`+
-                                    `Fetched ${totalCount} records, wrote to ${requestsCount} files`));
-    }
-}
-else {
-    utils.showGrabberHelp();
-}
+main();

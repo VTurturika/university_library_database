@@ -1,340 +1,882 @@
 [
   {
-    "key": "/books/OL1009005M",
+    "key": "/books/OL10000181M",
     "data": {
-      "title": "Last year in Hong Kong",
-      "city": "New York",
-      "publisher": "W. Morrow",
-      "year": 1997,
-      "subject": "Hong Kong (China) -- Fiction.",
+      "title": "House of Lords Official Report",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
       "genre": null,
       "periodic_release": null,
-      "page_count": 225,
-      "lang": "eng",
-      "days_keep_count": 10,
-      "adding_date": "2008-04-19",
-      "count": 10,
-      "authors": [
-        {
-          "key": "/authors/OL4331292A",
-          "last_name": "Robert S. Elegant",
-          "first_name": "Robert"
-        },
-        {
-          "key": "/authors/OL6887299A",
-          "last_name": "Robert S. Elegant",
-          "first_name": "Robert"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10090060M",
-    "data": {
-      "title": "Calculus & Math Calculus & Analytical Geometry",
-      "city": null,
-      "publisher": "Prentice Hall College Div",
-      "year": 1996,
-      "subject": "Calculus & mathematical analysis",
-      "genre": null,
-      "periodic_release": 2,
-      "page_count": 0,
-      "lang": "eng",
+      "page_count": 154,
+      "lang": null,
       "days_keep_count": 100,
-      "adding_date": "2008-03-24",
+      "adding_date": "2011-04-21",
       "count": 50,
       "authors": [
         {
-          "key": "/authors/OL353743A",
-          "last_name": "Frank G. Hagin",
-          "first_name": "Frank"
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
         }
       ]
     }
   },
   {
-    "key": "/books/OL10090061M",
+    "key": "/books/OL10000182M",
     "data": {
-      "title": "Calculus With Matlab",
+      "title": "House of Lords Official Report",
       "city": null,
-      "publisher": "Prentice Hall",
-      "year": 1996,
-      "subject": "Miscellaneous Software",
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
       "genre": null,
       "periodic_release": null,
-      "page_count": 136,
-      "lang": "eng",
-      "days_keep_count": 100,
-      "adding_date": "2008-12-23",
-      "count": 500,
+      "page_count": 169,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2009-07-03",
+      "count": 20,
       "authors": [
         {
-          "key": "/authors/OL353743A",
-          "last_name": "Frank G. Hagin",
-          "first_name": "Frank"
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
         }
       ]
     }
   },
   {
-    "key": "/books/OL10090062M",
+    "key": "/books/OL10000183M",
     "data": {
-      "title": "Instructor's solutions manual for Differential equations and boundary value problems",
+      "title": "House of Lords Official Report",
       "city": null,
-      "publisher": "Prentice-Hall",
-      "year": 1996,
-      "subject": "Differential equations",
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 187,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2016-12-15",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000184M",
+    "data": {
+      "title": "House of Lords Official Report",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
       "genre": null,
       "periodic_release": 3,
-      "page_count": 385,
-      "lang": "eng",
-      "days_keep_count": 100,
-      "adding_date": "2008-04-27",
-      "count": 300,
-      "authors": [
-        {
-          "key": "/authors/OL22656A",
-          "last_name": "C. H. Edwards",
-          "first_name": "C."
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10090063M",
-    "data": {
-      "title": "Almanac of Business and Industrial Financial Ratios 1996 (Serial)",
-      "city": null,
-      "publisher": "Prentice Hall",
-      "year": 1996,
-      "subject": "Budgeting & financial management",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 740,
-      "lang": "eng",
-      "days_keep_count": 200,
-      "adding_date": "2009-11-06",
+      "page_count": 202,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2012-08-29",
       "count": 50,
       "authors": [
         {
-          "key": "/authors/OL575723A",
-          "last_name": "Leo Troy",
-          "first_name": "Leo"
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
         }
       ]
     }
   },
   {
-    "key": "/books/OL10090064M",
+    "key": "/books/OL10000185M",
     "data": {
-      "title": "Children in Conflict",
+      "title": "Parliamentary Debates, House of Lords",
       "city": null,
-      "publisher": "Pearson US Imports & PHIPEs",
+      "publisher": "Stationery Office",
+      "year": 1999,
+      "subject": "POLITICS & GOVERNMENT",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 216,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2015-01-11",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/OL2645811A",
+          "last_name": "Tso",
+          "first_name": "Tso"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000186M",
+    "data": {
+      "title": "House of Lords Official Report",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1999,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 237,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2008-06-30",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000187M",
+    "data": {
+      "title": "The Parliamentary Debates (Hansard). Fifth Series, Vol 593. House of Lords. Official Report.",
+      "city": null,
+      "publisher": "HMSO 1998.",
       "year": 1998,
       "subject": null,
       "genre": null,
       "periodic_release": null,
       "page_count": 0,
       "lang": null,
-      "days_keep_count": 30,
-      "adding_date": "2008-05-06",
-      "count": 10,
-      "authors": [
-        {
-          "key": "/authors/OL3369606A",
-          "last_name": "HUANG",
-          "first_name": "HUANG"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10090065M",
-    "data": {
-      "title": "Construction Management",
-      "city": null,
-      "publisher": "Prentice Hall College Div",
-      "year": 2003,
-      "subject": "Building construction & materials",
-      "genre": null,
-      "periodic_release": 1,
-      "page_count": 500,
-      "lang": "eng",
-      "days_keep_count": 10,
-      "adding_date": "2010-05-17",
-      "count": 10,
-      "authors": [
-        {
-          "key": "/authors/OL3369607A",
-          "last_name": "Hasso",
-          "first_name": "Hasso"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10090066M",
-    "data": {
-      "title": "A Dozen Common Teaching Mistakes and What to Do Instead",
-      "city": null,
-      "publisher": "Prentice Hall",
-      "year": 2005,
-      "subject": "Teaching Methods & Materials - General",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 200,
-      "adding_date": "2004-03-10",
-      "count": 5,
-      "authors": [
-        {
-          "key": "/authors/OL3314690A",
-          "last_name": "Patricia M. Barbetta",
-          "first_name": "Patricia"
-        },
-        {
-          "key": "/authors/OL3314691A",
-          "last_name": "Rodney A. Cavanaugh",
-          "first_name": "Rodney"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10090067M",
-    "data": {
-      "title": "Sm Corporate Finance Investment I/M Phec",
-      "city": null,
-      "publisher": "Prentice-Hall",
-      "year": 1996,
-      "subject": null,
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 0,
-      "lang": null,
-      "days_keep_count": 50,
-      "adding_date": "2005-09-18",
-      "count": 100,
-      "authors": [
-        {
-          "key": "/authors/OL2749113A",
-          "last_name": "Pike",
-          "first_name": "Pike"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10090068M",
-    "data": {
-      "title": "LABORATORY MANUAL FOR INTEGRATED COMPUTER CIRCUITS",
-      "city": null,
-      "publisher": "Prentice Hall",
-      "year": 1968,
-      "subject": null,
-      "genre": null,
-      "periodic_release": 3,
-      "page_count": 152,
-      "lang": null,
-      "days_keep_count": 200,
-      "adding_date": "2009-02-01",
+      "days_keep_count": 100,
+      "adding_date": "2011-11-24",
       "count": 500,
       "authors": [
         {
-          "key": "/authors/OL387931A",
-          "last_name": "Robert F. Coughlin",
-          "first_name": "Robert"
+          "key": "/authors/OL3233971A",
+          "last_name": "Hansard",
+          "first_name": "Hansard"
         }
       ]
     }
   },
   {
-    "key": "/books/OL10090069M",
+    "key": "/books/OL10000188M",
     "data": {
-      "title": "Classroom Teaching Strategies (Monograph)",
+      "title": "The Parliamentary Debates (Hansard). Fifth Series, Vol 594. House of Lords. Official Report.",
       "city": null,
-      "publisher": "Prentice Hall",
-      "year": 1997,
-      "subject": "ELT: Learning Material & Coursework",
+      "publisher": "HMSO 1998.",
+      "year": 1998,
+      "subject": null,
       "genre": null,
       "periodic_release": 3,
-      "page_count": 144,
-      "lang": "eng",
-      "days_keep_count": 100,
-      "adding_date": "2015-08-10",
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2003-05-09",
       "count": 20,
       "authors": [
         {
-          "key": "/authors/OL3369608A",
-          "last_name": "Richard Watson-Todd",
-          "first_name": "Richard"
+          "key": "/authors/OL3233971A",
+          "last_name": "Hansard",
+          "first_name": "Hansard"
         }
       ]
     }
   },
   {
-    "key": "/books/OL1009006M",
+    "key": "/books/OL10000189M",
     "data": {
-      "title": "Snakes and ladders",
-      "city": "New York",
-      "publisher": "N.A. Talese",
-      "year": 1997,
-      "subject": "India -- Description and travel.",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 297,
-      "lang": "eng",
-      "days_keep_count": 100,
-      "adding_date": "2003-02-06",
-      "count": 100,
-      "authors": [
-        {
-          "key": "/authors/OL310959A",
-          "last_name": "Gita Mehta",
-          "first_name": "Gita"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10090070M",
-    "data": {
-      "title": "Laboratory Processes",
+      "title": "The Parliamentary Debates (Hansard). Fifth Series, Vol 595. House of Lords. Official Report.",
       "city": null,
-      "publisher": "Appleton & Lange",
-      "year": 1992,
-      "subject": "Popular medicine",
+      "publisher": "HMSO 1998.",
+      "year": 1998,
+      "subject": null,
       "genre": null,
       "periodic_release": null,
-      "page_count": 574,
+      "page_count": 0,
       "lang": null,
       "days_keep_count": 50,
-      "adding_date": "2009-06-19",
+      "adding_date": "2008-07-21",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/OL3233971A",
+          "last_name": "Hansard",
+          "first_name": "Hansard"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000018M",
+    "data": {
+      "title": "Women in modern American politics",
+      "city": "Washington, D.C",
+      "publisher": "Congressional Quarterly",
+      "year": 1997,
+      "subject": "Women in politics -- United States -- History -- 20th century -- Bibliography",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 414,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2000-02-25",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL449787A",
+          "last_name": "Elizabeth",
+          "first_name": "Cox,"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000190M",
+    "data": {
+      "title": "The Parliamentary Debates (Hansard). Fifth Series, Vol 596. House of Lords. Official Report.",
+      "city": null,
+      "publisher": "HMSO 1999.",
+      "year": 1999,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2005-10-13",
       "count": 500,
       "authors": [
         {
-          "key": "/authors/OL2777606A",
-          "last_name": "WHITE",
-          "first_name": "WHITE"
+          "key": "/authors/OL3233971A",
+          "last_name": "Hansard",
+          "first_name": "Hansard"
         }
       ]
     }
   },
   {
-    "key": "/books/OL10090071M",
+    "key": "/books/OL10000191M",
     "data": {
-      "title": "Lado Eng Series 6 Demo Tape",
+      "title": "The Parliamentary Debates (Hansard). Fifth Series, Vol 597. House of Lords. Official Report.",
       "city": null,
-      "publisher": "Pearson Education Ltd.",
+      "publisher": "HMSO 1999.",
+      "year": 1999,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2014-09-26",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/OL3233971A",
+          "last_name": "Hansard",
+          "first_name": "Hansard"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000192M",
+    "data": {
+      "title": "The Parliamentary Debates (Hansard). Fifth Series, Vol 598. House of Lords. Official Report.",
+      "city": null,
+      "publisher": "HMSO 1999.",
+      "year": 1999,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2000-06-14",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/OL3233971A",
+          "last_name": "Hansard",
+          "first_name": "Hansard"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000193M",
+    "data": {
+      "title": "The Parliamentary Debates (Hansard). Fifth Series, Vol 599. House of Lords. Official Report.",
+      "city": null,
+      "publisher": "HMSO 1999.",
+      "year": 1999,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2012-08-10",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL3233971A",
+          "last_name": "Hansard",
+          "first_name": "Hansard"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000194M",
+    "data": {
+      "title": "The Parliamentary Debates (Hansard). Fifth Series, Vol 600. House of Lords. Official Report.",
+      "city": null,
+      "publisher": "HMSO 1999.",
+      "year": 1999,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2003-10-17",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/OL3233971A",
+          "last_name": "Hansard",
+          "first_name": "Hansard"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000195M",
+    "data": {
+      "title": "The Parliamentary Debates (Hansard). Fifth Series, Vol 601. House of Lords. Official Report.",
+      "city": null,
+      "publisher": "HMSO 1999.",
+      "year": 1999,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2000-05-09",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL3233971A",
+          "last_name": "Hansard",
+          "first_name": "Hansard"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000196M",
+    "data": {
+      "title": "Parliamentary Debates, House of Lords, Bound Volumes 14 June - 25 June 1999",
+      "city": null,
+      "publisher": "Stationery Office",
+      "year": 2000,
+      "subject": "Government - Comparative",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2004-11-12",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/OL2645811A",
+          "last_name": "Tso",
+          "first_name": "Tso"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000197M",
+    "data": {
+      "title": "Parliamentary Debats, House of Lords Bound Volumes 28 June - 9 July 1999",
+      "city": null,
+      "publisher": "Stationery Office",
+      "year": 2000,
+      "subject": "Comparative law",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2000-07-20",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL2645811A",
+          "last_name": "Tso",
+          "first_name": "Tso"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000198M",
+    "data": {
+      "title": "Parliamentary Debates Fifth Series",
+      "city": null,
+      "publisher": "Stationery Office",
+      "year": 1999,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2002-09-01",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000199M",
+    "data": {
+      "title": "Parliamentary Debates, House of Lords",
+      "city": null,
+      "publisher": "Stationery Office",
+      "year": 2000,
+      "subject": "Bibliographies & Indexes",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2000-09-18",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/OL2645811A",
+          "last_name": "Tso",
+          "first_name": "Tso"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000019M",
+    "data": {
+      "title": "Gay and Gaia",
+      "city": "Cleveland, Ohio",
+      "publisher": "Pilgrim Press",
+      "year": 1996,
+      "subject": "Spencer, Daniel T. 1957-",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 450,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2013-10-03",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL540746A",
+          "last_name": "T. Spencer",
+          "first_name": "Daniel"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL100001M",
+    "data": {
+      "title": "Elusione fiscale",
+      "city": "Roma",
+      "publisher": "Jandi Sapi",
+      "year": 1998,
+      "subject": "Tax evasion -- Italy.",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 224,
+      "lang": "ita",
+      "days_keep_count": 100,
+      "adding_date": "2013-04-24",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/OL67189A",
+          "last_name": "De Leva",
+          "first_name": "Francesco"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000200M",
+    "data": {
+      "title": "Parliamentary Debates, House of Lords",
+      "city": null,
+      "publisher": "Stationery Office",
+      "year": 2000,
+      "subject": "Bibliographies & Indexes",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2012-01-04",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/OL2645811A",
+          "last_name": "Tso",
+          "first_name": "Tso"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000201M",
+    "data": {
+      "title": "Parliamentary Debates, House of Lords - 1999-2000",
+      "city": null,
+      "publisher": "Stationery Office",
+      "year": 2000,
+      "subject": "Reference",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 790,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2004-05-25",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL2645811A",
+          "last_name": "Tso",
+          "first_name": "Tso"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000202M",
+    "data": {
+      "title": "Parliamentary Debates, House of Lords - 1999-2000",
+      "city": null,
+      "publisher": "Stationery Office",
+      "year": 2000,
+      "subject": "Reference",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 790,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2000-07-14",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/OL2645811A",
+          "last_name": "Tso",
+          "first_name": "Tso"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000203M",
+    "data": {
+      "title": "Parliamentary Debates, House of Lords - 1999-2000",
+      "city": null,
+      "publisher": "Stationery Office",
+      "year": 2000,
+      "subject": "Reference",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 790,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2011-06-11",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/OL2645811A",
+          "last_name": "Tso",
+          "first_name": "Tso"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000204M",
+    "data": {
+      "title": "Parliamentary Debates, House of Lords - 1999-2000",
+      "city": null,
+      "publisher": "Stationery Office",
+      "year": 2000,
+      "subject": "Reference",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 790,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2004-06-30",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL2645811A",
+          "last_name": "Tso",
+          "first_name": "Tso"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000205M",
+    "data": {
+      "title": "Parliamentary Debates, House of Lords",
+      "city": null,
+      "publisher": "Stationery Office",
+      "year": 2001,
+      "subject": "Reference",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 790,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2003-10-12",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/OL2645811A",
+          "last_name": "Tso",
+          "first_name": "Tso"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000206M",
+    "data": {
+      "title": "Parliamentary Debates, House of Lords - 1999-2000, 10 April - 12 May 2000",
+      "city": null,
+      "publisher": "Stationery Office",
+      "year": 2001,
+      "subject": "Reference",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 790,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2002-06-02",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/OL2645811A",
+          "last_name": "Tso",
+          "first_name": "Tso"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000207M",
+    "data": {
+      "title": "The Parliamentary Debates (Hansard). Fifth Series, Vol 613. House of Lords. Official Report.",
+      "city": null,
+      "publisher": "HMSO 2000.",
       "year": 2000,
       "subject": null,
       "genre": null,
       "periodic_release": 2,
       "page_count": 0,
       "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2011-01-26",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL3233971A",
+          "last_name": "Hansard",
+          "first_name": "Hansard"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000208M",
+    "data": {
+      "title": "The Parliamentary Debates (Hansard). Fifth Series, Vol 616. House of Lords. Official Report.",
+      "city": null,
+      "publisher": "HMSO 2000.",
+      "year": 2000,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": null,
       "days_keep_count": 10,
-      "adding_date": "2002-07-14",
+      "adding_date": "2006-10-26",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/OL3233971A",
+          "last_name": "Hansard",
+          "first_name": "Hansard"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000209M",
+    "data": {
+      "title": "The Parliamentary Debates (Hansard). Fifth Series, Vol 617. House of Lords. Official Report.",
+      "city": null,
+      "publisher": "HMSO 2000.",
+      "year": 2000,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2005-07-24",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/OL3233971A",
+          "last_name": "Hansard",
+          "first_name": "Hansard"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000020M",
+    "data": {
+      "title": "Dancing with disabilities",
+      "city": "Cleveland, Ohio",
+      "publisher": "United Church Press",
+      "year": 1996,
+      "subject": "Church work with people with disabilities.",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 152,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2013-07-31",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/OL540747A",
+          "last_name": "Webb-Mitchell",
+          "first_name": "Brett"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000210M",
+    "data": {
+      "title": "The Parliamentary Debates (Hansard). Fifth Series, Vol 618. House of Lords. Official Report.",
+      "city": null,
+      "publisher": "HMSO 2000.",
+      "year": 2000,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2012-10-21",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/OL3233971A",
+          "last_name": "Hansard",
+          "first_name": "Hansard"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000211M",
+    "data": {
+      "title": "Parliamentary Debates Fifth Series",
+      "city": null,
+      "publisher": "Stationery Office",
+      "year": 2003,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2009-09-29",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000212M",
+    "data": {
+      "title": "Parliamentary Debates Fifth Series",
+      "city": null,
+      "publisher": "Stationery Office",
+      "year": 2003,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2016-01-27",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000213M",
+    "data": {
+      "title": "Parliamentary Debates, Dcxl",
+      "city": null,
+      "publisher": "Stationery Office",
+      "year": 2003,
+      "subject": "International Relations - General",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2013-02-03",
       "count": 20,
       "authors": [
         {
@@ -346,139 +888,1171 @@
     }
   },
   {
-    "key": "/books/OL10090072M",
+    "key": "/books/OL10000214M",
     "data": {
-      "title": "Language Experience Approach to Reading (And Writing) ",
+      "title": "Parliamentary Debates Fifth Series",
       "city": null,
-      "publisher": "Prentice Hall",
-      "year": 1983,
-      "subject": "ELT: teaching theory & methods",
+      "publisher": "Stationery Office",
+      "year": 2003,
+      "subject": "Government - Comparative",
       "genre": null,
       "periodic_release": 2,
-      "page_count": 136,
+      "page_count": 0,
       "lang": "eng",
-      "days_keep_count": 100,
-      "adding_date": "2011-09-26",
-      "count": 300,
+      "days_keep_count": 10,
+      "adding_date": "2005-03-13",
+      "count": 10,
       "authors": [
         {
-          "key": "/authors/OL450030A",
-          "last_name": "Carol Dixon",
-          "first_name": "Carol"
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
         }
       ]
     }
   },
   {
-    "key": "/books/OL10090073M",
+    "key": "/books/OL10000215M",
     "data": {
-      "title": "LABORATORY HANDBK CHROMATOG$$$",
+      "title": "Parliamentary Debates",
       "city": null,
-      "publisher": "Prentice Hall Europe (a Pearson Education company)",
+      "publisher": "Stationery Office",
+      "year": 2003,
+      "subject": "Reference",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2016-03-07",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/OL2650648A",
+          "last_name": "Book",
+          "first_name": "Book"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000216M",
+    "data": {
+      "title": "Parlimentary Debates Fifth Series V. Dcxlii",
+      "city": null,
+      "publisher": "Stationery Office",
+      "year": 2003,
+      "subject": "Reference",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2010-04-12",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000217M",
+    "data": {
+      "title": "Parliamentary Debates, House of Lords Official Report",
+      "city": null,
+      "publisher": "Stationery Office",
+      "year": 2003,
+      "subject": "Essays",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2004-01-05",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000218M",
+    "data": {
+      "title": "Parliamentary Debates, House of Lords Official Report",
+      "city": null,
+      "publisher": "Stationery Office",
+      "year": 2003,
+      "subject": "Essays",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2006-02-17",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000219M",
+    "data": {
+      "title": "Parliamentary Debates Fifth Series",
+      "city": null,
+      "publisher": "Stationery Office",
+      "year": 2003,
+      "subject": "Government - Comparative",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2000-10-29",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000021M",
+    "data": {
+      "title": "Uneasy rider",
+      "city": "New York",
+      "publisher": "Alfred A. Knopf",
+      "year": 1997,
+      "subject": "United States -- Description and travel.",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 349,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2013-05-22",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL540748A",
+          "last_name": "Bryan",
+          "first_name": "Mike"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000220M",
+    "data": {
+      "title": "Parliamentary Debates Fifth Series",
+      "city": null,
+      "publisher": "Stationery Office",
+      "year": 2003,
+      "subject": "Government - Comparative",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2007-02-15",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000221M",
+    "data": {
+      "title": "Parliamentary Debates Fifth Series",
+      "city": null,
+      "publisher": "Stationery Office",
+      "year": 2003,
+      "subject": "Government - Comparative",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2015-06-11",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000222M",
+    "data": {
+      "title": "Parliamentary Debates Fifth Series",
+      "city": null,
+      "publisher": "Stationery Office",
+      "year": 2003,
+      "subject": "International Relations - General",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2011-11-13",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000223M",
+    "data": {
+      "title": "Parliamentary Debates Fifth Series",
+      "city": null,
+      "publisher": "Stationery Office",
+      "year": 2003,
+      "subject": "Essays",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2016-10-09",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000224M",
+    "data": {
+      "title": "Parliamentary Debates, House Of Lords, 6 October 2003 - 23rd October 2003 (5th Series)",
+      "city": null,
+      "publisher": "Stationery Office",
+      "year": 2004,
+      "subject": "Reference",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2016-12-29",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000225M",
+    "data": {
+      "title": "Parliamentary Debates, House Of Lords 2003-2004, 26th November - 18th December 2003",
+      "city": null,
+      "publisher": "Stationery Office",
+      "year": 2004,
+      "subject": "General",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2010-11-23",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000226M",
+    "data": {
+      "title": "Parliamentary Debates, House Of Lords - Bound",
+      "city": null,
+      "publisher": "Stationery Office",
+      "year": 2004,
+      "subject": "Reference - General",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2010-06-23",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000227M",
+    "data": {
+      "title": "Parliamentary Debates House Of Lords - Bound Volumes",
+      "city": null,
+      "publisher": "Stationery Office",
+      "year": 2004,
+      "subject": "Reference - General",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2011-08-07",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000228M",
+    "data": {
+      "title": "Parliamentary Debates, House Of Lords - Bound Volumes",
+      "city": null,
+      "publisher": "Stationery Office",
+      "year": 2004,
+      "subject": "Reference",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2015-01-21",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000229M",
+    "data": {
+      "title": "Parliamentary Debates, House Of Lords",
+      "city": null,
+      "publisher": "Stationery Office",
+      "year": 2004,
+      "subject": "Reference",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2012-01-27",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000022M",
+    "data": {
+      "title": "Love analyzed",
+      "city": "Boulder, Colo",
+      "publisher": "Westview Press",
+      "year": 1997,
+      "subject": "Love",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 267,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2013-01-15",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000230M",
+    "data": {
+      "title": "Parliamentary Debates, House Of Lords 2003-2004",
+      "city": null,
+      "publisher": "Stationery Office",
+      "year": 2005,
+      "subject": "Reference - General",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2005-01-21",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000231M",
+    "data": {
+      "title": "Parliamentary Debates, House of Lords - Bound Volumes",
+      "city": null,
+      "publisher": "Stationery Office",
+      "year": 2005,
+      "subject": "Reference",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2015-02-09",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000232M",
+    "data": {
+      "title": "Parliamentary Debates, 23rd November - 21st December 2004 (House of Lords)",
+      "city": null,
+      "publisher": "Stationery Office",
+      "year": 2005,
+      "subject": "Reference - General",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2010-03-04",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000233M",
+    "data": {
+      "title": "Parliamentary Debates, House of Lords - Bound 2005",
+      "city": null,
+      "publisher": "Stationery Office",
+      "year": 2005,
+      "subject": "Reference - General",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2000-06-26",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000234M",
+    "data": {
+      "title": "Parliamentary Debates (House of Lords Official Report)",
+      "city": null,
+      "publisher": "Stationery Office",
+      "year": 2005,
+      "subject": "Government - General",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 104,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2016-02-19",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000235M",
+    "data": {
+      "title": "House of Lords Official Report (Parliamentary Debates Hansard Session 2005-06)",
+      "city": null,
+      "publisher": "Stationery Office",
+      "year": 2005,
+      "subject": "Europe - Great Britain - General",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2008-09-07",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000236M",
+    "data": {
+      "title": "House of Lords Official Report (Parliamentary Debates Hansard Session 2005-06)",
+      "city": null,
+      "publisher": "Stationery Office",
+      "year": 2005,
+      "subject": "Europe - Great Britain - General",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2016-07-04",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000237M",
+    "data": {
+      "title": "House of Lords Official Report 5th Series",
+      "city": null,
+      "publisher": "Stationery Office",
+      "year": 2006,
+      "subject": "Law",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 83,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2001-12-05",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000238M",
+    "data": {
+      "title": "House of Lords Official Report 5th",
+      "city": null,
+      "publisher": "Stationery Office",
+      "year": 2006,
+      "subject": "Law",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 109,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2006-04-15",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000239M",
+    "data": {
+      "title": "House of Lords Official Report 5th Series",
+      "city": null,
+      "publisher": "Stationery Office",
+      "year": 2006,
+      "subject": "Public Affairs & Administration",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2008-10-31",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000023M",
+    "data": {
+      "title": "Selected letters of Rabindranath Tagore",
+      "city": "Cambridge",
+      "publisher": "Cambridge University Press",
+      "year": 1997,
+      "subject": "Tagore, Rabindranath, 1861-1941 -- Correspondence",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 561,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2009-05-22",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL1770A",
+          "last_name": "Tagore",
+          "first_name": "Rabindranath"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000240M",
+    "data": {
+      "title": "House of Lords Official Report 5th Series",
+      "city": null,
+      "publisher": "Stationery Office",
+      "year": 2006,
+      "subject": "Government - General",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 150,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2010-03-01",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000241M",
+    "data": {
+      "title": "The National Register of Apparel Manufacturers, Men & Boys",
+      "city": null,
+      "publisher": "Marche Publishing",
+      "year": 1997,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 524,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2006-11-30",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/OL3100556A",
+          "last_name": "Publishing",
+          "first_name": "Marche"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000242M",
+    "data": {
+      "title": "Journals of the House of Commons",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1991,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 780,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2014-03-29",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000243M",
+    "data": {
+      "title": "Journals of the House of Commons",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1994,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 999,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2014-03-01",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000244M",
+    "data": {
+      "title": "Journals of the House of Commons",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1996,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 666,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2008-05-28",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000245M",
+    "data": {
+      "title": "Journals of the House of Commons - 15th November 1995 to 17th October 1996",
+      "city": null,
+      "publisher": "Bernan Assoc",
+      "year": 1997,
+      "subject": "Reference",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 666,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2000-10-25",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/OL2645811A",
+          "last_name": "Tso",
+          "first_name": "Tso"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000246M",
+    "data": {
+      "title": "Journals of the House of Commons",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 420,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2000-04-10",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000247M",
+    "data": {
+      "title": "Living Truths From the Book of Mormon (SUF0108100F2037570)",
+      "city": null,
+      "publisher": "Church of Jesus Christ of LDS",
+      "year": 1970,
+      "subject": "Religion & Spirituality - Christianity",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 330,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2015-12-21",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL2277358A",
+          "last_name": "Sunday School Union.",
+          "first_name": "Deseret"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000248M",
+    "data": {
+      "title": "Journals of the House of Lords",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1991,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 810,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2010-04-28",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000249M",
+    "data": {
+      "title": "Journals of the House of Lords Sessions 1 983-84 to 1992-93",
+      "city": null,
+      "publisher": "Stationery Office",
+      "year": 2000,
+      "subject": "Bibliographies, catalogues, discographies",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 539,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2014-06-24",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000024M",
+    "data": {
+      "title": "Warren Buffett speaks",
+      "city": "New York",
+      "publisher": "Wiley",
+      "year": 1997,
+      "subject": "Buffett, Warren -- Quotations.",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 194,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2009-02-09",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/OL46187A",
+          "last_name": "Buffett",
+          "first_name": "Warren"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000250M",
+    "data": {
+      "title": "Journals of the House of Lords",
+      "city": null,
+      "publisher": "Stationery Office",
+      "year": 2001,
+      "subject": "Yearbooks & Annuals",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2001-01-12",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000251M",
+    "data": {
+      "title": "Journals of the House of Lords",
+      "city": null,
+      "publisher": "Stationery Office",
+      "year": 2005,
+      "subject": "Reference",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 1066,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2002-01-16",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000252M",
+    "data": {
+      "title": "Journals of the House of Lords",
+      "city": null,
+      "publisher": "Stationery Office",
+      "year": 2005,
+      "subject": "Government - Executive Branch",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 1004,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2013-03-03",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000253M",
+    "data": {
+      "title": "Journals of the House of Lords",
+      "city": null,
+      "publisher": "Stationery Office",
+      "year": 2006,
+      "subject": "Construction",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2005-05-25",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000254M",
+    "data": {
+      "title": "The Odd Women",
+      "city": null,
+      "publisher": null,
+      "year": 1950,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2009-08-09",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000255M",
+    "data": {
+      "title": "HOUSE OF LORDS COMPANION TO THE STANDING ORDERS AND GUIDE TO THE PROCEEDINGS OF THE HOUSE OF LORDS.",
+      "city": null,
+      "publisher": "HMSO",
       "year": 1979,
       "subject": null,
       "genre": null,
-      "periodic_release": 1,
-      "page_count": 1522,
+      "periodic_release": null,
+      "page_count": 0,
       "lang": null,
-      "days_keep_count": 100,
-      "adding_date": "2013-05-26",
+      "days_keep_count": 30,
+      "adding_date": "2000-11-06",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL3362805A",
+          "last_name": "of. Lords",
+          "first_name": "House"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000256M",
+    "data": {
+      "title": "National Health Service (Private Finance) Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2014-02-10",
       "count": 5,
       "authors": [
         {
-          "key": "/authors/OL3369609A",
-          "last_name": "MIKES",
-          "first_name": "MIKES"
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
         }
       ]
     }
   },
   {
-    "key": "/books/OL10090074M",
+    "key": "/books/OL10000257M",
     "data": {
-      "title": "Lado Picture Dictionary - Beginning Workbook",
+      "title": "Coordinated Universal Time Bill [H.L.]",
       "city": null,
-      "publisher": "Prentice Hall",
-      "year": 1993,
-      "subject": "ELT dictionaries & reference",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 160,
-      "lang": "eng",
-      "days_keep_count": 30,
-      "adding_date": "2004-05-17",
-      "count": 100,
-      "authors": [
-        {
-          "key": "/authors/OL164231A",
-          "last_name": "Robert Lado",
-          "first_name": "Robert"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10090075M",
-    "data": {
-      "title": "Lado Picture Dictionary",
-      "city": null,
-      "publisher": "Prentice Hall",
-      "year": 1996,
-      "subject": "ELT dictionaries & reference",
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": null,
       "genre": null,
       "periodic_release": 3,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 10,
-      "adding_date": "2003-03-16",
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2002-04-20",
       "count": 300,
       "authors": [
         {
-          "key": "/authors/OL164231A",
-          "last_name": "Robert Lado",
-          "first_name": "Robert"
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
         }
       ]
     }
   },
   {
-    "key": "/books/OL10090076M",
+    "key": "/books/OL10000258M",
     "data": {
-      "title": "Labor and Employment Law Desk Book",
+      "title": "Geneva Conventions (Amendment) Bill [H.L.]",
       "city": null,
-      "publisher": "Prentice Hall Trade",
-      "year": 1991,
-      "subject": "Employment & labour law",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 0,
-      "lang": null,
-      "days_keep_count": 200,
-      "adding_date": "2016-12-13",
-      "count": 20,
-      "authors": [
-        {
-          "key": "/authors/OL2649778A",
-          "last_name": "Gordon E. Jackson",
-          "first_name": "Gordon"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10090077M",
-    "data": {
-      "title": "Lado Picture Dictionary TB ** Lado **",
-      "city": null,
-      "publisher": "Prentice Hall",
-      "year": 1993,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
       "subject": null,
       "genre": null,
-      "periodic_release": null,
-      "page_count": 100,
+      "periodic_release": 2,
+      "page_count": 2,
       "lang": null,
-      "days_keep_count": 200,
-      "adding_date": "2002-09-05",
+      "days_keep_count": 50,
+      "adding_date": "2014-03-01",
       "count": 50,
       "authors": [
         {
@@ -490,342 +2064,188 @@
     }
   },
   {
-    "key": "/books/OL10090078M",
+    "key": "/books/OL10000259M",
     "data": {
-      "title": "Lakeside Company ",
+      "title": "Pharmacists Bill [H.L.]",
       "city": null,
-      "publisher": "Prentice-Hall Canada, Incorporated",
-      "year": 1992,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
       "subject": null,
       "genre": null,
       "periodic_release": null,
-      "page_count": 0,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2007-04-17",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000025M",
+    "data": {
+      "title": "The demographic struggle for power",
+      "city": "London",
+      "publisher": "Frank Cass",
+      "year": 1997,
+      "subject": "Ethnic groups -- Political activity.",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 273,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2004-07-08",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/OL540749A",
+          "last_name": "Zarkovic Bookman",
+          "first_name": "Milica"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000260M",
+    "data": {
+      "title": "Wireless Telegraphy Bill (H.L.) (House of Lords Bills)",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": "English law: communications law",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 10,
       "lang": null,
       "days_keep_count": 50,
+      "adding_date": "2003-02-19",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000261M",
+    "data": {
+      "title": "Special Immigration Appeals Commission Bill (H.L.) (House of Lords Bills)",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": "English law: immigration law",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 14,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2009-10-12",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000262M",
+    "data": {
+      "title": "Business Improvement Districts Bill (H.L.) (House of Lords Bills)",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": "English law: business law",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 16,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2013-07-22",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000263M",
+    "data": {
+      "title": "Referendums (Scotland and Wales) Bill (House of Lords Bills)",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": "English law: parliamentary practice",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2008-05-24",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000264M",
+    "data": {
+      "title": "Law Officers Bill (H.L.) (House of Lords Bills)",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": "English legal system: police procedures",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 6,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2002-04-30",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000265M",
+    "data": {
+      "title": "Education (Schools) Bill (House of Lords Bills)",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": "English law: education & the law",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 16,
+      "lang": null,
+      "days_keep_count": 10,
       "adding_date": "2004-07-14",
-      "count": 5,
-      "authors": [
-        {
-          "key": "/authors/OL162066A",
-          "last_name": "Hoyle.",
-          "first_name": "Hoyle."
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10090079M",
-    "data": {
-      "title": "Lakeside Company Solutions Manual",
-      "city": null,
-      "publisher": "Prentice-Hall Canada, Incorporated",
-      "year": 1992,
-      "subject": null,
-      "genre": null,
-      "periodic_release": 1,
-      "page_count": 0,
-      "lang": null,
-      "days_keep_count": 30,
-      "adding_date": "2009-07-04",
       "count": 100,
-      "authors": [
-        {
-          "key": "/authors/OL6745023A",
-          "last_name": "john m.trussel",
-          "first_name": "john"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL1009007M",
-    "data": {
-      "title": "Lessons in space",
-      "city": "Gainesville, Fla",
-      "publisher": "University Press of Florida",
-      "year": 1997,
-      "subject": null,
-      "genre": null,
-      "periodic_release": 3,
-      "page_count": 59,
-      "lang": "eng",
-      "days_keep_count": 200,
-      "adding_date": "2012-05-21",
-      "count": 300,
-      "authors": [
-        {
-          "key": "/authors/OL225362A",
-          "last_name": "Cathleen Calbert",
-          "first_name": "Cathleen"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10090080M",
-    "data": {
-      "title": "La Doble Vida",
-      "city": null,
-      "publisher": "Prentice Hall",
-      "year": 1986,
-      "subject": "Single Author",
-      "genre": null,
-      "periodic_release": 1,
-      "page_count": 302,
-      "lang": "eng",
-      "days_keep_count": 30,
-      "adding_date": "2011-06-07",
-      "count": 5,
-      "authors": [
-        {
-          "key": "/authors/OL90123A",
-          "last_name": "Antonio Buero Vallejo",
-          "first_name": "Antonio"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10090081M",
-    "data": {
-      "title": "First Certificate Practice Tests (FCE)",
-      "city": null,
-      "publisher": "Prentice-Hall",
-      "year": 1996,
-      "subject": "ELT grammars & grammar practice",
-      "genre": null,
-      "periodic_release": 3,
-      "page_count": 151,
-      "lang": null,
-      "days_keep_count": 30,
-      "adding_date": "2016-05-04",
-      "count": 50,
-      "authors": [
-        {
-          "key": "/authors/OL3366505A",
-          "last_name": "K. Lukey-Coutsocostas",
-          "first_name": "K."
-        },
-        {
-          "key": "/authors/OL3366506A",
-          "last_name": "D. Dalmaris",
-          "first_name": "D."
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10090082M",
-    "data": {
-      "title": "First Certificate Practice Tests (FCE)",
-      "city": null,
-      "publisher": "Prentice-Hall",
-      "year": 1996,
-      "subject": "ELT grammars & grammar practice",
-      "genre": null,
-      "periodic_release": 3,
-      "page_count": 130,
-      "lang": null,
-      "days_keep_count": 50,
-      "adding_date": "2011-10-20",
-      "count": 10,
-      "authors": [
-        {
-          "key": "/authors/OL3366505A",
-          "last_name": "K. Lukey-Coutsocostas",
-          "first_name": "K."
-        },
-        {
-          "key": "/authors/OL3366506A",
-          "last_name": "D. Dalmaris",
-          "first_name": "D."
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10090083M",
-    "data": {
-      "title": "The Game Fishing Bible",
-      "city": null,
-      "publisher": "Macmillan General Reference",
-      "year": 1991,
-      "subject": "Fishing, angling",
-      "genre": null,
-      "periodic_release": 3,
-      "page_count": 256,
-      "lang": "eng",
-      "days_keep_count": 200,
-      "adding_date": "2005-08-13",
-      "count": 5,
-      "authors": [
-        {
-          "key": "/authors/OL1194467A",
-          "last_name": "John Buckland",
-          "first_name": "John"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10090084M",
-    "data": {
-      "title": "Lado English Series L1 Bk1",
-      "city": null,
-      "publisher": "Prentice Hall",
-      "year": 1987,
-      "subject": "English as a Second Language",
-      "genre": null,
-      "periodic_release": 1,
-      "page_count": 255,
-      "lang": "eng",
-      "days_keep_count": 100,
-      "adding_date": "2001-01-31",
-      "count": 300,
-      "authors": [
-        {
-          "key": "/authors/OL3369610A",
-          "last_name": "Lado",
-          "first_name": "Lado"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10090085M",
-    "data": {
-      "title": "Lado English Series, Book 2",
-      "city": null,
-      "publisher": "Prentice Hall",
-      "year": 1978,
-      "subject": "Usage guides",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 236,
-      "lang": "eng",
-      "days_keep_count": 100,
-      "adding_date": "2002-04-05",
-      "count": 500,
-      "authors": [
-        {
-          "key": "/authors/OL164231A",
-          "last_name": "Robert Lado",
-          "first_name": "Robert"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10090086M",
-    "data": {
-      "title": "Lado English Series, Book 3",
-      "city": null,
-      "publisher": "Prentice Hall College Div",
-      "year": 1978,
-      "subject": "English as a Second Language",
-      "genre": null,
-      "periodic_release": 2,
-      "page_count": 287,
-      "lang": "eng",
-      "days_keep_count": 100,
-      "adding_date": "2006-10-06",
-      "count": 50,
-      "authors": [
-        {
-          "key": "/authors/OL164231A",
-          "last_name": "Robert Lado",
-          "first_name": "Robert"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10090087M",
-    "data": {
-      "title": "Lado English Series L5 Bk5",
-      "city": null,
-      "publisher": "Prentice Hall",
-      "year": 1987,
-      "subject": null,
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 294,
-      "lang": null,
-      "days_keep_count": 100,
-      "adding_date": "2011-12-18",
-      "count": 20,
-      "authors": [
-        {
-          "key": "/authors/OL3369611A",
-          "last_name": "LADO",
-          "first_name": "LADO"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10090088M",
-    "data": {
-      "title": "Lado English Series L6 Bk6",
-      "city": null,
-      "publisher": "Prentice Hall",
-      "year": 1987,
-      "subject": "Conversation and phrase books",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 299,
-      "lang": null,
-      "days_keep_count": 200,
-      "adding_date": "2012-11-09",
-      "count": 100,
-      "authors": [
-        {
-          "key": "/authors/OL3369611A",
-          "last_name": "LADO",
-          "first_name": "LADO"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10090089M",
-    "data": {
-      "title": "Lado English Series L1 Wbk",
-      "city": null,
-      "publisher": "Prentice Hall",
-      "year": 1987,
-      "subject": "Language",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 146,
-      "lang": null,
-      "days_keep_count": 30,
-      "adding_date": "2016-06-06",
-      "count": 100,
-      "authors": [
-        {
-          "key": "/authors/OL3369610A",
-          "last_name": "Lado",
-          "first_name": "Lado"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL1009008M",
-    "data": {
-      "title": "The Oxford dictionary of foreign words and phrases",
-      "city": "Oxford",
-      "publisher": "Oxford University Press",
-      "year": 1997,
-      "subject": "English language -- Foreign words and phrases -- Dictionaries",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 512,
-      "lang": "eng",
-      "days_keep_count": 30,
-      "adding_date": "2005-01-22",
-      "count": 20,
       "authors": [
         {
           "key": "/authors/unknown",
@@ -836,211 +2256,307 @@
     }
   },
   {
-    "key": "/books/OL10090090M",
+    "key": "/books/OL10000266M",
     "data": {
-      "title": "Lado English Series  Book 3",
+      "title": "Chronically Sick and Disabled Persons (Amendment) Bill [H.L.]",
       "city": null,
-      "publisher": "Prentice Hall College Div",
-      "year": 1978,
-      "subject": "English",
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": null,
       "genre": null,
-      "periodic_release": 3,
-      "page_count": 215,
-      "lang": "eng",
-      "days_keep_count": 10,
-      "adding_date": "2010-01-21",
-      "count": 500,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2007-08-19",
+      "count": 100,
       "authors": [
         {
-          "key": "/authors/OL164231A",
-          "last_name": "Robert Lado",
-          "first_name": "Robert"
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
         }
       ]
     }
   },
   {
-    "key": "/books/OL10090091M",
+    "key": "/books/OL10000267M",
     "data": {
-      "title": "Lado English Series  Book 4",
+      "title": "Firearms (Amendment) Bill",
       "city": null,
-      "publisher": "Prentice Hall College Div",
-      "year": 1978,
-      "subject": "English as a Second Language",
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": null,
       "genre": null,
-      "periodic_release": null,
-      "page_count": 274,
-      "lang": "eng",
-      "days_keep_count": 100,
-      "adding_date": "2011-08-22",
+      "periodic_release": 1,
+      "page_count": 6,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2009-07-17",
       "count": 50,
       "authors": [
         {
-          "key": "/authors/OL164231A",
-          "last_name": "Robert Lado",
-          "first_name": "Robert"
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
         }
       ]
     }
   },
   {
-    "key": "/books/OL10090092M",
+    "key": "/books/OL10000268M",
     "data": {
-      "title": "Lado English Series Book 5 (New)",
+      "title": "Special Immigration Appeals Commission Bill [H.L.]",
       "city": null,
-      "publisher": "Prentice Hall College Div",
-      "year": 1992,
-      "subject": "Language self-study & phrasebooks",
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": null,
       "genre": null,
-      "periodic_release": 3,
-      "page_count": 256,
-      "lang": "eng",
-      "days_keep_count": 200,
+      "periodic_release": null,
+      "page_count": 9,
+      "lang": null,
+      "days_keep_count": 100,
       "adding_date": "2008-10-11",
-      "count": 10,
-      "authors": [
-        {
-          "key": "/authors/OL164231A",
-          "last_name": "Robert Lado",
-          "first_name": "Robert"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10090093M",
-    "data": {
-      "title": "Lado English Series  Book 6",
-      "city": null,
-      "publisher": "Prentice Hall College Div",
-      "year": 1980,
-      "subject": "General",
-      "genre": null,
-      "periodic_release": 3,
-      "page_count": 269,
-      "lang": "eng",
-      "days_keep_count": 50,
-      "adding_date": "2001-04-04",
       "count": 300,
       "authors": [
         {
-          "key": "/authors/OL164231A",
-          "last_name": "Robert Lado",
-          "first_name": "Robert"
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
         }
       ]
     }
   },
   {
-    "key": "/books/OL10090094M",
+    "key": "/books/OL10000269M",
     "data": {
-      "title": "Lado English Series Book 1",
+      "title": "Plant Varieties Bill (House of Lords Bills)",
       "city": null,
-      "publisher": "Prentice Hall College Div",
-      "year": 1977,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": "English law: agricultural law",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 40,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2000-08-28",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000026M",
+    "data": {
+      "title": "The wisdom of each other",
+      "city": "Grand Rapids, Mich",
+      "publisher": "Zondervan Pub. House",
+      "year": 1998,
+      "subject": "Spiritual life -- Christianity.",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 110,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2001-10-01",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/OL29407A",
+          "last_name": "Eugene H.",
+          "first_name": "Peterson,"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000270M",
+    "data": {
+      "title": "Fossil Fuel Levy Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
       "subject": null,
       "genre": null,
       "periodic_release": null,
-      "page_count": 0,
-      "lang": "eng",
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2004-12-22",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000271M",
+    "data": {
+      "title": "Coordinated Universal Time [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 4,
+      "lang": null,
       "days_keep_count": 100,
-      "adding_date": "2003-03-21",
+      "adding_date": "2013-12-12",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000272M",
+    "data": {
+      "title": "Special Immigration Appeals Commission Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 9,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2000-10-02",
       "count": 500,
       "authors": [
         {
-          "key": "/authors/OL164231A",
-          "last_name": "Robert Lado",
-          "first_name": "Robert"
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
         }
       ]
     }
   },
   {
-    "key": "/books/OL10090095M",
+    "key": "/books/OL10000273M",
     "data": {
-      "title": "Lado English Series  Book 3",
+      "title": "Referendums (Scotland and Wales) Bill",
       "city": null,
-      "publisher": "Prentice Hall College Div",
-      "year": 1978,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
       "subject": null,
       "genre": null,
-      "periodic_release": 2,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 50,
-      "adding_date": "2016-12-27",
-      "count": 10,
+      "periodic_release": 1,
+      "page_count": 3,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2004-05-27",
+      "count": 5,
       "authors": [
         {
-          "key": "/authors/OL164231A",
-          "last_name": "Robert Lado",
-          "first_name": "Robert"
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
         }
       ]
     }
   },
   {
-    "key": "/books/OL10090096M",
+    "key": "/books/OL10000274M",
     "data": {
-      "title": "Lado English Series  Book 5",
+      "title": "Wireless Telegraphy Bill (H.L.) (House of Lords Bills)",
       "city": null,
-      "publisher": "Prentice Hall College Div",
-      "year": 1980,
-      "subject": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": "English law: communications law",
       "genre": null,
-      "periodic_release": 2,
-      "page_count": 0,
-      "lang": "eng",
-      "days_keep_count": 10,
-      "adding_date": "2009-07-23",
-      "count": 20,
-      "authors": [
-        {
-          "key": "/authors/OL164231A",
-          "last_name": "Robert Lado",
-          "first_name": "Robert"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10090097M",
-    "data": {
-      "title": "Lado English Series  Book 6",
-      "city": null,
-      "publisher": "Prentice Hall College Div",
-      "year": 1980,
-      "subject": null,
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 0,
-      "lang": "eng",
+      "periodic_release": 3,
+      "page_count": 12,
+      "lang": null,
       "days_keep_count": 100,
-      "adding_date": "2015-08-16",
-      "count": 20,
+      "adding_date": "2009-08-11",
+      "count": 500,
       "authors": [
         {
-          "key": "/authors/OL164231A",
-          "last_name": "Robert Lado",
-          "first_name": "Robert"
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
         }
       ]
     }
   },
   {
-    "key": "/books/OL10090098M",
+    "key": "/books/OL10000275M",
     "data": {
-      "title": "Lado English Series Book 1",
+      "title": "Employment Rights (Dispute Resolution) Bill (H.L.) (House of Lords Bills)",
       "city": null,
-      "publisher": "Prentice Hall College Div",
-      "year": 1989,
-      "subject": "Language teaching & learning material & coursework",
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": "English law: employment & labour law",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 24,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2007-12-22",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000276M",
+    "data": {
+      "title": "Local Government (Contracts) Bill (House of Lords Bills)",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": "English law: contract law",
       "genre": null,
       "periodic_release": null,
-      "page_count": 730,
-      "lang": "eng",
+      "page_count": 12,
+      "lang": null,
       "days_keep_count": 50,
-      "adding_date": "2016-06-27",
+      "adding_date": "2015-10-05",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000277M",
+    "data": {
+      "title": "Local Government Finance (Supplementary Credit Approvals) Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2007-09-09",
       "count": 10,
       "authors": [
         {
@@ -1052,174 +2568,2233 @@
     }
   },
   {
-    "key": "/books/OL10090099M",
+    "key": "/books/OL10000278M",
     "data": {
-      "title": "Lado English Series Book 3",
+      "title": "Magistrates' Courts (Procedure) Bill (H.L.) (House of Lords Bills)",
       "city": null,
-      "publisher": "Prentice Hall College Div",
-      "year": 1990,
-      "subject": "Education",
-      "genre": null,
-      "periodic_release": 3,
-      "page_count": 569,
-      "lang": "eng",
-      "days_keep_count": 10,
-      "adding_date": "2009-12-21",
-      "count": 100,
-      "authors": [
-        {
-          "key": "/authors/OL164231A",
-          "last_name": "Robert Lado",
-          "first_name": "Robert"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL1009009M",
-    "data": {
-      "title": "Novels and other writings",
-      "city": "New York",
-      "publisher": "Library of America",
+      "publisher": "Stationery Office Books",
       "year": 1997,
-      "subject": "Advice columnists -- Fiction",
+      "subject": "English legal system: courts & procedure",
       "genre": null,
       "periodic_release": 3,
-      "page_count": 829,
-      "lang": "eng",
-      "days_keep_count": 10,
-      "adding_date": "2011-01-14",
-      "count": 20,
-      "authors": [
-        {
-          "key": "/authors/OL544344A",
-          "last_name": "Nathanael West",
-          "first_name": "Nathanael"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL100900M",
-    "data": {
-      "title": "Birds in a sagebrush sea",
-      "city": "Boise, ID",
-      "publisher": "Partners in Flight, Western Working Group",
-      "year": 1999,
-      "subject": "Birds -- Habitat -- Conservation.",
-      "genre": null,
-      "periodic_release": 1,
-      "page_count": 47,
-      "lang": "eng",
-      "days_keep_count": 50,
-      "adding_date": "2013-09-07",
-      "count": 500,
-      "authors": [
-        {
-          "key": "/authors/OL67790A",
-          "last_name": "Christine Paige",
-          "first_name": "Christine"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10090100M",
-    "data": {
-      "title": "Lado English Series Book 5",
-      "city": null,
-      "publisher": "Prentice Hall College Div",
-      "year": 1990,
-      "subject": "Education",
-      "genre": null,
-      "periodic_release": 1,
-      "page_count": 736,
-      "lang": "eng",
-      "days_keep_count": 10,
-      "adding_date": "2013-06-13",
-      "count": 5,
-      "authors": [
-        {
-          "key": "/authors/OL164231A",
-          "last_name": "Robert Lado",
-          "first_name": "Robert"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10090101M",
-    "data": {
-      "title": "Lado English Series Book 6",
-      "city": null,
-      "publisher": "Prentice Hall",
-      "year": 1987,
-      "subject": "Education",
-      "genre": null,
-      "periodic_release": 2,
-      "page_count": 741,
+      "page_count": 8,
       "lang": null,
-      "days_keep_count": 100,
-      "adding_date": "2008-02-14",
+      "days_keep_count": 200,
+      "adding_date": "2009-01-13",
       "count": 50,
       "authors": [
         {
-          "key": "/authors/OL3369610A",
-          "last_name": "Lado",
-          "first_name": "Lado"
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
         }
       ]
     }
   },
   {
-    "key": "/books/OL10090102M",
+    "key": "/books/OL10000279M",
     "data": {
-      "title": "Lado English Series 4",
+      "title": "Nuclear Explosions (Prohibition and Inspections) Bill (H.L.) (House of Lords Bills)",
       "city": null,
-      "publisher": "Prentice Hall",
-      "year": 1989,
-      "subject": "ELT: Learning Material & Coursework",
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": "English law: energy & natural resources law",
       "genre": null,
       "periodic_release": null,
-      "page_count": 184,
-      "lang": "eng",
-      "days_keep_count": 200,
-      "adding_date": "2011-04-08",
-      "count": 100,
+      "page_count": 12,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2008-02-11",
+      "count": 10,
       "authors": [
         {
-          "key": "/authors/OL164231A",
-          "last_name": "Robert Lado",
-          "first_name": "Robert"
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
         }
       ]
     }
   },
   {
-    "key": "/books/OL10090103M",
+    "key": "/books/OL1000027M",
     "data": {
-      "title": "Student Placement and Evaluation Package, New Edition",
+      "title": "Rose",
+      "city": "New York",
+      "publisher": "HarperCollins Publishers",
+      "year": 1997,
+      "subject": "Remarriage -- Fiction.",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 90,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2015-03-29",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/OL395884A",
+          "last_name": "Leverich",
+          "first_name": "Kathleen"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000280M",
+    "data": {
+      "title": "Education (Schools) Bill",
       "city": null,
-      "publisher": "Prentice Hall College Div",
-      "year": 1992,
-      "subject": "ELT: Learning Material & Coursework",
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 10,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2004-01-31",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000281M",
+    "data": {
+      "title": "Referendums (Scotland and Wales) Bill (House of Lords Bills)",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": "English law: parliamentary practice",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 40,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2006-02-21",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000282M",
+    "data": {
+      "title": "Ministerial and Other Salaries Bill (House of Lords Bills)",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2015-10-17",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000283M",
+    "data": {
+      "title": "British Nationality (St Helena) [H.L.] Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2009-07-25",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000284M",
+    "data": {
+      "title": "Finance Bill (House of Lords Bills)",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": "English law: financial law",
       "genre": null,
       "periodic_release": 2,
       "page_count": 112,
-      "lang": "eng",
+      "lang": null,
       "days_keep_count": 30,
-      "adding_date": "2009-06-19",
+      "adding_date": "2004-01-18",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000285M",
+    "data": {
+      "title": "Referendums (Scotland and Wales) Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2007-04-09",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000286M",
+    "data": {
+      "title": "Succession to the Crown [H.L.] Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2010-01-17",
       "count": 300,
       "authors": [
         {
-          "key": "/authors/OL3369610A",
-          "last_name": "Lado",
-          "first_name": "Lado"
-        },
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000287M",
+    "data": {
+      "title": "Magistrates' Courts (Procedure) Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2004-04-06",
+      "count": 20,
+      "authors": [
         {
-          "key": "/authors/OL164231A",
-          "last_name": "Robert Lado",
-          "first_name": "Robert"
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000288M",
+    "data": {
+      "title": "Competition Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 100,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2003-12-30",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000289M",
+    "data": {
+      "title": "Public Processions, Etc.(Northern Ireland) Bill (House of Lords Bills)",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": "Child welfare",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 24,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2012-01-01",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000028M",
+    "data": {
+      "title": "The  Irish Guards in the Great War",
+      "city": "New York",
+      "publisher": "Sarpedon",
+      "year": 1996,
+      "subject": "Great Britain. Army. Irish Guards -- History",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2005-08-09",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL24461A",
+          "last_name": "Kipling",
+          "first_name": "Rudyard"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000290M",
+    "data": {
+      "title": "Firearms (Amendment) Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 6,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2003-10-23",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000291M",
+    "data": {
+      "title": "Firearms (Amendment) Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2001-06-03",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000292M",
+    "data": {
+      "title": "Education (Student Loans) Bill (House of Lords Bills)",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": "English law: education & the law",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 10,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2014-07-02",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000293M",
+    "data": {
+      "title": "Employment Rights (Dispute Resolution) Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 22,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2005-12-08",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000294M",
+    "data": {
+      "title": "Competition Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 102,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2011-01-13",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000295M",
+    "data": {
+      "title": "Teaching and Higher Education Bill (H.L.) (House of Lords Bills)",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": "English law: education & the law",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 40,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2010-01-25",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000296M",
+    "data": {
+      "title": "Local Government (Experimental Arrangements) Bill (H.L.) (House of Lords Bills)",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": "English law: local government law",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 28,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2007-01-17",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000297M",
+    "data": {
+      "title": "Greater London Authority (Referendum) Bill (House of Lords Bills)",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": "English law: local government law",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 16,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2007-06-10",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000298M",
+    "data": {
+      "title": "Special Immigration Appeals Commission Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2002-07-10",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000299M",
+    "data": {
+      "title": "Human Rights Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 22,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2013-09-10",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000029M",
+    "data": {
+      "title": "Invasion of privacy",
+      "city": "Thorndike, Me",
+      "publisher": "Thorndike Press",
+      "year": 1997,
+      "subject": "Reilly, Nina (Fictitious character) -- Fiction",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 688,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2001-09-01",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/OL25276A",
+          "last_name": "O'Shaughnessy",
+          "first_name": "Perri"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL100002M",
+    "data": {
+      "title": "Michigan Commission on Genetic Privacy and Progress",
+      "city": "[East Lansing] Michigan",
+      "publisher": "Dept. of Community Health",
+      "year": 1999,
+      "subject": "Genetic screening -- Government policy -- Michigan.",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 75,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2005-06-06",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/OL67190A",
+          "last_name": "Commission on Genetic Privacy and Progress.",
+          "first_name": "Michigan"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000300M",
+    "data": {
+      "title": "Crime and Disorder Bill (H.L.) (House of Lords Bills)",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": "English law: criminal law",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 143,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2006-05-31",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000301M",
+    "data": {
+      "title": "National Lottery Bill (H.L.) (House of Lords Bills)",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": "English law: licensing, gaming & club law",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 42,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2007-03-31",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000302M",
+    "data": {
+      "title": "Late Payment of Commercial Debts (Interest) Bill (H.L.) (House of Lords Bills)",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": "English law: commercial law",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 15,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2013-11-06",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000303M",
+    "data": {
+      "title": "Social Security Bill (House of Lords Bills)",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": "English law: social insurance",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 112,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2007-06-28",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000304M",
+    "data": {
+      "title": "Petroleum Bill (H.L.) (House of Lords Bills)",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": "English law: energy & natural resources law",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 62,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2000-09-27",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000305M",
+    "data": {
+      "title": "Northern Ireland (Emergency Provisions) Bill (House of Lords Bills)",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": "English legal system: criminal procedure",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 12,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2012-04-02",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000306M",
+    "data": {
+      "title": "Welfare of Pigs (No.2) Bill (H.L.) (House of Lords Bills)",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": "English law: public health & safety law",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 10,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2011-10-20",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000307M",
+    "data": {
+      "title": "Mental Health (Amendment) (No.2) Bill (H.L.) (House of Lords Bills)",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": "English law: public health & safety law",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2008-09-04",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000308M",
+    "data": {
+      "title": "Greater London Authority (Referendum) Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 10,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2015-03-04",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000309M",
+    "data": {
+      "title": "Data Protection Bill (H.L.) (House of Lords Bills)",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "Data security & data encryption",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 68,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2009-05-26",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000030M",
+    "data": {
+      "title": "Historical dictionary of Chad",
+      "city": "Lanham, Md",
+      "publisher": "Scarecrow Press",
+      "year": 1997,
+      "subject": "Chad -- History -- Dictionaries.",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 601,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2007-11-25",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL354756A",
+          "last_name": "Decalo",
+          "first_name": "Samuel"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000310M",
+    "data": {
+      "title": "European Communities (Amendment) Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2014-01-29",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000311M",
+    "data": {
+      "title": "Petroleum Bill (H.L.) (House of Lords Bills)",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: energy & natural resources law",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 62,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2003-10-31",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000312M",
+    "data": {
+      "title": "Audit Commission Bill (H.L.) (House of Lords Bills)",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: local government law",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 60,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2007-11-23",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000313M",
+    "data": {
+      "title": "Bank of England Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 48,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2013-03-28",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000314M",
+    "data": {
+      "title": "Teaching and Higher Education Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 32,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2011-10-12",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000315M",
+    "data": {
+      "title": "Local Government (Experimental Arrangements) Bill (H.L.) (House of Lords Bills)",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: local government law",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 22,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2007-11-02",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000316M",
+    "data": {
+      "title": "Late Payment of Commercial Debts (Interest) Bill (H.L.) (House of Lords Bills)",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: commercial law",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 7,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2008-01-15",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000317M",
+    "data": {
+      "title": "National Lottery Bill (H.L.) (House of Lords Bills)",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: licensing, gaming & club law",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 36,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2010-11-11",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000318M",
+    "data": {
+      "title": "The Human Rights Bill (House of Lords Bills)",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: constitutional & administrative",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 24,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2016-11-07",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000319M",
+    "data": {
+      "title": "Greater London Authority (Referendum) Bill (House of Lords Bills)",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: local government law",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 12,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2009-03-26",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000031M",
+    "data": {
+      "title": "Serials management in the electronic era",
+      "city": "New York",
+      "publisher": "Haworth Press",
+      "year": 1996,
+      "subject": "Serials control systems -- United States -- Data processing.",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 234,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2013-10-12",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000320M",
+    "data": {
+      "title": "Public Processions (Northern Ireland) Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2002-05-11",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000321M",
+    "data": {
+      "title": "Greater London Authority (Referendum) Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2014-04-15",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000322M",
+    "data": {
+      "title": "Government of Wales Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 144,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2002-02-14",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000323M",
+    "data": {
+      "title": "Pesticides Bill (House of Lords Bills)",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: environment law",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 5,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2015-08-24",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000324M",
+    "data": {
+      "title": "Animal Health (Amendment) Bill (House of Lords Bills)",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: public health & safety law",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2004-03-04",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000325M",
+    "data": {
+      "title": "Criminal Procedure (Intermediate Diets) (Scotland) Bill (House of Lords Bills)",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "Criminal law",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2007-12-04",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000326M",
+    "data": {
+      "title": "Social Security Bill (House of Lords Bills)",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: social insurance",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 102,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2006-03-26",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000327M",
+    "data": {
+      "title": "Bank of England Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2007-05-13",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000328M",
+    "data": {
+      "title": "Northern Ireland (Elections) Bill (House of Lords Bills)",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: constitutional & administrative",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 12,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2016-07-03",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000329M",
+    "data": {
+      "title": "Social Security Bill (House of Lords Bills)",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: social insurance",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 112,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2008-09-03",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000032M",
+    "data": {
+      "title": "The ultimate guide to homeschooling",
+      "city": "Nashville, TN",
+      "publisher": "Tommy Nelson",
+      "year": 1997,
+      "subject": "Home schooling -- United States -- Handbooks, manuals, etc",
+      "genre": "Handbooks, manuals, etc.",
+      "periodic_release": null,
+      "page_count": 404,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2009-07-24",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL540750A",
+          "last_name": "Bell",
+          "first_name": "Debra"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000330M",
+    "data": {
+      "title": "Road Traffic Reduction (National Targets) Bill (House of Lords Bills)",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: energy & natural resources law",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2000-11-13",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000331M",
+    "data": {
+      "title": "Public Interest Disclosure Bill (House of Lords Bills)",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: constitutional & administrative",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 12,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2004-12-17",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000332M",
+    "data": {
+      "title": "Registered Establishments (Scotland) Bill (House of Lords Bills)",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "Social security & welfare law",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2013-04-10",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000333M",
+    "data": {
+      "title": "Building Regulations (Energy Rating Information) (Amendment) (H.L.) Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "Laws of Other Jurisdictions & General Law",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2001-04-23",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000334M",
+    "data": {
+      "title": "Magistrates' Courts (Procedure) Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2015-08-28",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000335M",
+    "data": {
+      "title": "Police (Northern Ireland) Bill (House of Lords Bills)",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: social",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 67,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2000-01-31",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000336M",
+    "data": {
+      "title": "Sexual Orientation Discrimination Bill (H.L.) (House of Lords Bills)",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: constitutional & administrative",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2016-11-26",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000337M",
+    "data": {
+      "title": "Social Security Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2011-11-01",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000338M",
+    "data": {
+      "title": "Tax Credits (Initial Expenditure) Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2015-04-13",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000339M",
+    "data": {
+      "title": "European Communities (Amendment) Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2007-10-01",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000033M",
+    "data": {
+      "title": "Rhetoric and political culture in nineteenth-century America",
+      "city": "East Lansing",
+      "publisher": "Michigan State University Press",
+      "year": 1997,
+      "subject": "Political oratory -- United States -- History -- Congresses",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 200,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2009-06-24",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000340M",
+    "data": {
+      "title": "Statute Law (Repeals) Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 44,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2016-09-06",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000341M",
+    "data": {
+      "title": "Sea Fisheries (Shellfish) Amendment Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2000-12-20",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000342M",
+    "data": {
+      "title": "Scotland Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 98,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2012-05-03",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000343M",
+    "data": {
+      "title": "Late Payment of Commercial Debts (Interest) Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2001-07-28",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000344M",
+    "data": {
+      "title": "National Lottery Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 3,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2002-04-02",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000345M",
+    "data": {
+      "title": "Fireworks Bill",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 10,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2015-06-25",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000346M",
+    "data": {
+      "title": "Local Government (Experimental Arrangements) Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 23,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2014-02-04",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000347M",
+    "data": {
+      "title": "Lord Chancellor (Tenure of Office) (Amendment) Bill (H.L.) (House of Lords Bills)",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: constitutional & administrative",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2000-12-21",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000348M",
+    "data": {
+      "title": "Electricity Generation Bill (H.L.) (House of Lords Bills)",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "Energy industries & utilities",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2014-11-04",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000349M",
+    "data": {
+      "title": "Late Payment of Commercial Debts (Interest) Bill (H.L.) (House of Lords Bills)",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: commercial law",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 10,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2003-11-12",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000034M",
+    "data": {
+      "title": "Teenage refugees from Mexico speak out",
+      "city": "New York",
+      "publisher": "Rosen Pub. Group",
+      "year": 1997,
+      "subject": "Mexican American teenagers -- Juvenile literature",
+      "genre": "Juvenile literature.",
+      "periodic_release": null,
+      "page_count": 64,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2015-08-30",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL6968125A",
+          "last_name": "Hadden",
+          "first_name": "Gerry"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000350M",
+    "data": {
+      "title": "Competition Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 108,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2009-05-30",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000351M",
+    "data": {
+      "title": "Audit Commission Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 53,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2015-08-20",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000352M",
+    "data": {
+      "title": "Data Protection Bill [H.L.]",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 60,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2016-02-22",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000353M",
+    "data": {
+      "title": "Business Improvement Districts Bill (H.L.) (House of Lords Bills)",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: planning law",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 11,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2005-03-22",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000354M",
+    "data": {
+      "title": "Teaching and Higher Education Bill (H.L.) (House of Lords Bills)",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: education & the law",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 37,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2003-06-19",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000355M",
+    "data": {
+      "title": "Crime and Disorder Bill (H.L.) (House of Lords Bills)",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: criminal law",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 138,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2013-09-13",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/OL3362806A",
+          "last_name": "Ghosh",
+          "first_name": "Julian"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000356M",
+    "data": {
+      "title": "Bank of England Bill (House of Lords Bills)",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: banking law",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 52,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2015-09-05",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000357M",
+    "data": {
+      "title": "Criminal Justice (International Co-operation) (Amendment) Bill (House of Lords Bills)",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: criminal law",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2007-05-24",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000358M",
+    "data": {
+      "title": "National Lottery Bill (H.L.) (House of Lords Bills)",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: licensing, gaming & club law",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 35,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2008-10-22",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000359M",
+    "data": {
+      "title": "National Minimum Wage Bill (House of Lords Bills)",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: employment & labour law",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 67,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2014-03-13",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000035M",
+    "data": {
+      "title": "Scribbling women",
+      "city": "New Brunswick, N.J",
+      "publisher": "Rutgers University Press",
+      "year": 1997,
+      "subject": "Short stories, American -- Women authors.",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 515,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2001-11-13",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000360M",
+    "data": {
+      "title": "European Parliamentary Elections Bill (H.L.) (House of Lords Bills)",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "English law: election law",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 13,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2004-12-01",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
         }
       ]
     }

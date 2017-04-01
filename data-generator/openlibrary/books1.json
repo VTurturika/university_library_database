@@ -1,19 +1,19 @@
 [
   {
-    "key": "/books/OL10009004M",
+    "key": "/books/OL10000000M",
     "data": {
-      "title": "The Education (Dissolution of the Council for National Academic Awards) Order 1993 (Statutory Instruments: 1993: 924)",
+      "title": "Index to the House of Lords Parliamentary Debates",
       "city": null,
       "publisher": "Stationery Office Books",
-      "year": 1993,
-      "subject": "English Law",
+      "year": 1996,
+      "subject": "Central government",
       "genre": null,
       "periodic_release": null,
-      "page_count": 2,
+      "page_count": 8,
       "lang": null,
       "days_keep_count": 30,
-      "adding_date": "2001-04-22",
-      "count": 20,
+      "adding_date": "2005-12-03",
+      "count": 500,
       "authors": [
         {
           "key": "/authors/unknown",
@@ -24,19 +24,19 @@
     }
   },
   {
-    "key": "/books/OL10009005M",
+    "key": "/books/OL10000001M",
     "data": {
-      "title": "The Child Support (Maintenance Assessments and Special Cases) Amendment Regulations 1993 (Statutory Instruments: 1993: 925)",
+      "title": "Index to the House of Lords Parliamentary Debates",
       "city": null,
       "publisher": "Stationery Office Books",
-      "year": 1993,
-      "subject": "English Law",
+      "year": 1996,
+      "subject": "Central government",
       "genre": null,
-      "periodic_release": 2,
-      "page_count": 2,
+      "periodic_release": null,
+      "page_count": 8,
       "lang": null,
-      "days_keep_count": 100,
-      "adding_date": "2001-09-06",
+      "days_keep_count": 10,
+      "adding_date": "2001-08-23",
       "count": 5,
       "authors": [
         {
@@ -48,19 +48,2443 @@
     }
   },
   {
-    "key": "/books/OL10009006M",
+    "key": "/books/OL10000002M",
     "data": {
-      "title": "The Greater Manchester and Lancashire (County and District Boundaries) Order 1993 (Statutory Instruments: 1993: 926)",
+      "title": "Index to the House of Lords Parliamentary Debates",
       "city": null,
       "publisher": "Stationery Office Books",
-      "year": 1993,
-      "subject": "English Law",
+      "year": 1996,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2013-07-01",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000003M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1996,
+      "subject": "Central government",
       "genre": null,
       "periodic_release": 1,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2011-12-13",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000004M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1996,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2012-01-17",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000005M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1996,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2011-03-09",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000006M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2005-01-23",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000007M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2011-06-15",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000008M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2002-06-26",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000009M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2008-11-12",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000000M",
+    "data": {
+      "title": "Tank killing",
+      "city": "New York",
+      "publisher": "Sarpedon",
+      "year": 1996,
+      "subject": "Tank warfare -- History",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2013-10-05",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/OL218678A",
+          "last_name": "V. Hogg",
+          "first_name": "Ian"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000010M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 7,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2010-07-15",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000011M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2002-04-18",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000012M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 9,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2004-04-04",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000013M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 7,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2012-02-28",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000014M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 9,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2001-06-12",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000015M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 12,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2000-03-16",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000016M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 7,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2009-04-02",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000017M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 7,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2011-01-04",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000018M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 7,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2003-02-08",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000019M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 12,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2008-05-10",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000001M",
+    "data": {
+      "title": "Journey to nowhere",
+      "city": "New York",
+      "publisher": "Hyperion",
+      "year": 1996,
+      "subject": "Unemployed -- United States.",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 208,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2000-01-27",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/OL62871A",
+          "last_name": "Maharidge",
+          "first_name": "Dale"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000020M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2011-03-02",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000021M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2014-10-28",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000022M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 9,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2002-04-13",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000023M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 9,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2003-04-02",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000024M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 12,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2007-12-09",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000025M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 11,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2003-03-09",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000026M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 6,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2004-10-14",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000027M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 9,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2005-02-06",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000028M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2015-06-30",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000029M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2012-08-31",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000002M",
+    "data": {
+      "title": "Managing risk in international business",
+      "city": "London",
+      "publisher": "International Thomson Business Press",
+      "year": 1996,
+      "subject": "International business enterprises -- Finance.",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 376,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2012-02-11",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/OL540734A",
+          "last_name": "Ephraim professor.",
+          "first_name": "Clark,"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000030M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 9,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2008-06-20",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000031M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2006-03-04",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000032M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 10,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2008-12-11",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000033M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 10,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2006-12-26",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000034M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 9,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2006-01-23",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000035M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 10,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2003-04-21",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000036M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 9,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2009-03-09",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000037M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 9,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2012-06-26",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000038M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2000-01-22",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000039M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 11,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2003-03-12",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000003M",
+    "data": {
+      "title": "Managing across cultures",
+      "city": "London",
+      "publisher": "International Thomson Business Press",
+      "year": 1997,
+      "subject": "Comparative management.",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 408,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2016-04-29",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000040M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 10,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2013-09-14",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000041M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 9,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2000-11-02",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000042M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2011-04-27",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000043M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 9,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2013-03-17",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000044M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 12,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2016-05-12",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000045M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 10,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2010-01-19",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000046M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 9,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2003-11-17",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000047M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2013-01-04",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000048M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2008-03-12",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000049M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2008-08-07",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000004M",
+    "data": {
+      "title": "Quantitative methods in finance",
+      "city": "London",
+      "publisher": "Thomson",
+      "year": 1997,
+      "subject": "Business mathematics.",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 395,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2003-05-18",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/OL540735A",
+          "last_name": "J. Watsham",
+          "first_name": "Terry"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000050M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 10,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2011-05-21",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000051M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 10,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2007-12-12",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000052M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 9,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2000-12-22",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000053M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 10,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2004-12-18",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000054M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 9,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2010-10-17",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000055M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2001-03-06",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000056M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 10,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2008-05-28",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000057M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 10,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2000-05-14",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000058M",
+    "data": {
+      "title": "House of Lords Weekly Hansard (20House of Lords Weekly Hansard)",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 2,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2011-04-09",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000059M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 15,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2015-10-08",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000005M",
+    "data": {
+      "title": "Creating the customer-driven car company",
+      "city": "London",
+      "publisher": "International Thomson Business Press",
+      "year": 1996,
+      "subject": "Automobile industry and trade -- Management.",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 182,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2007-05-02",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/OL244633A",
+          "last_name": "E. Ludvigsen",
+          "first_name": "Karl"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000060M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 10,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2013-01-29",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000061M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 7,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2013-05-21",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000062M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 9,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2007-08-07",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000063M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2013-06-14",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000064M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 3,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2001-02-21",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000065M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 9,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2011-04-08",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000066M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 12,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2011-04-09",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000067M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 4,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2009-02-12",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000068M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2001-10-01",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000069M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2001-11-07",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000006M",
+    "data": {
+      "title": "Making sense of the economy",
+      "city": "Boston",
+      "publisher": "International Thomson Business Press",
+      "year": 1996,
+      "subject": "Economics.",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 201,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2010-06-24",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/OL540736A",
+          "last_name": "Martin-Fagg",
+          "first_name": "Roger"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000070M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 10,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2004-11-27",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000071M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2010-07-05",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000072M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1999,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2003-08-20",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000073M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1999,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 9,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2014-08-27",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000074M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1999,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 9,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2001-07-24",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000075M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1999,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 9,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2015-12-06",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000076M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1999,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 9,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2001-11-04",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000077M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1999,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 9,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2009-06-03",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000078M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1999,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 10,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2014-12-18",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000079M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1999,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 10,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2006-02-06",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000007M",
+    "data": {
+      "title": "Time management",
+      "city": "London",
+      "publisher": "International Thomson Business Press",
+      "year": 1996,
+      "subject": "Time management.",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 222,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2012-07-30",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/OL540737A",
+          "last_name": "Croft",
+          "first_name": "Chris"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000080M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1999,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2002-10-26",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000081M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1999,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 11,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2016-12-27",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000082M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1999,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 12,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2011-11-19",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000083M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1999,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2009-04-30",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000084M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1999,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2011-10-28",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000085M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1999,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 10,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2016-01-02",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000086M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1999,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 8,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2009-07-11",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000087M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1999,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 9,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2008-11-20",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000088M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1999,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 11,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2004-08-16",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000089M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1999,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 10,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2001-03-02",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000008M",
+    "data": {
+      "title": "The new flexi-manager",
+      "city": "London",
+      "publisher": "International Thomson Business Press",
+      "year": 1996,
+      "subject": "Middle managers -- United States.",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 138,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2013-02-15",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/OL540738A",
+          "last_name": "W. Birchall",
+          "first_name": "D."
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000090M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1999,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 10,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2014-06-04",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000091M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1999,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 10,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2014-06-07",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000092M",
+    "data": {
+      "title": "Index to the House of Lords Parliamentary Debates",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1999,
+      "subject": "Central government",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 11,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2006-04-25",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000093M",
+    "data": {
+      "title": "Exercise Immunology Review Volume 3",
+      "city": null,
+      "publisher": "Human Kinetics+ Publishers Inc",
+      "year": 1997,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
       "page_count": 0,
       "lang": null,
       "days_keep_count": 100,
-      "adding_date": "2010-08-31",
+      "adding_date": "2013-08-29",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/OL542353A",
+          "last_name": "J. Shephard",
+          "first_name": "Roy"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000094M",
+    "data": {
+      "title": "40house of Lords Official Report",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1988,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 128,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2003-05-14",
       "count": 50,
       "authors": [
         {
@@ -72,19 +2496,19 @@
     }
   },
   {
-    "key": "/books/OL10009007M",
+    "key": "/books/OL10000095M",
     "data": {
-      "title": "The Secure Tenancies (Designated Courses) (Amendment) Regulations 1993 (Statutory Instruments: 1993: 931)",
+      "title": "40house of Lords Official Report",
       "city": null,
       "publisher": "Stationery Office Books",
-      "year": 1993,
-      "subject": "English Law",
+      "year": 1989,
+      "subject": null,
       "genre": null,
-      "periodic_release": 3,
-      "page_count": 2,
+      "periodic_release": 1,
+      "page_count": 141,
       "lang": null,
-      "days_keep_count": 200,
-      "adding_date": "2005-06-24",
+      "days_keep_count": 50,
+      "adding_date": "2010-01-28",
       "count": 300,
       "authors": [
         {
@@ -96,547 +2520,19 @@
     }
   },
   {
-    "key": "/books/OL10009008M",
+    "key": "/books/OL10000096M",
     "data": {
-      "title": "The Friendly Societies Act 1992 (Transitional and Consequential Provisions and Savings) Regulations 1993 (Statutory Instruments: 1993: 932)",
+      "title": "40house of Lords Official Report",
       "city": null,
       "publisher": "Stationery Office Books",
-      "year": 1993,
-      "subject": "English Law",
+      "year": 1989,
+      "subject": null,
       "genre": null,
       "periodic_release": null,
-      "page_count": 4,
-      "lang": null,
-      "days_keep_count": 10,
-      "adding_date": "2014-02-15",
-      "count": 50,
-      "authors": [
-        {
-          "key": "/authors/unknown",
-          "last_name": "Unknown",
-          "first_name": "Unknown"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10009009M",
-    "data": {
-      "title": "The Finance Act 1991, Section 58, (Commencement No. 3) Regulations 1993 (Statutory Instruments: 1993: 933 (C. 17))",
-      "city": null,
-      "publisher": "Stationery Office Books",
-      "year": 1993,
-      "subject": "English Law",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 2,
+      "page_count": 148,
       "lang": null,
       "days_keep_count": 50,
-      "adding_date": "2002-12-28",
-      "count": 500,
-      "authors": [
-        {
-          "key": "/authors/unknown",
-          "last_name": "Unknown",
-          "first_name": "Unknown"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL1000900M",
-    "data": {
-      "title": "A change of climate",
-      "city": "New York",
-      "publisher": "Henry Holt and Co.",
-      "year": 1997,
-      "subject": "Missionaries -- Africa -- Fiction",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 321,
-      "lang": "eng",
-      "days_keep_count": 10,
-      "adding_date": "2016-03-07",
-      "count": 500,
-      "authors": [
-        {
-          "key": "/authors/OL27119A",
-          "last_name": "Hilary Mantel",
-          "first_name": "Hilary"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10009010M",
-    "data": {
-      "title": "The Legal Aid in Criminal and Care Proceedings (Costs) (Amendment) Regulations 1993 (Statutory Instruments: 1993: 934)",
-      "city": null,
-      "publisher": "Stationery Office Books",
-      "year": 1993,
-      "subject": "English Law",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 10,
-      "lang": null,
-      "days_keep_count": 50,
-      "adding_date": "2011-04-30",
-      "count": 50,
-      "authors": [
-        {
-          "key": "/authors/unknown",
-          "last_name": "Unknown",
-          "first_name": "Unknown"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10009011M",
-    "data": {
-      "title": "The Housing Benefit and Community Charge Benefit (Subsidy) Order 1993 (Statutory Instruments: 1993: 484)",
-      "city": null,
-      "publisher": "Stationery Office Books",
-      "year": 1993,
-      "subject": "English Law",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 136,
-      "lang": null,
-      "days_keep_count": 30,
-      "adding_date": "2010-03-17",
-      "count": 50,
-      "authors": [
-        {
-          "key": "/authors/unknown",
-          "last_name": "Unknown",
-          "first_name": "Unknown"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10009012M",
-    "data": {
-      "title": "The Further Education (Exclusion of Land from Transfer) (No. 2) Order 1993 (Statutory Instruments: 1993: 937)",
-      "city": null,
-      "publisher": "Stationery Office Books",
-      "year": 1993,
-      "subject": "English Law",
-      "genre": null,
-      "periodic_release": 2,
-      "page_count": 4,
-      "lang": null,
-      "days_keep_count": 50,
-      "adding_date": "2004-01-20",
-      "count": 500,
-      "authors": [
-        {
-          "key": "/authors/unknown",
-          "last_name": "Unknown",
-          "first_name": "Unknown"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10009013M",
-    "data": {
-      "title": "The Land Registry Trading Fund Order 1993 (Statutory Instruments: 1993: 938)",
-      "city": null,
-      "publisher": "Stationery Office Books",
-      "year": 1993,
-      "subject": "English Law",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 4,
-      "lang": null,
-      "days_keep_count": 10,
-      "adding_date": "2005-11-26",
-      "count": 500,
-      "authors": [
-        {
-          "key": "/authors/unknown",
-          "last_name": "Unknown",
-          "first_name": "Unknown"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10009014M",
-    "data": {
-      "title": "The Land Registration (Determination of Costs) Order 1993 (Statutory Instruments: 1993: 939)",
-      "city": null,
-      "publisher": "Stationery Office Books",
-      "year": 1993,
-      "subject": "English Law",
-      "genre": null,
-      "periodic_release": 1,
-      "page_count": 2,
-      "lang": null,
-      "days_keep_count": 200,
-      "adding_date": "2003-11-08",
-      "count": 5,
-      "authors": [
-        {
-          "key": "/authors/unknown",
-          "last_name": "Unknown",
-          "first_name": "Unknown"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10009015M",
-    "data": {
-      "title": "The Local Government Administration (Matters Subject to Investigation) Order 1993 (Statutory Instruments: 1993: 940)",
-      "city": null,
-      "publisher": "Stationery Office Books",
-      "year": 1993,
-      "subject": "English Law",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 2,
-      "lang": null,
-      "days_keep_count": 100,
-      "adding_date": "2005-04-26",
-      "count": 10,
-      "authors": [
-        {
-          "key": "/authors/unknown",
-          "last_name": "Unknown",
-          "first_name": "Unknown"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10009016M",
-    "data": {
-      "title": "The Copyright (Application to Other Countries) Order 1993 (Statutory Instruments: 1993: 942)",
-      "city": null,
-      "publisher": "Stationery Office Books",
-      "year": 1993,
-      "subject": "English Law",
-      "genre": null,
-      "periodic_release": 1,
-      "page_count": 10,
-      "lang": null,
-      "days_keep_count": 30,
-      "adding_date": "2007-09-15",
-      "count": 100,
-      "authors": [
-        {
-          "key": "/authors/unknown",
-          "last_name": "Unknown",
-          "first_name": "Unknown"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10009017M",
-    "data": {
-      "title": "The European Communities (Definition of Treaties) (International Railway Tariffs Agreements) Order 1993 (Statutory Instruments: 1993: 944)",
-      "city": null,
-      "publisher": "Stationery Office Books",
-      "year": 1993,
-      "subject": "English Law",
-      "genre": null,
-      "periodic_release": 1,
-      "page_count": 2,
-      "lang": null,
-      "days_keep_count": 30,
-      "adding_date": "2000-07-21",
-      "count": 20,
-      "authors": [
-        {
-          "key": "/authors/unknown",
-          "last_name": "Unknown",
-          "first_name": "Unknown"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10009018M",
-    "data": {
-      "title": "The Insurance Companies (Accounts and Statements) (Amendment) Regulations 1993 (Statutory Instruments: 1993: 946)",
-      "city": null,
-      "publisher": "Stationery Office Books",
-      "year": 1993,
-      "subject": "English Law",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 2,
-      "lang": null,
-      "days_keep_count": 30,
-      "adding_date": "2016-12-12",
-      "count": 20,
-      "authors": [
-        {
-          "key": "/authors/unknown",
-          "last_name": "Unknown",
-          "first_name": "Unknown"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10009019M",
-    "data": {
-      "title": "The Patents (Supplementary Protection Certificate for Medicinal Products) (Amendment) Rules 1993 (Statutory Instruments: 1993: 947)",
-      "city": null,
-      "publisher": "Stationery Office Books",
-      "year": 1993,
-      "subject": "English Law",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 2,
-      "lang": null,
-      "days_keep_count": 10,
-      "adding_date": "2005-11-19",
-      "count": 100,
-      "authors": [
-        {
-          "key": "/authors/unknown",
-          "last_name": "Unknown",
-          "first_name": "Unknown"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL1000901M",
-    "data": {
-      "title": "The Adirondacks",
-      "city": "New York",
-      "publisher": "H. Holt and Co.",
-      "year": 1997,
-      "subject": "Adirondack Park (N.Y.) -- History.",
-      "genre": null,
-      "periodic_release": 2,
-      "page_count": 368,
-      "lang": "eng",
-      "days_keep_count": 100,
-      "adding_date": "2016-01-22",
-      "count": 100,
-      "authors": [
-        {
-          "key": "/authors/OL31362A",
-          "last_name": "Schneider, Paul",
-          "first_name": "Schneider,"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10009020M",
-    "data": {
-      "title": "The Chessington Computer Centre Trading Fund Order 1993 (Statutory Instruments: 1993: 948)",
-      "city": null,
-      "publisher": "Stationery Office Books",
-      "year": 1993,
-      "subject": "English Law",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 4,
-      "lang": null,
-      "days_keep_count": 200,
-      "adding_date": "2003-04-25",
-      "count": 500,
-      "authors": [
-        {
-          "key": "/authors/unknown",
-          "last_name": "Unknown",
-          "first_name": "Unknown"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10009021M",
-    "data": {
-      "title": "The Income Tax (Interest Relief) (Qualifying Lenders) Order 1993 (Statutory Instruments: 1993: 949)",
-      "city": null,
-      "publisher": "Stationery Office Books",
-      "year": 1993,
-      "subject": "English Law",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 2,
-      "lang": null,
-      "days_keep_count": 10,
-      "adding_date": "2015-03-27",
-      "count": 5,
-      "authors": [
-        {
-          "key": "/authors/unknown",
-          "last_name": "Unknown",
-          "first_name": "Unknown"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10009022M",
-    "data": {
-      "title": "The Capital Gains Tax (Gilt-Edged Securities) Order 1993 (Statutory Instruments: 1993: 950)",
-      "city": null,
-      "publisher": "Stationery Office Books",
-      "year": 1993,
-      "subject": "English Law",
-      "genre": null,
-      "periodic_release": 2,
-      "page_count": 2,
-      "lang": null,
-      "days_keep_count": 50,
-      "adding_date": "2001-05-31",
-      "count": 100,
-      "authors": [
-        {
-          "key": "/authors/unknown",
-          "last_name": "Unknown",
-          "first_name": "Unknown"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10009023M",
-    "data": {
-      "title": "The Banking Act 1987 (Exempt Persons) Order 1993 (Statutory Instruments: 1993: 953)",
-      "city": null,
-      "publisher": "Stationery Office Books",
-      "year": 1993,
-      "subject": "English law: financial law",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 2,
-      "lang": null,
-      "days_keep_count": 30,
-      "adding_date": "2005-09-28",
-      "count": 50,
-      "authors": [
-        {
-          "key": "/authors/unknown",
-          "last_name": "Unknown",
-          "first_name": "Unknown"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10009024M",
-    "data": {
-      "title": "The Financial Services Act 1986 (Overseas Investment Exchanges and Overseas Clearing Houses) (Periodical Fees) Regulations 1993 (Statutory Instruments: 1993: 954)",
-      "city": null,
-      "publisher": "Stationery Office Books",
-      "year": 1993,
-      "subject": "English Law",
-      "genre": null,
-      "periodic_release": 2,
-      "page_count": 2,
-      "lang": null,
-      "days_keep_count": 100,
-      "adding_date": "2003-02-10",
-      "count": 100,
-      "authors": [
-        {
-          "key": "/authors/unknown",
-          "last_name": "Unknown",
-          "first_name": "Unknown"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10009025M",
-    "data": {
-      "title": "The Public Lending Right Scheme 1982 (Commencement of Variation) Order 1993 (Statutory Instruments: 1993: 3049)",
-      "city": null,
-      "publisher": "Stationery Office Books",
-      "year": 1993,
-      "subject": "English Law",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 2,
-      "lang": null,
-      "days_keep_count": 200,
-      "adding_date": "2010-09-29",
-      "count": 5,
-      "authors": [
-        {
-          "key": "/authors/unknown",
-          "last_name": "Unknown",
-          "first_name": "Unknown"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10009026M",
-    "data": {
-      "title": "The Income Tax (Interest Relief) (Qualifying Lenders) (No. 4) Order 1993 (Statutory Instruments: 1993: 3055)",
-      "city": null,
-      "publisher": "Stationery Office Books",
-      "year": 1993,
-      "subject": "English Law",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 2,
-      "lang": null,
-      "days_keep_count": 100,
-      "adding_date": "2011-10-14",
-      "count": 10,
-      "authors": [
-        {
-          "key": "/authors/unknown",
-          "last_name": "Unknown",
-          "first_name": "Unknown"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10009027M",
-    "data": {
-      "title": "The Social Security (Contributions) Amendment (No. 7) Regulations 1993 (Statutory Instruments: 1993: 2925)",
-      "city": null,
-      "publisher": "Stationery Office Books",
-      "year": 1993,
-      "subject": "English Law",
-      "genre": null,
-      "periodic_release": 1,
-      "page_count": 4,
-      "lang": null,
-      "days_keep_count": 10,
-      "adding_date": "2009-04-01",
-      "count": 20,
-      "authors": [
-        {
-          "key": "/authors/unknown",
-          "last_name": "Unknown",
-          "first_name": "Unknown"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10009028M",
-    "data": {
-      "title": "The Hearing Aid Council Monetary Penalty (Increase) Order 1993 (Statutory Instruments: 1993: 3052)",
-      "city": null,
-      "publisher": "Stationery Office Books",
-      "year": 1993,
-      "subject": "English Law",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 2,
-      "lang": null,
-      "days_keep_count": 30,
-      "adding_date": "2006-02-26",
+      "adding_date": "2006-03-04",
       "count": 300,
       "authors": [
         {
@@ -648,92 +2544,20 @@
     }
   },
   {
-    "key": "/books/OL10009029M",
+    "key": "/books/OL10000097M",
     "data": {
-      "title": "The City of Glasgow and Monklands Districts (Bargeddie) Boundaries Amendment (No. 2) Order 1993 (Statutory Instruments: 1993: 960 ()",
+      "title": "40house of Lords Official Report",
       "city": null,
       "publisher": "Stationery Office Books",
-      "year": 1993,
-      "subject": "Scots Law",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 6,
-      "lang": null,
-      "days_keep_count": 100,
-      "adding_date": "2000-05-27",
-      "count": 20,
-      "authors": [
-        {
-          "key": "/authors/unknown",
-          "last_name": "Unknown",
-          "first_name": "Unknown"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL1000902M",
-    "data": {
-      "title": "How the tiger lost its stripes",
-      "city": "New York",
-      "publisher": "Harcourt Brace",
-      "year": 1997,
-      "subject": "Tigers",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 271,
-      "lang": "eng",
-      "days_keep_count": 10,
-      "adding_date": "2002-01-26",
-      "count": 10,
-      "authors": [
-        {
-          "key": "/authors/OL541069A",
-          "last_name": "Cory J. Meacham",
-          "first_name": "Cory"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10009030M",
-    "data": {
-      "title": "The Child Support Appeals (Jurisdiction of Courts) Order 1993 (Statutory Instruments: 1993: 961 (L. 12))",
-      "city": null,
-      "publisher": "Stationery Office Books",
-      "year": 1993,
-      "subject": "English Law",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 4,
-      "lang": null,
-      "days_keep_count": 100,
-      "adding_date": "2016-10-13",
-      "count": 100,
-      "authors": [
-        {
-          "key": "/authors/unknown",
-          "last_name": "Unknown",
-          "first_name": "Unknown"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10009031M",
-    "data": {
-      "title": "The Education (School Teachers' Pay and Conditions) Order 1993 (Statutory Instruments: 1993: 962)",
-      "city": null,
-      "publisher": "Stationery Office Books",
-      "year": 1993,
-      "subject": "English Law",
+      "year": 1989,
+      "subject": null,
       "genre": null,
       "periodic_release": 2,
-      "page_count": 4,
+      "page_count": 15,
       "lang": null,
       "days_keep_count": 200,
-      "adding_date": "2016-05-17",
-      "count": 10,
+      "adding_date": "2008-07-01",
+      "count": 300,
       "authors": [
         {
           "key": "/authors/unknown",
@@ -744,139 +2568,19 @@
     }
   },
   {
-    "key": "/books/OL10009032M",
+    "key": "/books/OL10000098M",
     "data": {
-      "title": "The Social Security Benefits (Miscellaneous Amendments) (No. 2) Regulations 1993 (Statutory Instruments: 1993: 963)",
+      "title": "40house of Lords Official Report",
       "city": null,
       "publisher": "Stationery Office Books",
-      "year": 1993,
-      "subject": "English Law",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 4,
-      "lang": null,
-      "days_keep_count": 100,
-      "adding_date": "2002-08-10",
-      "count": 100,
-      "authors": [
-        {
-          "key": "/authors/unknown",
-          "last_name": "Unknown",
-          "first_name": "Unknown"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10009033M",
-    "data": {
-      "title": "The National Assistance (Assessment of Resources) Regulations (Statutory Instruments: 1992: 2977)",
-      "city": null,
-      "publisher": "Stationery Office Books",
-      "year": 1993,
-      "subject": "English law: social security & welfare law",
+      "year": 1989,
+      "subject": null,
       "genre": null,
       "periodic_release": null,
       "page_count": 28,
       "lang": null,
-      "days_keep_count": 30,
-      "adding_date": "2000-09-04",
-      "count": 50,
-      "authors": [
-        {
-          "key": "/authors/unknown",
-          "last_name": "Unknown",
-          "first_name": "Unknown"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10009034M",
-    "data": {
-      "title": "The Child Benefit and Social Security (Miscellaneous Amendments) Regulations 1993 (Statutory Instruments: 1993: 965)",
-      "city": null,
-      "publisher": "Stationery Office Books",
-      "year": 1993,
-      "subject": "English Law",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 4,
-      "lang": null,
       "days_keep_count": 200,
-      "adding_date": "2006-02-01",
-      "count": 50,
-      "authors": [
-        {
-          "key": "/authors/unknown",
-          "last_name": "Unknown",
-          "first_name": "Unknown"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10009035M",
-    "data": {
-      "title": "The Child Support Act 1991 (Commencement No. 3 and Transitional Provisions) Amendment Order 1993 (Statutory Instruments: 1993: 966 (C. 18))",
-      "city": null,
-      "publisher": "Stationery Office Books",
-      "year": 1993,
-      "subject": "English Law",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 4,
-      "lang": null,
-      "days_keep_count": 10,
-      "adding_date": "2009-08-10",
-      "count": 50,
-      "authors": [
-        {
-          "key": "/authors/unknown",
-          "last_name": "Unknown",
-          "first_name": "Unknown"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10009036M",
-    "data": {
-      "title": "The Gaming Act (Variation of Monetary Limits) Order 1993 (Statutory Instruments: 1993: 967)",
-      "city": null,
-      "publisher": "Stationery Office Books",
-      "year": 1993,
-      "subject": "English Law",
-      "genre": null,
-      "periodic_release": 1,
-      "page_count": 2,
-      "lang": null,
-      "days_keep_count": 200,
-      "adding_date": "2001-08-01",
-      "count": 500,
-      "authors": [
-        {
-          "key": "/authors/unknown",
-          "last_name": "Unknown",
-          "first_name": "Unknown"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10009037M",
-    "data": {
-      "title": "The Legal Aid (Scotland) Act 1986 Amendment Regulations 1993 (Statutory Instruments: 1993: 969 ()",
-      "city": null,
-      "publisher": "Stationery Office Books",
-      "year": 1993,
-      "subject": "Scots Law",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 2,
-      "lang": null,
-      "days_keep_count": 10,
-      "adding_date": "2001-03-23",
+      "adding_date": "2015-09-06",
       "count": 300,
       "authors": [
         {
@@ -888,163 +2592,19 @@
     }
   },
   {
-    "key": "/books/OL10009038M",
+    "key": "/books/OL10000099M",
     "data": {
-      "title": "The Civil Legal Aid (Financial Conditions and Contributions) (Scotland) Regulations 1993 (Statutory Instruments: 1993: 970 ()",
+      "title": "40house of Lords Official Report",
       "city": null,
       "publisher": "Stationery Office Books",
-      "year": 1993,
-      "subject": "Scots Law",
+      "year": 1989,
+      "subject": null,
       "genre": null,
       "periodic_release": null,
-      "page_count": 2,
+      "page_count": 40,
       "lang": null,
-      "days_keep_count": 30,
-      "adding_date": "2013-08-05",
-      "count": 300,
-      "authors": [
-        {
-          "key": "/authors/unknown",
-          "last_name": "Unknown",
-          "first_name": "Unknown"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10009039M",
-    "data": {
-      "title": "The Advice and Assistance (Assistance by Way of Representation) (Scotland) Amendment Regulations 1993 (Statutory Instruments: 1993: 972 ()",
-      "city": null,
-      "publisher": "Stationery Office Books",
-      "year": 1993,
-      "subject": "Scots Law",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 4,
-      "lang": null,
-      "days_keep_count": 30,
-      "adding_date": "2015-08-18",
-      "count": 50,
-      "authors": [
-        {
-          "key": "/authors/unknown",
-          "last_name": "Unknown",
-          "first_name": "Unknown"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL1000903M",
-    "data": {
-      "title": "Central and southern Appalachian sutures",
-      "city": "Boulder, Colo",
-      "publisher": "Geological Society of America",
-      "year": 1997,
-      "subject": "Suture zones (Structural geology) -- Appalachian Region.",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 135,
-      "lang": "eng",
-      "days_keep_count": 200,
-      "adding_date": "2010-07-16",
-      "count": 50,
-      "authors": [
-        {
-          "key": "/authors/unknown",
-          "last_name": "Unknown",
-          "first_name": "Unknown"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10009040M",
-    "data": {
-      "title": "The Education (Grants for Further Training of Teachers and Educational Psychologists Etc.) (Scotland) Regulations 1993 (Statutory Instruments: 1993: 974 ()",
-      "city": null,
-      "publisher": "Stationery Office Books",
-      "year": 1993,
-      "subject": "Scots Law",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 4,
-      "lang": null,
-      "days_keep_count": 200,
-      "adding_date": "2001-03-05",
-      "count": 500,
-      "authors": [
-        {
-          "key": "/authors/unknown",
-          "last_name": "Unknown",
-          "first_name": "Unknown"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10009041M",
-    "data": {
-      "title": "The Road Traffic Act 1991 (Commencement No. 6) Order 1993 (Statutory Instruments: 1993: 975 (C. 19) ()",
-      "city": null,
-      "publisher": "Stationery Office Books",
-      "year": 1993,
-      "subject": "English Law",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 4,
-      "lang": null,
-      "days_keep_count": 30,
-      "adding_date": "2016-02-14",
-      "count": 100,
-      "authors": [
-        {
-          "key": "/authors/unknown",
-          "last_name": "Unknown",
-          "first_name": "Unknown"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10009042M",
-    "data": {
-      "title": "The Protection of Wrecks (Designation No. 1) Order 1993 (Statutory Instruments: 1993: 976)",
-      "city": null,
-      "publisher": "Stationery Office Books",
-      "year": 1993,
-      "subject": "English Law",
-      "genre": null,
-      "periodic_release": 1,
-      "page_count": 2,
-      "lang": null,
-      "days_keep_count": 30,
-      "adding_date": "2000-11-24",
-      "count": 50,
-      "authors": [
-        {
-          "key": "/authors/unknown",
-          "last_name": "Unknown",
-          "first_name": "Unknown"
-        }
-      ]
-    }
-  },
-  {
-    "key": "/books/OL10009043M",
-    "data": {
-      "title": "The Imitation Dummies (Safety) Regulations 1993 (Statutory Instruments: 1993: 2923)",
-      "city": null,
-      "publisher": "Stationery Office Books",
-      "year": 1993,
-      "subject": "English Law",
-      "genre": null,
-      "periodic_release": null,
-      "page_count": 2,
-      "lang": null,
-      "days_keep_count": 30,
-      "adding_date": "2003-12-29",
+      "days_keep_count": 50,
+      "adding_date": "2004-10-28",
       "count": 5,
       "authors": [
         {
@@ -1056,20 +2616,68 @@
     }
   },
   {
-    "key": "/books/OL10009044M",
+    "key": "/books/OL1000009M",
     "data": {
-      "title": "The National Health Service Trusts (Consultation on Dissolution) (Scotland) Regulations 1993 (Statutory Instruments: 1993: 3057 ()",
-      "city": null,
-      "publisher": "Stationery Office Books",
-      "year": 1993,
-      "subject": "Scots Law",
+      "title": "Intellectual capital",
+      "city": "London",
+      "publisher": "International Thomson Business Press",
+      "year": 1997,
+      "subject": "Intellectual capital.",
       "genre": null,
       "periodic_release": null,
-      "page_count": 4,
+      "page_count": 204,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2010-07-06",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL55296A",
+          "last_name": "Brooking",
+          "first_name": "Annie"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL100000M",
+    "data": {
+      "title": "Stem cell research",
+      "city": "Washington",
+      "publisher": "U.S. G.P.O.",
+      "year": 1999,
+      "subject": "Human embryo -- Research -- United States.",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 148,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2007-12-05",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/OL43207A",
+          "last_name": "States. Congress. Senate. Committee on Appropriations. Subcommittee on Departments of Labor, Health and Human Services, Education, and Related Agencies.",
+          "first_name": "United"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000100M",
+    "data": {
+      "title": "40house of Lords Official Report",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1989,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 52,
       "lang": null,
-      "days_keep_count": 30,
-      "adding_date": "2016-02-01",
-      "count": 300,
+      "days_keep_count": 50,
+      "adding_date": "2007-12-15",
+      "count": 5,
       "authors": [
         {
           "key": "/authors/unknown",
@@ -1080,19 +2688,91 @@
     }
   },
   {
-    "key": "/books/OL10009045M",
+    "key": "/books/OL10000101M",
     "data": {
-      "title": "The Food Protection (Emergency Prohibitions) (Oil and Chemical Pollution of Fish) (No. 2) (Partial Revocation No. 2) Order 1993 (Statutory Instruments: 1993: 3058 ()",
+      "title": "40house of Lords Official Report",
       "city": null,
       "publisher": "Stationery Office Books",
-      "year": 1993,
-      "subject": "English Law",
+      "year": 1989,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 60,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2005-02-11",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000102M",
+    "data": {
+      "title": "40house of Lords Official Report",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1989,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 69,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2002-10-27",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000103M",
+    "data": {
+      "title": "40house of Lords Official Report",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1989,
+      "subject": null,
       "genre": null,
       "periodic_release": 1,
-      "page_count": 2,
+      "page_count": 79,
       "lang": null,
-      "days_keep_count": 50,
-      "adding_date": "2014-10-18",
+      "days_keep_count": 200,
+      "adding_date": "2000-12-17",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000104M",
+    "data": {
+      "title": "40house of Lords Official Report",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1989,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 88,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2002-03-07",
       "count": 100,
       "authors": [
         {
@@ -1104,19 +2784,43 @@
     }
   },
   {
-    "key": "/books/OL10009046M",
+    "key": "/books/OL10000105M",
     "data": {
-      "title": "The New Town (Livingston) Winding Up Order 1993 (Statutory Instruments: 1993: 3060 ()",
+      "title": "40house of Lords Official Report",
       "city": null,
       "publisher": "Stationery Office Books",
-      "year": 1993,
-      "subject": "English Law",
+      "year": 1989,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 100,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2012-12-06",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000106M",
+    "data": {
+      "title": "40house of Lords Official Report",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1990,
+      "subject": null,
       "genre": null,
       "periodic_release": null,
-      "page_count": 4,
+      "page_count": 108,
       "lang": null,
-      "days_keep_count": 50,
-      "adding_date": "2005-07-20",
+      "days_keep_count": 200,
+      "adding_date": "2005-08-16",
       "count": 10,
       "authors": [
         {
@@ -1128,20 +2832,20 @@
     }
   },
   {
-    "key": "/books/OL10009047M",
+    "key": "/books/OL10000107M",
     "data": {
-      "title": "The Banking Appeal Tribunal (Amendment) Regulations 1993 (Statutory Instruments: 1993: 982)",
+      "title": "40house of Lords Official Report",
       "city": null,
       "publisher": "Stationery Office Books",
-      "year": 1993,
-      "subject": "English Law",
+      "year": 1990,
+      "subject": null,
       "genre": null,
       "periodic_release": null,
-      "page_count": 4,
+      "page_count": 0,
       "lang": null,
       "days_keep_count": 100,
-      "adding_date": "2016-01-17",
-      "count": 100,
+      "adding_date": "2002-02-05",
+      "count": 500,
       "authors": [
         {
           "key": "/authors/unknown",
@@ -1152,19 +2856,163 @@
     }
   },
   {
-    "key": "/books/OL10009048M",
+    "key": "/books/OL10000108M",
     "data": {
-      "title": "The Building Societies Appeal Tribunal (Amendment) Regulations 1993 (Statutory Instruments: 1993: 983)",
+      "title": "40house of Lords Official Report",
       "city": null,
       "publisher": "Stationery Office Books",
-      "year": 1993,
-      "subject": "English Law",
+      "year": 1990,
+      "subject": null,
       "genre": null,
       "periodic_release": 3,
-      "page_count": 2,
+      "page_count": 15,
       "lang": null,
       "days_keep_count": 50,
-      "adding_date": "2014-01-29",
+      "adding_date": "2000-11-14",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000109M",
+    "data": {
+      "title": "40house of Lords Official Report",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1990,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 29,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2006-12-25",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000010M",
+    "data": {
+      "title": "Practical systems thinking",
+      "city": "Boston",
+      "publisher": "International Thomson Business Press",
+      "year": 1996,
+      "subject": "Problem solving",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 282,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2015-04-03",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/OL540739A",
+          "last_name": "Waring",
+          "first_name": "Alan"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000110M",
+    "data": {
+      "title": "40house of Lords Official Report",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1990,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 40,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2014-09-26",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000111M",
+    "data": {
+      "title": "40house of Lords Official Report",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1990,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 53,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2008-08-07",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000112M",
+    "data": {
+      "title": "40house of Lords Official Report",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1990,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 66,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2015-08-28",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000113M",
+    "data": {
+      "title": "40house of Lords Official Report",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1990,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 76,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2013-03-15",
       "count": 300,
       "authors": [
         {
@@ -1176,20 +3024,1772 @@
     }
   },
   {
-    "key": "/books/OL10009049M",
+    "key": "/books/OL10000114M",
     "data": {
-      "title": "The Building Societies (Prescribed Contracts) Order 1993 (Statutory Instruments: 1993: 984)",
+      "title": "40house of Lords Official Report",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1990,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 86,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2015-04-02",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000115M",
+    "data": {
+      "title": "40house of Lords Official Report",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1990,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 102,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2013-04-26",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000116M",
+    "data": {
+      "title": "40house of Lords Official Report",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1991,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 109,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2001-10-18",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000117M",
+    "data": {
+      "title": "40house of Lords Official Report",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1991,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 120,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2009-02-08",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000118M",
+    "data": {
+      "title": "40house of Lords Official Report",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1991,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 13,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2000-05-18",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000119M",
+    "data": {
+      "title": "40house of Lords Official Report",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1991,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 26,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2002-04-07",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000011M",
+    "data": {
+      "title": "Operations management",
+      "city": "London",
+      "publisher": "International Thomson Business Press",
+      "year": 1996,
+      "subject": "Production management",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 127,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2001-02-24",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL540740A",
+          "last_name": "L. Galloway",
+          "first_name": "R."
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000120M",
+    "data": {
+      "title": "40house of Lords Official Report",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1991,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 35,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2011-05-30",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000121M",
+    "data": {
+      "title": "40house of Lords Official Report",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1991,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 49,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2009-05-18",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000122M",
+    "data": {
+      "title": "Parliamentary Debates, House of Lords",
+      "city": null,
+      "publisher": "Bernan Press",
+      "year": 1991,
+      "subject": "Government - Comparative",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2016-10-04",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL2645777A",
+          "last_name": "Books",
+          "first_name": "HMSO"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000123M",
+    "data": {
+      "title": "40house of Lords Official Report",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1991,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 77,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2009-02-09",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000124M",
+    "data": {
+      "title": "40house of Lords Official Report",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1991,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 88,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2004-08-14",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000125M",
+    "data": {
+      "title": "40house of Lords Official Report",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1991,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 104,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2009-06-06",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000126M",
+    "data": {
+      "title": "Parliamentary Debates, House of Lords",
+      "city": null,
+      "publisher": "Bernan Press",
+      "year": 1992,
+      "subject": "General",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 120,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2008-06-29",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/OL2645777A",
+          "last_name": "Books",
+          "first_name": "HMSO"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000127M",
+    "data": {
+      "title": "40house of Lords Official Report",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1992,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 17,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2005-03-17",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000128M",
+    "data": {
+      "title": "40house of Lords Official Report",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1992,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2013-01-22",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000129M",
+    "data": {
+      "title": "40house of Lords Official Report",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1992,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 42,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2016-01-26",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000012M",
+    "data": {
+      "title": "Interpreting accounts",
+      "city": "London",
+      "publisher": "International Thomson Business Press",
+      "year": 1996,
+      "subject": "Accounting -- Problems, exercises, etc.",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 201,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2007-06-18",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/OL540741A",
+          "last_name": "John",
+          "first_name": "Blake,"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000130M",
+    "data": {
+      "title": "40house of Lords Official Report",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1992,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 53,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2000-08-29",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000131M",
+    "data": {
+      "title": "Parliamentary Debates, House of Lords",
+      "city": null,
+      "publisher": "Bernan Press",
+      "year": 1992,
+      "subject": "Government - Comparative",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2004-06-04",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL2645777A",
+          "last_name": "Books",
+          "first_name": "HMSO"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000132M",
+    "data": {
+      "title": "Parliamentary Debates, House of Lords",
+      "city": null,
+      "publisher": "Bernan Press",
+      "year": 1992,
+      "subject": "Government - Comparative",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 17,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2002-09-17",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/OL2645777A",
+          "last_name": "Books",
+          "first_name": "HMSO"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000133M",
+    "data": {
+      "title": "40house of Lords Official Report",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1992,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 32,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2002-10-15",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000134M",
+    "data": {
+      "title": "40house of Lords Official Report",
       "city": null,
       "publisher": "Stationery Office Books",
       "year": 1993,
-      "subject": "English Law",
+      "subject": null,
       "genre": null,
       "periodic_release": 3,
-      "page_count": 4,
+      "page_count": 49,
       "lang": null,
       "days_keep_count": 200,
-      "adding_date": "2000-12-28",
+      "adding_date": "2000-01-28",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000135M",
+    "data": {
+      "title": "Parliamentary Debates, House of Lords, Bound Volumes, 1992-93",
+      "city": null,
+      "publisher": "Bernan Press",
+      "year": 1993,
+      "subject": "Government - Comparative",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 64,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2016-05-04",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/OL2645777A",
+          "last_name": "Books",
+          "first_name": "HMSO"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000136M",
+    "data": {
+      "title": "Parliamentary Debates, House of Lords",
+      "city": null,
+      "publisher": "Bernan Press",
+      "year": 1993,
+      "subject": "Government - Comparative",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 77,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2001-08-06",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL2645777A",
+          "last_name": "Books",
+          "first_name": "HMSO"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000137M",
+    "data": {
+      "title": "Parliamentary Debates, House of Lords, 1992-93",
+      "city": null,
+      "publisher": "Stationery Office",
+      "year": 1993,
+      "subject": "POLITICS & GOVERNMENT",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 89,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2005-10-12",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000138M",
+    "data": {
+      "title": "40house of Lords Official Report",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1993,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 104,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2010-05-14",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000139M",
+    "data": {
+      "title": "40house of Lords Official Report",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1993,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 117,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2014-03-01",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000013M",
+    "data": {
+      "title": "Measuring and managing derivative market risk",
+      "city": "London",
+      "publisher": "International Thomson Business Press",
+      "year": 1996,
+      "subject": "Derivative securities.",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 216,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2008-12-13",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/OL540742A",
+          "last_name": "David",
+          "first_name": "Lawrence,"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000140M",
+    "data": {
+      "title": "40house of Lords Official Report",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1993,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 130,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2011-02-21",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000141M",
+    "data": {
+      "title": "Parliamentary Debates, House of Lords - 1993-93, 5th Series, 24 May - 17 June 1993",
+      "city": null,
+      "publisher": "Stationery Office",
+      "year": 1994,
+      "subject": "POLITICS & GOVERNMENT",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 142,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2002-02-03",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000142M",
+    "data": {
+      "title": "40house of Lords Official Report",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1994,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 165,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2014-06-06",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000143M",
+    "data": {
+      "title": "40house of Lords Official Report",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1994,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 179,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2000-07-05",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000144M",
+    "data": {
+      "title": "Parliamentary Debates House of Lords Bound Volumes 1992-93 5th Series October 11-November 5, 1993",
+      "city": null,
+      "publisher": "Stationery Office",
+      "year": 1994,
+      "subject": "Reference",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 194,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2013-01-06",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000145M",
+    "data": {
+      "title": "40house of Lords Official Report",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1994,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 23,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2005-09-25",
       "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000146M",
+    "data": {
+      "title": "Parliamentary Debates, House of Lords",
+      "city": null,
+      "publisher": "Bernan Press",
+      "year": 1994,
+      "subject": "General",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 790,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2010-04-19",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL3345144A",
+          "last_name": "Office (Great Britain)",
+          "first_name": "Stationery"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000147M",
+    "data": {
+      "title": "40house of Lords Official Report",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1994,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2013-07-17",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000148M",
+    "data": {
+      "title": "40house of Lords Official Report",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1994,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 74,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2000-11-13",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000149M",
+    "data": {
+      "title": "40house of Lords Official Report",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1994,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 87,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2010-01-13",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000014M",
+    "data": {
+      "title": "Bank accounts directive opitions and their implementation",
+      "city": "Boston",
+      "publisher": "International Thomson Business Press",
+      "year": 1997,
+      "subject": "Banks and banking -- Accounting -- Law and legislation -- European Union countries",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 0,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2011-11-02",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000150M",
+    "data": {
+      "title": "Parliamentary Debates, House of Lords, Bounds Volumes 1993-94 5th Series, 16 May - 16 June 1994 (Parliamentary Debates , Vol 555)",
+      "city": null,
+      "publisher": "Bernan Press",
+      "year": 1994,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 790,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2012-05-31",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/OL3345144A",
+          "last_name": "Office (Great Britain)",
+          "first_name": "Stationery"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000151M",
+    "data": {
+      "title": "Parliamentary Debates, House of Lords, Bound Volumes, 1993-94",
+      "city": null,
+      "publisher": "Bernan Press",
+      "year": 1995,
+      "subject": "Government - Comparative",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 115,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2003-02-03",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/OL2645777A",
+          "last_name": "Books",
+          "first_name": "HMSO"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000152M",
+    "data": {
+      "title": "Parliamentary Debates, House of Lords, Bound Volumes 1993-94",
+      "city": null,
+      "publisher": "Bernan Press",
+      "year": 1995,
+      "subject": "POLITICS & GOVERNMENT",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 790,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2014-12-23",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/OL2645777A",
+          "last_name": "Books",
+          "first_name": "HMSO"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000153M",
+    "data": {
+      "title": "Parliamentary Debates, House of Lords, Bound Volumes 1993-94",
+      "city": null,
+      "publisher": "Stationery Office",
+      "year": 1995,
+      "subject": "POLITICS & GOVERNMENT",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 136,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2013-12-15",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000154M",
+    "data": {
+      "title": "Parliamentary Debates, House of Lords, Bound Volumes 1994-95",
+      "city": null,
+      "publisher": "Bernan Press",
+      "year": 1995,
+      "subject": "POLITICS & GOVERNMENT",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 790,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2001-06-16",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/OL2645777A",
+          "last_name": "Books",
+          "first_name": "HMSO"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000155M",
+    "data": {
+      "title": "Parliamentary Debates, House of Lords, Bound Volumes 1994-95",
+      "city": null,
+      "publisher": "Stationery Office",
+      "year": 1995,
+      "subject": "POLITICS & GOVERNMENT",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 37,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2006-08-24",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000156M",
+    "data": {
+      "title": "40house of Lords Official Report",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1995,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 52,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2002-04-22",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000157M",
+    "data": {
+      "title": "Parliamentary Debates, House of Lords, 1994-95 (5th Series, March 6-30 1995 (Parliamentary Debates , Vol 562)",
+      "city": null,
+      "publisher": "Stationery Office",
+      "year": 1995,
+      "subject": "Reference",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 67,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2014-01-04",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/OL3345144A",
+          "last_name": "Office (Great Britain)",
+          "first_name": "Stationery"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000158M",
+    "data": {
+      "title": "Parliamentary Debates, House of Lords, 1994-95 (5th Series, April 3 - May 5 1995 (Parliamentary Debates , Vol 563)",
+      "city": null,
+      "publisher": "Stationery Office",
+      "year": 1995,
+      "subject": "Reference",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 83,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2003-02-23",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL3345144A",
+          "last_name": "Office (Great Britain)",
+          "first_name": "Stationery"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000159M",
+    "data": {
+      "title": "40house of Lords Official Report",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1995,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 99,
+      "lang": null,
+      "days_keep_count": 10,
+      "adding_date": "2010-11-03",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000015M",
+    "data": {
+      "title": "Lesbian configurations",
+      "city": "New York",
+      "publisher": "Columbia University Press",
+      "year": 1997,
+      "subject": "Lesbianism in literature.",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 168,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2012-07-04",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/OL540743A",
+          "last_name": "C. Hoogland",
+          "first_name": "Renée"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000160M",
+    "data": {
+      "title": "House of Lords Official Report",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1996,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 116,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2004-01-26",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000161M",
+    "data": {
+      "title": "House of Lords Official Report",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1996,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 137,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2011-03-04",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000162M",
+    "data": {
+      "title": "House of Lords Official Report",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1996,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 23,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2012-10-01",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000163M",
+    "data": {
+      "title": "Parliamentary Debates, House of Lords, Bound Volumes, 1995-96, 5th Series, 9 January - 1 February",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1996,
+      "subject": "Government - Comparative",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 790,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2006-05-26",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/OL3345144A",
+          "last_name": "Office (Great Britain)",
+          "first_name": "Stationery"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000164M",
+    "data": {
+      "title": "Parliamentary Debates, House of Lords, Bound Volumes, 1995-96, 5th Series, 5 February - 1 March, 1996",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1996,
+      "subject": "Government - Comparative",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 790,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2003-08-29",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/OL3345144A",
+          "last_name": "Office (Great Britain)",
+          "first_name": "Stationery"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000165M",
+    "data": {
+      "title": "Parliamentary Debates, House of Lords, Bound Volumes, 1995-96, 5th Series, 4 March - 28 March, 1996",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1996,
+      "subject": "Government - Comparative",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 790,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2015-04-13",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL3345144A",
+          "last_name": "Office (Great Britain)",
+          "first_name": "Stationery"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000166M",
+    "data": {
+      "title": "Parliamentary Debates, House of Lords, Bound Volumes, 1995-96, 5th Series, 1 April - 2 May, 1996",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1996,
+      "subject": "Government - Comparative",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 790,
+      "lang": "eng",
+      "days_keep_count": 100,
+      "adding_date": "2013-07-13",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/OL3345144A",
+          "last_name": "Office (Great Britain)",
+          "first_name": "Stationery"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000167M",
+    "data": {
+      "title": "House of Lords Official Report",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1996,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 108,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2004-10-02",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000168M",
+    "data": {
+      "title": "Parliamentry Debates, House of Lords - Bound Volumes, 1995-96, 17 June-5 July, 1996",
+      "city": null,
+      "publisher": "Bernan Assoc",
+      "year": 1997,
+      "subject": "POLITICS & GOVERNMENT",
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 122,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2004-03-13",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/OL2645811A",
+          "last_name": "Tso",
+          "first_name": "Tso"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000169M",
+    "data": {
+      "title": "House of Lords Official Report",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 143,
+      "lang": null,
+      "days_keep_count": 30,
+      "adding_date": "2006-03-04",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000016M",
+    "data": {
+      "title": "Santa Claus, last of the wild men",
+      "city": "Jefferson, N.C",
+      "publisher": "McFarland",
+      "year": 1997,
+      "subject": "Nicholas, Saint, Bp. of Myra -- History.",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 219,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2007-11-06",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL540744A",
+          "last_name": "Siefker",
+          "first_name": "Phyllis"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000170M",
+    "data": {
+      "title": "House of Lords Official Report",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 21,
+      "lang": null,
+      "days_keep_count": 50,
+      "adding_date": "2011-12-02",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000171M",
+    "data": {
+      "title": "House of Lords Official Report",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 39,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2013-04-20",
+      "count": 50,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000172M",
+    "data": {
+      "title": "House of Lords Official Report",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 56,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2008-08-29",
+      "count": 300,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000173M",
+    "data": {
+      "title": "House of Lords Official Report",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 73,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2007-04-22",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000174M",
+    "data": {
+      "title": "House of Lords Official Report",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1997,
+      "subject": null,
+      "genre": null,
+      "periodic_release": 1,
+      "page_count": 86,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2015-01-01",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000175M",
+    "data": {
+      "title": "House of Lords Official Report",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 46,
+      "lang": null,
+      "days_keep_count": 200,
+      "adding_date": "2008-07-12",
+      "count": 5,
+      "authors": [
+        {
+          "key": "/authors/unknown",
+          "last_name": "Unknown",
+          "first_name": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000176M",
+    "data": {
+      "title": "Parliamentary Debates, House of Lords",
+      "city": null,
+      "publisher": "Stationery Office",
+      "year": 1998,
+      "subject": "POLITICS & GOVERNMENT",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 790,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2005-10-22",
+      "count": 10,
+      "authors": [
+        {
+          "key": "/authors/OL2645811A",
+          "last_name": "Tso",
+          "first_name": "Tso"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000177M",
+    "data": {
+      "title": "Parliamentary Debates, House of Lords, Bound Volumes (Parliamentary Debates, House of Lords)",
+      "city": null,
+      "publisher": "Bernan Press",
+      "year": 1998,
+      "subject": "POLITICS & GOVERNMENT",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 790,
+      "lang": "eng",
+      "days_keep_count": 30,
+      "adding_date": "2006-07-20",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/OL2645811A",
+          "last_name": "Tso",
+          "first_name": "Tso"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000178M",
+    "data": {
+      "title": "Parliamentary Debates, House of Lords, 1997-98",
+      "city": null,
+      "publisher": "Stationery Office",
+      "year": 1999,
+      "subject": "Bibliographies, catalogues, discographies",
+      "genre": null,
+      "periodic_release": 2,
+      "page_count": 109,
+      "lang": "eng",
+      "days_keep_count": 10,
+      "adding_date": "2001-12-22",
+      "count": 500,
+      "authors": [
+        {
+          "key": "/authors/OL2645811A",
+          "last_name": "Tso",
+          "first_name": "Tso"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000179M",
+    "data": {
+      "title": "Parliamentary Debates, House of Lords, 1997-98",
+      "city": null,
+      "publisher": "Stationery Office",
+      "year": 1999,
+      "subject": "Bibliographies, catalogues, discographies",
+      "genre": null,
+      "periodic_release": 3,
+      "page_count": 124,
+      "lang": "eng",
+      "days_keep_count": 50,
+      "adding_date": "2007-04-24",
+      "count": 100,
+      "authors": [
+        {
+          "key": "/authors/OL2645811A",
+          "last_name": "Tso",
+          "first_name": "Tso"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL1000017M",
+    "data": {
+      "title": "Panta 1",
+      "city": "Lanham, Md",
+      "publisher": "University Press of America",
+      "year": 1997,
+      "subject": "Heraclitus, of Ephesus -- Influence.",
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 395,
+      "lang": "eng",
+      "days_keep_count": 200,
+      "adding_date": "2006-01-29",
+      "count": 20,
+      "authors": [
+        {
+          "key": "/authors/OL540745A",
+          "last_name": "A. Ketzel",
+          "first_name": "James"
+        }
+      ]
+    }
+  },
+  {
+    "key": "/books/OL10000180M",
+    "data": {
+      "title": "House of Lords Official Report",
+      "city": null,
+      "publisher": "Stationery Office Books",
+      "year": 1998,
+      "subject": null,
+      "genre": null,
+      "periodic_release": null,
+      "page_count": 0,
+      "lang": null,
+      "days_keep_count": 100,
+      "adding_date": "2010-12-10",
+      "count": 500,
       "authors": [
         {
           "key": "/authors/unknown",
