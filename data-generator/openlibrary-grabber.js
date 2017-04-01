@@ -6,17 +6,24 @@ const args = utils.args;
 
 let totalCount = 0;
 const recordsPerRequest = 200;
+const maxBookOffset = 5000000;
+const maxAuthorOffset = 500000;
 const baseUrl = "http://openlibrary.org";
+const requestUrl = "http://openlibrary.org/api/things";
+
 const getRandomArrayItem = array => array[Math.floor(Math.random()*array.length)];
-const getRandomDate = (start, end) => new Date(start.getTime() + Math.random() * (end.getTime() - start.getTime()))
-                                            .toISOString().slice(0, 10);
+const getRandomInt = (min,max) => Math.floor(Math.random() * (max - min + 1)) + min;
+const splitFirstName = fullName => fullName ? fullName.replace(/(\s\S+)+$/, "") : "Unknown";
+const splitLastName = fullName => fullName ? fullName.replace(/^\S+\s/, "") : "Unknown";
+const getRandomDate = (start, end) => new Date(start.getTime() +
+                                      Math.random() * (end.getTime() - start.getTime()))
+                                      .toISOString().slice(0, 10);
 
 function main() {
-    
+
     if(utils.hasArguments() && args.books_count) {
 
         let booksCount = +args.books_count;
-        let startOffset = args.offset ? args.offset : 0;
         utils.clearOpenLibraryDirectory();
 
         if(booksCount <= recordsPerRequest) {
@@ -25,7 +32,6 @@ function main() {
                 processRequest({
                     count:booksCount,
                     number: 1,
-                    offset: startOffset
                 })
             ]).then(() => console.log(`\nAll requests finished\n`+
                                       `Fetched ${totalCount} records, wrote to 1 file`));
@@ -38,7 +44,6 @@ function main() {
             for(let i=0; i < requestsCount; i++) {
                 requestsPromises.push(processRequest({
                     count: recordsPerRequest,
-                    offset: startOffset + i*recordsPerRequest,
                     number: i+1
                 }));
             }
@@ -46,7 +51,6 @@ function main() {
             if(booksCount%recordsPerRequest != 0) {
                 requestsPromises.push(processRequest({
                     count: booksCount%recordsPerRequest,
-                    offset: startOffset + requestsCount*recordsPerRequest,
                     number: requestsCount+1
                 }))
             }
@@ -71,9 +75,9 @@ function runSerial(tasks) {
 
 function processBook(book) {
 
-    return new Promise( (resolve, reject) => {
+    return new Promise( resolve => {
 
-        request.get(baseUrl + book + ".json", (err, res, body) => {
+        request.get(`${baseUrl}${book}.json`, (err, res, body) => {
 
             let data = JSON.parse(body);
             let processedBook = {
@@ -107,12 +111,15 @@ function processBook(book) {
                     });
             }
             else {
-                processedBook.authors.push({
-                    key: "/authors/unknown",
-                    last_name: "Unknown",
-                    first_name: "Unknown"
-                });
-                resolve({key: book, data: processedBook});
+                fetchRandomAuthor()
+                    .then(randomAuthor => {
+                        processedBook.authors.push({
+                            key: randomAuthor.key,
+                            last_name: splitLastName(randomAuthor.name),
+                            first_name: splitFirstName(randomAuthor.name),
+                        });
+                        resolve({key: book, data: processedBook});
+                    });
             }
         });
     });
@@ -120,31 +127,70 @@ function processBook(book) {
 
 function processAuthor(author) {
 
-    return new Promise( (resolve, reject) => {
-        request.get(baseUrl + author + ".json", (err, res, body) => {
+    return new Promise( resolve => {
+        request.get(`${baseUrl}${author}.json`, (err, res, body) => {
 
             let data = JSON.parse(body);
-            let processedAuthor = {
-                key: data.name ? author: "/authors/unknown",
-                last_name: data.name ? data.name.replace(/^\S+\s/, "") : "Unknown",
-                first_name: data.name ? data.name.replace(/(\s\S+)+$/, "") : "Unknown"
-            };
+            if(data.name) {
+                resolve({
+                    key: author,
+                    last_name: splitLastName(data.name),
+                    first_name: splitFirstName(data.name),
+                });
+            }
+            else {
+                fetchRandomAuthor()
+                    .then(randomAuthor => {
+                        resolve({
+                            key: randomAuthor.key,
+                            last_name: splitLastName(randomAuthor.name),
+                            first_name: splitFirstName(randomAuthor.name),
+                        });
+                    });
+            }
+        });
+    });
+}
 
-            resolve(processedAuthor);
+function fetchRandomAuthor() {
+
+    return new Promise( resolve => {
+
+        request({
+            uri: requestUrl,
+            qs: {
+                'query': `{"type":"\/type\/author", "limit":1, `+
+                          `"offset":${getRandomInt(0,maxAuthorOffset)}}`
+            },
+            json: true
+        },(err, res, body) => {
+            let author = body.result[0];
+            request.get(`${baseUrl}${author}.json`, (err,res,body) => {
+
+                let author = JSON.parse(body);
+                if(author.name) {
+                    resolve(author);
+                }
+                else {
+                    resolve({
+                        key: "/authors/unknown",
+                        name: "Unknown Unknown"
+                    });
+                }
+            });
         });
     });
 }
 
 function processRequest(params) {
 
-    return () => new Promise( (resolve, reject) => {
+    return () => new Promise( resolve => {
 
         const options = {
-            uri: "http://openlibrary.org/api/things",
+            uri: requestUrl,
             qs: {
-                'query' : params.offset
-                        ? `{"type":"\/type\/edition", "limit":${params.count}, "offset":${params.offset}}`
-                        : `{"type":"\/type\/edition", "limit":${params.count}}`
+                'query' : `{"type":"\/type\/edition", "limit":${params.count},`+
+                           `"offset":${getRandomInt(0,maxBookOffset)}}`
             },
             json: true
         }
