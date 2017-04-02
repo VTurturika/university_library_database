@@ -13,14 +13,14 @@ const requestUrl = "http://openlibrary.org/api/things";
 
 function main() {
 
-    if(utils.hasArguments() && args.books_count) {
+    if(utils.hasArguments() && args.books) {
 
-        let booksCount = +args.books_count;
+        let booksCount = +args.books;
         utils.clearOpenLibraryDirectory();
 
         if(booksCount <= recordsPerRequest) {
 
-            runSerial([
+            utils.runSerial([
                 processRequest({
                     count:booksCount,
                     number: 1,
@@ -47,7 +47,7 @@ function main() {
                 }))
             }
 
-            runSerial(requestsPromises)
+            utils.runSerial(requestsPromises)
                 .then(() => console.log(`\nAll requests finished\n`+
                                         `Fetched ${totalCount} records, wrote to ${requestsCount} files`));
         }
@@ -57,13 +57,6 @@ function main() {
     }
 }
 
-function runSerial(tasks) {
-    let result = Promise.resolve();
-    tasks.forEach(task => {
-        result = result.then(() => task());
-    });
-    return result;
-}
 
 function processBook(book) {
 
@@ -73,7 +66,8 @@ function processBook(book) {
 
             let data = JSON.parse(body);
             let processedBook = {
-                title: data.title,
+                openlibrary_id: book,
+                title: utils.cutLongStr(data.title),
                 city: data.publish_places ? data.publish_places[0] : null,
                 publisher: data.publishers ? data.publishers[0] : null,
                 year: data.publish_date ? +data.publish_date.slice(-4) : null,
@@ -99,18 +93,18 @@ function processBook(book) {
                         data.forEach(processedAuthor => {
                             if(processedAuthor) processedBook.authors.push(processedAuthor);
                         });
-                        resolve({key: book, data: processedBook});
+                        resolve(processedBook);
                     });
             }
             else {
                 fetchRandomAuthor()
                     .then(randomAuthor => {
                         processedBook.authors.push({
-                            key: randomAuthor.key,
-                            last_name: utils.splitLastName(randomAuthor.name),
-                            first_name: utils.splitFirstName(randomAuthor.name),
+                            openlibrary_id: randomAuthor.key,
+                            last_name: utils.cutLongStr(utils.splitLastName(randomAuthor.name)),
+                            first_name: utils.cutLongStr(utils.splitFirstName(randomAuthor.name))
                         });
-                        resolve({key: book, data: processedBook});
+                        resolve(processedBook);
                     });
             }
         });
@@ -125,18 +119,18 @@ function processAuthor(author) {
             let data = JSON.parse(body);
             if(data.name) {
                 resolve({
-                    key: author,
-                    last_name: utils.splitLastName(data.name),
-                    first_name: utils.splitFirstName(data.name),
+                    openlibrary_id: author,
+                    last_name: utils.cutLongStr(utils.splitLastName(data.name)),
+                    first_name: utils.cutLongStr(utils.splitFirstName(data.name)),
                 });
             }
             else {
                 fetchRandomAuthor()
                     .then(randomAuthor => {
                         resolve({
-                            key: randomAuthor.key,
-                            last_name: utils.splitLastName(randomAuthor.name),
-                            first_name: utils.splitFirstName(randomAuthor.name),
+                            openlibrary_id: randomAuthor.key,
+                            last_name: utils.cutLongStr(utils.splitLastName(randomAuthor.name)),
+                            first_name: utils.cutLongStr(utils.splitFirstName(randomAuthor.name))
                         });
                     });
             }
@@ -165,7 +159,7 @@ function fetchRandomAuthor() {
                 }
                 else {
                     resolve({
-                        key: "/authors/unknown",
+                        openlibrary_id: "/authors/unknown",
                         name: "Unknown Unknown"
                     });
                 }

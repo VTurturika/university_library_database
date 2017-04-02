@@ -1,11 +1,11 @@
 "use strict";
 
 const utils = require("./utils.js");
-const fetch = require("./fetch.js");
+const fetch = require("./mockaroo-fetch.js");
 const args = utils.args;
 
 if(!utils.hasArguments()) {
-    utils.showHelp();
+    utils.showReaderGeneratorHelp();
 }
 else {
 

@@ -107,15 +107,15 @@ CREATE TABLE IF NOT EXISTS book (
   city VARCHAR(50),
   publisher VARCHAR(100),
   year SMALLINT,
-  subject varchar(50),
-  genre VARCHAR(45),
+  subject varchar(100),
+  genre VARCHAR(100),
   periodic_release INT,
   page_count INT,
-  lang varchar(10) NOT NULL,
+  lang varchar(10),
   days_keep_count INT NOT NULL,
   adding_date DATE NOT NULL,
-  count INT,
-  ol_id VARCHAR(100)
+  count INT NOT NULL,
+  openlibrary_id VARCHAR(100) NOT NULL
 
 );
 
@@ -125,8 +125,8 @@ CREATE TABLE IF NOT EXISTS author (
   id SERIAL PRIMARY KEY,
   last_name VARCHAR(100) NOT NULL,
   first_name VARCHAR(100) NOT NULL,
-  ol_id VARCHAR(100)
-  
+  openlibrary_id VARCHAR(100)
+
 );
 
 

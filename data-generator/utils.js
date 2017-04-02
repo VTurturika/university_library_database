@@ -5,14 +5,15 @@ const args = require("args-parser")(process.argv);
 
 function createInsertStatement(table, record) {
 
-    let result = `INSERT INTO ${table} (`;
-    Object.keys(record).forEach( column => result = result.concat(column + ","));
-    result = result.slice(0,-1) + ") VALUES (";
+    let values = Object.values(record).map ( value =>
+        typeof value === "string"
+        ? `'${value}'`
+        : value === null
+        ? "null"
+        : value
+    );
 
-    Object.values(record).forEach( value => result = result.concat(
-        typeof value === "string" ? `'${value.replace(/\'/g, "`")}',` : `${value},`));
-
-    return result.slice(0,-1) + ");";
+    return `INSERT INTO ${table}(${Object.keys(record).join()}) VALUES(${values.join()});`;
 }
 
 module.exports = {
@@ -23,14 +24,14 @@ module.exports = {
         return Object.keys(args).length != 0;
     },
 
-    showHelp: () => {
-        console.log("Usage: node reader-generator.js table=TABLE [rows_count=COUNT]\n");
+    showReaderGeneratorHelp: () => {
+        console.log("Usage:\n\tnode reader-generator.js table=TABLE [rows_count=COUNT]");
         console.log("\tTABLE: student | teacher | postgraduate | preparatory | applicant | certification_training");
         console.log("\tCOUNT: min=2, max=5000, default=10");
     },
 
     showGrabberHelp: () => {
-        console.log("Usage:\n\tnode openlibrary-grabber.js books_count=COUNT");
+        console.log("Usage:\n\tnode openlibrary-grabber.js books=COUNT");
     },
 
     writeSqlToFile: (params) => {
@@ -61,6 +62,29 @@ module.exports = {
     splitLastName : (fullName) => fullName ? fullName.replace(/^\S+\s/, "") : "Unknown",
 
     getRandomDate : (start, end) => new Date(start.getTime() + Math.random() * (end.getTime() - start.getTime()))
-                                            .toISOString().slice(0, 10)
+                                            .toISOString().slice(0, 10),
 
+    showRelationGeneratorHelp: () => {
+        console.log("Usage:\n\tnode relation-generator.js tables=TABLES " +
+                    "\n\tTABLES: book+author | book+section | book+section+reader");
+    },
+
+    runSerial: (tasks) => {
+        let result = Promise.resolve();
+        tasks.forEach(task => {
+            result = result.then(() => task());
+        });
+        return result;
+    },
+
+    readOpenLibraryJsons: () => {
+        let result = [];
+        fs.readdirSync("openlibrary").forEach(file => {
+            let json = require(`./openlibrary/${file}`);
+            result.push(json);
+        })
+        return result;
+    },
+
+    cutLongStr: (str) => str.length > 100 ? str.slice(0,100): str
 }

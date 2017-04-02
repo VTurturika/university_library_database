@@ -65,7 +65,7 @@ module.exports = {
                         record.degree = null;
                         record.rank = record.rank ? data.teacher.rank["1"] : null;
                         break;
-                    case "0":clearclr
+                    case "0":
                         record.degree = null;
                         record.rank = null;
                         break;
