@@ -329,10 +329,5 @@ Book_Event
 	violation : загублена, зіпсована, не вчасно повернена
 	punishment : заміна, відшкодування, штраф
 
-Book
-	title: titleInfo.[@type=alternative].title | titleInfo.title
-	city: originInfo[0].place.placeTerm[@type=#text].#text
-	publisher: originInfo[0].publisher
-	year: originInfo[0].dateIssued[@point=start].#text
-	periodic_release: originInfo.issuance == monographic ? null : rand(1,100);
-	genre: 
+Section:
+	type: читальна зала, абонемент, міжбібліотечний абонемент

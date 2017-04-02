@@ -2,7 +2,7 @@
 
 const conf = require("./config.js");
 const Mockaroo = require('mockaroo');
-const data = require("./reader-data.json");
+const data = require("./filling-data.json");
 const utils = require("./utils.js");
 
 const client = new Mockaroo.Client({

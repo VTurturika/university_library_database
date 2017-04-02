@@ -25,8 +25,8 @@ module.exports = {
     },
 
     showReaderGeneratorHelp: () => {
-        console.log("Usage:\n\tnode reader-generator.js table=TABLE [rows_count=COUNT]");
-        console.log("\tTABLE: student | teacher | postgraduate | preparatory | applicant | certification_training");
+        console.log("Usage:\n\tnode table-generator.js table=TABLE [rows_count=COUNT]");
+        console.log("\tTABLE: student | teacher | postgraduate | preparatory | applicant | certification_training | section");
         console.log("\tCOUNT: min=2, max=5000, default=10");
     },
 
@@ -86,5 +86,19 @@ module.exports = {
         return result;
     },
 
-    cutLongStr: (str) => str.length > 100 ? str.slice(0,100): str
+    cutLongStr: (str) => str.length > 100 ? str.slice(0,100): str,
+
+    checkReaderGeneratorArgs: () => {
+            const possibleTables = {
+            "student": true,
+            "teacher": true,
+            "postgraduate": true,
+            "preparatory": true,
+            "applicant": true,
+            "certification_training": true,
+            "section": true
+        }
+
+        return args.table && possibleTables[args.table];
+    }
 }

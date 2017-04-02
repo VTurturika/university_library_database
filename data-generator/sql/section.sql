@@ -1,0 +1,10 @@
+INSERT INTO section(type,title) VALUES('міжбібліотечний абонемент','Mіжбібліотечний абонемент');
+INSERT INTO section(type,title) VALUES('абонемент','Aбонемент 1');
+INSERT INTO section(type,title) VALUES('абонемент','Абонемент 2');
+INSERT INTO section(type,title) VALUES('абонемент','Абонемент 3');
+INSERT INTO section(type,title) VALUES('абонемент','Абонемент 4');
+INSERT INTO section(type,title) VALUES('читальна зала','Читальна зала 1');
+INSERT INTO section(type,title) VALUES('читальна зала','Читальна зала 2');
+INSERT INTO section(type,title) VALUES('читальна зала','Читальна зала 3');
+INSERT INTO section(type,title) VALUES('читальна зала','Читальна зала 4');
+INSERT INTO section(type,title) VALUES('читальна зала','Читальна зала 5');
