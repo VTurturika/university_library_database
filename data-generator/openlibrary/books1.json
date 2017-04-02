@@ -1,2251 +1,2266 @@
 [
   {
-    "openlibrary_id": "/books/OL11949319M",
-    "title": "Teaching With Documents",
+    "openlibrary_id": "/books/OL10999287M",
+    "title": "Software Engineering Ssc",
     "city": null,
-    "publisher": "ABC-Clio",
-    "year": 2002,
-    "subject": "American history: c 1500 to c 1900",
-    "genre": null,
-    "periodic_release": 2,
-    "page_count": 160,
-    "lang": "eng",
-    "days_keep_count": 100,
-    "adding_date": "2000-05-02",
-    "count": 500,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL1352871A",
-        "last_name": "T. Murphy",
-        "first_name": "Robert"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL1194931M",
-    "title": "Breve historia de la Biblioteca del Congreso de la Nación.",
-    "city": "Buenos Aires",
-    "publisher": "La Biblioteca",
-    "year": 1993,
-    "subject": "Biblioteca del Congreso de la Nación (Argentina) -- History.",
+    "publisher": "Inst Elect & Electronic Engineers",
+    "year": 2001,
+    "subject": "Computer Software Packages",
     "genre": null,
     "periodic_release": null,
-    "page_count": 59,
-    "lang": "spa",
-    "days_keep_count": 100,
-    "adding_date": "2013-04-06",
-    "count": 100,
+    "page_count": 50,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2012-10-10",
+    "count": 20,
     "authors": [
       {
-        "openlibrary_id": "/authors/OL1428779A",
-        "last_name": "Russa Moton",
-        "first_name": "Robert"
+        "openlibrary_id": "/authors/OL536989A",
+        "last_name": "A. Laplante",
+        "first_name": "Phillip"
       }
     ]
   },
   {
-    "openlibrary_id": "/books/OL11949320M",
-    "title": "Military Aircraft, 1919-1945",
+    "openlibrary_id": "/books/OL10999288M",
+    "title": "1998 Asme/IEEE Joint Railroad Conference",
     "city": null,
-    "publisher": "ABC-CLIO",
-    "year": 2008,
-    "subject": "Air forces & warfare",
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1998,
+    "subject": "Railway technology & engineering",
     "genre": null,
-    "periodic_release": 1,
+    "periodic_release": null,
     "page_count": 300,
     "lang": "eng",
     "days_keep_count": 10,
-    "adding_date": "2015-08-28",
-    "count": 5,
+    "adding_date": "2000-08-03",
+    "count": 300,
     "authors": [
       {
-        "openlibrary_id": "/authors/OL3785624A",
-        "last_name": "Murphy",
-        "first_name": "Justin"
-      },
-      {
-        "openlibrary_id": "/authors/OL3785625A",
-        "last_name": "McNiece",
-        "first_name": "Matthew"
+        "openlibrary_id": "/authors/OL2732675A",
+        "last_name": "IEEE",
+        "first_name": "IEEE"
       }
     ]
   },
   {
-    "openlibrary_id": "/books/OL11949321M",
-    "title": "Middle Grades Education",
+    "openlibrary_id": "/books/OL10999289M",
+    "title": "IEEE Aerospace Conference Proceedings, 1998",
     "city": null,
-    "publisher": "ABC-CLIO",
-    "year": 2003,
-    "subject": "Organization & management of education",
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1998,
+    "subject": "Computer Bks - General Information",
     "genre": null,
-    "periodic_release": null,
-    "page_count": 465,
-    "lang": "eng",
-    "days_keep_count": 10,
-    "adding_date": "2001-03-31",
-    "count": 20,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL1274598A",
-        "last_name": "Queisser",
-        "first_name": "Werner"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949322M",
-    "title": "Space Exploration and Humanity",
-    "city": null,
-    "publisher": "ABC-CLIO",
-    "year": 2008,
-    "subject": "Reference works",
-    "genre": null,
-    "periodic_release": 2,
-    "page_count": 845,
-    "lang": "eng",
-    "days_keep_count": 10,
-    "adding_date": "2016-11-11",
-    "count": 500,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL1674262A",
-        "last_name": "Astronautical Society.",
-        "first_name": "American"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949323M",
-    "title": "Sexuality and the World's Religions",
-    "city": null,
-    "publisher": "ABC-Clio",
-    "year": 2003,
-    "subject": "Comparative Religion",
-    "genre": null,
-    "periodic_release": 2,
+    "periodic_release": 3,
     "page_count": 0,
-    "lang": null,
-    "days_keep_count": 50,
-    "adding_date": "2010-06-05",
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2008-09-20",
     "count": 10,
     "authors": [
       {
-        "openlibrary_id": "/authors/OL3785626A",
-        "last_name": "W. Machacek",
-        "first_name": "David"
+        "openlibrary_id": "/authors/OL2732675A",
+        "last_name": "IEEE",
+        "first_name": "IEEE"
       }
     ]
   },
   {
-    "openlibrary_id": "/books/OL11949324M",
-    "title": "Diverse Sexuality and Schools",
-    "city": null,
-    "publisher": "ABC-CLIO",
-    "year": 2003,
-    "subject": "Gay & Lesbian studies",
+    "openlibrary_id": "/books/OL1099928M",
+    "title": "David Janssen, my fugitive",
+    "city": "Hollywood, Fla",
+    "publisher": "Lifetime Books",
+    "year": 1994,
+    "subject": "Janssen, David.",
     "genre": null,
-    "periodic_release": null,
-    "page_count": 287,
+    "periodic_release": 3,
+    "page_count": 149,
     "lang": "eng",
-    "days_keep_count": 50,
-    "adding_date": "2016-08-07",
+    "days_keep_count": 200,
+    "adding_date": "2012-12-29",
     "count": 100,
     "authors": [
       {
-        "openlibrary_id": "/authors/OL1425079A",
-        "last_name": "Campos",
-        "first_name": "David"
+        "openlibrary_id": "/authors/OL583211A",
+        "last_name": "Janssen",
+        "first_name": "Ellie"
       }
     ]
   },
   {
-    "openlibrary_id": "/books/OL11949325M",
-    "title": "Sport In American Culture",
+    "openlibrary_id": "/books/OL10999290M",
+    "title": "Com.P.El. 98: Record ",
     "city": null,
-    "publisher": "ABC-Clio",
-    "year": 2004,
-    "subject": "Popular Culture - General",
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1999,
+    "subject": "Circuits & components",
     "genre": null,
-    "periodic_release": 1,
-    "page_count": 479,
-    "lang": "eng",
-    "days_keep_count": 50,
-    "adding_date": "2011-12-08",
-    "count": 50,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL3082746A",
-        "last_name": "Duncan",
-        "first_name": "Joyce"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949326M",
-    "title": "Submarines",
-    "city": null,
-    "publisher": "ABC-CLIO",
-    "year": 2007,
-    "subject": "History of specific subjects",
-    "genre": null,
-    "periodic_release": 2,
-    "page_count": 447,
+    "periodic_release": null,
+    "page_count": 222,
     "lang": "eng",
     "days_keep_count": 10,
-    "adding_date": "2000-07-06",
-    "count": 20,
+    "adding_date": "2005-10-05",
+    "count": 300,
     "authors": [
       {
-        "openlibrary_id": "/authors/OL3153325A",
-        "last_name": "Fontenoy",
-        "first_name": "Paul"
+        "openlibrary_id": "/authors/OL2858147A",
+        "last_name": "Power Electronics Society",
+        "first_name": "IEEE"
       }
     ]
   },
   {
-    "openlibrary_id": "/books/OL11949327M",
-    "title": "Science Government and Industry",
+    "openlibrary_id": "/books/OL10999291M",
+    "title": "The 1998 IEEE International Joint Conference on Neural Network Proceedings: IEEE World Congress on C",
     "city": null,
-    "publisher": "ABC-Clio Inc",
-    "year": 2006,
-    "subject": "General",
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1998,
+    "subject": "Neural Networks",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 3000,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2012-03-06",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2858059A",
+        "last_name": "Neural Networks Council",
+        "first_name": "IEEE"
+      },
+      {
+        "openlibrary_id": "/authors/OL2858180A",
+        "last_name": "Ch&&&&&",
+        "first_name": "Ch&&&&&"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999292M",
+    "title": "1998 IEEE Neural Networks",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1998,
+    "subject": "Computer Bks - General Information",
     "genre": null,
     "periodic_release": 2,
     "page_count": 0,
     "lang": "eng",
-    "days_keep_count": 10,
-    "adding_date": "2009-03-10",
-    "count": 10,
+    "days_keep_count": 200,
+    "adding_date": "2013-07-13",
+    "count": 5,
     "authors": [
       {
-        "openlibrary_id": "/authors/OL3785627A",
-        "last_name": "McConnell",
-        "first_name": "Craig"
+        "openlibrary_id": "/authors/OL2732675A",
+        "last_name": "IEEE",
+        "first_name": "IEEE"
       }
     ]
   },
   {
-    "openlibrary_id": "/books/OL11949328M",
-    "title": "Ballistic Missiles",
+    "openlibrary_id": "/books/OL10999293M",
+    "title": "1998 IEEE International Fuzzy Systems Conference, Fuzz",
     "city": null,
-    "publisher": "ABC-CLIO",
-    "year": 2006,
-    "subject": "General",
-    "genre": null,
-    "periodic_release": 1,
-    "page_count": 239,
-    "lang": "eng",
-    "days_keep_count": 30,
-    "adding_date": "2011-12-16",
-    "count": 10,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL1608083A",
-        "last_name": "Darling",
-        "first_name": "Kev"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949329M",
-    "title": "World War II",
-    "city": null,
-    "publisher": "ABC-Clio Inc",
-    "year": 2004,
-    "subject": "General",
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1998,
+    "subject": "Artificial intelligence",
     "genre": null,
     "periodic_release": null,
+    "page_count": 2000,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2013-08-12",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3523559A",
+        "last_name": "IEEE International Conference on Fuzzy Systems (7th : 1998 : Anchorage",
+        "first_name": "Alaska)"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999294M",
+    "title": "Wcci 98",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1998,
+    "subject": "Automatic control engineering",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 1746,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2006-11-30",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3523559A",
+        "last_name": "IEEE International Conference on Fuzzy Systems (7th : 1998 : Anchorage",
+        "first_name": "Alaska)"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999295M",
+    "title": "1998 5th IEEE International Workshop on Cellular Neural Networks and Their Applications Proceedings",
+    "city": null,
+    "publisher": "IEEE Computer Society Pr",
+    "year": 1998,
+    "subject": "Neural Networks",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 500,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2006-09-28",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3523560A",
+        "last_name": "Tavsanoglu",
+        "first_name": "Vedat"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999296M",
+    "title": "CNNA 98, London: 1998 Fifth IEEE International Workshop on Cellular Neural Networks and Their Applic",
+    "city": null,
+    "publisher": "The Institute of Electrical and Electronics Engineers, Inc",
+    "year": 1998,
+    "subject": "Congresses",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 421,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2005-01-02",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1355767A",
+        "last_name": "Bektemirov",
+        "first_name": "F."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999297M",
+    "title": "1998 IEEE Atm Workshop",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1998,
+    "subject": "Communications engineering / telecommunications",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 432,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2009-11-05",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3523496A",
+        "last_name": "ATM Workshop",
+        "first_name": "IEEE"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999298M",
+    "title": "1998 Ieee, Esmo",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1998,
+    "subject": "Power generation & distribution",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 348,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2002-01-05",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3523561A",
+        "last_name": "International Conference on Transmission and Distribution Construction and Live Line Maintenance (8t",
+        "first_name": "Florida)"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999299M",
+    "title": "Esmo '98 - 1998 IEEE 8th International Conference on Transmission & Distribution Construction, Opera",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1998,
+    "subject": "Engineering - Electrical & Electronic",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 350,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2013-12-08",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2858147A",
+        "last_name": "Power Electronics Society",
+        "first_name": "IEEE"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1099929M",
+    "title": "Clinical reasoning in physical disabilities",
+    "city": "Baltimore",
+    "publisher": "Williams & Wilkins",
+    "year": 1995,
+    "subject": "People with disabilities -- Rehabilitation",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 286,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2000-04-01",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL583212A",
+        "last_name": "Dutton",
+        "first_name": "Rebecca"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL109992M",
+    "title": "Measuring what matters",
+    "city": "Washington, DC",
+    "publisher": "U.S. Dept. of Justice, Office of Justice Programs, National Institute of Justice",
+    "year": 1999,
+    "subject": "Police -- Rating of -- United States -- Congresses.",
+    "genre": "Congresses.",
+    "periodic_release": null,
+    "page_count": 227,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2016-09-30",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL73655A",
+        "last_name": "Research Institute.",
+        "first_name": "Policing"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999300M",
+    "title": "1998 Petroleum and Chemical Industry Technical Conference",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1998,
+    "subject": "Biochemical Engineering",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 362,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2012-12-28",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3523438A",
+        "last_name": "Petroleum and Chemical Industry Conference (43nd : 1996 : Philadelphia",
+        "first_name": "Pa.)"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999301M",
+    "title": "1998 IEEE 45th Petroleum & Chemical Industry Conference",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1998,
+    "subject": "Engineering - Electrical & Electronic",
+    "genre": null,
+    "periodic_release": 2,
     "page_count": 350,
     "lang": "eng",
     "days_keep_count": 10,
-    "adding_date": "2009-01-05",
-    "count": 100,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL1441531A",
-        "last_name": "Dickens Mushemeza",
-        "first_name": "Elijah"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL1194932M",
-    "title": "Diseño de unidades didácticas de lengua y literatura en la Secundaria Obligatoria",
-    "city": "Madrid, España",
-    "publisher": "Editorial Cincel",
-    "year": 1993,
-    "subject": "Language and languages -- Study and teaching (Secondary)",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 184,
-    "lang": "spa",
-    "days_keep_count": 30,
-    "adding_date": "2003-06-06",
-    "count": 100,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL623730A",
-        "last_name": "María Hernández Aguiar",
-        "first_name": "Jose"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949330M",
-    "title": "Military Aircraft in the Jet Age",
-    "city": null,
-    "publisher": "ABC-CLIO",
-    "year": 2008,
-    "subject": "Aircraft: general interest",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 239,
-    "lang": "eng",
-    "days_keep_count": 50,
-    "adding_date": "2001-12-18",
-    "count": 100,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL3785624A",
-        "last_name": "Murphy",
-        "first_name": "Justin"
-      },
-      {
-        "openlibrary_id": "/authors/OL3785625A",
-        "last_name": "McNiece",
-        "first_name": "Matthew"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949331M",
-    "title": "Pop Culture Japan!",
-    "city": null,
-    "publisher": "ABC-CLIO",
-    "year": 2008,
-    "subject": "Media studies",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 325,
-    "lang": "eng",
-    "days_keep_count": 200,
-    "adding_date": "2016-05-30",
+    "adding_date": "2008-08-21",
     "count": 5,
     "authors": [
       {
-        "openlibrary_id": "/authors/OL3019043A",
-        "last_name": "Kelly",
-        "first_name": "William"
+        "openlibrary_id": "/authors/OL1661098A",
+        "last_name": "Industry Applications Society.",
+        "first_name": "IEEE"
       }
     ]
   },
   {
-    "openlibrary_id": "/books/OL11949332M",
-    "title": "Women in the American Civil War",
+    "openlibrary_id": "/books/OL10999302M",
+    "title": "1998 17th International Conference on Thermoelectrics, Ict",
     "city": null,
-    "publisher": "ABC-CLIO",
-    "year": 2007,
-    "subject": "American history: c 1800 to c 1900",
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1998,
+    "subject": "Electronics & Communications Engineering",
     "genre": null,
-    "periodic_release": 1,
-    "page_count": 631,
-    "lang": "eng",
-    "days_keep_count": 100,
-    "adding_date": "2002-02-02",
-    "count": 10,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL3785628A",
-        "last_name": "Tendrich Frank",
-        "first_name": "Lisa"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949333M",
-    "title": "Ireland and the Americas",
-    "city": null,
-    "publisher": "ABC-CLIO",
-    "year": 2007,
-    "subject": "Ethnic studies",
-    "genre": null,
-    "periodic_release": 1,
-    "page_count": 800,
-    "lang": "eng",
-    "days_keep_count": 100,
-    "adding_date": "2014-02-04",
-    "count": 10,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL1514653A",
-        "last_name": "King",
-        "first_name": "Jason"
-      },
-      {
-        "openlibrary_id": "/authors/OL3780184A",
-        "last_name": "Coleman",
-        "first_name": "Philip"
-      },
-      {
-        "openlibrary_id": "/authors/OL664721A",
-        "last_name": "Byrne",
-        "first_name": "James"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949334M",
-    "title": "The Internet",
-    "city": null,
-    "publisher": "ABC-Clio",
-    "year": 2005,
-    "subject": "Internet - General",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 3,
-    "lang": "eng",
-    "days_keep_count": 50,
-    "adding_date": "2007-08-19",
-    "count": 5,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL3785629A",
-        "last_name": "W. Poole",
-        "first_name": "Hilary"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949335M",
-    "title": "Military Medicine",
-    "city": null,
-    "publisher": "ABC-CLIO",
-    "year": 2008,
-    "subject": "History of medicine",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 389,
-    "lang": "eng",
-    "days_keep_count": 100,
-    "adding_date": "2001-09-02",
-    "count": 100,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL772959A",
-        "last_name": "McCallum",
-        "first_name": "Jack"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949336M",
-    "title": "Education on Trial",
-    "city": null,
-    "publisher": "ABC-CLIO",
-    "year": 2005,
-    "subject": "General",
-    "genre": null,
-    "periodic_release": null,
+    "periodic_release": 3,
     "page_count": 350,
     "lang": "eng",
     "days_keep_count": 10,
-    "adding_date": "2015-12-15",
-    "count": 5,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL3785630A",
-        "last_name": "Killebrew",
-        "first_name": "Connie"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949337M",
-    "title": "Encyclopedia of the African Diaspora",
-    "city": null,
-    "publisher": "ABC-CLIO",
-    "year": 2008,
-    "subject": "Black studies",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 1111,
-    "lang": "eng",
-    "days_keep_count": 50,
-    "adding_date": "2014-10-26",
+    "adding_date": "2012-08-18",
     "count": 500,
     "authors": [
       {
-        "openlibrary_id": "/authors/OL3785631A",
-        "last_name": "Davies",
-        "first_name": "Carole"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949338M",
-    "title": "American Revolution",
-    "city": null,
-    "publisher": "ABC-CLIO",
-    "year": 2007,
-    "subject": "United States - Revolutionary War",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 323,
-    "lang": "eng",
-    "days_keep_count": 30,
-    "adding_date": "2011-02-26",
-    "count": 100,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL449092A",
-        "last_name": "Frank",
-        "first_name": "Andrew"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949339M",
-    "title": "The Legislative Branch of Federal Government",
-    "city": null,
-    "publisher": "ABC-CLIO",
-    "year": 2008,
-    "subject": "Central government",
-    "genre": null,
-    "periodic_release": 1,
-    "page_count": 450,
-    "lang": "eng",
-    "days_keep_count": 50,
-    "adding_date": "2003-06-19",
-    "count": 10,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL3153330A",
-        "last_name": "Gershman",
-        "first_name": "Gary"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL1194933M",
-    "title": "Hamburg, Stadt im Überfluss",
-    "city": "Hamburg",
-    "publisher": "Ellert & Richter",
-    "year": 1993,
-    "subject": "Urbanization -- Germany -- Hamburg.",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 192,
-    "lang": "ger",
-    "days_keep_count": 50,
-    "adding_date": "2005-09-22",
-    "count": 300,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL623731A",
-        "last_name": "Kossak",
-        "first_name": "Egbert"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949340M",
-    "title": "Military Communications",
-    "city": null,
-    "publisher": "ABC-CLIO",
-    "year": 2007,
-    "subject": "History of specific subjects",
-    "genre": null,
-    "periodic_release": 1,
-    "page_count": 565,
-    "lang": "eng",
-    "days_keep_count": 50,
-    "adding_date": "2009-01-17",
-    "count": 50,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL1005648A",
-        "last_name": "H. Sterling",
-        "first_name": "Christopher"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949341M",
-    "title": "The Liberal Movement in America",
-    "city": null,
-    "publisher": "ABC-Clio Inc",
-    "year": 2006,
-    "subject": "United States - 20th Century",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 0,
-    "lang": "eng",
-    "days_keep_count": 50,
-    "adding_date": "2003-01-05",
-    "count": 500,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL1194107A",
-        "last_name": "C. Isaak",
-        "first_name": "Alan"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949342M",
-    "title": "Encyclopedia of African American History (American Ethnic Experience)",
-    "city": null,
-    "publisher": "ABC-Clio",
-    "year": 2008,
-    "subject": "Ethnic Studies - General",
-    "genre": null,
-    "periodic_release": 1,
-    "page_count": 1231,
-    "lang": "eng",
-    "days_keep_count": 50,
-    "adding_date": "2004-09-12",
-    "count": 50,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL1134973A",
-        "last_name": "I͡U︡. I͡A︡.",
-        "first_name": "Vashchilov,"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949343M",
-    "title": "Women and War",
-    "city": null,
-    "publisher": "ABC-CLIO",
-    "year": 2006,
-    "subject": "History of specific subjects",
-    "genre": null,
-    "periodic_release": 2,
-    "page_count": 742,
-    "lang": "eng",
-    "days_keep_count": 100,
-    "adding_date": "2010-10-23",
-    "count": 10,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL2848349A",
-        "last_name": "Cook",
-        "first_name": "Bernard"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949344M",
-    "title": "Women and War",
-    "city": null,
-    "publisher": "ABC-Clio",
-    "year": 2006,
-    "subject": "General",
-    "genre": null,
-    "periodic_release": 1,
-    "page_count": 2,
-    "lang": "eng",
-    "days_keep_count": 200,
-    "adding_date": "2014-11-05",
-    "count": 10,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL765348A",
-        "last_name": "A. Cook",
-        "first_name": "Bernard"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949345M",
-    "title": "Slavery in the Modern World",
-    "city": null,
-    "publisher": "ABC-CLIO",
-    "year": 2008,
-    "subject": "General",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 778,
-    "lang": "eng",
-    "days_keep_count": 200,
-    "adding_date": "2003-02-03",
-    "count": 100,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL3082763A",
-        "last_name": "Rodriguez",
-        "first_name": "Junius"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949346M",
-    "title": "Revolutionary Movements in World History",
-    "city": null,
-    "publisher": "ABC-CLIO",
-    "year": 2006,
-    "subject": "Revolutions & coups",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 1004,
-    "lang": "eng",
-    "days_keep_count": 10,
-    "adding_date": "2002-08-08",
-    "count": 20,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL529383A",
-        "last_name": "DeFronzo",
-        "first_name": "James"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949347M",
-    "title": "Revolutionary Movements in World History",
-    "city": null,
-    "publisher": "ABC-Clio",
-    "year": 2006,
-    "subject": "General",
-    "genre": null,
-    "periodic_release": 3,
-    "page_count": 6,
-    "lang": "eng",
-    "days_keep_count": 50,
-    "adding_date": "2010-08-25",
-    "count": 500,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL529383A",
-        "last_name": "DeFronzo",
-        "first_name": "James"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949348M",
-    "title": "Wetlands in America",
-    "city": null,
-    "publisher": "ABC-Clio Inc",
-    "year": 2006,
-    "subject": "Ecology",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 300,
-    "lang": "eng",
-    "days_keep_count": 30,
-    "adding_date": "2000-07-28",
-    "count": 50,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL2663893A",
-        "last_name": "M. Lewis",
-        "first_name": "William"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949349M",
-    "title": "North Atlantic Treaty Organisation",
-    "city": null,
-    "publisher": "ABC-CLIO",
-    "year": 2008,
-    "subject": "Defence strategy, planning & research",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 1111,
-    "lang": "eng",
-    "days_keep_count": 30,
-    "adding_date": "2014-01-04",
-    "count": 20,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL3785632A",
-        "last_name": "Cobane",
-        "first_name": "Craig"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL1194934M",
-    "title": "Le management opérationnel des équipes",
-    "city": "[Boulogne]",
-    "publisher": "Maxima",
-    "year": 1993,
-    "subject": "Teams in the workplace -- Management.",
-    "genre": null,
-    "periodic_release": 1,
-    "page_count": 254,
-    "lang": "fre",
-    "days_keep_count": 10,
-    "adding_date": "2002-05-10",
-    "count": 5,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL623732A",
-        "last_name": "Ramond",
-        "first_name": "Philippe"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949350M",
-    "title": "American Indians in the Early West (Cultures in the American West)",
-    "city": null,
-    "publisher": "ABC-CLIO",
-    "year": 2008,
-    "subject": "American history",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 313,
-    "lang": "eng",
-    "days_keep_count": 50,
-    "adding_date": "2015-02-05",
-    "count": 20,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL3785633A",
-        "last_name": "Mathews",
-        "first_name": "Sandra"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949351M",
-    "title": "The Encyclopedia of the Arab-Israeli Conflict",
-    "city": null,
-    "publisher": "ABC-Clio",
-    "year": 2008,
-    "subject": "Asian / Middle Eastern history",
-    "genre": null,
-    "periodic_release": 1,
-    "page_count": 1600,
-    "lang": "eng",
-    "days_keep_count": 50,
-    "adding_date": "2005-04-08",
-    "count": 5,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL1414875A",
-        "last_name": "Zhao",
-        "first_name": "Leilian"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949352M",
-    "title": "American Indians in the 19th & 20th Century West (Cultures in the American West Series)",
-    "city": null,
-    "publisher": "ABC-Clio Inc",
-    "year": 2008,
-    "subject": "American history: c 1800 to c 1900",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 344,
-    "lang": "eng",
-    "days_keep_count": 10,
-    "adding_date": "2001-12-06",
-    "count": 10,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL3785634A",
-        "last_name": "Carlisle",
-        "first_name": "Jeffrey"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949353M",
-    "title": "Army of Northern Virginia",
-    "city": null,
-    "publisher": "ABC-Clio Inc",
-    "year": 2007,
-    "subject": "American history: c 1800 to c 1900",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 333,
-    "lang": "eng",
-    "days_keep_count": 30,
-    "adding_date": "2015-10-24",
-    "count": 10,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL3785635A",
-        "last_name": "Power",
-        "first_name": "Tracy"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949354M",
-    "title": "Asian Americans in the West (Cultures in the American West)",
-    "city": null,
-    "publisher": "ABC-CLIO",
-    "year": 2008,
-    "subject": "Ethnic studies",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 344,
-    "lang": "eng",
-    "days_keep_count": 10,
-    "adding_date": "2000-11-02",
-    "count": 10,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL2792799A",
-        "last_name": "Guo",
-        "first_name": "Zibin"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949355M",
-    "title": "Turning Points - Actual and Alternate Histories",
-    "city": null,
-    "publisher": "ABC-CLIO",
-    "year": 2007,
-    "subject": "American history: from c 1900 -",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 258,
-    "lang": "eng",
-    "days_keep_count": 200,
-    "adding_date": "2012-10-07",
-    "count": 20,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL1386269A",
-        "last_name": "Cheysson",
-        "first_name": "Emile"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949356M",
-    "title": "Turning Points - Actual and Alternate Histories",
-    "city": null,
-    "publisher": "ABC-CLIO",
-    "year": 2007,
-    "subject": "American history: postwar, from c 1945 -",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 259,
-    "lang": "eng",
-    "days_keep_count": 200,
-    "adding_date": "2016-04-17",
-    "count": 300,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL1181358A",
-        "last_name": "B. Shearer",
-        "first_name": "William"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949357M",
-    "title": "Nations and Nationalism",
-    "city": null,
-    "publisher": "ABC-Clio",
-    "year": 2008,
-    "subject": "World history",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 1550,
-    "lang": "eng",
-    "days_keep_count": 50,
-    "adding_date": "2010-10-21",
-    "count": 100,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL1102212A",
-        "last_name": "I͡U︡. P.",
-        "first_name": "Shishkin,"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949358M",
-    "title": "South Asia",
-    "city": null,
-    "publisher": "ABC-CLIO",
-    "year": 2007,
-    "subject": "Asian / Middle Eastern history",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 278,
-    "lang": "eng",
-    "days_keep_count": 10,
-    "adding_date": "2011-05-24",
-    "count": 100,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL502880A",
-        "last_name": "Hill",
-        "first_name": "Christopher"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949359M",
-    "title": "World Population",
-    "city": null,
-    "publisher": "ABC-Clio",
-    "year": 2005,
-    "subject": "Demography",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 298,
-    "lang": "eng",
-    "days_keep_count": 200,
-    "adding_date": "2009-04-20",
-    "count": 5,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL3153323A",
-        "last_name": "Gilbert",
-        "first_name": "Geoffrey"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL1194935M",
-    "title": "CIS index to unpublished US Senate committee hearings",
-    "city": "Bethesda, MD",
-    "publisher": "Congressional Information Service",
-    "year": 1989,
-    "subject": "United States. Congress. Senate -- Committees -- Indexes.",
-    "genre": null,
-    "periodic_release": 2,
-    "page_count": 255,
-    "lang": "eng",
-    "days_keep_count": 50,
-    "adding_date": "2007-04-25",
-    "count": 100,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL1401459A",
-        "last_name": "L. Kay",
-        "first_name": "Antony"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949360M",
-    "title": "World History Encyclopedia",
-    "city": null,
-    "publisher": "ABC-Clio",
-    "year": 2009,
-    "subject": "General",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 8200,
-    "lang": "eng",
-    "days_keep_count": 30,
-    "adding_date": "2015-05-18",
-    "count": 10,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL3785636A",
-        "last_name": "Aldenderfer",
-        "first_name": "Mark"
-      },
-      {
-        "openlibrary_id": "/authors/OL3153328A",
-        "last_name": "McGeough",
-        "first_name": "Kevin"
-      },
-      {
-        "openlibrary_id": "/authors/OL402441A",
-        "last_name": "E. Mierse",
-        "first_name": "William"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949361M",
-    "title": "Era 1",
-    "city": null,
-    "publisher": "ABC-Clio",
-    "year": 2008,
-    "subject": "General",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 308,
-    "lang": "eng",
-    "days_keep_count": 200,
-    "adding_date": "2015-12-26",
-    "count": 500,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL1252876A",
-        "last_name": "Jizeng.",
-        "first_name": "luan,"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949362M",
-    "title": "Era 2",
-    "city": null,
-    "publisher": "ABC-Clio",
-    "year": 2008,
-    "subject": "General",
-    "genre": null,
-    "periodic_release": 3,
-    "page_count": 615,
-    "lang": "eng",
-    "days_keep_count": 10,
-    "adding_date": "2007-05-13",
-    "count": 100,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL1143669A",
-        "last_name": "Charles Jones",
-        "first_name": "Andrew"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949363M",
-    "title": "Era 3",
-    "city": null,
-    "publisher": "ABC-Clio",
-    "year": 2008,
-    "subject": "General",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 615,
-    "lang": "eng",
-    "days_keep_count": 200,
-    "adding_date": "2008-10-15",
-    "count": 50,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL1339628A",
-        "last_name": "S. McMullan",
-        "first_name": "Philip"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949364M",
-    "title": "Era 4",
-    "city": null,
-    "publisher": "ABC-Clio",
-    "year": 2008,
-    "subject": "General",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 615,
-    "lang": "eng",
-    "days_keep_count": 30,
-    "adding_date": "2009-09-01",
-    "count": 100,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL1440540A",
-        "last_name": "S. Narwani",
-        "first_name": "G."
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949365M",
-    "title": "Era 5",
-    "city": null,
-    "publisher": "ABC-Clio",
-    "year": 2008,
-    "subject": "General",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 923,
-    "lang": "eng",
-    "days_keep_count": 200,
-    "adding_date": "2013-10-02",
-    "count": 10,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL407349A",
-        "last_name": "J. Andrea",
-        "first_name": "Alfred"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949366M",
-    "title": "Era 6",
-    "city": null,
-    "publisher": "ABC-Clio",
-    "year": 2008,
-    "subject": "General",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 923,
-    "lang": "eng",
-    "days_keep_count": 100,
-    "adding_date": "2014-10-25",
-    "count": 10,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL1463497A",
-        "last_name": "Charles Chatham",
-        "first_name": "C."
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949367M",
-    "title": "Era 8",
-    "city": null,
-    "publisher": "ABC-Clio",
-    "year": 2008,
-    "subject": "General",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 615,
-    "lang": "eng",
-    "days_keep_count": 200,
-    "adding_date": "2009-12-03",
-    "count": 100,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL1438A",
-        "last_name": "Pārttacārati",
-        "first_name": "Nā"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949368M",
-    "title": "Era 9",
-    "city": null,
-    "publisher": "ABC-Clio",
-    "year": 2008,
-    "subject": "General",
-    "genre": null,
-    "periodic_release": 3,
-    "page_count": 615,
-    "lang": "eng",
-    "days_keep_count": 50,
-    "adding_date": "2006-11-29",
-    "count": 100,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL1054953A",
-        "last_name": "Trezzi",
-        "first_name": "Luigi"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949369M",
-    "title": "Era 7",
-    "city": null,
-    "publisher": "ABC-Clio",
-    "year": 2008,
-    "subject": "General",
-    "genre": null,
-    "periodic_release": 3,
-    "page_count": 923,
-    "lang": "eng",
-    "days_keep_count": 200,
-    "adding_date": "2014-05-15",
-    "count": 300,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL1238823A",
-        "last_name": "H. Overfield",
-        "first_name": "James"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL1194936M",
-    "title": "Groningen",
-    "city": "Rotterdam",
-    "publisher": "Illustra",
-    "year": 1993,
-    "subject": "Groningen (Netherlands) -- Description and travel.",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 94,
-    "lang": "dut",
-    "days_keep_count": 50,
-    "adding_date": "2014-08-10",
-    "count": 5,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL1109860A",
-        "last_name": "L. Marking",
-        "first_name": "Leif"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949370M",
-    "title": "Encyclopedia of Love in World Religions",
-    "city": null,
-    "publisher": "ABC-CLIO",
-    "year": 2007,
-    "subject": "Reference works",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 665,
-    "lang": "eng",
-    "days_keep_count": 50,
-    "adding_date": "2012-01-04",
-    "count": 5,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL3785637A",
-        "last_name": "Greenberg",
-        "first_name": "Yudit"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949371M",
-    "title": "Cuba",
-    "city": null,
-    "publisher": "ABC-CLIO",
-    "year": 2007,
-    "subject": "American history",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 578,
-    "lang": "eng",
-    "days_keep_count": 50,
-    "adding_date": "2001-07-10",
-    "count": 300,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL2626348A",
-        "last_name": "Henken",
-        "first_name": "Ted"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949372M",
-    "title": "Argentina",
-    "city": null,
-    "publisher": "ABC-Clio",
-    "year": 2008,
-    "subject": "American studies",
-    "genre": null,
-    "periodic_release": 3,
-    "page_count": 300,
-    "lang": "eng",
-    "days_keep_count": 10,
-    "adding_date": "2000-06-18",
-    "count": 100,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL1482868A",
-        "last_name": "Edwards",
-        "first_name": "Todd"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949373M",
-    "title": "Costa Rica",
-    "city": null,
-    "publisher": "ABC-Clio",
-    "year": 2008,
-    "subject": "American history",
-    "genre": null,
-    "periodic_release": 1,
-    "page_count": 295,
-    "lang": "eng",
-    "days_keep_count": 100,
-    "adding_date": "2013-06-08",
-    "count": 10,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL3785638A",
-        "last_name": "Mitchell",
-        "first_name": "Meg"
-      },
-      {
-        "openlibrary_id": "/authors/OL3785639A",
-        "last_name": "Pentzer",
-        "first_name": "Scott"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949374M",
-    "title": "Water and Sewerage Publications, 1971-83 (Bibliography)",
-    "city": null,
-    "publisher": "Department for Transport (DFT)",
-    "year": 1984,
-    "subject": "Civil Engineering, Surveying & Building",
-    "genre": null,
-    "periodic_release": 3,
-    "page_count": 27,
-    "lang": null,
-    "days_keep_count": 50,
-    "adding_date": "2002-10-08",
-    "count": 20,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL1178469A",
-        "last_name": "und Handelskammer Bonn.",
-        "first_name": "Industrie-"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949375M",
-    "title": "Cycling",
-    "city": null,
-    "publisher": "Department for Transport (DFT)",
-    "year": 1984,
-    "subject": "Library & Information Sciences",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 35,
-    "lang": null,
-    "days_keep_count": 50,
-    "adding_date": "2006-04-30",
-    "count": 5,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL1337499A",
-        "last_name": "Claire M.",
-        "first_name": "Lambert,"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949376M",
-    "title": "Integrated Pollution Control",
-    "city": null,
-    "publisher": "Department for Environment, Food & Rural Affairs (DEFRA)",
-    "year": 1998,
-    "subject": "Occupational / industrial health & safety",
-    "genre": null,
-    "periodic_release": 2,
-    "page_count": 0,
-    "lang": null,
-    "days_keep_count": 100,
-    "adding_date": "2014-05-30",
-    "count": 10,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL1371875A",
-        "last_name": "Steynberg",
-        "first_name": "Coert"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949377M",
-    "title": "Mapping Local Authority Estates Using the Index of Local Conditions",
-    "city": null,
-    "publisher": "Office of the Deputy Prime Minister (ODPM)",
-    "year": 1997,
-    "subject": "Social welfare & social services",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 38,
-    "lang": null,
-    "days_keep_count": 10,
-    "adding_date": "2007-07-21",
-    "count": 5,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL20964A",
-        "last_name": "Harvey",
-        "first_name": "John"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949378M",
-    "title": "Housing Quality and Feasibility Study",
-    "city": null,
-    "publisher": "Office of the Deputy Prime Minister (ODPM)",
-    "year": 1997,
-    "subject": "Housing",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 87,
-    "lang": null,
-    "days_keep_count": 200,
-    "adding_date": "2004-09-08",
-    "count": 20,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL1446095A",
-        "last_name": "S. P. Rao",
-        "first_name": "G."
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949379M",
-    "title": "Land Use Change in England",
-    "city": null,
-    "publisher": "Office of the Deputy Prime Minister (ODPM)",
-    "year": 1997,
-    "subject": "England",
-    "genre": null,
-    "periodic_release": 1,
-    "page_count": 0,
-    "lang": null,
-    "days_keep_count": 30,
-    "adding_date": "2005-06-12",
-    "count": 10,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL1214447A",
-        "last_name": "Alexander",
-        "first_name": "Volbert"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL1194937M",
-    "title": "Directrices de ordenación territorial de la Comunidad Autónoma del País Vasco",
-    "city": "Vitoria-Gasteiz",
-    "publisher": "Gobierno Vasco, Departamento de Urbanismo y Vivienda",
-    "year": 1992,
-    "subject": "Regional planning -- Spain -- País Vasco.",
-    "genre": null,
-    "periodic_release": 1,
-    "page_count": 394,
-    "lang": "spa",
-    "days_keep_count": 200,
-    "adding_date": "2010-06-23",
-    "count": 10,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL1275011A",
-        "last_name": "Bally",
-        "first_name": "Théodore"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949380M",
-    "title": "Mitigation Measures in Enviromental Impact Statements",
-    "city": null,
-    "publisher": "Office of the Deputy Prime Minister (ODPM)",
-    "year": 1997,
-    "subject": "English law: environment law",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 0,
-    "lang": null,
-    "days_keep_count": 10,
-    "adding_date": "2013-12-14",
-    "count": 20,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL1244801A",
-        "last_name": "Jaunsudrabiņš",
-        "first_name": "Jānis"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949381M",
-    "title": "The Condition of London Docklands in 1981",
-    "city": null,
-    "publisher": "Office of the Deputy Prime Minister (ODPM)",
-    "year": 1999,
-    "subject": "Human geography",
-    "genre": null,
-    "periodic_release": 1,
-    "page_count": 64,
-    "lang": null,
-    "days_keep_count": 30,
-    "adding_date": "2008-08-15",
-    "count": 100,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL1211054A",
-        "last_name": "H. Pyne",
-        "first_name": "Charles"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949382M",
-    "title": "Local Government Financial Statistics",
-    "city": null,
-    "publisher": "Office of the Deputy Prime Minister (ODPM)",
-    "year": 1997,
-    "subject": "Financial reporting, financial statements",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 0,
-    "lang": null,
-    "days_keep_count": 100,
-    "adding_date": "2013-05-12",
-    "count": 5,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL1167935A",
-        "last_name": "A. Blokhina",
-        "first_name": "N."
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949383M",
-    "title": "Municipal Waste Management",
-    "city": null,
-    "publisher": "Department for Environment, Food & Rural Affairs (DEFRA)",
-    "year": 1998,
-    "subject": "Management & management techniques",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 0,
-    "lang": null,
-    "days_keep_count": 50,
-    "adding_date": "2008-10-14",
-    "count": 10,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL1223658A",
-        "last_name": "P. Dye",
-        "first_name": "Aaron"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949384M",
-    "title": "British Mammals",
-    "city": null,
-    "publisher": "Department for Environment, Food & Rural Affairs (DEFRA)",
-    "year": 1998,
-    "subject": "Mammals",
-    "genre": null,
-    "periodic_release": 2,
-    "page_count": 0,
-    "lang": null,
-    "days_keep_count": 100,
-    "adding_date": "2009-10-28",
-    "count": 100,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL104755A",
-        "last_name": "Kroʹ Rhinʻ.",
-        "first_name": "Maṅʻʺ"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949385M",
-    "title": "Environmental Costs & Benefits of Supply of Aggregates",
-    "city": null,
-    "publisher": "Department for Environment, Food & Rural Affairs (DEFRA)",
-    "year": 1998,
-    "subject": "Civil Engineering, Surveying & Building",
-    "genre": null,
-    "periodic_release": 3,
-    "page_count": 248,
-    "lang": null,
-    "days_keep_count": 10,
-    "adding_date": "2012-12-25",
-    "count": 10,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL1412627A",
-        "last_name": "Huaʻōlelo (Hilo, Hawaii)",
-        "first_name": "Kōmike"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949386M",
-    "title": "Development Control Statistics, England 1996/1997",
-    "city": null,
-    "publisher": "Office of the Deputy Prime Minister (ODPM)",
-    "year": 2000,
-    "subject": "England",
-    "genre": null,
-    "periodic_release": 2,
-    "page_count": 97,
-    "lang": null,
-    "days_keep_count": 30,
-    "adding_date": "2004-04-18",
-    "count": 300,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL1392290A",
-        "last_name": "Skelly",
-        "first_name": "Deborah"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949387M",
-    "title": "Enhancing Public Participation in Local Government",
-    "city": null,
-    "publisher": "Office of the Deputy Prime Minister",
-    "year": 1998,
-    "subject": "POLITICS & GOVERNMENT",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 112,
-    "lang": null,
-    "days_keep_count": 200,
-    "adding_date": "2006-05-14",
-    "count": 100,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL3785640A",
-        "last_name": "Lowndes",
-        "first_name": "Vivien"
-      },
-      {
-        "openlibrary_id": "/authors/OL2621744A",
-        "last_name": "al",
-        "first_name": "et"
-      },
-      {
-        "openlibrary_id": "/authors/OL3153369A",
-        "last_name": "DETR",
-        "first_name": "DETR"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949388M",
-    "title": "European Marine Sites in England and Wales",
-    "city": null,
-    "publisher": "Department for Environment, Food & Rural Affairs (DEFRA)",
-    "year": 1998,
-    "subject": "United Kingdom, Great Britain",
-    "genre": null,
-    "periodic_release": 2,
-    "page_count": 0,
-    "lang": null,
-    "days_keep_count": 50,
-    "adding_date": "2005-05-22",
-    "count": 100,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL1137765A",
-        "last_name": "Smoliński",
-        "first_name": "Tadeusz"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949389M",
-    "title": "The Impact of Releasing People for Council Duties",
-    "city": null,
-    "publisher": "Office of the Deputy Prime Minister (ODPM)",
-    "year": 1999,
-    "subject": null,
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 132,
-    "lang": null,
-    "days_keep_count": 30,
-    "adding_date": "2004-06-13",
-    "count": 500,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL3785641A",
-        "last_name": "Courtney",
-        "first_name": "Gill"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL1194938M",
-    "title": "A Tiszakürti Arborétum",
-    "city": "[Budapest]",
-    "publisher": "Tiszakürti Községi Közös Tanács",
-    "year": 1977,
-    "subject": null,
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 34,
-    "lang": "hun",
-    "days_keep_count": 50,
-    "adding_date": "2010-06-30",
-    "count": 10,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL1404562A",
-        "last_name": "P. Pathirana",
-        "first_name": "J."
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949390M",
-    "title": "Report of the Inspector's inquiry into the loss of the fishing vessel \"Gorah Lass\" with three lives ",
-    "city": null,
-    "publisher": "Department of the Environment, Transport and the Regions",
-    "year": 1998,
-    "subject": "Great Britain",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 47,
-    "lang": "eng",
-    "days_keep_count": 30,
-    "adding_date": "2006-01-05",
-    "count": 50,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL1003623A",
-        "last_name": "Symposium on Bone Marrow Transplantation and Related Problems (1988 Urbino, Italy)",
+        "openlibrary_id": "/authors/OL3523488A",
+        "last_name": "Conference on Thermoelectrics",
         "first_name": "International"
       }
     ]
   },
   {
-    "openlibrary_id": "/books/OL11949391M",
-    "title": "Marine Accident Investigation Branch; Annual Report 1997",
+    "openlibrary_id": "/books/OL10999303M",
+    "title": "1998 International Quantum Electronics Conference",
     "city": null,
-    "publisher": "Department for Transport (DFT)",
+    "publisher": "IEEE Standards Office",
     "year": 1998,
-    "subject": null,
+    "subject": "Quantum Theory",
     "genre": null,
-    "periodic_release": null,
-    "page_count": 58,
-    "lang": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
     "days_keep_count": 200,
-    "adding_date": "2003-07-17",
+    "adding_date": "2006-10-23",
     "count": 300,
     "authors": [
       {
-        "openlibrary_id": "/authors/OL3153369A",
-        "last_name": "DETR",
-        "first_name": "DETR"
+        "openlibrary_id": "/authors/OL2858103A",
+        "last_name": "Lasers & Electro-Optics Society",
+        "first_name": "IEEE"
       }
     ]
   },
   {
-    "openlibrary_id": "/books/OL11949392M",
-    "title": "Report of the inspector's inquiry into the loss of the fishing vessel Westhaven Ah 190 with four liv",
+    "openlibrary_id": "/books/OL10999304M",
+    "title": "1998 15th Annaul Ieee/Aess Dayton Chapter Symposium Analog Sensors and Systems Across the Spectrum",
     "city": null,
-    "publisher": "The Dept",
+    "publisher": "Institute of Electrical & Electronics Enginee",
     "year": 1998,
-    "subject": null,
+    "subject": "Circuits & components",
     "genre": null,
     "periodic_release": 1,
-    "page_count": 88,
-    "lang": "eng",
-    "days_keep_count": 200,
-    "adding_date": "2001-09-20",
-    "count": 50,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL1247580A",
-        "last_name": "Alvarez Cardier",
-        "first_name": "Jorge"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949393M",
-    "title": "Report of the Inspector's Inquiry into the collision of mv Sand Kite with the Thames Flood Barrier o",
-    "city": null,
-    "publisher": "Marine Accident Investigation Branch of the Dept. of the Environment, Transport and thee Regions",
-    "year": 1999,
-    "subject": null,
-    "genre": null,
-    "periodic_release": 2,
-    "page_count": 76,
+    "page_count": 104,
     "lang": "eng",
     "days_keep_count": 50,
-    "adding_date": "2011-01-18",
-    "count": 50,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL1233630A",
-        "last_name": "Egbert",
-        "first_name": "Barbara"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949394M",
-    "title": "Sustainable Distribution",
-    "city": null,
-    "publisher": "Office of the Deputy Prime Minister (ODPM)",
-    "year": 1999,
-    "subject": "Distributive industries",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 111,
-    "lang": null,
-    "days_keep_count": 100,
-    "adding_date": "2014-04-07",
+    "adding_date": "2003-01-26",
     "count": 500,
     "authors": [
       {
-        "openlibrary_id": "/authors/OL3153369A",
-        "last_name": "DETR",
-        "first_name": "DETR"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949395M",
-    "title": "Cryptosporidium in Water Supplies",
-    "city": null,
-    "publisher": "Department for Environment, Food & Rural Affairs (DEFRA)",
-    "year": 1998,
-    "subject": "Occupational / industrial health & safety",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 177,
-    "lang": null,
-    "days_keep_count": 50,
-    "adding_date": "2015-07-29",
-    "count": 5,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL1207589A",
-        "last_name": "Demange",
-        "first_name": "Jean-Marie"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949396M",
-    "title": "Outdoor Advertisements Fly-posting",
-    "city": null,
-    "publisher": "Office of the Deputy Prime Minister (ODPM)",
-    "year": 1998,
-    "subject": "Advertising industry",
-    "genre": null,
-    "periodic_release": 1,
-    "page_count": 68,
-    "lang": null,
-    "days_keep_count": 200,
-    "adding_date": "2012-02-21",
-    "count": 20,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL1365536A",
-        "last_name": "\"Wehrtechnik im Schiffbau\" (1982 Bremen, Germany)",
-        "first_name": "Forum"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949397M",
-    "title": "Vegetation of the British Countryside (ECOFACT)",
-    "city": null,
-    "publisher": "Department for Environment, Food & Rural Affairs (DEFRA)",
-    "year": 2000,
-    "subject": "Geography",
-    "genre": null,
-    "periodic_release": 2,
-    "page_count": 224,
-    "lang": null,
-    "days_keep_count": 100,
-    "adding_date": "2005-12-01",
-    "count": 5,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL1363892A",
-        "last_name": "G. H. Bunce",
-        "first_name": "R."
+        "openlibrary_id": "/authors/OL2732675A",
+        "last_name": "IEEE",
+        "first_name": "IEEE"
       },
       {
-        "openlibrary_id": "/authors/OL2621744A",
-        "last_name": "al",
-        "first_name": "et"
+        "openlibrary_id": "/authors/OL3523562A",
+        "last_name": "AESS Dayton Chapter Symposium (15th : 1998 : Fairborn",
+        "first_name": "OH)"
       }
     ]
   },
   {
-    "openlibrary_id": "/books/OL11949398M",
-    "title": "Design of Tax or Charge Scheme for Pesticides",
+    "openlibrary_id": "/books/OL10999305M",
+    "title": "Sensing the world: Analog sensors & systems across the spectrum ",
     "city": null,
-    "publisher": "Department for Environment, Food & Rural Affairs (DEFRA)",
-    "year": 2000,
-    "subject": "The Environment",
+    "publisher": "Institute of Electrical and Electronics Engineers",
+    "year": 1998,
+    "subject": null,
     "genre": null,
     "periodic_release": null,
-    "page_count": 314,
-    "lang": null,
+    "page_count": 96,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2001-01-03",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1424948A",
+        "last_name": "S. Gadot",
+        "first_name": "A."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999306M",
+    "title": "1998 17th Southern Biomedical Engineering Conference, Sbe",
+    "city": null,
+    "publisher": "IEEE Computer Society Pr",
+    "year": 1998,
+    "subject": "Mathematics and Science",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 214,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2006-10-31",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3523563A",
+        "last_name": "Southern Biomedical Engineering Conference (17th : 1998 : San Antonio",
+        "first_name": "Texas)"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999307M",
+    "title": "Electrical Contacts - 1998",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1998,
+    "subject": "Communications engineering / telecommunications",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 400,
+    "lang": "eng",
     "days_keep_count": 100,
-    "adding_date": "2002-04-05",
+    "adding_date": "2010-10-27",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2858269A",
+        "last_name": "Industrial Electronics Society",
+        "first_name": "IEEE"
+      },
+      {
+        "openlibrary_id": "/authors/OL2732675A",
+        "last_name": "IEEE",
+        "first_name": "IEEE"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999308M",
+    "title": "Conference Record of the 1998 IEEE International Symposium on Electrical Insulation",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1998,
+    "subject": "Electronic devices & materials",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 772,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2005-04-01",
     "count": 20,
     "authors": [
       {
-        "openlibrary_id": "/authors/OL1016652A",
-        "last_name": "Angelov",
-        "first_name": "Ignat"
+        "openlibrary_id": "/authors/OL2857980A",
+        "last_name": "Dielectrics & Electrical Insulation",
+        "first_name": "IEEE"
+      },
+      {
+        "openlibrary_id": "/authors/OL2732675A",
+        "last_name": "IEEE",
+        "first_name": "IEEE"
       }
     ]
   },
   {
-    "openlibrary_id": "/books/OL11949399M",
-    "title": "Interim Evaluation of English Partnerships",
+    "openlibrary_id": "/books/OL10999309M",
+    "title": "1998 3rd International Conference on Adhesives Joining and Coating Technologies in Electronic Manufa",
     "city": null,
-    "publisher": "Office of the Deputy Prime Minister (ODPM)",
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1998,
+    "subject": "Circuits & components",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 450,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2014-01-03",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3523564A",
+        "last_name": "York) International Conference on Adhesive Joining and Coating Technology in Electronics Manufacturi",
+        "first_name": "New"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1099930M",
+    "title": "Step-by-step computer keyboarding",
+    "city": "Hauppauge, NY",
+    "publisher": "Barron's Educational Series",
+    "year": 1995,
+    "subject": "Electronic data processing -- Keyboarding.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 113,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2012-07-19",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL583213A",
+        "last_name": "K. Willis",
+        "first_name": "K."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999310M",
+    "title": "Proceedings of 3rd International Conference on Adhesive Joining and Coating Technology in Electronic",
+    "city": null,
+    "publisher": "IEEE",
+    "year": 1998,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 365,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2006-03-14",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL101460A",
+        "last_name": "Inamul Air. Cdre.",
+        "first_name": "Haq,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999311M",
+    "title": "1998 International Topical Meeting on Microwave Photonics: October 12-14, 1998, Sarnoff Corportion, ",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1998,
+    "subject": "Microwave technology",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 300,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2011-06-26",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3523565A",
+        "last_name": "and Electro-Optics Societies",
+        "first_name": "Lasers"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999312M",
+    "title": "Actual Problems of Electronics Instrument Engineering, 1998",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
     "year": 1999,
-    "subject": "Business & Management",
+    "subject": "Electronics engineering",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 462,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2007-08-26",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3523566A",
+        "last_name": "International Conference on Actual Problems of Electronic Instrument Engineering (4th : 1998 : Novos",
+        "first_name": "Russia)"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999313M",
+    "title": "1998 4th International Conference on Actual Problems of Electronic Instrument Engineering proceeding",
+    "city": null,
+    "publisher": "The Institute of Electrical and Electronics Engineers, Inc.",
+    "year": null,
+    "subject": null,
     "genre": null,
     "periodic_release": null,
     "page_count": 0,
     "lang": null,
     "days_keep_count": 10,
-    "adding_date": "2001-06-06",
+    "adding_date": "2001-07-28",
     "count": 100,
     "authors": [
       {
-        "openlibrary_id": "/authors/OL120874A",
-        "last_name": "Tylor Middleton",
+        "openlibrary_id": "/authors/OL1118399A",
+        "last_name": "Engin",
+        "first_name": "Sabahattin"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999314M",
+    "title": "1998 Industry Applications Society Conference, Ias",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1998,
+    "subject": "Electronics & Communications Engineering",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 2800,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2010-12-26",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL355971A",
+        "last_name": "Industry Applications Society. Meeting",
+        "first_name": "IEEE"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999315M",
+    "title": "1998 Industry Applications Society Conference, Ias",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1998,
+    "subject": "Industry & Industrial Studies",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 2800,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2002-03-13",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3523567A",
+        "last_name": "IEEE Industry Applications Society. Meeting (33rd : 1998 : St. Louis",
+        "first_name": "Missouri)"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999316M",
+    "title": "Leos '98 Conference Proceedings",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1999,
+    "subject": "Laser technology",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 1000,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2003-02-08",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3523568A",
+        "last_name": "(Conference)",
+        "first_name": "LEOS"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999317M",
+    "title": "1998 IEEE Symposium on Advances in Digital Filtering and Signal Processing",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1998,
+    "subject": "Electronics - Digital",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 200,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2014-12-14",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3523294A",
+        "last_name": "Victorian Section",
+        "first_name": "IEEE"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999318M",
+    "title": "Applications of Ferroelectrics 1998 IEEE 11th International Symposium",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 2001,
+    "subject": "Applied optics",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 1000,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2016-04-27",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3523569A",
+        "last_name": "IEEE International Symposium on Applications of Ferroelectrics (11th : 1998 : Montreux",
+        "first_name": "Switzerland)"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999319M",
+    "title": "1998 International Symposium on Applications of Ferroelectrics",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1999,
+    "subject": "Electricity",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 1000,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2000-01-27",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3523286A",
+        "last_name": "Ultrasonics Ferroelectrics & Freque",
+        "first_name": "IEEE"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1099931M",
+    "title": "1001 high performance tech tips",
+    "city": "New York, N.Y",
+    "publisher": "HPBooks",
+    "year": 1995,
+    "subject": "Automobiles -- Maintenance and repair.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 169,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2005-05-26",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL583214A",
+        "last_name": "Scraba",
+        "first_name": "Wayne"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999320M",
+    "title": "1998 IEEE Annual Textile, Fiber and Film Industry Conference",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1998,
+    "subject": "Leather & fur technology",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 94,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2004-01-15",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3523268A",
+        "last_name": "and Film Industry Technical Conference IEEE Textile",
+        "first_name": "Fiber,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999321M",
+    "title": "1998 IEEE Annual Textile, Fiber and Film Industry Technical Conference",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1998,
+    "subject": "Film & Video - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 90,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2005-10-14",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1661098A",
+        "last_name": "Industry Applications Society.",
+        "first_name": "IEEE"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999322M",
+    "title": "Microelectronics 1998 International Conference",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1999,
+    "subject": "Electronics engineering",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 297,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2013-11-10",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3523570A",
+        "last_name": "Conference on Microelectronics",
+        "first_name": "International"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999323M",
+    "title": "The Record of the 1999 IEEE Radar Conference Held at the Westin Hotel Waltham, Massachusetts April 2",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1999,
+    "subject": "Radar Technology",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 331,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2004-10-03",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3523571A",
+        "last_name": "Radar Conference",
+        "first_name": "IEEE"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999324M",
+    "title": "11th Annual IEEE International Asic Conference and Exhibit",
+    "city": null,
+    "publisher": "IEEE Standards Office",
+    "year": 1998,
+    "subject": "Electronics - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 400,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2000-05-13",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3523315A",
+        "last_name": "International ASIC",
+        "first_name": "IEEE"
+      },
+      {
+        "openlibrary_id": "/authors/OL3523572A",
+        "last_name": "Conference",
+        "first_name": "SOC"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999325M",
+    "title": "1998 11th Annual IEEE International Asic Conference",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1998,
+    "subject": "Circuits & components",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 400,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2013-01-19",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3523315A",
+        "last_name": "International ASIC",
+        "first_name": "IEEE"
+      },
+      {
+        "openlibrary_id": "/authors/OL3523572A",
+        "last_name": "Conference",
+        "first_name": "SOC"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999326M",
+    "title": "IEEE Globecom 1998",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1999,
+    "subject": "Communications engineering / telecommunications",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 2880,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2000-02-04",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3523573A",
+        "last_name": "IEEE Global Telecommunications Conference (1998 : Sydney",
+        "first_name": "Australia)"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999327M",
+    "title": "Globecom 1998",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1998,
+    "subject": "Communications engineering / telecommunications",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2005-10-03",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2730977A",
+        "last_name": "Communications Society",
+        "first_name": "IEEE"
+      },
+      {
+        "openlibrary_id": "/authors/OL2732675A",
+        "last_name": "IEEE",
+        "first_name": "IEEE"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999328M",
+    "title": "1999 American Control Conference (American Control Conference//Proceedings)",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1999,
+    "subject": "Automatic control engineering",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 4100,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2006-06-26",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2732675A",
+        "last_name": "IEEE",
+        "first_name": "IEEE"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999329M",
+    "title": "1999 American Control Conference",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1999,
+    "subject": "Automatic control engineering",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2015-10-23",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2732675A",
+        "last_name": "IEEE",
+        "first_name": "IEEE"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1099932M",
+    "title": "The multimedia workshop.",
+    "city": "Belmont, Calif",
+    "publisher": "Wadsworth Pub. Co.",
+    "year": 1995,
+    "subject": "Authorware professional.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 162,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2014-12-10",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL445976A",
+        "last_name": "Holtz",
+        "first_name": "Matthew"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999330M",
+    "title": "1998 IEEE 56th Annual Device Research Conference (Drc",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1998,
+    "subject": "Electronic devices & materials",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 156,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2003-04-28",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3299649A",
+        "last_name": "Research Conference",
+        "first_name": "Device"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999331M",
+    "title": "1998 IEEE Workshop on Signal Processing Systems, Sips",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1998,
+    "subject": "Communications engineering / telecommunications",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 600,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2014-08-16",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3523574A",
+        "last_name": "IEEE Workshop on Signal Processing Systems (1997 : Leichester",
+        "first_name": "UK)"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999332M",
+    "title": "1998 IEEE International Symposium on Information Theory",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1998,
+    "subject": "Information Theory",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 526,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2016-08-21",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3523575A",
+        "last_name": "IEEE International Symposium on Information Theory (1998 : Cambridge",
+        "first_name": "Mass.)"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999333M",
+    "title": "1998 IEEE International Symposium on Electromagnetic Compatibility, Emc",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1998,
+    "subject": "Communications engineering / telecommunications",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 1200,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2007-07-30",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3523441A",
+        "last_name": "International Symposium on Electromagnetic Compatibility",
+        "first_name": "IEEE"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999334M",
+    "title": "1998 IEEE International Symposium on Electromagnetic Compatibility",
+    "city": null,
+    "publisher": "IEEE Standards Office",
+    "year": 1998,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 1200,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2013-04-24",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3184031A",
+        "last_name": "Electromagnetic Compatibility Socie",
+        "first_name": "IEEE"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999335M",
+    "title": "1998 Conference on Precision Electromagnetic Measurements, Cpem",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1998,
+    "subject": "Communications engineering / telecommunications",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 706,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2016-10-02",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3523576A",
+        "last_name": "on Precision Electromagnetic Measurements",
+        "first_name": "Conference"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999336M",
+    "title": "1998 IEEE Nuclear Science Symposium Conference Record",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 2001,
+    "subject": "Atomic & molecular physics",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 1000,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2014-09-10",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3523577A",
+        "last_name": "Nuclear Science Symposium (45th : 1998 : Toronto",
+        "first_name": "Ont.)"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999337M",
+    "title": "Nuclear Science Symposium (Nss) & Medical Imaging Conference 1998 CD Rom",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 2001,
+    "subject": "Nuclear structure physics",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 1000,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2008-02-27",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3523577A",
+        "last_name": "Nuclear Science Symposium (45th : 1998 : Toronto",
+        "first_name": "Ont.)"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999338M",
+    "title": "Ise 10 Proceedings",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1999,
+    "subject": "Atomic & molecular physics",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 750,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2015-05-23",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1402034A",
+        "last_name": "Kumar Kuri",
+        "first_name": "Pravat"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999339M",
+    "title": "IEEE 10th International Symposium on Electrets",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1999,
+    "subject": "Electromagnetism",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2003-09-18",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2857980A",
+        "last_name": "Dielectrics & Electrical Insulation",
+        "first_name": "IEEE"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1099933M",
+    "title": "My parrot, my friend",
+    "city": "New York",
+    "publisher": "Howell Book House",
+    "year": 1994,
+    "subject": "Parrots -- Behavior.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 264,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2007-07-12",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL402134A",
+        "last_name": "Munro Doane",
+        "first_name": "Bonnie"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999340M",
+    "title": "1998 Annual Report Conference on Electrical Insulation and Dielectric Phenomena (Conference on Elect",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1998,
+    "subject": "Electronics & Communications Engineering",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 900,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2015-08-08",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3523480A",
+        "last_name": "on Electrical Insulation and Dielectric Phenomena",
+        "first_name": "Conference"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999341M",
+    "title": "1998 IEEE Conference on Electrical Insulation & Dielectric Phenomena",
+    "city": null,
+    "publisher": "IEEE Standards Office",
+    "year": 1998,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 900,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2015-10-01",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2857980A",
+        "last_name": "Dielectrics & Electrical Insulation",
+        "first_name": "IEEE"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999342M",
+    "title": "1999 IEEE International Conference on Acoustics, Speech and Signal Processing (Icassp)",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1999,
+    "subject": "Audio processing: speech recognition & synthesis",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 3584,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2000-05-11",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2858353A",
+        "last_name": "Signal Processing Society",
+        "first_name": "IEEE"
+      },
+      {
+        "openlibrary_id": "/authors/OL2732675A",
+        "last_name": "IEEE",
+        "first_name": "IEEE"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999343M",
+    "title": "Icassp 99",
+    "city": null,
+    "publisher": "Ieee",
+    "year": 1998,
+    "subject": "Speech",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2014-03-19",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3523578A",
+        "last_name": "ICASSP (24th : 1999 : Phoenix",
+        "first_name": "Arizona)"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999344M",
+    "title": "Technical Digest 1998: Gaas Ic Symposium : IEEE Gallium Arsenide Integrated Circuit Symposium ",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1998,
+    "subject": "Circuits & components",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 350,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2016-02-13",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3523579A",
+        "last_name": "Electron Devices & Microwave Theory and Technology Societies",
+        "first_name": "IEEE"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999345M",
+    "title": "Sice '98: Proceedings of the 37th Sice Annual Conference : International Session Papers ",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1998,
+    "subject": "Automatic control engineering",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 376,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2003-03-19",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1661098A",
+        "last_name": "Industry Applications Society.",
+        "first_name": "IEEE"
+      },
+      {
+        "openlibrary_id": "/authors/OL2732675A",
+        "last_name": "IEEE",
+        "first_name": "IEEE"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999346M",
+    "title": "Symposium Record",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1999,
+    "subject": "Electronic devices & materials",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 1050,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2003-01-16",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2732675A",
+        "last_name": "IEEE",
+        "first_name": "IEEE"
+      },
+      {
+        "openlibrary_id": "/authors/OL3184031A",
+        "last_name": "Electromagnetic Compatibility Socie",
+        "first_name": "IEEE"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999347M",
+    "title": "1998 Ieee, Neural Networks for Signal Processing",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1998,
+    "subject": "Communications engineering / telecommunications",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 620,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2002-11-26",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3523580A",
+        "last_name": "Workshop on Neural Networks for Signal Processing",
+        "first_name": "IEEE"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999348M",
+    "title": "1998 Ifip/IEEE International Workshop on Distributed Systems, Operations and Management",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1998,
+    "subject": "Data Processing - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 300,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2007-04-19",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2730977A",
+        "last_name": "Communications Society",
+        "first_name": "IEEE"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999349M",
+    "title": "Twentieth International Telecommunications Energy Conference",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1998,
+    "subject": "Industrial Chemistry & Manufacturing Technologies",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 850,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2015-07-16",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2858147A",
+        "last_name": "Power Electronics Society",
+        "first_name": "IEEE"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1099934M",
+    "title": "Understanding automotive emissions control",
+    "city": "New York, N.Y",
+    "publisher": "HPBooks",
+    "year": 1995,
+    "subject": "Automobiles -- Pollution control devices.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 168,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2010-01-11",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL582546A",
+        "last_name": "W. Carley",
+        "first_name": "Larry"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999350M",
+    "title": "Wescon/98",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1998,
+    "subject": "Applications of Computing",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 300,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2016-11-27",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3523581A",
+        "last_name": "Western Electronic Show and Convention (1998 : Anaheim",
+        "first_name": "Calif.)"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999351M",
+    "title": "Wescon/98",
+    "city": null,
+    "publisher": "IEEE Service Center",
+    "year": 1998,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 366,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2004-09-05",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1092907A",
+        "last_name": "Beier",
+        "first_name": "Rosmarie"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999352M",
+    "title": "Wescon/98",
+    "city": null,
+    "publisher": "IEEE Service Center",
+    "year": 1998,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 366,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2012-02-16",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1022608A",
+        "last_name": "Nikolaevich Lopatin",
+        "first_name": "Valeriĭ"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999353M",
+    "title": "International Vacuum Microelectronics Conference ",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1998,
+    "subject": "Circuits & components",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 600,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2009-07-21",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2858074A",
+        "last_name": "Electron Devices Society",
+        "first_name": "IEEE"
+      },
+      {
+        "openlibrary_id": "/authors/OL2732675A",
+        "last_name": "IEEE",
+        "first_name": "IEEE"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999354M",
+    "title": "1998 IEEE Information Technology Conference",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1999,
+    "subject": "Computing and Information Technology",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 194,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2008-12-12",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3523582A",
+        "last_name": "Y.) IEEE Information Technology Conference (1998 : Syracuse",
+        "first_name": "N."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999355M",
+    "title": "1998 8th International Conference on Harmoics and Power Quality, Ichqp",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1998,
+    "subject": "Electrical engineering",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 1000,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2014-07-15",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2858147A",
+        "last_name": "Power Electronics Society",
+        "first_name": "IEEE"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999356M",
+    "title": "1998 7th IEEE International Conference on Universal Personal Communications",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1998,
+    "subject": "Electronics - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2007-11-06",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2730977A",
+        "last_name": "Communications Society",
+        "first_name": "IEEE"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999357M",
+    "title": "1998 IEEE Radiation Effects Data Workshop",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1998,
+    "subject": "Atomic & molecular physics",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 190,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2003-09-20",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3523583A",
+        "last_name": "IEEE Radiation Effects Data Workshop (1998 : Newport Beach",
+        "first_name": "Calif.)"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999358M",
+    "title": "1998 IEEE Radiation Effects Data Workshop: NSREC 98 : held in conjunction with the IEEE Nuclear and ",
+    "city": null,
+    "publisher": "The Institute of Electrical and Electronics Engineers, Inc",
+    "year": 1998,
+    "subject": "Congresses",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 188,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2001-05-20",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1169222A",
+        "last_name": "Vivar",
+        "first_name": "Adelaida"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999359M",
+    "title": "1998 3rd IEEE International Conference on Multimedia Engineering and Education",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1998,
+    "subject": "Computing and Information Technology",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 66,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2012-09-15",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3056974A",
+        "last_name": "Conference on Simulation in Engineering Education",
+        "first_name": "International"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1099935M",
+    "title": "Successful information system implementation",
+    "city": "Upper Darby, PA",
+    "publisher": "Project Management Institute",
+    "year": 1994,
+    "subject": "Information technology -- Management",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 221,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2002-06-07",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL28562A",
+        "last_name": "K. Pinto",
+        "first_name": "Jeffrey"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999360M",
+    "title": "1998 3rd IEEE International Conference on Multimedia Engineering and Education",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1998,
+    "subject": "Industrial or vocational training",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 66,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2005-06-03",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3056974A",
+        "last_name": "Conference on Simulation in Engineering Education",
+        "first_name": "International"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999361M",
+    "title": "1998 IEEE 9th Workshop on Local & Metropolitan Area Networks",
+    "city": null,
+    "publisher": "Ieee",
+    "year": 1998,
+    "subject": "Networking - General",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2006-01-24",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3523584A",
+        "last_name": "Workshop on Local and Metropolitan Area Networks",
+        "first_name": "IEEE"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999362M",
+    "title": "Intermag, 1998 (Intermag Conference//Digest)",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1998,
+    "subject": "Electricity, magnetism & electromagnetism",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 392,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2014-12-28",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3523585A",
+        "last_name": "Joint MMM-INTERMAG Conference (7th : 1998 : San Francisco",
+        "first_name": "Calif.)"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999363M",
+    "title": "Proceedaings [sic] of the Fifteenth National Radio Science Conference, NRSC'98, Cairo, Egypt, Februa",
+    "city": null,
+    "publisher": "Institute of Electrical and Electronics Engineers",
+    "year": 1998,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2000-12-21",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1115250A",
+        "last_name": "Es. Ji.",
+        "first_name": "Narasiṃhācārya,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999364M",
+    "title": "International Conference on Simulation of Semiconductor Processes and Devices (Sis-Pad) Proceedings",
+    "city": null,
+    "publisher": "IEEE Standards Office",
+    "year": 1999,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2007-09-08",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2858074A",
+        "last_name": "Electron Devices Society",
+        "first_name": "IEEE"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999365M",
+    "title": "Consumer Electronics (Icce) 1999 International Conference 18th",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1999,
+    "subject": "Electronics & Communications Engineering",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 328,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2010-04-12",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2732675A",
+        "last_name": "IEEE",
+        "first_name": "IEEE"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999366M",
+    "title": "1999 IEEE International Solid-State Circuits Conference: Digest of Technical Papers ",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1999,
+    "subject": "Circuits & components",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 512,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2000-10-02",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3523370A",
+        "last_name": "Solid-State Circuits Council",
+        "first_name": "IEEE"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999367M",
+    "title": "Solid State Circuits Conference 1999 International",
+    "city": null,
+    "publisher": "Ieee",
+    "year": 2001,
+    "subject": "Electronics & Communications Engineering",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 508,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2009-08-30",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3523586A",
+        "last_name": "Solid-state Circuits Society",
+        "first_name": "IEEE"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999368M",
+    "title": "Eds CDROM Package 1998",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1999,
+    "subject": "Computer Bks - General Information",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2000-06-23",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2732675A",
+        "last_name": "IEEE",
+        "first_name": "IEEE"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999369M",
+    "title": "1998 Winter Simulation Conference Proceedings",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1999,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2016-01-27",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3523587A",
+        "last_name": "J. Medeiros",
+        "first_name": "D."
+      },
+      {
+        "openlibrary_id": "/authors/OL3523588A",
+        "last_name": "F. Watson",
+        "first_name": "Edward"
+      },
+      {
+        "openlibrary_id": "/authors/OL3523589A",
+        "last_name": "S., II Carson",
         "first_name": "John"
       }
     ]
   },
   {
-    "openlibrary_id": "/books/OL1194939M",
-    "title": "I͡A︡-\"i͡a︡streb\"",
-    "city": "Moskva",
-    "publisher": "Kron-Press",
-    "year": 1993,
-    "subject": "Mikhaĭlov, V. N.",
+    "openlibrary_id": "/books/OL1099936M",
+    "title": "AGS",
+    "city": "Washington",
+    "publisher": "Association of Graduate Schools in the Association of American Universities",
+    "year": 1994,
+    "subject": "Association of American Universities. Association of Graduate Schools -- History",
     "genre": null,
-    "periodic_release": null,
-    "page_count": 126,
-    "lang": "rus",
-    "days_keep_count": 200,
-    "adding_date": "2014-09-04",
-    "count": 300,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL253102A",
-        "last_name": "N. Mikhaĭlov",
-        "first_name": "V."
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL119493M",
-    "title": "Understanding, preventing, and litigating year 2000 issues",
-    "city": "New York",
-    "publisher": "Practising Law Institute",
-    "year": 1999,
-    "subject": "Computer software -- Law and legislation -- United States.",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 1408,
+    "periodic_release": 3,
+    "page_count": 0,
     "lang": "eng",
-    "days_keep_count": 10,
-    "adding_date": "2008-08-11",
-    "count": 10,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL1367349A",
-        "last_name": "Sirp",
-        "first_name": "Wilhelm"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949400M",
-    "title": "Housing in the South East",
-    "city": null,
-    "publisher": "Office of the Deputy Prime Minister (ODPM)",
-    "year": 1999,
-    "subject": "Regional & Area Planning",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 95,
-    "lang": null,
-    "days_keep_count": 100,
-    "adding_date": "2012-06-20",
+    "days_keep_count": 50,
+    "adding_date": "2009-05-09",
     "count": 5,
     "authors": [
       {
-        "openlibrary_id": "/authors/OL1131343A",
-        "last_name": "Carron",
-        "first_name": "Louis"
+        "openlibrary_id": "/authors/OL583215A",
+        "last_name": "N. Slate",
+        "first_name": "Audrey"
       }
     ]
   },
   {
-    "openlibrary_id": "/books/OL11949401M",
-    "title": "Transport Statistics Report",
+    "openlibrary_id": "/books/OL10999370M",
+    "title": "1998 Winter Simulation Conference (Wsc",
     "city": null,
-    "publisher": "Department for Transport (DFT)",
+    "publisher": "Institute of Electrical & Electronics Enginee",
     "year": 1999,
-    "subject": "Maritime / nautical trades",
+    "subject": "Computer modelling & simulation",
     "genre": null,
     "periodic_release": null,
-    "page_count": 114,
-    "lang": null,
-    "days_keep_count": 200,
-    "adding_date": "2001-07-21",
+    "page_count": 1600,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2009-11-14",
     "count": 50,
     "authors": [
       {
-        "openlibrary_id": "/authors/OL1012256A",
-        "last_name": "Bigler",
-        "first_name": "Karen"
+        "openlibrary_id": "/authors/OL3523590A",
+        "last_name": "on Applications of Simulation",
+        "first_name": "Conference"
       }
     ]
   },
   {
-    "openlibrary_id": "/books/OL11949402M",
-    "title": "Traffic Speeds on English Trunk Roads, 1998 (Library Bibliography)",
+    "openlibrary_id": "/books/OL10999371M",
+    "title": "Microwave Symposium, 1999 IEEE Mtt-S International",
     "city": null,
-    "publisher": "Department for Transport (DFT)",
+    "publisher": "Institute of Electrical & Electronics Enginee",
     "year": 1999,
-    "subject": "Dictionaries",
+    "subject": "Microwave technology",
     "genre": null,
-    "periodic_release": 2,
-    "page_count": 81,
-    "lang": null,
-    "days_keep_count": 10,
-    "adding_date": "2010-02-09",
+    "periodic_release": null,
+    "page_count": 1930,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2005-04-05",
     "count": 500,
     "authors": [
       {
-        "openlibrary_id": "/authors/OL128418A",
-        "last_name": "Wilhelm.",
-        "first_name": "Mommsen,"
+        "openlibrary_id": "/authors/OL2732675A",
+        "last_name": "IEEE",
+        "first_name": "IEEE"
       }
     ]
   },
   {
-    "openlibrary_id": "/books/OL11949403M",
-    "title": "Marine Accident Investigation Branch",
+    "openlibrary_id": "/books/OL10999372M",
+    "title": "Microwave Symposium, 1999 IEEE Mtt-S International",
     "city": null,
-    "publisher": "Department for Transport (DFT)",
+    "publisher": "Institute of Electrical & Electronics Enginee",
     "year": 1999,
-    "subject": null,
+    "subject": "Microwave technology",
     "genre": null,
     "periodic_release": null,
-    "page_count": 36,
-    "lang": null,
-    "days_keep_count": 100,
-    "adding_date": "2003-02-04",
-    "count": 20,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL3153369A",
-        "last_name": "DETR",
-        "first_name": "DETR"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949404M",
-    "title": "Loss of MV \"Rema\" with Four Lives on 25 April 1998",
-    "city": null,
-    "publisher": "Department for Transport (DFT)",
-    "year": 2000,
-    "subject": null,
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 37,
-    "lang": null,
-    "days_keep_count": 50,
-    "adding_date": "2014-12-12",
-    "count": 100,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL1179672A",
-        "last_name": "Teschendorff",
-        "first_name": "Wolfgang"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949405M",
-    "title": "The Effectiveness of Planning Policy Guidance Notes",
-    "city": null,
-    "publisher": "Office of the Deputy Prime Minister (ODPM)",
-    "year": 1997,
-    "subject": "City & town planning - architectural aspects",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 60,
-    "lang": null,
+    "page_count": 2400,
+    "lang": "eng",
     "days_keep_count": 30,
-    "adding_date": "2009-12-28",
+    "adding_date": "2003-06-25",
     "count": 5,
     "authors": [
       {
-        "openlibrary_id": "/authors/OL143056A",
-        "last_name": "Sullivan",
-        "first_name": "Kathryn"
+        "openlibrary_id": "/authors/OL2732675A",
+        "last_name": "IEEE",
+        "first_name": "IEEE"
       }
     ]
   },
   {
-    "openlibrary_id": "/books/OL11949406M",
-    "title": "Contaminated Land Industry Profiles",
+    "openlibrary_id": "/books/OL10999373M",
+    "title": "Cas'99 Proceedings",
     "city": null,
-    "publisher": "Department for Environment, Food & Rural Affairs (DEFRA)",
-    "year": 1995,
-    "subject": "Insecticides & pesticides",
-    "genre": null,
-    "periodic_release": 3,
-    "page_count": 14,
-    "lang": null,
-    "days_keep_count": 30,
-    "adding_date": "2014-03-25",
-    "count": 10,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL1231827A",
-        "last_name": "John",
-        "first_name": "Archer,"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949407M",
-    "title": "Contaminated Land Industry Profiles",
-    "city": null,
-    "publisher": "Department for Environment, Food & Rural Affairs (DEFRA)",
-    "year": 1995,
-    "subject": "Iron, steel & metals industries",
-    "genre": null,
-    "periodic_release": 2,
-    "page_count": 16,
-    "lang": null,
-    "days_keep_count": 10,
-    "adding_date": "2011-02-21",
-    "count": 50,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL146245A",
-        "last_name": "Bronzino",
-        "first_name": "Agnolo"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL11949408M",
-    "title": "Contaminated Land Industry Profile",
-    "city": null,
-    "publisher": "Department for Environment, Food & Rural Affairs (DEFRA)",
-    "year": 1996,
-    "subject": "Materials science",
+    "publisher": "IEEE Standards Office",
+    "year": 1999,
+    "subject": "Semi-conductors & super-conductors",
     "genre": null,
     "periodic_release": null,
-    "page_count": 15,
-    "lang": null,
+    "page_count": 538,
+    "lang": "eng",
     "days_keep_count": 50,
-    "adding_date": "2012-11-26",
+    "adding_date": "2005-06-25",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2740239A",
+        "last_name": "of Electrical & Electronics En",
+        "first_name": "Institute"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999374M",
+    "title": "1999 International Semiconductor Conference",
+    "city": null,
+    "publisher": "IEEE Standards Office",
+    "year": 1999,
+    "subject": "Electronics - Semiconductors",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 538,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2007-10-21",
     "count": 50,
     "authors": [
       {
-        "openlibrary_id": "/authors/OL1112594A",
-        "last_name": "Museen Nürnburg.",
-        "first_name": "Stadgeschichtliche"
+        "openlibrary_id": "/authors/OL2740239A",
+        "last_name": "of Electrical & Electronics En",
+        "first_name": "Institute"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999375M",
+    "title": "Annual Reliability and Maintainability Symposium",
+    "city": null,
+    "publisher": "Institute of Electrical & Electronics Enginee",
+    "year": 1999,
+    "subject": "Electronics & Communications Engineering",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 440,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2001-12-12",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3523591A",
+        "last_name": "Reliability and Maintainability Symposium (1999 : Washington",
+        "first_name": "DC)"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10999376M",
+    "title": "Asilomar Conference on Signal Systems and Computers, 1999",
+    "city": null,
+    "publisher": "IEEE Standards Office",
+    "year": 2000,
+    "subject": "Communications engineering / telecommunications",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 1758,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2003-10-05",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2858353A",
+        "last_name": "Signal Processing Society",
+        "first_name": "IEEE"
       }
     ]
   }

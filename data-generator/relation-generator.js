@@ -18,15 +18,14 @@ function main() {
 
     if(utils.hasArguments() && args.tables) {
 
+        let queryPromises = [];
         switch (args.tables) {
 
             case "book+author":
 
-                let queryPromises = [];
-
                 utils.readOpenLibraryJsons().forEach( json => {
                     json.forEach( (record,i) => {
-                        queryPromises.push( () => processRecord(record, i+1) );
+                        queryPromises.push( () => processBooksJsonRecord(record, i+1) );
                     });
                 });
 
@@ -38,6 +37,24 @@ function main() {
                 break;
 
             case "book+section":
+
+                let sections;
+                db.many("SELECT * FROM section")
+                    .then(rows => {
+                        sections = rows;
+                        return db.many("SELECT * FROM book")
+                    })
+                    .then(books => {
+                        books.forEach( (book,i) => queryPromises.push(
+                            processBookSectionRelation(book, sections, i+1)
+                        ))
+                        return Promise.all(queryPromises);
+                    })
+                    .then( () => pg.end() )
+                    .catch(err => {
+                        console.log(err)
+                        pg.end();
+                    })
 
                 break;
 
@@ -54,7 +71,7 @@ function main() {
     }
 }
 
-function processRecord(record, number) {
+function processBooksJsonRecord(record, number) {
 
     return new Promise( resolve => {
 
@@ -63,7 +80,7 @@ function processRecord(record, number) {
         db.one("SELECT * FROM book WHERE openlibrary_id=$1", record.openlibrary_id)
             .then( dbRecord => {
                 console.log(`Book (${record.openlibrary_id}) already exist in database`);
-                return utils.runSerial(createBookAuthorRelations(record, dbRecord))
+                return utils.runSerial(prepareBookAutorRelations(record, dbRecord))
             })
             .then( () => {
                 console.log(`Record #${number} processed\n`);
@@ -75,7 +92,7 @@ function processRecord(record, number) {
                 db.one(createInsertTemplate(record, "book"), record)
                     .then(dbRecord => {
                         console.log(`Book (${record.openlibrary_id}) created`);
-                        return utils.runSerial(createBookAuthorRelations(record, dbRecord))
+                        return utils.runSerial(prepareBookAutorRelations(record, dbRecord))
                     })
                     .then( () => {
                         console.log(`Record #${number} processed\n`)
@@ -86,7 +103,7 @@ function processRecord(record, number) {
     });
 }
 
-function processRelation(book, author, authorNumber) {
+function processBookAuthorRelation(book, author, authorNumber) {
 
     return new Promise( resolve => {
 
@@ -95,7 +112,7 @@ function processRelation(book, author, authorNumber) {
 
                 console.log(`Author #${authorNumber} (${author.openlibrary_id}) `+
                             `already exist in database`);
-                createRelation(book, dbAuthor, authorNumber)
+                createBookAuthorRelation(book, dbAuthor, authorNumber)
                     .then( row => resolve() )
             })
             .catch(err => {
@@ -104,7 +121,7 @@ function processRelation(book, author, authorNumber) {
                 db.one(createInsertTemplate(author, "author"), author)
                     .then(dbAuthor => {
                         console.log(`Author (${author.openlibrary_id}) created`);
-                        return createRelation(book, dbAuthor, authorNumber)
+                        return createBookAuthorRelation(book, dbAuthor, authorNumber)
                     })
                     .then( row => resolve() )
                     .catch(err =>{
@@ -115,16 +132,16 @@ function processRelation(book, author, authorNumber) {
     });
 }
 
-function createBookAuthorRelations(record, dbRecord) {
+function prepareBookAutorRelations(record, dbRecord) {
     let promises = [];
     console.log(`Checking ${record.authors.length} book's authors...`);
     record.authors.forEach( (author,i) => promises.push(
-        () => processRelation(dbRecord, author, i+1)
+        () => processBookAuthorRelation(dbRecord, author, i+1)
     ));
     return promises;
 }
 
-function createRelation(book, author, authorNumber) {
+function createBookAuthorRelation(book, author, authorNumber) {
 
     return new Promise ( resolve => {
 
@@ -158,6 +175,62 @@ function createInsertTemplate(obj, table) {
     let values = fields.map( value => `$(${value})`).join();
 
     return `INSERT INTO ${table}(${fields}) VALUES(${values}) RETURNING *`;
+}
+
+function processBookSectionRelation(book, sections, bookNumber) {
+
+    return new Promise ( resolve => {
+        console.log(`Start processing book #${bookNumber}...`);
+        let relationsPromises = [];
+        if(book.count == 5) {
+            sections.forEach(section => {
+                    if(section.type != "читальна зала") {
+                        relationsPromises.push(
+                            createBookSectionRelation(book, section, 1)
+                        )
+                    }
+                });
+        }
+        else {
+            sections.forEach(section => relationsPromises.push(
+                createBookSectionRelation(book, section, book.count/sections.length)
+            ));
+        }
+        Promise.all(relationsPromises)
+            .then( () => {
+                console.log(`Relations of book #${bookNumber} processed`);
+                resolve()
+            });
+    });
+}
+
+function createBookSectionRelation(book, section, count) {
+
+    return new Promise ( resolve => {
+
+        const relation = {
+            book_id: book.id,
+            section_id: section.id,
+            book_count: count
+        }
+
+        db.one("SELECT * FROM book_section WHERE book_id=$1 AND section_id=$2", [
+            book.id,
+            section.id
+        ])
+        .then( () => resolve() )
+        .catch(err =>{
+
+            db.one(createInsertTemplate(relation, "book_section"), relation)
+                .then( row => {
+                    resolve(row)
+                })
+                .catch( err => {
+                    console.log(err);
+                    resolve();
+                })
+        })
+    });
 }
 
 main();
