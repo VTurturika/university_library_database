@@ -89,7 +89,7 @@ module.exports = {
     cutLongStr: (str) => str.length > 100 ? str.slice(0,100): str,
 
     checkReaderGeneratorArgs: () => {
-            const possibleTables = {
+        const possibleTables = {
             "student": true,
             "teacher": true,
             "postgraduate": true,

@@ -23,6 +23,7 @@ module.exports = {
             console.log("Processing records...");
 
             records.forEach( record => {
+                record.kind = "student";
                 record.speciality_title = data.student.speciality[record.speciality_code];
                 let startYear = +record.start_date.substr(0,4) - record.course + 1;
                 let endYear = startYear + 4;
@@ -51,6 +52,7 @@ module.exports = {
             console.log("Processing records...");
 
             records.forEach( record => {
+                record.kind = "teacher";
                 record.departument = utils.getRandomArrayItem(data.teacher.departument[record.faculty]);
                 switch (data.teacher.position[record.position]) {
                     case "3":
@@ -88,6 +90,7 @@ module.exports = {
             console.log("Processing records...");
 
             records.forEach( record => {
+                record.kind = "postgraduate";
                 record.speciality_title = data.student.speciality[record.speciality_code];
                 let yearOffset = utils.getRandomInt(1,7);
                 let startYear = +record.start_date.substr(0,4) - yearOffset;
@@ -113,6 +116,7 @@ module.exports = {
             console.log("Processing records...");
 
             records.forEach( record => {
+                record.kind = "preparatory";
                 let yearOffset = utils.getRandomInt(0,7);
                 let year = +record.start_studying.substr(0,4) - yearOffset;
                 record.start_studying = record.start_studying.replace(/^\d{4}/, year);
@@ -136,6 +140,7 @@ module.exports = {
             console.log("Processing records...");
 
             records.forEach( record => {
+                record.kind = "applicant";
                 record.speciality_title = data.student.speciality[record.speciality_code];
                 record.entry_year = +record.entry_year.substr(0,4);
                 record.is_active = record.entry_year == 2017;
@@ -157,6 +162,7 @@ module.exports = {
             console.log("Processing records...");
 
             records.forEach( record => {
+                record.kind = "certification_training";
                 record.departument = utils.getRandomArrayItem(data.teacher.departument[record.faculty]);
                 record.speciality_title = data.student.speciality[record.speciality_code];
                 let yearOffset = utils.getRandomInt(0,7);

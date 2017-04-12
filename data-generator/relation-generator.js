@@ -60,6 +60,22 @@ function main() {
 
             case "book+section+reader":
 
+                /*
+                forEach(reader) => {
+
+                    for i in range( getRandomInt(1,5) ) {
+
+                        book = getSomeBook() {
+                            return randId(minId, maxId)
+                        }
+
+                        section = getSomeSection(book)
+
+                    }
+
+                }
+                */
+
                 break;
 
             default:

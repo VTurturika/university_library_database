@@ -13,6 +13,7 @@ CREATE TABLE IF NOT EXISTS reader (
   phone VARCHAR(20),
   email VARCHAR(50),
   is_active bool NOT NULL DEFAULT true,
+  kind VARCHAR(50) NOT NULL,
   address_country VARCHAR(45),
   address_state VARCHAR(45),
   address_city VARCHAR(45),
@@ -20,6 +21,7 @@ CREATE TABLE IF NOT EXISTS reader (
   address_house VARCHAR(45),
   address_flat VARCHAR(45),
   address_zipcode VARCHAR(45)
+
 
 );
 
