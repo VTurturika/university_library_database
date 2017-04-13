@@ -272,16 +272,30 @@ function processReaderBookRelation(reader, count) {
     return new Promise( resolve => {
 
         const relation = {};
-        let specifiedReader;
+        let specifiedReader, random;
         console.log(`\nRelation #${count}`);
-        db.one(`SELECT * FROM ${reader.kind} WHERE reader_id=$(reader_id)`, reader)
+        db.one(`SELECT * FROM ${reader.kind} WHERE reader_id=$1`, reader.reader_id)
             .then( reader => {
                 specifiedReader = reader;
                 return getRandomBook();
             })
-            .then( random => { //todo here insert cheking available books count
-
+            .then( randomBookAndSection => {
+                random = randomBookAndSection;
                 console.log(`Reader ${reader.reader_id}, book ${random.book.id}, section ${random.section.id}`);
+                console.log("Checking if book available...");
+                return db.one("SELECT * FROM book_section WHERE book_id=$1 AND section_id=$2", [
+                    random.book.id,
+                    random.section.id
+                ])
+            })
+            .then( bookSection => {
+
+                if(bookSection.available_count == 0) {
+                    console.log("This book doesn't available. Relation rejected");
+                    resolve();
+                }
+                else console.log("Book available");
+
                 relation.reader_id = reader.reader_id;
                 relation.book_id = random.book.id;
                 relation.section_id = random.section.id;
@@ -311,9 +325,14 @@ function processReaderBookRelation(reader, count) {
                 }
                 else {
                     console.log("Relation rejected");
+                    console.log(`Readers from ${reader.kind} group can't take books from ${random.section.type}`);
                     resolve();
                 }
             })
+            .catch( err => {
+                console.log(err);
+                resolve();
+            });
     });
 }
 
