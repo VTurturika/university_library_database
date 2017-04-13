@@ -22,7 +22,6 @@ CREATE TABLE IF NOT EXISTS reader (
   address_flat VARCHAR(45),
   address_zipcode VARCHAR(45)
 
-
 );
 
 
@@ -155,6 +154,7 @@ CREATE TABLE IF NOT EXISTS book_section (
   book_id INT REFERENCES book (id) ON UPDATE CASCADE,
   section_id INT REFERENCES section (id) ON UPDATE CASCADE,
   book_count INT NOT NULL,
+  available_count INT NOT NULL,
   PRIMARY KEY (book_id, section_id)
 
 );
@@ -162,7 +162,7 @@ CREATE TABLE IF NOT EXISTS book_section (
 
 CREATE TABLE IF NOT EXISTS book_event (
 
-  reader_id INT REFERENCES reader (reader_id) ON UPDATE CASCADE,
+  reader_id INT NOT NULL,
   section_id INT REFERENCES section (id) ON UPDATE CASCADE,
   book_id INT REFERENCES book (id) ON UPDATE CASCADE,
   start_date DATE NOT NULL,

@@ -42,7 +42,7 @@ function main() {
                 db.many("SELECT * FROM section")
                     .then(rows => {
                         sections = rows;
-                        return db.many("SELECT * FROM book")
+                        return db.many("SELECT * FROM book");
                     })
                     .then(books => {
                         books.forEach( (book,i) => queryPromises.push(
@@ -54,27 +54,24 @@ function main() {
                     .catch(err => {
                         console.log(err)
                         pg.end();
-                    })
+                    });
 
                 break;
 
             case "book+section+reader":
 
-                /*
-                forEach(reader) => {
+                db.many("SELECt * FROM reader")
+                    .then(readers => {
 
-                    for i in range( getRandomInt(1,5) ) {
-
-                        book = getSomeBook() {
-                            return randId(minId, maxId)
-                        }
-
-                        section = getSomeSection(book)
-
-                    }
-
-                }
-                */
+                        readers.forEach( reader => {
+                            queryPromises.push( () => processReader(reader));
+                        })
+                        utils.runSerial(queryPromises)
+                            .then( () => {
+                                console.log(`All ${queryPromises.length} records processed`);
+                                pg.end();
+                            })
+                    })
 
                 break;
 
@@ -227,26 +224,285 @@ function createBookSectionRelation(book, section, count) {
         const relation = {
             book_id: book.id,
             section_id: section.id,
-            book_count: count
-        }
+            book_count: count,
+            available_count: count
+        };
 
         db.one("SELECT * FROM book_section WHERE book_id=$1 AND section_id=$2", [
             book.id,
             section.id
         ])
-        .then( () => resolve() )
-        .catch(err =>{
+            .then( () => resolve() )
+            .catch(err => {
 
-            db.one(createInsertTemplate(relation, "book_section"), relation)
-                .then( row => {
-                    resolve(row)
-                })
-                .catch( err => {
-                    console.log(err);
-                    resolve();
-                })
-        })
+                db.one(createInsertTemplate(relation, "book_section"), relation)
+                    .then( row => {
+                        resolve(row)
+                    })
+                    .catch( err => {
+                        console.log(err);
+                        resolve();
+                    })
+        });
     });
+}
+
+function processReader(reader) {
+
+    return new Promise( resolve => {
+
+        console.log(`Start processing reader ${reader.reader_id}...`);
+        let relationsPromises = [];
+        let relationsCount = utils.getRandomInt(1,5);
+        console.log(`Reader may has ${relationsCount} book events`);
+        for(let i=0; i<relationsCount; i++) {
+            relationsPromises.push( () => processReaderBookRelation(reader,i+1) )
+        }
+
+        utils.runSerial(relationsPromises)
+            .then( () => {
+                console.log(`Reader ${reader.reader_id} processed\n`);
+                resolve();
+            })
+    });
+}
+
+function processReaderBookRelation(reader, count) {
+
+    return new Promise( resolve => {
+
+        const relation = {};
+        let specifiedReader;
+        console.log(`\nRelation #${count}`);
+        db.one(`SELECT * FROM ${reader.kind} WHERE reader_id=$(reader_id)`, reader)
+            .then( reader => {
+                specifiedReader = reader;
+                return getRandomBook();
+            })
+            .then( random => { //todo here insert cheking available books count
+
+                console.log(`Reader ${reader.reader_id}, book ${random.book.id}, section ${random.section.id}`);
+                relation.reader_id = reader.reader_id;
+                relation.book_id = random.book.id;
+                relation.section_id = random.section.id;
+
+                let dateResult;
+                console.log("Determining dates for event...");
+                switch (random.section.type) {
+
+                    case "міжбібліотечний абонемент":
+                        dateResult = generateDatesForOverLibrarySubscription(specifiedReader, random.book);
+                        break;
+                    case "абонемент":
+                        dateResult = generateDatesForSubscription(specifiedReader, random.book);
+                        break;
+                    case "читальна зала":
+                        dateResult = generateDatesForReadingRooms(specifiedReader);
+                        break;
+                }
+
+                if(!dateResult.cansel) {
+                    delete dateResult.cansel;
+                    Object.keys(dateResult).forEach( key => relation[key] = dateResult[key] );
+                    console.log("Generated dates:");
+                    console.log(dateResult);
+                    createReaderBookSectionRealtion(relation)
+                        .then( () => resolve());
+                }
+                else {
+                    console.log("Relation rejected");
+                    resolve();
+                }
+            })
+    });
+}
+
+function getRandomBook() {
+
+    return new Promise( resolve => {
+        console.log("Fetching random book...");
+        let randomBook;
+        db.many("SELECT * FROM book")
+            .then( books => {
+                randomBook = utils.getRandomArrayItem(books);
+                return db.many("SELECT * FROM book_section WHERE book_id=$1", randomBook.id);
+            })
+            .then( sections => {
+                let randomSection = utils.getRandomArrayItem(sections);
+                return db.one("SELECT * FROM section WHERE id=$1", randomSection.section_id);
+            })
+            .then( section => {
+                console.log(`Fetched book ${randomBook.id} from section ${section.id}`);
+                resolve({
+                    book: randomBook,
+                    section: section
+                })
+            })
+            .catch(err => {
+                console.log(err);
+                resolve();
+            });
+    });
+}
+
+function createReaderBookSectionRealtion(relation) {
+
+    relation.event_state = ( relation.start_date == null && relation.end_date == null ) ? "замовлена" :
+                           ( relation.start_date != null && relation.end_date == null ) ? "на руках" : "повернена"
+    console.log("Checking relation...");
+    return new Promise( resolve => {
+        db.one("SELECT * FROM book_event WHERE reader_id=$(reader_id) " +
+               "AND book_id=$(book_id) AND section_id=$(section_id)", relation)
+               .then( row => {
+                   console.log(`Relation already exist`);
+                   resolve();
+               })
+               .catch( err => {
+                   console.log("Relation not exist. Creating...");
+                   db.one(createInsertTemplate(relation, "book_event"), relation)
+                        .then( dbRelation => {
+
+                            console.log("Relation created");
+
+                            if(relation.start_date != null && relation.end_date == null) {
+
+                                db.one("SELECT * FROM book_section WHERE book_id=$1 AND section_id=$2", [
+                                    relation.book_id,
+                                    relation.section_id
+                                ])
+                                .then( row => {
+                                    return db.any("UPDATE book_section SET available_count=available_count-1 " +
+                                                  "WHERE book_id=$1 AND section_id=$2", [
+                                                      relation.book_id,
+                                                      relation.section_id
+                                                  ])
+                                })
+                                .then( () => {
+                                    resolve();
+                                })
+                                .catch(err => {
+                                    console.log(err);
+                                    resolve();
+                                })
+
+                            }
+                            else {
+                                resolve();
+                            }
+                        })
+                        .catch( err => {
+                            console.log(err);
+                            resolve();
+                        });
+               });
+    });
+}
+
+function generateDatesForReadingRooms(reader) {
+
+    let date;
+    switch (reader.kind) {
+
+        case "student":
+        case "postgraduate":
+            date = utils.getRandomDate( new Date(reader.start_date),
+                                        reader.is_active ? new Date() :
+                                        new Date(reader.graduation_date));
+            break;
+        case "preparatory":
+            date = utils.getRandomDate( new Date(reader.start_studying),
+                                        reader.is_active ? new Date() :
+                                        new Date(reader.end_studying));
+            break;
+        case "certification_training":
+            date = utils.getRandomDate( new Date(reader.start_training),
+                                        reader.is_active ? new Date() :
+                                        new Date(reader.end_training));
+            break;
+        case "applicant":
+            date = utils.getRandomDate( new Date(reader.entry_year, 5, 1),
+                                        reader.is_active ? new Date() :
+                                        new Date(reader.entry_year, 5, 1));
+                break;
+        case "teacher":
+            date = utils.getRandomDate( new Date(2000, 0, 1), new Date() );
+            break;
+    }
+
+    return {
+        cansel: false,
+        start_date: date,
+        end_date: date
+    };
+}
+
+function generateDatesForSubscription(reader, book) {
+
+    let startDate, endDate;
+    if(reader.priority > 0) {
+
+        switch (reader.kind) {
+            case "student":
+            case "postgraduate":
+                startDate = utils.getRandomDate( new Date(reader.start_date),
+                                                 reader.is_active ? new Date() :
+                                                 new Date(reader.graduation_date));
+                endDate = new Date(startDate);
+                endDate.setDate( endDate.getDate() + utils.getRandomInt(book.days_keep_count-8, book.days_keep_count));
+                if(endDate > new Date(reader.graduation_date)) endDate = reader.graduation_date;
+                break;
+
+            case "teacher":
+                startDate = utils.getRandomDate( new Date(2000, 0, 1), new Date() );
+                endDate = new Date(startDate);
+                endDate.setDate( endDate.getDate() + utils.getRandomInt(book.days_keep_count-8, book.days_keep_count));
+                break;
+        }
+        if(endDate > new Date()) endDate = null;
+        return {
+            cansel: false,
+            start_date: startDate,
+            end_date: endDate.toISOString().slice(0, 10),
+        };
+    }
+    else return {cansel: true};
+}
+
+function generateDatesForOverLibrarySubscription(reader, book) {
+
+    let orderDate, startDate, endDate;
+    if(reader.priority > 0) {
+
+        switch (reader.kind) {
+            case "student":
+            case "postgraduate":
+                orderDate = utils.getRandomDate( new Date(reader.start_date),
+                                                 reader.is_active ? new Date() :
+                                                 new Date(reader.graduation_date));
+                startDate = new Date(orderDate);
+                startDate.setDate( startDate.getDate() + utils.getRandomInt(5,10));
+                if(startDate > new Date() ) startDate = null;
+                endDate = new Date(startDate);
+                endDate.setDate( endDate.getDate() + utils.getRandomInt(book.days_keep_count-8, book.days_keep_count));
+                if(endDate > new Date(reader.graduation_date)) endDate = reader.graduation_date;
+                break;
+
+            case "teacher":
+                orderDate = utils.getRandomDate( new Date(2000, 0, 1), new Date() );
+                startDate = new Date(orderDate);
+                endDate = new Date(startDate);
+                endDate.setDate( endDate.getDate() + utils.getRandomInt(book.days_keep_count-8, book.days_keep_count));
+                break;
+        }
+        if(endDate > new Date()) endDate = null;
+        return {
+            cansel: false,
+            start_date: startDate ? startDate.toISOString().slice(0, 10) : startDate,
+            end_date: endDate ? endDate.toISOString().slice(0, 10) : endDate,
+            order_date: orderDate
+        };
+    }
+    else return {cansel: true};
 }
 
 main();
