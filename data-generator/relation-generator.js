@@ -320,8 +320,11 @@ function processReaderBookRelation(reader, count) {
                     Object.keys(dateResult).forEach( key => relation[key] = dateResult[key] );
                     console.log("Generated dates:");
                     console.log(dateResult);
-                    createReaderBookSectionRealtion(relation)
-                        .then( () => resolve());
+                    let violation = generateViolation(random.book, random.section, dateResult);
+                    Object.keys(violation).forEach( key => relation[key] = violation[key] );
+                    console.log("Generated violations:");
+                    console.log(violation);
+                    createReaderBookSectionRealtion(relation).then( () => resolve());
                 }
                 else {
                     console.log("Relation rejected");
@@ -481,7 +484,7 @@ function generateDatesForSubscription(reader, book) {
         return {
             cansel: false,
             start_date: startDate,
-            end_date: endDate.toISOString().slice(0, 10),
+            end_date: endDate ? endDate.toISOString().slice(0, 10) : endDate
         };
     }
     else return {cansel: true};
@@ -522,6 +525,39 @@ function generateDatesForOverLibrarySubscription(reader, book) {
         };
     }
     else return {cansel: true};
+}
+
+function generateViolation(book, section, dateResult) {
+
+    if(utils.getRandomInt(1,100) > 30) return {};
+
+    const possibleViolation = [{
+            violation: "не вчасно повернена",
+            punishment: ["штраф"],
+        },{
+            violation: "загублена",
+            punishment: ["заміна", "відшкодування"],
+        },{
+            violation: "зіпсована",
+            punishment: ["заміна", "відшкодування"],
+        }
+    ];
+
+    let randomViolation = utils.getRandomArrayItem(possibleViolation);
+    let newEndDate;
+    if( section.type != "читальна зала" && randomViolation == "не вчасно повернена" && dateResult.start_date ) {
+        newEndDate = new Date(dateResult.start_date);
+        newEndDate.setDate( newEndDate.getDate() + book.days_keep_count + utils.getRandomInt(10,50) );
+        newEndDate = newEndDate.toISOString().slice(0, 10);
+    }
+    let randomPunishment = utils.getRandomArrayItem(randomViolation.punishment);
+
+    return {
+        violation: randomViolation.violation,
+        punishment: randomPunishment,
+        punishment_cost: randomPunishment != "заміна" ? utils.getRandomInt(100, 1000) : null,
+        end_date: newEndDate ? newEndDate : dateResult.end_date
+    }
 }
 
 main();
