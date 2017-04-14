@@ -171,6 +171,7 @@ CREATE TABLE IF NOT EXISTS book_event (
   event_state VARCHAR(45) NOT NULL,
   violation VARCHAR(45),
   punishment VARCHAR(45),
+  punishment_cost NUMERIC(8,2),
   sanctions_period SMALLINT,
   PRIMARY KEY (reader_id, section_id, book_id)
 
