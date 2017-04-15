@@ -39,7 +39,7 @@ module.exports = {
         let file = fs.createWriteStream(`sql/${params.table}.sql`);
         console.log(`Writing insert script to sql/${params.table}.sql`);
         params.records.forEach(record => file.write(createInsertStatement(params.table, record) + "\n"));
-        console.log(`Wrote ${params.records.length} records to sql/${params.table}.sql`);
+        console.log(`Wrote ${params.records.length} records to sql/${params.table}.sql\n`);
     },
 
     writeJsonToFile: (params) => {
@@ -79,10 +79,12 @@ module.exports = {
 
     readOpenLibraryJsons: () => {
         let result = [];
+        console.log("Reading openlibrary jsons...");
         fs.readdirSync("openlibrary").forEach(file => {
             let json = require(`./openlibrary/${file}`);
             result.push(json);
         })
+        console.log("Done");
         return result;
     },
 

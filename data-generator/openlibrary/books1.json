@@ -1,221 +1,1201 @@
 [
   {
-    "openlibrary_id": "/books/OL12824692M",
-    "title": "Profitipps für Anwender - Access 2000. Tipps für die Praxis.",
+    "openlibrary_id": "/books/OL12767813M",
+    "title": "Proceedings of the 8th Conference on Optics of Excitons in Confined Systems (OECS-8). Lecce, Italy, ",
     "city": null,
-    "publisher": "Econ Tb.",
-    "year": 2000,
-    "subject": null,
+    "publisher": "Wiley-VCH",
+    "year": 2004,
+    "subject": "States of matter",
     "genre": null,
     "periodic_release": null,
-    "page_count": 0,
-    "lang": null,
-    "days_keep_count": 10,
-    "adding_date": "2005-04-09",
-    "count": 300,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL4067084A",
-        "last_name": "Beitz",
-        "first_name": "Michael"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL12824693M",
-    "title": "Profitipps für Anwender - Outlook 2000. Tipps für die Praxis.",
-    "city": null,
-    "publisher": "Econ Tb.",
-    "year": 2000,
-    "subject": null,
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 0,
-    "lang": null,
-    "days_keep_count": 100,
-    "adding_date": "2014-09-13",
-    "count": 10,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL4067085A",
-        "last_name": "Schneider",
-        "first_name": "Kai"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL12824694M",
-    "title": "Profitipps für Anwender - Frontpage 2000. Tipps für die Praxis.",
-    "city": null,
-    "publisher": "Econ Tb.",
-    "year": 2000,
-    "subject": null,
-    "genre": null,
-    "periodic_release": 1,
-    "page_count": 0,
-    "lang": null,
-    "days_keep_count": 100,
-    "adding_date": "2009-12-11",
-    "count": 50,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL3171958A",
-        "last_name": "Kommer",
-        "first_name": "Isolde"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL12824695M",
-    "title": "Profitipps für Anwender - Windows 2000 Professional. Tipps für die Praxis.",
-    "city": null,
-    "publisher": "Econ Tb.",
-    "year": 2000,
-    "subject": null,
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 0,
-    "lang": null,
-    "days_keep_count": 30,
-    "adding_date": "2010-02-16",
-    "count": 500,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL4067086A",
-        "last_name": "Kiel",
-        "first_name": "Oliver"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL12824696M",
-    "title": "Flight Simulator 98. Das große Bordbuch.",
-    "city": null,
-    "publisher": "Econ Tb.",
-    "year": 1997,
-    "subject": null,
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 0,
-    "lang": "ger",
-    "days_keep_count": 200,
-    "adding_date": "2016-09-02",
-    "count": 10,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL2753372A",
-        "last_name": "Ellis",
-        "first_name": "Michael"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL12824697M",
-    "title": "Der Geschichtenmacher.",
-    "city": null,
-    "publisher": "List Tb.",
-    "year": 2000,
-    "subject": null,
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 0,
-    "lang": null,
-    "days_keep_count": 100,
-    "adding_date": "2012-03-23",
+    "page_count": 250,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2012-03-09",
     "count": 5,
     "authors": [
       {
-        "openlibrary_id": "/authors/OL3182969A",
-        "last_name": "Johansson",
-        "first_name": "Kjell"
+        "openlibrary_id": "/authors/OL4037450A",
+        "last_name": "Cingolani",
+        "first_name": "Roberto"
       }
     ]
   },
   {
-    "openlibrary_id": "/books/OL12824698M",
-    "title": "Wie der Tod so spielt.",
+    "openlibrary_id": "/books/OL12767814M",
+    "title": "Vibrational Spectroscopy in Life Science",
     "city": null,
-    "publisher": "List Tb.",
-    "year": 2000,
-    "subject": null,
+    "publisher": "Wiley-VCH",
+    "year": 2007,
+    "subject": "Biochemistry",
     "genre": null,
     "periodic_release": null,
-    "page_count": 0,
-    "lang": null,
-    "days_keep_count": 200,
-    "adding_date": "2001-11-01",
-    "count": 300,
+    "page_count": 320,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2007-01-19",
+    "count": 500,
     "authors": [
       {
-        "openlibrary_id": "/authors/OL4064085A",
-        "last_name": "Buscha",
-        "first_name": "Angelika"
+        "openlibrary_id": "/authors/OL17320A",
+        "last_name": "Siebert",
+        "first_name": "Friedrich"
+      },
+      {
+        "openlibrary_id": "/authors/OL4037451A",
+        "last_name": "Hildebrandt",
+        "first_name": "Peter"
       }
     ]
   },
   {
-    "openlibrary_id": "/books/OL12824699M",
-    "title": "Sommer der Erinnerung.",
+    "openlibrary_id": "/books/OL12767815M",
+    "title": "Infrarotthermographie",
     "city": null,
-    "publisher": "List Tb.",
-    "year": 2000,
-    "subject": null,
+    "publisher": "Wiley-VCH",
+    "year": 2004,
+    "subject": "Civil Engineering, Surveying & Building",
     "genre": null,
-    "periodic_release": 3,
-    "page_count": 310,
+    "periodic_release": null,
+    "page_count": 354,
     "lang": "ger",
     "days_keep_count": 30,
-    "adding_date": "2013-05-13",
+    "adding_date": "2008-12-16",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL499181A",
+        "last_name": "Schuster",
+        "first_name": "Norbert"
+      },
+      {
+        "openlibrary_id": "/authors/OL4037452A",
+        "last_name": "G. Kolobrodov",
+        "first_name": "Valentin"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12767816M",
+    "title": "Proceedings of the 11th Conference on II-VI Compounds, Niagara Falls, New York, 22-26 September, 200",
+    "city": null,
+    "publisher": "Wiley-VCH",
+    "year": 2004,
+    "subject": "Semi-conductors & super-conductors",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 780,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2005-12-30",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1297460A",
+        "last_name": "Nobuyoshi",
+        "first_name": "Araki,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12767817M",
+    "title": "Proceedings of the 3rd Conference on Physics of Light-Matter Coupling in Nanostructures Acireale, It",
+    "city": null,
+    "publisher": "Wiley-VCH",
+    "year": 2004,
+    "subject": "Optics (light)",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 308,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2002-08-18",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1227891A",
+        "last_name": "on Small Hydro Stations (1983 New Delhi, India)",
+        "first_name": "Seminar"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12767818M",
+    "title": "Amorphous and Microcrystalline Silicon Materials Science and Devices (Physica Status Solidi: Confere",
+    "city": null,
+    "publisher": "Wiley-VCH",
+    "year": 2004,
+    "subject": "Electricity, magnetism & electromagnetism",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 240,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2013-07-14",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4037453A",
+        "last_name": "Nickel",
+        "first_name": "N."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12767819M",
+    "title": "Solar Thermal Power Plants",
+    "city": null,
+    "publisher": "Wiley-VCH",
+    "year": 2007,
+    "subject": "Energy conversion & storage",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 250,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2005-10-23",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3169455A",
+        "last_name": "Vogel",
+        "first_name": "Werner"
+      },
+      {
+        "openlibrary_id": "/authors/OL4037454A",
+        "last_name": "Kalb",
+        "first_name": "Henry"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1276781M",
+    "title": "North Carolina yeoman",
+    "city": "Athens",
+    "publisher": "University of Georgia Press",
+    "year": 1996,
+    "subject": "Thomasson, Basil Armstrong, 1829-1862 -- Diaries.",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 355,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2016-06-01",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL658581A",
+        "last_name": "Armstrong Thomasson",
+        "first_name": "Basil"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12767820M",
+    "title": "Physik Auf Der Spur",
+    "city": null,
+    "publisher": "Wiley-VCH",
+    "year": 2005,
+    "subject": "PHYSICS",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 316,
+    "lang": "ger",
+    "days_keep_count": 50,
+    "adding_date": "2000-11-16",
     "count": 100,
     "authors": [
       {
-        "openlibrary_id": "/authors/OL3476910A",
-        "last_name": "Morrison",
-        "first_name": "Crysse"
+        "openlibrary_id": "/authors/OL4037455A",
+        "last_name": "Voss-De Haan",
+        "first_name": "Patrick"
       }
     ]
   },
   {
-    "openlibrary_id": "/books/OL1282469M",
-    "title": "Modeli i metody upravlenii͡a︡ zapasami",
-    "city": "Moskva",
-    "publisher": "\"Nauka\"",
-    "year": 1991,
-    "subject": "Inventory control.",
+    "openlibrary_id": "/books/OL12767821M",
+    "title": "Quantum Kinetics Theory",
+    "city": null,
+    "publisher": "John Wiley & Sons",
+    "year": 2005,
+    "subject": "Solid State Physics",
     "genre": null,
     "periodic_release": null,
-    "page_count": 188,
-    "lang": "rus",
-    "days_keep_count": 10,
-    "adding_date": "2007-05-20",
-    "count": 50,
+    "page_count": 550,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2011-11-12",
+    "count": 500,
     "authors": [
       {
-        "openlibrary_id": "/authors/OL660790A",
-        "last_name": "A. Lotot͡s︡kiĭ",
-        "first_name": "V."
+        "openlibrary_id": "/authors/OL2680318A",
+        "last_name": "T. Vasko",
+        "first_name": "Fedir"
+      },
+      {
+        "openlibrary_id": "/authors/OL2680319A",
+        "last_name": "E. Raichev",
+        "first_name": "Oleg"
       }
     ]
   },
   {
-    "openlibrary_id": "/books/OL128246M",
-    "title": "40 tahun RS Fatmawati, 15 April 1961-15 April 2001.",
-    "city": "Jakarta",
-    "publisher": "Pusat Informasi RS Fatmawati bekerjasama dengan Visindo Alam Semesta",
-    "year": 2001,
-    "subject": null,
+    "openlibrary_id": "/books/OL12767822M",
+    "title": "Relativit?tstheorie - Eine Umfassende Einf?hrung in Die Spezielle Und Allgemeine Relativit?tstheorie",
+    "city": null,
+    "publisher": "Wiley-VCH",
+    "year": 2007,
+    "subject": "PHYSICS",
     "genre": null,
     "periodic_release": null,
-    "page_count": 186,
-    "lang": "ind",
+    "page_count": 600,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2002-04-05",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4037456A",
+        "last_name": "Matschull",
+        "first_name": "H-J"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12767823M",
+    "title": "Physik Kompaktleitfaden",
+    "city": null,
+    "publisher": "Wiley-VCH",
+    "year": 2005,
+    "subject": "Biology, Life Sciences",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 328,
+    "lang": "ger",
+    "days_keep_count": 50,
+    "adding_date": "2011-12-25",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1574458A",
+        "last_name": "Grossmann",
+        "first_name": "Alexander"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12767824M",
+    "title": "Berechnung Elektrischer Maschinen",
+    "city": null,
+    "publisher": "Wiley-VCH",
+    "year": 2007,
+    "subject": "Electronics & Communications Engineering",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 686,
+    "lang": "ger",
     "days_keep_count": 30,
-    "adding_date": "2013-01-27",
+    "adding_date": "2003-05-17",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3294582A",
+        "last_name": "Muller",
+        "first_name": "Germar"
+      },
+      {
+        "openlibrary_id": "/authors/OL3294583A",
+        "last_name": "Ponick",
+        "first_name": "Bernd"
+      },
+      {
+        "openlibrary_id": "/authors/OL1177273A",
+        "last_name": "Vogt",
+        "first_name": "Karl"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12767825M",
+    "title": "Einfuhrung in Die Kern- Und Elementarteilchenphysik",
+    "city": null,
+    "publisher": "Wiley-VCH",
+    "year": 2005,
+    "subject": "PHYSICS",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 496,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2012-08-23",
     "count": 50,
     "authors": [
       {
-        "openlibrary_id": "/authors/OL13062A",
-        "last_name": "G. Perera",
-        "first_name": "Theodore"
+        "openlibrary_id": "/authors/OL4037457A",
+        "last_name": "Machner",
+        "first_name": "Hartmut"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12767826M",
+    "title": "Nanometer Semiconductor Devices",
+    "city": null,
+    "publisher": "Vch Verlagsgesellschaft Mbh",
+    "year": 2005,
+    "subject": "Nanotechnology",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 250,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2009-11-07",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL229977A",
+        "last_name": "Amann",
+        "first_name": "Markus-Christian"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12767827M",
+    "title": "Polar Oxides",
+    "city": null,
+    "publisher": "Wiley-VCH",
+    "year": 2005,
+    "subject": "Chemistry of non-metals & their compounds",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 391,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2010-10-22",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL114202A",
+        "last_name": "R. Gleig",
+        "first_name": "G."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12767828M",
+    "title": "Introduction to Heavy Ion Collisions",
+    "city": null,
+    "publisher": "John Wiley & Sons",
+    "year": 2006,
+    "subject": "Nuclear Physics",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 350,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2009-06-18",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4037458A",
+        "last_name": "P. Csernai",
+        "first_name": "Laszlo"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12767829M",
+    "title": "Biophysik",
+    "city": null,
+    "publisher": "Wiley-VCH",
+    "year": 2009,
+    "subject": "Biology, Life Sciences",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 850,
+    "lang": "ger",
+    "days_keep_count": 30,
+    "adding_date": "2008-05-11",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4037459A",
+        "last_name": "Sackmann",
+        "first_name": "E."
+      },
+      {
+        "openlibrary_id": "/authors/OL2325466A",
+        "last_name": "Merkel",
+        "first_name": "Rudolf"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1276782M",
+    "title": "A chocolate soldier",
+    "city": "Evanston, Ill",
+    "publisher": "TriQuarterly Books",
+    "year": 1995,
+    "subject": "African American universities and colleges -- Fiction.",
+    "genre": "Fiction.",
+    "periodic_release": null,
+    "page_count": 278,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2015-08-06",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL388567A",
+        "last_name": "Colter",
+        "first_name": "Cyrus"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12767830M",
+    "title": "Physics of Molecules",
+    "city": null,
+    "publisher": "Wiley-VCH",
+    "year": null,
+    "subject": "Chemistry",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 461,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2006-04-26",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3307278A",
+        "last_name": "Demtroder",
+        "first_name": "Wolfgang"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12767831M",
+    "title": "Organische Molekulare Festkorper",
+    "city": null,
+    "publisher": "Wiley-VCH",
+    "year": 2005,
+    "subject": "Electronics & Communications Engineering",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 412,
+    "lang": "ger",
+    "days_keep_count": 50,
+    "adding_date": "2014-02-17",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3177208A",
+        "last_name": "Schwoerer",
+        "first_name": "Markus"
+      },
+      {
+        "openlibrary_id": "/authors/OL4037461A",
+        "last_name": "Wolf",
+        "first_name": "Hans-Christoph"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12767832M",
+    "title": "Physical Properties of Crystals",
+    "city": null,
+    "publisher": "Wiley-VCH",
+    "year": 2007,
+    "subject": "Science",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 453,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2011-06-16",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4037462A",
+        "last_name": "Haussühl",
+        "first_name": "Siegfried"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12767833M",
+    "title": "Solar Electric Power Systems",
+    "city": null,
+    "publisher": "Wiley-VCH",
+    "year": 2007,
+    "subject": "Energy conversion & storage",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 300,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2001-11-01",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4037463A",
+        "last_name": "Luther",
+        "first_name": "Joachim"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12767834M",
+    "title": "Quantum Optics for Quantum Information Processing",
+    "city": null,
+    "publisher": "John Wiley & Sons",
+    "year": 2006,
+    "subject": "Communications engineering / telecommunications",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 400,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2007-05-04",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4037464A",
+        "last_name": "Mataloni",
+        "first_name": "Paolo"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12767835M",
+    "title": "Proceedings of the Conference on Photo-Responsive Materials",
+    "city": null,
+    "publisher": "Wiley-VCH",
+    "year": 2004,
+    "subject": "PHYSICS",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 350,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2014-09-29",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1863773A",
+        "last_name": "Leitch",
+        "first_name": "Alexander"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12767836M",
+    "title": "Grundlagen Der Theoretischen Physik",
+    "city": null,
+    "publisher": "Wiley-VCH",
+    "year": 2005,
+    "subject": "Mathematics",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 2333,
+    "lang": "ger",
+    "days_keep_count": 100,
+    "adding_date": "2014-09-02",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1696874A",
+        "last_name": "Schmutzer",
+        "first_name": "Ernst"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12767837M",
+    "title": "Einstein",
+    "city": null,
+    "publisher": "Wiley-VCH",
+    "year": 2005,
+    "subject": "Biography & Autobiography",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 735,
+    "lang": "ger",
+    "days_keep_count": 100,
+    "adding_date": "2009-07-09",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL449424A",
+        "last_name": "Brian",
+        "first_name": "Denis"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12767838M",
+    "title": "ICNAAM - International Conference of Numerical Analysis and Applied Mathematics 2004",
+    "city": null,
+    "publisher": "John Wiley & Sons",
+    "year": 2005,
+    "subject": "Applied mathematics",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 540,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2013-03-12",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL145734A",
+        "last_name": "Yak Keur",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12767839M",
+    "title": "PSS C (IWN 2004)",
+    "city": null,
+    "publisher": "John Wiley & Sons",
+    "year": 2005,
+    "subject": "Electricity, magnetism & electromagnetism",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 1020,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2010-02-07",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1087654A",
+        "last_name": "Ausschuss für Oberschlesien.",
+        "first_name": "Deutscher"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1276783M",
+    "title": "A certain Finkelmeyer",
+    "city": "Evanston, Ill",
+    "publisher": "Northwestern University Press",
+    "year": 1995,
+    "subject": "Jewish men -- Fiction.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 362,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2003-06-14",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL297057A",
+        "last_name": "Roziner",
+        "first_name": "Feliks"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12767840M",
+    "title": "RF Superconductivity",
+    "city": null,
+    "publisher": "Wiley-VCH",
+    "year": 2008,
+    "subject": "Electricity, magnetism & electromagnetism",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 550,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2006-05-08",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4037465A",
+        "last_name": "Padamsee",
+        "first_name": "H."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12767841M",
+    "title": "Albert Einstein",
+    "city": null,
+    "publisher": "Wiley-VCH",
+    "year": 2005,
+    "subject": "History",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 255,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2014-05-19",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2679917A",
+        "last_name": "Renn",
+        "first_name": "Jürgen"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12767842M",
+    "title": "Proceedings of the Second Seeheim Conference on Magnetism (SCM2004)",
+    "city": null,
+    "publisher": "John Wiley & Sons",
+    "year": 2005,
+    "subject": "Electricity, magnetism & electromagnetism",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 700,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2016-07-23",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL135838A",
+        "last_name": "State Ports Authority.",
+        "first_name": "Virginia."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12767843M",
+    "title": "Physiker Zwischen Autonomie Und Anpassung",
+    "city": null,
+    "publisher": "Wiley-VCH",
+    "year": 2007,
+    "subject": "History of science",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 688,
+    "lang": "ger",
+    "days_keep_count": 50,
+    "adding_date": "2012-07-06",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1182779A",
+        "last_name": "Mkhan-po.",
+        "first_name": "Zla-baʼi-ʼod-zer"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12767844M",
+    "title": "Proceedings of the Conference on Phonon Scattering in Condensed Matter (Phonons 2004): Physica Statu",
+    "city": null,
+    "publisher": "Wiley-VCH",
+    "year": 2006,
+    "subject": "PHYSICS",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 650,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2001-06-18",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1204523A",
+        "last_name": "Jastrzębska-Mamełka",
+        "first_name": "Maria"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12767845M",
+    "title": "Auf Den Schultern Von Riesen Und Zwergen",
+    "city": null,
+    "publisher": "Wiley-VCH",
+    "year": 2006,
+    "subject": "PHYSICS",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 376,
+    "lang": "ger",
+    "days_keep_count": 200,
+    "adding_date": "2012-03-02",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2679917A",
+        "last_name": "Renn",
+        "first_name": "Jürgen"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12767846M",
+    "title": "Einstein's Berlin",
+    "city": null,
+    "publisher": "Wiley-VCH",
+    "year": 2006,
+    "subject": "Biography: general",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 232,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2015-03-11",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2764361A",
+        "last_name": "Hoffmann",
+        "first_name": "D."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12767847M",
+    "title": "Special Relativity and How it Works",
+    "city": null,
+    "publisher": "Wiley-VCH",
+    "year": 2008,
+    "subject": "Relativity physics",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 670,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2009-03-02",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1521014A",
+        "last_name": "Fayngold",
+        "first_name": "Moses"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12767848M",
+    "title": "Albert Einstein - Akademie-Vortrage",
+    "city": null,
+    "publisher": "Wiley-VCH",
+    "year": 2005,
+    "subject": "PHYSICS",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 448,
+    "lang": "ger",
+    "days_keep_count": 30,
+    "adding_date": "2006-12-23",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1082381A",
+        "last_name": "Simon",
+        "first_name": "Dieter"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12767849M",
+    "title": "Electron and Positron Scattering",
+    "city": null,
+    "publisher": "John Wiley & Sons Inc",
+    "year": 2007,
+    "subject": "Particle & high-energy physics",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 330,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2001-12-25",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3330255A",
+        "last_name": "T. Whelan",
+        "first_name": "Colm"
+      },
+      {
+        "openlibrary_id": "/authors/OL4037466A",
+        "last_name": "R. J. Walters",
+        "first_name": "H."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1276784M",
+    "title": "The invasion of planet Wampetter",
+    "city": "Los Angeles",
+    "publisher": "Perspective Pub.",
+    "year": 1995,
+    "subject": "Science fiction.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 133,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2000-03-21",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL229932A",
+        "last_name": "H. Pillsbury",
+        "first_name": "Samuel"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12767850M",
+    "title": "Die Welt Hinter Den Dingen",
+    "city": null,
+    "publisher": "Wiley-VCH",
+    "year": 2005,
+    "subject": "PHYSICS",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 134,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2005-11-15",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4037467A",
+        "last_name": "Wagner",
+        "first_name": "H-F."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12767851M",
+    "title": "Maschinen Mit Bewusstsein",
+    "city": null,
+    "publisher": "Wiley-VCH",
+    "year": 2006,
+    "subject": "Electronics & Communications Engineering",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 331,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2012-04-14",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4037468A",
+        "last_name": "Vowinkel",
+        "first_name": "B."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12767852M",
+    "title": "Theoretische Physik",
+    "city": null,
+    "publisher": "Wiley-VCH",
+    "year": 2006,
+    "subject": "Classical mechanics",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 381,
+    "lang": "ger",
+    "days_keep_count": 200,
+    "adding_date": "2009-08-05",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4037469A",
+        "last_name": "Reineker",
+        "first_name": "Peter"
+      },
+      {
+        "openlibrary_id": "/authors/OL4037470A",
+        "last_name": "Mercedes Schulz",
+        "first_name": "Beatrix"
+      },
+      {
+        "openlibrary_id": "/authors/OL1380543A",
+        "last_name": "Schulz",
+        "first_name": "Michael"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12767853M",
+    "title": "Laser, Licht Und Leben",
+    "city": null,
+    "publisher": "Wiley-VCH",
+    "year": 2006,
+    "subject": "Biology, Life Sciences",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 217,
+    "lang": "ger",
+    "days_keep_count": 50,
+    "adding_date": "2009-03-15",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3302898A",
+        "last_name": "Popp",
+        "first_name": "Jurgen"
+      },
+      {
+        "openlibrary_id": "/authors/OL4037471A",
+        "last_name": "Liedtke",
+        "first_name": "Susanne"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12767854M",
+    "title": "Theoretische Physik III",
+    "city": null,
+    "publisher": "Wiley-VCH",
+    "year": 2007,
+    "subject": "PHYSICS",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 537,
+    "lang": "ger",
+    "days_keep_count": 50,
+    "adding_date": "2014-04-09",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4037469A",
+        "last_name": "Reineker",
+        "first_name": "Peter"
+      },
+      {
+        "openlibrary_id": "/authors/OL4037470A",
+        "last_name": "Mercedes Schulz",
+        "first_name": "Beatrix"
+      },
+      {
+        "openlibrary_id": "/authors/OL1380543A",
+        "last_name": "Schulz",
+        "first_name": "Michael"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12767855M",
+    "title": "Theoretische Physik",
+    "city": null,
+    "publisher": "Wiley-VCH",
+    "year": 2006,
+    "subject": "PHYSICS",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 438,
+    "lang": "ger",
+    "days_keep_count": 10,
+    "adding_date": "2009-04-18",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4037469A",
+        "last_name": "Reineker",
+        "first_name": "Peter"
+      },
+      {
+        "openlibrary_id": "/authors/OL4037470A",
+        "last_name": "Mercedes Schulz",
+        "first_name": "Beatrix"
+      },
+      {
+        "openlibrary_id": "/authors/OL1380543A",
+        "last_name": "Schulz",
+        "first_name": "Michael"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12767856M",
+    "title": "Theoretische Physik IV",
+    "city": null,
+    "publisher": "Wiley-VCH",
+    "year": 2008,
+    "subject": "Mechanical Engineering & Materials",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 320,
+    "lang": "ger",
+    "days_keep_count": 30,
+    "adding_date": "2001-09-26",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4037469A",
+        "last_name": "Reineker",
+        "first_name": "Peter"
+      },
+      {
+        "openlibrary_id": "/authors/OL4037470A",
+        "last_name": "Mercedes Schulz",
+        "first_name": "Beatrix"
+      },
+      {
+        "openlibrary_id": "/authors/OL1380543A",
+        "last_name": "Schulz",
+        "first_name": "Michael"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12767857M",
+    "title": "Theoretische Physik V",
+    "city": null,
+    "publisher": "Wiley-VCH",
+    "year": 2008,
+    "subject": "Mechanical Engineering & Materials",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 320,
+    "lang": "ger",
+    "days_keep_count": 10,
+    "adding_date": "2005-10-01",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4037469A",
+        "last_name": "Reineker",
+        "first_name": "Peter"
+      },
+      {
+        "openlibrary_id": "/authors/OL4037470A",
+        "last_name": "Mercedes Schulz",
+        "first_name": "Beatrix"
+      },
+      {
+        "openlibrary_id": "/authors/OL1380543A",
+        "last_name": "Schulz",
+        "first_name": "Michael"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12767858M",
+    "title": "Icnaam",
+    "city": null,
+    "publisher": "Wiley-VCH",
+    "year": 2005,
+    "subject": "Numerical analysis",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 950,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2006-11-25",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1255955A",
+        "last_name": "Katami",
+        "first_name": "Ueno,"
       }
     ]
   }

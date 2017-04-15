@@ -11,7 +11,6 @@ if(!utils.hasArguments() || utils.hasArguments() && !utils.checkReaderGeneratorA
 else {
 
     if(args.table == "section") {
-        console.log(data.section);
         utils.writeSqlToFile({
             table: "section",
             records: data.section

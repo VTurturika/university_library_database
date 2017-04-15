@@ -67,7 +67,7 @@ function processBook(book) {
             let data = JSON.parse(body);
             let processedBook = {
                 openlibrary_id: book,
-                title: utils.cutLongStr(data.title),
+                title: data.title ? utils.cutLongStr(data.title) : "",
                 city: data.publish_places ? data.publish_places[0] : null,
                 publisher: data.publishers ? data.publishers[0] : null,
                 year: data.publish_date ? +data.publish_date.slice(-4) : null,
