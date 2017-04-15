@@ -1,0 +1,4402 @@
+[
+  {
+    "openlibrary_id": "/books/OL13787208M",
+    "title": "The glaciers of the Alps...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1967,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2010-08-22",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL161614A",
+        "last_name": "John",
+        "first_name": "Tyndall,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787209M",
+    "title": "The forms of water in clouds and rivers, ice and glaciers",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2003-06-09",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL161614A",
+        "last_name": "John",
+        "first_name": "Tyndall,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1378720M",
+    "title": "Qārī asās tanqīd",
+    "city": "ʻAlīgaṛh",
+    "publisher": "Ejūkeshnal Buk Hāʼūs",
+    "year": 1992,
+    "subject": "Urdu literature -- History and criticism",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 70,
+    "lang": "urd",
+    "days_keep_count": 50,
+    "adding_date": "2010-05-26",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3141A",
+        "last_name": "Chand Narang",
+        "first_name": "Gopi"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787210M",
+    "title": "Faraday as a discoverer",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1972,
+    "subject": "Faraday, Michael, -- 1791-1867.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2002-02-02",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL161614A",
+        "last_name": "John",
+        "first_name": "Tyndall,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787211M",
+    "title": "Essays on the use and limit of the imagination in science",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1870,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2003-06-20",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL161614A",
+        "last_name": "John",
+        "first_name": "Tyndall,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787212M",
+    "title": "Essays on the floating-matter of the air in relation to putrefaction and infection",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2013-06-29",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL161614A",
+        "last_name": "John",
+        "first_name": "Tyndall,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787213M",
+    "title": "Allgemeine Pflanzenkunde...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1975,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "ger",
+    "days_keep_count": 100,
+    "adding_date": "2005-01-15",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389503A",
+        "last_name": "Benedict Reichenbach",
+        "first_name": "Anton"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787214M",
+    "title": "Philosophical conversations...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1971,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 15,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2001-07-09",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389504A",
+        "last_name": "l. Regnault",
+        "first_name": "Noe"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787215M",
+    "title": "L' origine ancienne de la physique nouvelle...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1970,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 15,
+    "lang": "fre",
+    "days_keep_count": 200,
+    "adding_date": "2011-01-31",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389505A",
+        "last_name": "l. Regnault",
+        "first_name": "Noe"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787216M",
+    "title": "Les entretiens physiques d'Ariste et d'Eudoxe...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1971,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 29,
+    "lang": "fre",
+    "days_keep_count": 100,
+    "adding_date": "2002-02-04",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389506A",
+        "last_name": "l. Regnault",
+        "first_name": "Noe"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787217M",
+    "title": "Osservazioni di Francesco Redi... intorno agli animali viventi che si trovano negli animali viventi",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1971,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "ita",
+    "days_keep_count": 100,
+    "adding_date": "2004-11-17",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389507A",
+        "last_name": "Redi",
+        "first_name": "Francesco"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787218M",
+    "title": "Experimenta circa generationem insectorum...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1971,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2014-04-01",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389507A",
+        "last_name": "Redi",
+        "first_name": "Francesco"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787219M",
+    "title": "Contributions to molecular physics in the domain of radiant heat...",
+    "city": "New York",
+    "publisher": "ReadexMicroprint",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2014-11-20",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL161614A",
+        "last_name": "John",
+        "first_name": "Tyndall,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1378721M",
+    "title": "Qut̤b Mushtarī, 1018 H.",
+    "city": "Naʼī Dihlī",
+    "publisher": "Taraqqī-yi Urdū Biyūro",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 234,
+    "lang": "urd",
+    "days_keep_count": 50,
+    "adding_date": "2010-01-24",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3646A",
+        "last_name": "Vajhī",
+        "first_name": "Vajhī"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787220M",
+    "title": "Elements of chemistry...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2012-08-20",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2884868A",
+        "last_name": "Turner",
+        "first_name": "Edward"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787221M",
+    "title": "Memoire instructif sur la maniere de rassembler, de preparer, de conserver, et d'envoyer les diverse",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "fre",
+    "days_keep_count": 100,
+    "adding_date": "2010-08-14",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL6768590A",
+        "last_name": "Turgot",
+        "first_name": "Étienne-François"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787222M",
+    "title": "An essay on the probability of sensation in vegetables...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2008-06-28",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2512548A",
+        "last_name": "Perchard Tupper",
+        "first_name": "James"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787223M",
+    "title": "Geschichte der elementar-mathematik in systematischer Darstellung",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1971,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 10,
+    "lang": "ger",
+    "days_keep_count": 50,
+    "adding_date": "2015-02-04",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2428768A",
+        "last_name": "Tropfke",
+        "first_name": "Johannes"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787224M",
+    "title": "Lettere...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1971,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "ita",
+    "days_keep_count": 100,
+    "adding_date": "2002-02-14",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389507A",
+        "last_name": "Redi",
+        "first_name": "Francesco"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787225M",
+    "title": "Esperienze intorno alla generazione degl' insetti",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2012-04-03",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389507A",
+        "last_name": "Redi",
+        "first_name": "Francesco"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787226M",
+    "title": "Osservazioni intorno alle vipere...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1971,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "ita",
+    "days_keep_count": 200,
+    "adding_date": "2006-07-05",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389507A",
+        "last_name": "Redi",
+        "first_name": "Francesco"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787227M",
+    "title": "Opusculorum...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1971,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2005-10-24",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389507A",
+        "last_name": "Redi",
+        "first_name": "Francesco"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787228M",
+    "title": "Opere...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 20,
+    "lang": "ita",
+    "days_keep_count": 50,
+    "adding_date": "2002-10-15",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389507A",
+        "last_name": "Redi",
+        "first_name": "Francesco"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787229M",
+    "title": "Esperienze intorno a diverse cose natvrali...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1975,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "ita",
+    "days_keep_count": 50,
+    "adding_date": "2004-01-15",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389507A",
+        "last_name": "Redi",
+        "first_name": "Francesco"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1378722M",
+    "title": "Urdū zabān aur samājī siyāq",
+    "city": "Bambaʼī",
+    "publisher": "Qalam Pablīkeshanz",
+    "year": 1992,
+    "subject": "Urdu language -- Social aspects",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 192,
+    "lang": "urd",
+    "days_keep_count": 100,
+    "adding_date": "2014-09-12",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL702951A",
+        "last_name": "Dalvī",
+        "first_name": "ʻAbdussattār"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787230M",
+    "title": "Geschichte des Galvanismus...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "ger",
+    "days_keep_count": 200,
+    "adding_date": "2014-03-08",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389517A",
+        "last_name": "Bartholoma us Trommsdorff",
+        "first_name": "Johann"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787231M",
+    "title": "Allgemeine chemische Bibliothek des neunzehnten Jahrhunderts",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 16,
+    "lang": "ger",
+    "days_keep_count": 200,
+    "adding_date": "2002-05-29",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389518A",
+        "last_name": "Bartholoma~us Trommsdorff",
+        "first_name": "Johann"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787232M",
+    "title": "Letters on Iceland...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2005-03-26",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389519A",
+        "last_name": "Uno von Archbishop of Upsala.",
+        "first_name": "Troil,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787233M",
+    "title": "Kort beskrifning, om eld-och luft-machin mid Dannemora grufwor...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "swe",
+    "days_keep_count": 10,
+    "adding_date": "2012-12-28",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389520A",
+        "last_name": "Triewald",
+        "first_name": "Marten"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787234M",
+    "title": "Positiones physicae, quas, annuo labore in scholis privatis explicut...",
+    "city": "New York",
+    "publisher": "ReadexMicroprint",
+    "year": 1971,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "lat",
+    "days_keep_count": 50,
+    "adding_date": "2014-04-29",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389521A",
+        "last_name": "Hendrick van Swinden",
+        "first_name": "Jan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787235M",
+    "title": "The castle of knowledge",
+    "city": "New York",
+    "publisher": "Readex Microprint.",
+    "year": 1970,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2013-02-06",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL5307087A",
+        "last_name": "Recorde",
+        "first_name": "Robert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787236M",
+    "title": "Experimental outlines for a new theory of colours, light and vision...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2015-06-21",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389523A",
+        "last_name": "Reade",
+        "first_name": "Joseph"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787237M",
+    "title": "Flora...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2004-02-22",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2800436A",
+        "last_name": "Rea",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787238M",
+    "title": "The British Desmidieae",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2014-06-05",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1308000A",
+        "last_name": "Ralfs",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787239M",
+    "title": "Entwurf einer Pflanzenphysiologic...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "ger",
+    "days_keep_count": 200,
+    "adding_date": "2013-04-13",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389525A",
+        "last_name": "Gottlob Rafn",
+        "first_name": "Carl"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1378723M",
+    "title": "As̲ar-i k̲h̲āmah",
+    "city": "Madrās",
+    "publisher": "ʻAlīm Ṣabā Navīdī",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 136,
+    "lang": "urd",
+    "days_keep_count": 50,
+    "adding_date": "2011-12-04",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL103593A",
+        "last_name": "Ṣabā Navīdī",
+        "first_name": "ʻAlīm"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787240M",
+    "title": "Analogie de l'electricite, et du magnetisme...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1974,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 15,
+    "lang": "fre",
+    "days_keep_count": 100,
+    "adding_date": "2009-04-09",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389526A",
+        "last_name": "Hendrick van Swinden",
+        "first_name": "Jan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787241M",
+    "title": "The principia, or The first principles of natural things...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1971,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 14,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2011-07-10",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL24981A",
+        "last_name": "Swedenborg",
+        "first_name": "Emanuel"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787242M",
+    "title": "Opera philosophica et mineralia...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 20,
+    "lang": "lat",
+    "days_keep_count": 50,
+    "adding_date": "2013-09-26",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL24981A",
+        "last_name": "Swedenborg",
+        "first_name": "Emanuel"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787243M",
+    "title": "Concerning the earths in our solar system, which are called planets...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1787,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2007-05-17",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL24981A",
+        "last_name": "Swedenborg",
+        "first_name": "Emanuel"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787244M",
+    "title": "Containers and their competitors",
+    "city": "Liverpool",
+    "publisher": "Marine Transport Centre.University of Liverpool",
+    "year": 1975,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2006-03-15",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1928649A",
+        "last_name": "T. Laing",
+        "first_name": "E."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787245M",
+    "title": "New Flora and botany of North America",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1970,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2003-07-28",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL316748A",
+        "last_name": "S. Rafinesque",
+        "first_name": "C."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787246M",
+    "title": "Medical flora",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2006-01-28",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL316748A",
+        "last_name": "S. Rafinesque",
+        "first_name": "C."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787247M",
+    "title": "A life of travels and researches in North America and South Europe...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1974,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2008-08-11",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL316748A",
+        "last_name": "S. Rafinesque",
+        "first_name": "C."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787248M",
+    "title": "Ichthyologia ohiensis",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1970,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2002-09-13",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL316748A",
+        "last_name": "S. Rafinesque",
+        "first_name": "C."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787249M",
+    "title": "Histoire generale des insectes---",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1975,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "fre",
+    "days_keep_count": 30,
+    "adding_date": "2016-07-16",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1172117A",
+        "last_name": "Swammerdam",
+        "first_name": "Jan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1378724M",
+    "title": "Raushan lakīr",
+    "city": "Madrās",
+    "publisher": "Ṭamilnāḍū Urdū Pablīkeshanz",
+    "year": 1990,
+    "subject": "Ṣabā Navīdī, ʻAlīm -- Criticism and interpretation",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 132,
+    "lang": "urd",
+    "days_keep_count": 100,
+    "adding_date": "2012-04-29",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1013454A",
+        "last_name": "Arthur M.",
+        "first_name": "Horne,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787250M",
+    "title": "Essai sur la physiognomie, des corps vivans conside re e depuis l'homme jusqu'a la plante---",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "fre",
+    "days_keep_count": 200,
+    "adding_date": "2016-11-03",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389527A",
+        "last_name": "Joseph Sue",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787251M",
+    "title": "Prager Tychoniana zur bevorstehenden Sacularfeier der Erinnerung an das vor 300 Jahren erfolgte---",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1975,
+    "subject": "Brahe, Tycho, -- 1546-1601.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "ger",
+    "days_keep_count": 30,
+    "adding_date": "2011-06-30",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389528A",
+        "last_name": "Joseph Studnicka",
+        "first_name": "Frantisek"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787252M",
+    "title": "Opera mathematica...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1970,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 12,
+    "lang": "lat",
+    "days_keep_count": 50,
+    "adding_date": "2006-10-05",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389529A",
+        "last_name": ". Tacquet",
+        "first_name": "Andre"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787253M",
+    "title": "Newton's laws of motion",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1971,
+    "subject": "Newton, Isaac, -- Sir, -- 1642-1727.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2013-06-30",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4363109A",
+        "last_name": "Guthrie Tait",
+        "first_name": "Peter"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787254M",
+    "title": "Notizie della vita & delle opere di pier' Antonio Micheli, botanico fiorentino",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1971,
+    "subject": "Micheli, Antonio.",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "ita",
+    "days_keep_count": 30,
+    "adding_date": "2015-06-22",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389530A",
+        "last_name": "Targioni-Tozzetti",
+        "first_name": "Giovanni"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787255M",
+    "title": "A listing of the published works of B.F. Skinner with notes and comments.",
+    "city": "[s.l.]",
+    "publisher": "[s.n.]",
+    "year": 1977,
+    "subject": "Skinner, B. F. -- 1904-",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2001-06-24",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL243808A",
+        "last_name": "Epstein",
+        "first_name": "Robert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787256M",
+    "title": "Education",
+    "city": "Moscow",
+    "publisher": "Novosti Press Agency",
+    "year": 1981,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2007-12-19",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4110203A",
+        "last_name": "A. Malkova",
+        "first_name": "Z."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787257M",
+    "title": "Robota nad nauchnym tekstom",
+    "city": "Moskva",
+    "publisher": "Moskovskogo Universiteta.",
+    "year": 1981,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 200,
+    "adding_date": "2006-06-25",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389532A",
+        "last_name": "A. Zhizhina",
+        "first_name": "S."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787258M",
+    "title": "The book of nature, or the history of insects---",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1975,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2009-12-08",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1172117A",
+        "last_name": "Swammerdam",
+        "first_name": "Jan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787259M",
+    "title": "Scientific researches---",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2012-12-26",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389533A",
+        "last_name": "Sturgeon",
+        "first_name": "William"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1378725M",
+    "title": "Sar Sayyid Aḥmad K̲h̲ān̲ aur un kā ʻahad",
+    "city": "ʻAlīgaṛh",
+    "publisher": "Ejūkeshnal Buk Hāʼūs",
+    "year": 1993,
+    "subject": "Aḥmad K̲h̲ān, Sayyid, Sir, 1817-1898",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 430,
+    "lang": "urd",
+    "days_keep_count": 100,
+    "adding_date": "2000-12-19",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL109062A",
+        "last_name": "Ḥusain",
+        "first_name": "S̲urayyā"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787260M",
+    "title": "Geologie der westlichen Schweizer-Alpen",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "ger",
+    "days_keep_count": 30,
+    "adding_date": "2005-12-26",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389534A",
+        "last_name": "Studer",
+        "first_name": "Bernhard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787261M",
+    "title": "Lettere scientifiche sopra vari dilettevoli argomenti di fisica...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1974,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "ita",
+    "days_keep_count": 10,
+    "adding_date": "2003-12-20",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2434121A",
+        "last_name": "Taglini",
+        "first_name": "Carlo"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787262M",
+    "title": "Scientific papers",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1971,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 12,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2005-08-12",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4363109A",
+        "last_name": "Guthrie Tait",
+        "first_name": "Peter"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787263M",
+    "title": "Voyage mine ralogique...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1971,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 11,
+    "lang": "fre",
+    "days_keep_count": 100,
+    "adding_date": "2010-12-03",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389536A",
+        "last_name": "Targioni-Tozzetti",
+        "first_name": "Giovanni"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787264M",
+    "title": "\" People's problems with cancer\"",
+    "city": "[s.l.]",
+    "publisher": "Yorkshire Regional Cancer Organisation",
+    "year": 1981,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2005-03-20",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL456550A",
+        "last_name": "J. Allen",
+        "first_name": "J."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787265M",
+    "title": "The progressive palatalization of common Slavic",
+    "city": "Skopje",
+    "publisher": "Macedonian Academy of Sciences and Arts",
+    "year": 1981,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2014-12-28",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2902165A",
+        "last_name": "G. Lunt",
+        "first_name": "Horace"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787266M",
+    "title": "Tainy pamyati.",
+    "city": "Moskva",
+    "publisher": "\"Molodaya gvardiya\"",
+    "year": 1981,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 30,
+    "adding_date": "2000-05-12",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3941030A",
+        "last_name": "Sergeev",
+        "first_name": "B."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787267M",
+    "title": "Exposition des ope rations faites en lapponie four la de termination d'un arc du me ridien, en 1801,",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1971,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "fre",
+    "days_keep_count": 50,
+    "adding_date": "2002-08-15",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389537A",
+        "last_name": "Svanberg",
+        "first_name": "Jons"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787268M",
+    "title": "Lectures on electricity---",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2016-10-06",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389538A",
+        "last_name": "Sturgeon",
+        "first_name": "William"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787269M",
+    "title": "Chemische Untersuchungen einiger niederrheinischen Fossilien eines Vesuvians und des Wassers im Basa",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "ger",
+    "days_keep_count": 200,
+    "adding_date": "2012-07-04",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389539A",
+        "last_name": "Heinrich Stucke",
+        "first_name": "Kaspar"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1378726M",
+    "title": "Prem Cand kā fann",
+    "city": "Naʼi Dihlī",
+    "publisher": "Mauḍarn Pablishing Hāʼūs",
+    "year": 1993,
+    "subject": "Premacanda, 1881-1936 -- Criticism and interpretation",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 216,
+    "lang": "urd",
+    "days_keep_count": 100,
+    "adding_date": "2009-08-01",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3329A",
+        "last_name": "Shakīlurraḥmān",
+        "first_name": "Shakīlurraḥmān"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787270M",
+    "title": "Heat",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1970,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2006-09-07",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4363109A",
+        "last_name": "Guthrie Tait",
+        "first_name": "Peter"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787271M",
+    "title": "Pour l'histoire de la science Helle  ne...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1970,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "fre",
+    "days_keep_count": 50,
+    "adding_date": "2013-01-16",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389540A",
+        "last_name": "Tannery",
+        "first_name": "Paul"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787272M",
+    "title": "Nova scientia inventa de Nicolo Tartalea",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1975,
+    "subject": "Tartalea, Nicolo.",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "lat",
+    "days_keep_count": 200,
+    "adding_date": "2007-05-29",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389541A",
+        "last_name": "Tartaglia",
+        "first_name": "Niccolo"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787273M",
+    "title": "Geschichte der mathematischen Wissenschaften",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1971,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "ger",
+    "days_keep_count": 100,
+    "adding_date": "2013-09-11",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389542A",
+        "last_name": "Suter",
+        "first_name": "Heinrich"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787274M",
+    "title": "Arithmetical theoria et praxis",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1975,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "lat",
+    "days_keep_count": 30,
+    "adding_date": "2009-03-19",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389543A",
+        "last_name": ". Tacquet",
+        "first_name": "Andre"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787275M",
+    "title": "Light",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1970,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2007-05-13",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4363109A",
+        "last_name": "Guthrie Tait",
+        "first_name": "Peter"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787276M",
+    "title": "Opuscoli scientifici",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1974,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "lat",
+    "days_keep_count": 200,
+    "adding_date": "2007-09-14",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389544A",
+        "last_name": "Tantini",
+        "first_name": "Francesco"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787277M",
+    "title": "[Expositio magistri Petri Tatareti super textu logices Aristotelis.]",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1975,
+    "subject": "Aristotle, -- 384-322 B.C.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "lat",
+    "days_keep_count": 30,
+    "adding_date": "2015-04-24",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389545A",
+        "last_name": "Tararetus",
+        "first_name": "Petrus"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787278M",
+    "title": "The people's resistance in Bihar.",
+    "city": "Bradford",
+    "publisher": "Print Workshop",
+    "year": 1975,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2016-11-15",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL208960A",
+        "last_name": "Prasad",
+        "first_name": "Devi"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787279M",
+    "title": "The new Indians.",
+    "city": "New York",
+    "publisher": "Dell",
+    "year": 1968,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2009-08-10",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL894421A",
+        "last_name": "Steiner",
+        "first_name": "Stan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1378727M",
+    "title": "Qut̤b-i ʻālam",
+    "city": "Jaypūr, Rājasthān",
+    "publisher": "Milne ke pate, Miskīn Buk Ḍipo",
+    "year": 1992,
+    "subject": "Suharvardī, Shāh Niyāz Aḥmad Qādirī Cishtī, d. 1834.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 128,
+    "lang": "urd",
+    "days_keep_count": 200,
+    "adding_date": "2012-07-15",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL105119A",
+        "last_name": "Maḥbūburraḥmān Niyāzī",
+        "first_name": "Sayyid"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787280M",
+    "title": "Die Kennzeichen der Insekten, nach Anleitung des Konigl---",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1973,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "ger",
+    "days_keep_count": 200,
+    "adding_date": "2009-04-15",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389546A",
+        "last_name": "Heinrich Sulzer",
+        "first_name": "Johann"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787281M",
+    "title": "Untersuchungen uber die Ursprunglichkeit und Alterthumlichkeit der Sternkunde---",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "ger",
+    "days_keep_count": 30,
+    "adding_date": "2004-11-28",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389547A",
+        "last_name": "Feddersen Stuhr",
+        "first_name": "Peter"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787282M",
+    "title": "Cylindricorum et annularium libri...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1970,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "lat",
+    "days_keep_count": 50,
+    "adding_date": "2001-12-01",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389548A",
+        "last_name": ". Tacquet",
+        "first_name": "Andre"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787283M",
+    "title": "Lectures on some recent advances in physical science",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1971,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2016-07-18",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4363109A",
+        "last_name": "Guthrie Tait",
+        "first_name": "Peter"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787284M",
+    "title": "Notizie degli aggrandimenti delle scienze fisiche...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 20,
+    "lang": "ita",
+    "days_keep_count": 30,
+    "adding_date": "2004-07-12",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389549A",
+        "last_name": "Targioni-Tozzetti",
+        "first_name": "Giovanni"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787285M",
+    "title": "Nouvelle anatomie raisonne e...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1974,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "fre",
+    "days_keep_count": 100,
+    "adding_date": "2009-06-07",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389550A",
+        "last_name": "Tauvry",
+        "first_name": "Daniel"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787286M",
+    "title": "British petrography...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1971,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2005-10-18",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2620999A",
+        "last_name": "Justinian Harris Teall",
+        "first_name": "Jethro"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787287M",
+    "title": "Theodosii Sphaericorum libri tres",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1974,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "lat",
+    "days_keep_count": 50,
+    "adding_date": "2016-08-04",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389552A",
+        "last_name": "(of Tripolis)",
+        "first_name": "Theodosius"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787288M",
+    "title": "Le minere de'metalli...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1975,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "ita",
+    "days_keep_count": 100,
+    "adding_date": "2011-11-15",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389553A",
+        "last_name": "Topini",
+        "first_name": "Danerolo"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787289M",
+    "title": "The scientific aspect of the supernatural...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2010-08-05",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL154978A",
+        "last_name": "Russel Wallace",
+        "first_name": "Alfred"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1378728M",
+    "title": "K̲h̲ūn̲ nāb",
+    "city": "Naʼī Dihlī",
+    "publisher": "Mauḍarn Pablishing Hāʼūs",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 128,
+    "lang": "urd",
+    "days_keep_count": 50,
+    "adding_date": "2014-05-05",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL702952A",
+        "last_name": "Parkāsh Rāḥat",
+        "first_name": "Om"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787290M",
+    "title": "The antediluvian world",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2015-03-17",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3345855A",
+        "last_name": "Walsh",
+        "first_name": "Francis"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787291M",
+    "title": "Memoria intorno alle produzione fossili de monti euganei",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1974,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "ita",
+    "days_keep_count": 50,
+    "adding_date": "2004-10-02",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389554A",
+        "last_name": "Terzi",
+        "first_name": "Basilio"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787292M",
+    "title": "De historia plantarum...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1975,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 14,
+    "lang": "lat",
+    "days_keep_count": 10,
+    "adding_date": "2008-10-23",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2901125A",
+        "last_name": "Paracelsus",
+        "first_name": "Paracelsus"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787293M",
+    "title": "Contributions to the theory of natural selection...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2008-03-07",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL154978A",
+        "last_name": "Russel Wallace",
+        "first_name": "Alfred"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787294M",
+    "title": "The Malay archipelago",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 12,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2013-07-19",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL154978A",
+        "last_name": "Russel Wallace",
+        "first_name": "Alfred"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787295M",
+    "title": "Tropical nature and other essays",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2010-05-17",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL154978A",
+        "last_name": "Russel Wallace",
+        "first_name": "Alfred"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787296M",
+    "title": "Land use planning and pollution control.",
+    "city": "Manchester",
+    "publisher": "University of Manchester. Pollution Research Unit",
+    "year": 1980,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 154,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2009-03-03",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389555A",
+        "last_name": "E. Miller",
+        "first_name": "C."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787297M",
+    "title": "[ Official degree submission].",
+    "city": "Bradford",
+    "publisher": null,
+    "year": 1981,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2009-06-28",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2308030A",
+        "last_name": "H. Ayers",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787298M",
+    "title": "Computer control using tiny BASIC.",
+    "city": "Bradford",
+    "publisher": null,
+    "year": 1981,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 65,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2006-09-24",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389556A",
+        "last_name": "Bailey",
+        "first_name": "Glynn"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787299M",
+    "title": "Aspects of the identification and control of a tubular reactor.",
+    "city": "Bradford",
+    "publisher": null,
+    "year": 1981,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 118,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2005-11-23",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389557A",
+        "last_name": "Yun Leong",
+        "first_name": "Sin"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1378729M",
+    "title": "Gauṛe Musalima śāsana o Nūra Kutuba-ula-Ālama (Raḥ)",
+    "city": "Ḍhākā",
+    "publisher": "Isalāmika Phāuṇḍeśana Bāṃlādeśa",
+    "year": 1991,
+    "subject": "Nūra Kutuba-ula-Ālama, 1350-1415.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 111,
+    "lang": "ben",
+    "days_keep_count": 30,
+    "adding_date": "2011-08-26",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL702953A",
+        "last_name": "Sagīra Uddīna Miñā",
+        "first_name": "Muhāmmada"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL137872M",
+    "title": "Prosklētērio psychōn",
+    "city": "Athēna",
+    "publisher": "Ekdosies \"Phylla\"",
+    "year": 1998,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 268,
+    "lang": "gre",
+    "days_keep_count": 30,
+    "adding_date": "2012-03-10",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL90959A",
+        "last_name": "Rizakēs",
+        "first_name": "Stephanos"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787300M",
+    "title": "Synthesis, properties and degradation of some block copolyurethanes.",
+    "city": "Bradford",
+    "publisher": null,
+    "year": 1981,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 98,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2001-12-12",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389558A",
+        "last_name": "Beresi",
+        "first_name": "Davut"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787301M",
+    "title": "Prima[-settima] risposta di Basilio Terzi...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1974,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "ita",
+    "days_keep_count": 200,
+    "adding_date": "2003-04-06",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389559A",
+        "last_name": "Terzi",
+        "first_name": "Basilio"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787302M",
+    "title": "History of stones...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1973,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2010-02-14",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2901125A",
+        "last_name": "Paracelsus",
+        "first_name": "Paracelsus"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787303M",
+    "title": "Darwinism",
+    "city": "New York",
+    "publisher": "ReadexMicroprint",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2007-06-12",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL154978A",
+        "last_name": "Russel Wallace",
+        "first_name": "Alfred"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787304M",
+    "title": "Man's place in the universe",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2011-06-05",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL154978A",
+        "last_name": "Russel Wallace",
+        "first_name": "Alfred"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787305M",
+    "title": "Geologia",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1972,
+    "subject": "Burnet, Thomas.",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2014-05-17",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1800880A",
+        "last_name": "Warren",
+        "first_name": "Erasmus"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787306M",
+    "title": "Personality and musical dissonance",
+    "city": "Bradford",
+    "publisher": null,
+    "year": 1981,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 179,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2015-09-26",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389560A",
+        "last_name": "Gledhill",
+        "first_name": "Colin"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787307M",
+    "title": "Design and neutralisation of class A amplification using power metal oxide field effect transistors ",
+    "city": "Bradford",
+    "publisher": null,
+    "year": 1981,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 88,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2011-08-31",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389561A",
+        "last_name": "H. Zareie Ghotbabadi",
+        "first_name": "M."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787308M",
+    "title": "Coherence in the body control mechanism.",
+    "city": "Bradford",
+    "publisher": null,
+    "year": 1981,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 116,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2007-09-23",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389562A",
+        "last_name": "Oludaisi Rotibi",
+        "first_name": "Akintunde"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787309M",
+    "title": "Gel permeation chromatography data acquisition and reduction.",
+    "city": "Bradford",
+    "publisher": null,
+    "year": 1981,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 107,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2016-03-15",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389563A",
+        "last_name": "Yip",
+        "first_name": "Yukman"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1378730M",
+    "title": "Misira Ālira amīmāṃsita rahasya",
+    "city": "Ḍhākā",
+    "publisher": "Dinarātri Prakāśanī",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 94,
+    "lang": "ben",
+    "days_keep_count": 30,
+    "adding_date": "2007-01-02",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL103234A",
+        "last_name": "Āhameda",
+        "first_name": "Humāẏūna"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787310M",
+    "title": "The problem of Montenegro and the Yugoslav Union, 1917-1920",
+    "city": "Bradford",
+    "publisher": null,
+    "year": 1981,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 413,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2013-08-02",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389564A",
+        "last_name": "T. McSharry",
+        "first_name": "Patrick"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787311M",
+    "title": "Development of models for corporate appraisal in small business operations",
+    "city": "Bradford",
+    "publisher": null,
+    "year": 1981,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 99,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2008-02-21",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389565A",
+        "last_name": "Duncan Pike",
+        "first_name": "Christopher"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787312M",
+    "title": "Glossaire de botanique...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1971,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "fre",
+    "days_keep_count": 200,
+    "adding_date": "2009-08-16",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL6663876A",
+        "last_name": "Étienne Guillaume Théis",
+        "first_name": "Alexandre"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787313M",
+    "title": "Theophrasti Eresii...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 42,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2001-09-06",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2901125A",
+        "last_name": "Paracelsus",
+        "first_name": "Paracelsus"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787314M",
+    "title": "The geographical distribution of animals with a study of the  relations of living and extinct faunas",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 13,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2002-05-22",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL154978A",
+        "last_name": "Russel Wallace",
+        "first_name": "Alfred"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787315M",
+    "title": "My life",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 11,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2004-02-14",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL154978A",
+        "last_name": "Russel Wallace",
+        "first_name": "Alfred"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787316M",
+    "title": "Opera mathematica...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1975,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 32,
+    "lang": "lat",
+    "days_keep_count": 10,
+    "adding_date": "2016-10-10",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1398089A",
+        "last_name": "John",
+        "first_name": "Wallis,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787317M",
+    "title": "A sequel to the experiments and observations tending to illustrate the nature and properties of elec",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1974,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2009-02-15",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389567A",
+        "last_name": "William Sir.",
+        "first_name": "Watson,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787318M",
+    "title": "A review of optimal inventory control models.",
+    "city": "Bradford",
+    "publisher": null,
+    "year": 1981,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 144,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2005-01-19",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389568A",
+        "last_name": "Katsichtis",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787319M",
+    "title": "Team building",
+    "city": "Bradford",
+    "publisher": null,
+    "year": 1981,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 109,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2014-01-25",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389569A",
+        "last_name": "O'Kane",
+        "first_name": "Edward"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1378731M",
+    "title": "Nashṭa meẏera nashṭa gadya",
+    "city": "Ḍhākā",
+    "publisher": "Kākalī Prakāśanī",
+    "year": 1992,
+    "subject": "Women -- Bangladesh -- Social conditions.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 134,
+    "lang": "ben",
+    "days_keep_count": 30,
+    "adding_date": "2015-06-28",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL101945A",
+        "last_name": "Nāsarina",
+        "first_name": "Tasalimā"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787320M",
+    "title": "Local government accountability.",
+    "city": "Bradford",
+    "publisher": null,
+    "year": 1981,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 151,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2011-05-27",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389570A",
+        "last_name": "Kershaw",
+        "first_name": "Martin"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787321M",
+    "title": "Accountants' liability",
+    "city": "Bradford",
+    "publisher": null,
+    "year": 1981,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 143,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2010-09-23",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389571A",
+        "last_name": "Charles Evans",
+        "first_name": "David"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787322M",
+    "title": "Practical problems in manpower planning (with reference to the Central Bank of Nigeria).",
+    "city": "Bradford",
+    "publisher": null,
+    "year": 1981,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 85,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2015-12-22",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389572A",
+        "last_name": "I. Afiemo",
+        "first_name": "Julius"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787323M",
+    "title": "Inhibition of hepatic microsomal drug metabolism by hycanthone",
+    "city": "Bradford",
+    "publisher": null,
+    "year": 1981,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 294,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2007-08-03",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389573A",
+        "last_name": "Sebastian Zata",
+        "first_name": "Glory"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787324M",
+    "title": "Traite  de chimie e le mentaire...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1971,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 28,
+    "lang": "fre",
+    "days_keep_count": 10,
+    "adding_date": "2001-05-19",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389574A",
+        "last_name": "nard, Louis Jacques Baron.",
+        "first_name": "The"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787325M",
+    "title": "L' e volution de l'astronomie chez les Grecs",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "fre",
+    "days_keep_count": 30,
+    "adding_date": "2014-04-22",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389575A",
+        "last_name": "Thirion",
+        "first_name": "J."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787326M",
+    "title": "Is Mars habitable?",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1972,
+    "subject": "Lowell, Percival.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2009-08-09",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL154978A",
+        "last_name": "Russel Wallace",
+        "first_name": "Alfred"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787327M",
+    "title": "A narrative of travels on the Amazon and Rio Negro...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1970,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2008-10-18",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL154978A",
+        "last_name": "Russel Wallace",
+        "first_name": "Alfred"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787328M",
+    "title": "Correspondence of the late James Watt on his discovery of the theory of the composition of water",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2007-01-15",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2510172A",
+        "last_name": "James",
+        "first_name": "Watt,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787329M",
+    "title": "The generation and use of quasi-equifrequent groups for computer record identification",
+    "city": "Bradford",
+    "publisher": null,
+    "year": 1981,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 217,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2010-10-03",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389576A",
+        "last_name": "Kam Pui Wu",
+        "first_name": "Addons"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1378732M",
+    "title": "Sāgnika",
+    "city": "Ḍhākā",
+    "publisher": "Prācya Bidyā Prakāśanī",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 340,
+    "lang": "ben",
+    "days_keep_count": 200,
+    "adding_date": "2010-12-28",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL702954A",
+        "last_name": "Āhamada",
+        "first_name": "Ālāuddīna"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787330M",
+    "title": "Strategic marketing planning in UK universities.",
+    "city": "Bradford",
+    "publisher": null,
+    "year": 1981,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 354,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2013-02-25",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389577A",
+        "last_name": "E. Lynch",
+        "first_name": "James"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787331M",
+    "title": "A set of operational research models for a manufacturing organisation",
+    "city": "Bradford",
+    "publisher": null,
+    "year": 1981,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 369,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2008-09-01",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389578A",
+        "last_name": "Lock",
+        "first_name": "Christopher"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787332M",
+    "title": "Microcomputer control of shot peening processes.",
+    "city": "Bradford",
+    "publisher": null,
+    "year": 1981,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 172,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2007-03-05",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389579A",
+        "last_name": "Hum Foo",
+        "first_name": "Say"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787333M",
+    "title": "A calculation of the energy bands in transition metals",
+    "city": "Bradford",
+    "publisher": null,
+    "year": 1981,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 100,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2003-02-27",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389580A",
+        "last_name": "Leonard Butler",
+        "first_name": "Alan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787334M",
+    "title": "Application of the Bayesian method to reliability analysis.",
+    "city": "Bradford",
+    "publisher": null,
+    "year": 1981,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 357,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2001-04-13",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389581A",
+        "last_name": "Ansari",
+        "first_name": "Mojtaba"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787335M",
+    "title": "The origin and progress of the mechanical inventions of James Watt...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 17,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2014-06-21",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2510172A",
+        "last_name": "James",
+        "first_name": "Watt,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787336M",
+    "title": "De secretis libri XVII...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1975,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 10,
+    "lang": "lat",
+    "days_keep_count": 100,
+    "adding_date": "2005-07-05",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1380067A",
+        "last_name": "Sh. M.",
+        "first_name": "German,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787337M",
+    "title": "Chemisch-mineralogische Beobachtungen...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1973,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "ger",
+    "days_keep_count": 10,
+    "adding_date": "2004-12-18",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389583A",
+        "last_name": "Ehrenfried von Weigel",
+        "first_name": "Christian"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787338M",
+    "title": "Raccolta di varie osservazioni, spettanti all'istoria medica, e naturale...",
+    "city": "New York",
+    "publisher": "ReadexMicroprint",
+    "year": 1975,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "ita",
+    "days_keep_count": 30,
+    "adding_date": "2011-02-09",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389584A",
+        "last_name": "Vallisnieri",
+        "first_name": "Antonio"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787339M",
+    "title": "Cosmography and geography...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1974,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 13,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2000-08-18",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389585A",
+        "last_name": "Varen",
+        "first_name": "Bernhard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1378733M",
+    "title": "Pr̥thibī āmārao",
+    "city": "[Ḍhākā]",
+    "publisher": "Cilḍrensa Senṭāra",
+    "year": 1992,
+    "subject": "Children's poetry, Bengali.",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 63,
+    "lang": "ben",
+    "days_keep_count": 30,
+    "adding_date": "2010-03-03",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL567025A",
+        "last_name": "Āśeka Māhamuda",
+        "first_name": "Saiẏada"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787340M",
+    "title": "Project d'une nouvelle me chanique avec un examen de l'opinion de m.Borelli...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "fre",
+    "days_keep_count": 100,
+    "adding_date": "2011-05-18",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389586A",
+        "last_name": "Varignon",
+        "first_name": "Pierre"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787341M",
+    "title": "The synthesis of 2, 5-diketopiperazines from alpha-amino acids and their derivatives",
+    "city": "Bradford",
+    "publisher": null,
+    "year": 1981,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 260,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2000-01-18",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389587A",
+        "last_name": "Robert Johnson",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787342M",
+    "title": "Inland fisheries in medieval Yorkshire 1066-1300.",
+    "city": "York",
+    "publisher": "University of York. Borthwick Institute of Historical Research",
+    "year": 1981,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2016-01-30",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1319514A",
+        "last_name": "McDonnell",
+        "first_name": "J."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787343M",
+    "title": "Advanced algebra and calculus",
+    "city": "New York",
+    "publisher": "Cadillac Pub. Co.",
+    "year": 1959,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 222,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2007-06-24",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389588A",
+        "last_name": "R. Gondin",
+        "first_name": "William"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787344M",
+    "title": "Science.",
+    "city": "Moscow",
+    "publisher": "Novosti Press Agency",
+    "year": 1981,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 48,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2000-10-03",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1302395A",
+        "last_name": "Kanin",
+        "first_name": "Yuri"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787345M",
+    "title": "Bibliographia astronomica temporis, quo libri, vel compositi...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "lat",
+    "days_keep_count": 200,
+    "adding_date": "2003-11-25",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389589A",
+        "last_name": "Friedrich Weidler",
+        "first_name": "Johann"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787346M",
+    "title": "De humani corporis fabrica libri septem",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1967,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 15,
+    "lang": "lat",
+    "days_keep_count": 50,
+    "adding_date": "2011-06-25",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL232967A",
+        "last_name": "Vesalius",
+        "first_name": "Andreas"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787347M",
+    "title": "Dictionnaire raisonne  universel d'histoire naturelle...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1971,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 81,
+    "lang": "fre",
+    "days_keep_count": 10,
+    "adding_date": "2014-10-29",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389590A",
+        "last_name": "Christophe Valmont de Bomare",
+        "first_name": "Jacques"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787348M",
+    "title": "Eclaircissemens sur l'analyse des infiniments petits",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1972,
+    "subject": "L'Ho spital, Guillaume Francois Antoine de, -- Marquis de Sainte-Mesme.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "fre",
+    "days_keep_count": 50,
+    "adding_date": "2016-05-30",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389591A",
+        "last_name": "Varignon",
+        "first_name": "Pierre"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787349M",
+    "title": "Traite  du mouvement, et de la mesure des eaux coulantes et jaillissantes...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "fre",
+    "days_keep_count": 10,
+    "adding_date": "2006-12-04",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389592A",
+        "last_name": "Varignon",
+        "first_name": "Pierre"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1378734M",
+    "title": "Paridarśana bidhi",
+    "city": "Ḍhākā",
+    "publisher": "E. Ke. Prakāśanī",
+    "year": 1992,
+    "subject": "Government travel -- Law and legislation -- Bangladesh.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 80,
+    "lang": "ben",
+    "days_keep_count": 10,
+    "adding_date": "2000-04-23",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL102167A",
+        "last_name": "Bangladesh.",
+        "first_name": "Bangladesh."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787350M",
+    "title": "The complete writings of Constantine Smaltz Rafinesque, on recent and fossil conchology",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2009-03-21",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL316748A",
+        "last_name": "S. Rafinesque",
+        "first_name": "C."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787351M",
+    "title": "Geschichte der biologischen Theorien seit dem ende des siebzehnten Jahrhunderts",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1971,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 11,
+    "lang": "ger",
+    "days_keep_count": 10,
+    "adding_date": "2011-07-20",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389593A",
+        "last_name": "Ra dl",
+        "first_name": "Emanuel"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787352M",
+    "title": "Miscellaneous observations together with a collection of experiments on electricity...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1975,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2005-09-21",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389594A",
+        "last_name": "Rackstrow",
+        "first_name": "B."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787353M",
+    "title": "Elements of mechanical and chemical philosophy",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2009-09-28",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL242304A",
+        "last_name": "Webster",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787354M",
+    "title": "De via curva mercurii sub sole in rectam convertenda...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1974,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "lat",
+    "days_keep_count": 200,
+    "adding_date": "2006-10-25",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389595A",
+        "last_name": "Friedrich Weidler",
+        "first_name": "Johann"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787355M",
+    "title": "The American electro magnetic telegraph",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2001-04-23",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2400963A",
+        "last_name": "Vail",
+        "first_name": "Alfred"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787356M",
+    "title": "Mineralogie",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1971,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 10,
+    "lang": "fre",
+    "days_keep_count": 10,
+    "adding_date": "2005-04-21",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389597A",
+        "last_name": "Christophe Valmont de Bomare",
+        "first_name": "Jacques"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787357M",
+    "title": "Elemens de mathematique...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "fre",
+    "days_keep_count": 10,
+    "adding_date": "2009-11-06",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389598A",
+        "last_name": "Varignon",
+        "first_name": "Pierre"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787358M",
+    "title": "Manuel de l'e lectricite , comprenant les principes e le mentaires, l'exposition des syste mes...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "fre",
+    "days_keep_count": 10,
+    "adding_date": "2004-08-18",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389599A",
+        "last_name": "Jean Veau Delaunay",
+        "first_name": "Claude"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787359M",
+    "title": "Le spectacle du feu",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1971,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "fre",
+    "days_keep_count": 10,
+    "adding_date": "2003-10-30",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389600A",
+        "last_name": "Rabiqueau",
+        "first_name": "Charles"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1378735M",
+    "title": "Jalapadma",
+    "city": "Ḍhākā",
+    "publisher": "Samaẏa Prakāśana",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 100,
+    "lang": "ben",
+    "days_keep_count": 50,
+    "adding_date": "2014-04-23",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL103234A",
+        "last_name": "Āhameda",
+        "first_name": "Humāẏūna"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787360M",
+    "title": "Pharmacopoeia officinalis et extemporanea",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1971,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2009-11-08",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4363877A",
+        "last_name": "Quincy",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787361M",
+    "title": "Lexicon physico-medicum",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1971,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2011-11-01",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4363877A",
+        "last_name": "Quincy",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787362M",
+    "title": "Du syste  me social et des lois qui le re gissent",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1969,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "fre",
+    "days_keep_count": 10,
+    "adding_date": "2005-11-21",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389601A",
+        "last_name": "Adolphe Jacques Que telet",
+        "first_name": "Lambert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787363M",
+    "title": "Histoire des sciences mathe matiques et physiques chez les Belges",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1971,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "fre",
+    "days_keep_count": 50,
+    "adding_date": "2006-08-01",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389602A",
+        "last_name": "Adolphe Jacques Que telet",
+        "first_name": "Lambert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787364M",
+    "title": "Letters addressed to H.R.H. the Grand Duke of Saxe Coburg and Gotha on the theory of probabilities,a",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1971,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2014-01-22",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389603A",
+        "last_name": "Adolphe Jacques Que telet",
+        "first_name": "Lambert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787365M",
+    "title": "Elements of natural philosophy",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2008-07-29",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL242304A",
+        "last_name": "Webster",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787366M",
+    "title": "Historia astronomiae sive de ortu et progressu...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1974,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "lat",
+    "days_keep_count": 10,
+    "adding_date": "2001-11-30",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389604A",
+        "last_name": "Friedrich Weidler",
+        "first_name": "Johann"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787367M",
+    "title": "De'corpi marini, che su' monti si trovano",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "ita",
+    "days_keep_count": 200,
+    "adding_date": "2006-12-13",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389605A",
+        "last_name": "Vallisnieri",
+        "first_name": "Antonio"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787368M",
+    "title": "An essay on the ultimate principles of chemistry, natural philosophy, and physiology...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2010-03-24",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389606A",
+        "last_name": "Vanuxem",
+        "first_name": "Lardner"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787369M",
+    "title": "Nouvelle mecanique ou statique...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1970,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 13,
+    "lang": "fre",
+    "days_keep_count": 30,
+    "adding_date": "2005-03-21",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389607A",
+        "last_name": "Varignon",
+        "first_name": "Pierre"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1378736M",
+    "title": "Living crafts in Bangladesh",
+    "city": "Dhaka",
+    "publisher": "Markup International",
+    "year": 1992,
+    "subject": "Decorative arts -- Bangladesh.",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 88,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2016-07-17",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL566758A",
+        "last_name": "Sirajuddin",
+        "first_name": "Muhammad"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787370M",
+    "title": "De ratione conficiendi lapidis philosophici, liber unus...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1975,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "lat",
+    "days_keep_count": 50,
+    "adding_date": "2010-01-22",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1836826A",
+        "last_name": "Ventura",
+        "first_name": "Lorenzo"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787371M",
+    "title": "Physique sociale",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1971,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 11,
+    "lang": "fre",
+    "days_keep_count": 100,
+    "adding_date": "2006-01-21",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389608A",
+        "last_name": "Adolphe Jacques Que telet",
+        "first_name": "Lambert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787372M",
+    "title": "Sciences mathe matiques et physiques chez les Belges, au commencement du XIXe sie  cle",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1971,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "fre",
+    "days_keep_count": 100,
+    "adding_date": "2008-01-22",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389609A",
+        "last_name": "Adolphe Jacques Que telet",
+        "first_name": "Lambert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787373M",
+    "title": "Popular instructions on the calculation of probabilities...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1971,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2003-10-19",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389610A",
+        "last_name": "Adolphe Jacques Que telet",
+        "first_name": "Lambert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787374M",
+    "title": "Untersuchungen über den Flug der Vögel",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1970,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2015-12-11",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389611A",
+        "last_name": "Johann Joseph Ritter von.",
+        "first_name": "Prechtl,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787375M",
+    "title": "Metallographia",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2001-11-17",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL242304A",
+        "last_name": "Webster",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787376M",
+    "title": "Institutiones astronomiae selectis observationum et calculorum exemplis illustratae...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "lat",
+    "days_keep_count": 200,
+    "adding_date": "2007-03-16",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389612A",
+        "last_name": "Friedrich Weidler",
+        "first_name": "Johann"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787377M",
+    "title": "Lezione accademica intorno all'origine delle fontane...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "ita",
+    "days_keep_count": 100,
+    "adding_date": "2016-12-22",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389613A",
+        "last_name": "Vallisnieri",
+        "first_name": "Antonio"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787378M",
+    "title": "Observations on the geology and organic remains of the secondary, tertiary and alluvial formations o",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2000-07-16",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389614A",
+        "last_name": "Vanuxem",
+        "first_name": "Lardner"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787379M",
+    "title": "Nouvelles conjectures sur la pesanteur",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1970,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "fre",
+    "days_keep_count": 30,
+    "adding_date": "2007-04-17",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389615A",
+        "last_name": "Varignon",
+        "first_name": "Pierre"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1378737M",
+    "title": "Prajñāparamitā mhasīkegu",
+    "city": "Yala",
+    "publisher": "Prajñāparamitā Caryā Guṭhī",
+    "year": 1984,
+    "subject": "Legends, Buddhist -- Nepal",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 70,
+    "lang": "new",
+    "days_keep_count": 10,
+    "adding_date": "2002-09-18",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL702955A",
+        "last_name": "Śākya",
+        "first_name": "Lokabahādura"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787380M",
+    "title": "Epistola, rationem modumq  propinandi radicis chynae decocti...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1975,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "lat",
+    "days_keep_count": 100,
+    "adding_date": "2001-07-02",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL232967A",
+        "last_name": "Vesalius",
+        "first_name": "Andreas"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787381M",
+    "title": "Grundlehren der Chemie in technischer Beziehung...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1971,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 13,
+    "lang": "ger",
+    "days_keep_count": 200,
+    "adding_date": "2006-04-07",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389616A",
+        "last_name": "Johann Joseph Ritter von.",
+        "first_name": "Prechtl,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787382M",
+    "title": "A history of inland transport and communication in England",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1971,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2001-08-30",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2571735A",
+        "last_name": "Edwin A.",
+        "first_name": "Pratt,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787383M",
+    "title": "The mathematical principles of mechanical philosophy, and their application to the theory of univers",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1971,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2006-10-18",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389617A",
+        "last_name": "Henry Pratt",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787384M",
+    "title": "A dissertation on the power of the intercepted pressure of the atmosphere...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1971,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2001-12-11",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2584643A",
+        "last_name": "Pratt",
+        "first_name": "Henry"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787385M",
+    "title": "The pressure of light",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1971,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2002-08-10",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4349861A",
+        "last_name": "Henry Poynting",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787386M",
+    "title": "Opera omnia anatomica et chirurgica cura Hermanni Boerhaave...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1975,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 15,
+    "lang": "lat",
+    "days_keep_count": 100,
+    "adding_date": "2001-02-01",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL232967A",
+        "last_name": "Vesalius",
+        "first_name": "Andreas"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787387M",
+    "title": "De locis solidus secunda divinatio geometrica in quinque libros iniuria temporum...",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1970,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2003-03-12",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389618A",
+        "last_name": "Viviani",
+        "first_name": "Vincenzio"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13787388M",
+    "title": "Lezioni accademiche",
+    "city": "New York",
+    "publisher": "Readex Microprint",
+    "year": 1967,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "ita",
+    "days_keep_count": 10,
+    "adding_date": "2007-12-17",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4389619A",
+        "last_name": "Torricelli",
+        "first_name": "Evangelista"
+      }
+    ]
+  }
+]

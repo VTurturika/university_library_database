@@ -1,0 +1,4512 @@
+[
+  {
+    "openlibrary_id": "/books/OL10169673M",
+    "title": "A Review of Essentials of Accounting",
+    "city": null,
+    "publisher": "Addison Wesley Publishing Company",
+    "year": 1994,
+    "subject": "Accounting",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2012-06-13",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL538906A",
+        "last_name": "L. Schwarzkopf",
+        "first_name": "David"
+      },
+      {
+        "openlibrary_id": "/authors/OL2635607A",
+        "last_name": "N. Anthony",
+        "first_name": "Robert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169674M",
+    "title": "Student Solutions Manual to Calculus of Several Variables",
+    "city": null,
+    "publisher": "Addison-Wesley",
+    "year": 1999,
+    "subject": "Calculus & mathematical analysis",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2007-04-12",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2632668A",
+        "last_name": "ADAMS",
+        "first_name": "ADAMS"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169675M",
+    "title": "Instructors Solutions Manual to Calculus of Several Variables 3e",
+    "city": null,
+    "publisher": "Addison-Wesley",
+    "year": 1999,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2005-04-26",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2632668A",
+        "last_name": "ADAMS",
+        "first_name": "ADAMS"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169676M",
+    "title": "Intermediate Algebra Plus Mymathlab Student Starter Kit",
+    "city": null,
+    "publisher": "Addison-Wesley",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2013-07-15",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3385247A",
+        "last_name": "Lial",
+        "first_name": "Hornsby,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169677M",
+    "title": "Study Guide for Use With Money, the Financial System, and the Economy",
+    "city": null,
+    "publisher": "Addison-Wesley",
+    "year": 1997,
+    "subject": "Economics, Finance, Business and Industry",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2008-03-14",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3385248A",
+        "last_name": "R. Hubbard",
+        "first_name": "Glenn"
+      },
+      {
+        "openlibrary_id": "/authors/OL3385249A",
+        "last_name": "A. Erickson",
+        "first_name": "Christopher"
+      },
+      {
+        "openlibrary_id": "/authors/OL3385250A",
+        "last_name": "Willman",
+        "first_name": "Elliott"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169678M",
+    "title": "Instructors Solutions Manual",
+    "city": null,
+    "publisher": "Addison-Wesley",
+    "year": 1999,
+    "subject": "Probability & statistics",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2003-11-24",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1177014A",
+        "last_name": "Weiss.",
+        "first_name": "Weiss."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169679M",
+    "title": "Bundle of Introductory Statistics 4/E 53270 and Minitab Supplement 53274to Intro STATS 4/E National",
+    "city": null,
+    "publisher": "Not Avail",
+    "year": 1998,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2000-06-19",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2669846A",
+        "last_name": "A. Weiss",
+        "first_name": "Neil"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1016967M",
+    "title": "101 ways to say vomit",
+    "city": "New York",
+    "publisher": "Random House",
+    "year": 1997,
+    "subject": "Vomiting -- Humor.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 48,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2003-04-29",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL269474A",
+        "last_name": "Christine R.N.",
+        "first_name": "Becker,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169680M",
+    "title": "3.5 DOS Disk Computer Models Oper Management",
+    "city": null,
+    "publisher": "Higher Education Publishing Company",
+    "year": 1996,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2011-01-07",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1194935A",
+        "last_name": "Samuel R.",
+        "first_name": "Brown,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169681M",
+    "title": "Mac-Graphics Interactive Workshop",
+    "city": null,
+    "publisher": "Peachpit Press",
+    "year": 1995,
+    "subject": "Computer graphics software",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 289,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2011-08-04",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3385251A",
+        "last_name": "Academy",
+        "first_name": "Octogram"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169682M",
+    "title": "25 Steps to Safe Computing",
+    "city": null,
+    "publisher": "Peachpit Press",
+    "year": 1995,
+    "subject": "Health & safety aspects of computing",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 72,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2004-02-11",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL431878A",
+        "last_name": "Sellers",
+        "first_name": "Don"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169683M",
+    "title": "Quarkxpress 3 3 Training on CD Rom",
+    "city": null,
+    "publisher": "Peachpit Press",
+    "year": 1996,
+    "subject": "Desktop publishing software",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2000-12-22",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3385252A",
+        "last_name": "Multimedia",
+        "first_name": "Quay2"
+      },
+      {
+        "openlibrary_id": "/authors/OL3385253A",
+        "last_name": "Multimedia",
+        "first_name": "Quay&"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169684M",
+    "title": "Photoshop 3 Training on CD Rom",
+    "city": null,
+    "publisher": "Peachpit Press",
+    "year": 1996,
+    "subject": "Macintosh OS",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2013-11-29",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3385252A",
+        "last_name": "Multimedia",
+        "first_name": "Quay2"
+      },
+      {
+        "openlibrary_id": "/authors/OL3385253A",
+        "last_name": "Multimedia",
+        "first_name": "Quay&"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169685M",
+    "title": "Pagemaker 6",
+    "city": null,
+    "publisher": "Peachpit Press",
+    "year": 1996,
+    "subject": "Macintosh",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2000-12-09",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3385252A",
+        "last_name": "Multimedia",
+        "first_name": "Quay2"
+      },
+      {
+        "openlibrary_id": "/authors/OL3385253A",
+        "last_name": "Multimedia",
+        "first_name": "Quay&"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169686M",
+    "title": "Illustrator 5.5 Training (Training on CD)",
+    "city": null,
+    "publisher": "Addison Wesley Longman",
+    "year": 1996,
+    "subject": "Computer graphics software",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2015-08-06",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3385252A",
+        "last_name": "Multimedia",
+        "first_name": "Quay2"
+      },
+      {
+        "openlibrary_id": "/authors/OL3385254A",
+        "last_name": "& Multimedia",
+        "first_name": "Quay"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169687M",
+    "title": "Freehand 5.5 Training (Training on CD)",
+    "city": null,
+    "publisher": "Peachpit Press",
+    "year": 1996,
+    "subject": "Computer graphics software",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2009-01-08",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3385252A",
+        "last_name": "Multimedia",
+        "first_name": "Quay2"
+      },
+      {
+        "openlibrary_id": "/authors/OL3385253A",
+        "last_name": "Multimedia",
+        "first_name": "Quay&"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169688M",
+    "title": "Office Macintosh ",
+    "city": null,
+    "publisher": "Peachpit Pr",
+    "year": 1995,
+    "subject": "Macintosh OS",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2013-10-21",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3385252A",
+        "last_name": "Multimedia",
+        "first_name": "Quay2"
+      },
+      {
+        "openlibrary_id": "/authors/OL3385255A",
+        "last_name": "Quay2",
+        "first_name": "Quay2"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169689M",
+    "title": "Word 6 Training (Training on CD)",
+    "city": null,
+    "publisher": "Addison Wesley Longman",
+    "year": 1995,
+    "subject": "Macintosh OS",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2003-02-04",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3385256A",
+        "last_name": "2 Multimedia",
+        "first_name": "Quay"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1016968M",
+    "title": "The most disgusting jobs in the world",
+    "city": "New York",
+    "publisher": "Random House",
+    "year": 1997,
+    "subject": "Occupations -- United States.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 48,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2014-11-13",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL269474A",
+        "last_name": "Christine R.N.",
+        "first_name": "Becker,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169690M",
+    "title": "Director 4 Training (Training on CD)",
+    "city": null,
+    "publisher": "Peachpit Press",
+    "year": 1996,
+    "subject": "Computer graphics software",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2002-05-10",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3385252A",
+        "last_name": "Multimedia",
+        "first_name": "Quay2"
+      },
+      {
+        "openlibrary_id": "/authors/OL3385253A",
+        "last_name": "Multimedia",
+        "first_name": "Quay&"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169691M",
+    "title": "Excel 5 Training (Training on CD)",
+    "city": null,
+    "publisher": "Addison Wesley Longman",
+    "year": 1995,
+    "subject": "Excel",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2005-10-17",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3385256A",
+        "last_name": "2 Multimedia",
+        "first_name": "Quay"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169692M",
+    "title": "Internet and HTML Training on CD-ROM",
+    "city": null,
+    "publisher": "Addison Wesley Longman",
+    "year": 1995,
+    "subject": "HTML",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2011-02-07",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3385252A",
+        "last_name": "Multimedia",
+        "first_name": "Quay2"
+      },
+      {
+        "openlibrary_id": "/authors/OL3385254A",
+        "last_name": "& Multimedia",
+        "first_name": "Quay"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169693M",
+    "title": "Basic Technical Mathematics with Calculus Metric Version Bundled with",
+    "city": null,
+    "publisher": "Not Avail",
+    "year": 1998,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2003-08-06",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL236359A",
+        "last_name": "J. Washington",
+        "first_name": "Allyn"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169694M",
+    "title": "Amazing English Instant Classroom D DOS",
+    "city": null,
+    "publisher": "Not Avail",
+    "year": 1998,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2006-01-13",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2669721A",
+        "last_name": "Walker",
+        "first_name": "Michael"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169695M",
+    "title": "Amazing Instant Classroom E DOS",
+    "city": null,
+    "publisher": "Not Avail",
+    "year": 1998,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2005-06-11",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2669721A",
+        "last_name": "Walker",
+        "first_name": "Michael"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169696M",
+    "title": "Video Gde Intern Bus",
+    "city": null,
+    "publisher": "Addison Wesley Longman Publishing Co",
+    "year": 1995,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2012-05-23",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2654942A",
+        "last_name": "Griffin",
+        "first_name": "Griffin"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169697M",
+    "title": "Cst Album 1 All Star Eng",
+    "city": null,
+    "publisher": "Addison Wesley Publishing Company",
+    "year": 1996,
+    "subject": "ELT: Learning Material & Coursework",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2002-08-22",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3368065A",
+        "last_name": "Skidmore",
+        "first_name": "Charles"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169698M",
+    "title": "Cst Album2 All Star Eng",
+    "city": null,
+    "publisher": "Addison Wesley Publishing Company",
+    "year": 1996,
+    "subject": "ELT: Learning Material & Coursework",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2010-04-24",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3368065A",
+        "last_name": "Skidmore",
+        "first_name": "Charles"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169699M",
+    "title": "Skidmore",
+    "city": null,
+    "publisher": "Addison Wesley Publishing Company",
+    "year": 1998,
+    "subject": "ELT: Learning Material & Coursework",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 32,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2014-03-10",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3368065A",
+        "last_name": "Skidmore",
+        "first_name": "Charles"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1016969M",
+    "title": "Fangs!",
+    "city": "New York",
+    "publisher": "Random House",
+    "year": 1997,
+    "subject": "Dakota Indians -- Juvenile fiction.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 46,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2003-12-27",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL38100A",
+        "last_name": "B. Ury",
+        "first_name": "Allen"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL101696M",
+    "title": "Päevata päevad ja ööta ööd",
+    "city": "[Germany?]",
+    "publisher": "Kirjastus Kultuur",
+    "year": 1962,
+    "subject": "World War, 1939-1945 -- Estonia.",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "est",
+    "days_keep_count": 30,
+    "adding_date": "2008-02-02",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL68325A",
+        "last_name": "Eerme",
+        "first_name": "Karl"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169700M",
+    "title": "All Star English",
+    "city": null,
+    "publisher": "Addison Wesley Publishing Company",
+    "year": 1998,
+    "subject": "ELT: Learning Material & Coursework",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 128,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2012-10-27",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3368065A",
+        "last_name": "Skidmore",
+        "first_name": "Charles"
+      },
+      {
+        "openlibrary_id": "/authors/OL2792494A",
+        "last_name": "Richard-Amato",
+        "first_name": "Patricia"
+      },
+      {
+        "openlibrary_id": "/authors/OL3385014A",
+        "last_name": "Marie Drayton",
+        "first_name": "Anne"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169701M",
+    "title": "Skidmore",
+    "city": null,
+    "publisher": "Addison Wesley Publishing Company",
+    "year": 1998,
+    "subject": "ELT: Learning Material & Coursework",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 128,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2007-09-28",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3368065A",
+        "last_name": "Skidmore",
+        "first_name": "Charles"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169702M",
+    "title": "All Star English",
+    "city": null,
+    "publisher": "Addison Wesley Publishing Company",
+    "year": 1996,
+    "subject": "ELT: Learning Material & Coursework",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 176,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2001-05-21",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2671271A",
+        "last_name": "Grigsby",
+        "first_name": "Carolyn"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169703M",
+    "title": "Dan & Van Do Excel",
+    "city": null,
+    "publisher": "Addison-Wesley (C)",
+    "year": 1996,
+    "subject": "Spreadsheets - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2000-11-20",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL34842A",
+        "last_name": "Gookin",
+        "first_name": "Dan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169704M",
+    "title": "Pagemill",
+    "city": null,
+    "publisher": "Peachpit Press",
+    "year": 1996,
+    "subject": "Internet",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2012-03-14",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3385252A",
+        "last_name": "Multimedia",
+        "first_name": "Quay2"
+      },
+      {
+        "openlibrary_id": "/authors/OL3385253A",
+        "last_name": "Multimedia",
+        "first_name": "Quay&"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169705M",
+    "title": "What's on the Internet",
+    "city": null,
+    "publisher": "Addison Wesley Longman",
+    "year": 1996,
+    "subject": "Internet",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 425,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2014-11-15",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL284380A",
+        "last_name": "Gagnon",
+        "first_name": "Eric"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169706M",
+    "title": "A Blip in the Continuum: A Celebration of Grunge Typography! ",
+    "city": null,
+    "publisher": "Addison Wesley Longman",
+    "year": 1996,
+    "subject": "Desktop publishing software",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 95,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2015-10-26",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL585229A",
+        "last_name": "Williams",
+        "first_name": "Robin"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169707M",
+    "title": "Director 5 for Windows",
+    "city": null,
+    "publisher": "Peachpit Pr",
+    "year": 1996,
+    "subject": "Microsoft Windows",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 244,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2013-07-09",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL76681A",
+        "last_name": "Persidsky",
+        "first_name": "Andre"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169708M",
+    "title": "Training on CD Illustrator 6 CD Rom",
+    "city": null,
+    "publisher": "Peachpit Press",
+    "year": 1996,
+    "subject": "Computer graphics software",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2004-04-12",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3385252A",
+        "last_name": "Multimedia",
+        "first_name": "Quay2"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169709M",
+    "title": "Photodeluxe for Macintosh",
+    "city": null,
+    "publisher": "Addison Wesley Publishing Company",
+    "year": 1996,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2007-03-09",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL42746A",
+        "last_name": "Weinmann",
+        "first_name": "Elaine"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1016970M",
+    "title": "Maggot madness!",
+    "city": "New York",
+    "publisher": "Random House",
+    "year": 1997,
+    "subject": "Horror stories.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 48,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2012-07-12",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL22868A",
+        "last_name": "Ingram",
+        "first_name": "Scott"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169710M",
+    "title": "Kid's Web Kit",
+    "city": null,
+    "publisher": "Addison Wesley Longman",
+    "year": 1997,
+    "subject": "Internet & communications",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 64,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2008-05-04",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL328993A",
+        "last_name": "Lopuck",
+        "first_name": "Lisa"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169711M",
+    "title": "Photoshop 3 Training Combo for Macintosh",
+    "city": null,
+    "publisher": "Peachpit Press",
+    "year": 1996,
+    "subject": "Computing and Information Technology",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2015-05-16",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2947761A",
+        "last_name": "Castro",
+        "first_name": "Castro"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169712M",
+    "title": "Html Training Combo",
+    "city": null,
+    "publisher": "Peachpit Press",
+    "year": 1996,
+    "subject": "Image processing: graphics (static images)",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2010-01-12",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2947761A",
+        "last_name": "Castro",
+        "first_name": "Castro"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169713M",
+    "title": "Quarkxpress 3.3",
+    "city": null,
+    "publisher": "Peachpit Press",
+    "year": 1996,
+    "subject": "Computing and Information Technology",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2002-01-06",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL42746A",
+        "last_name": "Weinmann",
+        "first_name": "Elaine"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169714M",
+    "title": "The Mill Girls Eyewitnesses to the Growth Industry VHS Video (Why We Remember -United States History",
+    "city": null,
+    "publisher": "Scott Foresman Addison Wesley",
+    "year": 2005,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2008-06-15",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1431340A",
+        "last_name": "Howell-Carey",
+        "first_name": "Chantal"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169715M",
+    "title": "Calculus 2/E Bundled with Custom Student Solutions Manual",
+    "city": null,
+    "publisher": "Not Avail",
+    "year": 1998,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2012-08-21",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2670494A",
+        "last_name": "Finney",
+        "first_name": "Ross"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169716M",
+    "title": "Bundle of Triola/Franklin Business Statistics 58990 and Statdisk 3.5\"",
+    "city": null,
+    "publisher": "Not Avail",
+    "year": 1998,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2009-04-12",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL39157A",
+        "last_name": "F. Triola",
+        "first_name": "Mario"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169717M",
+    "title": "Statdisk Mac Elem Stat 6e",
+    "city": null,
+    "publisher": "Addison Wesley Longman Publishing Co",
+    "year": 1995,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2005-04-27",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3384969A",
+        "last_name": "TRIOLA",
+        "first_name": "TRIOLA"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169718M",
+    "title": "Elementary Statistics 57682 and Statdisk DOS 4.1 88829 and Statdisk Student Lab Manual 57695",
+    "city": null,
+    "publisher": "Not Avail",
+    "year": 1998,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2015-03-09",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL39157A",
+        "last_name": "F. Triola",
+        "first_name": "Mario"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169719M",
+    "title": "Elementary Statistics 57682 and Statdisk Macintosh 4.1 88831",
+    "city": null,
+    "publisher": "Not Avail",
+    "year": 1998,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2007-10-08",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL39157A",
+        "last_name": "F. Triola",
+        "first_name": "Mario"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1016971M",
+    "title": "Passport's illustrated travel guide to Vienna",
+    "city": "Lincolnwood, Ill",
+    "publisher": "Passport Books",
+    "year": 1997,
+    "subject": "Vienna (Austria) -- Guidebooks.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 192,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2012-05-04",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL275253A",
+        "last_name": "Louis.",
+        "first_name": "James,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169720M",
+    "title": "Elementary Statistics 57682 and Statdisk Macintosh 4.1 and Statdisk Student Lab Manual 57695",
+    "city": null,
+    "publisher": "Not Avail",
+    "year": 1998,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2000-04-22",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL39157A",
+        "last_name": "F. Triola",
+        "first_name": "Mario"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169721M",
+    "title": "Multimedia Engineering Dynamics, Lab Version 1.0 Package",
+    "city": null,
+    "publisher": "Not Avail",
+    "year": 1998,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2004-04-13",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3385207A",
+        "last_name": "Gramoll",
+        "first_name": "Kurt"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169722M",
+    "title": "Interact Math MS-DOS 3.5\" Version to Accompany Developmental Mathematics",
+    "city": null,
+    "publisher": "Addison Wesley Publishing Company",
+    "year": 1998,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2005-09-23",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2670124A",
+        "last_name": "A. Beecher",
+        "first_name": "Judith"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169723M",
+    "title": "Interact Math Package DOS 3.5\" Version 1.1 to Accompany Prealgebra 2e",
+    "city": null,
+    "publisher": "Not Avail",
+    "year": 1998,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2012-10-29",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2670124A",
+        "last_name": "A. Beecher",
+        "first_name": "Judith"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169724M",
+    "title": "Interact Math Macintosh Package to Accompany Developmental Mathematics",
+    "city": null,
+    "publisher": "Not Avail",
+    "year": 1998,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2003-05-13",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2670124A",
+        "last_name": "A. Beecher",
+        "first_name": "Judith"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169725M",
+    "title": "Interact Math Macintosh Package to Accompany Prealgebra",
+    "city": null,
+    "publisher": "Not Avail",
+    "year": 1998,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2002-12-17",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2670124A",
+        "last_name": "A. Beecher",
+        "first_name": "Judith"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169726M",
+    "title": "Interact Math Macintosh Package to Accompany Elementary Algebra Second Edition",
+    "city": null,
+    "publisher": "Addison Wesley Publishing Company",
+    "year": 1998,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2011-06-05",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL29198A",
+        "last_name": "Dugopolski",
+        "first_name": "Mark"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169727M",
+    "title": "Instructors Resource Manual to Money, the Financial System and Th",
+    "city": null,
+    "publisher": "Addison-Wesley",
+    "year": 2000,
+    "subject": "Education",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2011-07-03",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2670506A",
+        "last_name": "Hubbard",
+        "first_name": "S."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169728M",
+    "title": "Prealgebra Worktext to Accompany Videotext Interactive (Vti) Series",
+    "city": null,
+    "publisher": "Not Avail",
+    "year": 1998,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2006-11-27",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1382135A",
+        "last_name": "Clark",
+        "first_name": "Tom"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169729M",
+    "title": "Videotext",
+    "city": null,
+    "publisher": "Addison Wesley Longman",
+    "year": 1995,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2016-10-01",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL593329A",
+        "last_name": "Clark",
+        "first_name": "Thomas"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1016972M",
+    "title": "Passport's illustrated travel guide to Prague",
+    "city": "Lincolnwood, Ill",
+    "publisher": "Passport Books",
+    "year": 1997,
+    "subject": "Prague (Czech Republic) -- Guidebooks.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 192,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2003-04-27",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL275253A",
+        "last_name": "Louis.",
+        "first_name": "James,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169730M",
+    "title": "Combined Worktext to Accompany Videotext Interactive (Vti) Series",
+    "city": null,
+    "publisher": "Addison Wesley Publishing Company",
+    "year": 1998,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2013-01-08",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1382135A",
+        "last_name": "Clark",
+        "first_name": "Tom"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169731M",
+    "title": "Intermediate Algebra",
+    "city": null,
+    "publisher": "Addison Wesley Publishing Company",
+    "year": 1998,
+    "subject": "Algebra - General",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2014-01-01",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2670124A",
+        "last_name": "A. Beecher",
+        "first_name": "Judith"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169732M",
+    "title": "Differential Equations",
+    "city": null,
+    "publisher": "Not Avail",
+    "year": 1998,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2013-01-11",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2683366A",
+        "last_name": "Giordano",
+        "first_name": "Frank"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169733M",
+    "title": "University Physics Standard Version and Study Guide Volume 1 Bundle",
+    "city": null,
+    "publisher": "Not Avail",
+    "year": 1998,
+    "subject": "Physics",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2004-05-21",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL32964A",
+        "last_name": "D. Young",
+        "first_name": "Hugh"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169734M",
+    "title": "Autocad With 2d Lab Applications",
+    "city": null,
+    "publisher": "Addison Wesley Longman",
+    "year": 1996,
+    "subject": "Applications of Computing",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 507,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2000-04-30",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3385188A",
+        "last_name": "R. Kyles",
+        "first_name": "S."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169735M",
+    "title": "Instructor's Resource Pack to Accompany \"Autocad with 2-D and 3-D Lab Applications",
+    "city": null,
+    "publisher": "Longman Higher Education",
+    "year": 1996,
+    "subject": "AutoCAD",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2012-07-01",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3385257A",
+        "last_name": "Kyles",
+        "first_name": "S.R."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169736M",
+    "title": "Engineering Graphics",
+    "city": null,
+    "publisher": "Addison Wesley",
+    "year": 2002,
+    "subject": "Engineering graphics & technical drawing",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 384,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2009-07-07",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3287392A",
+        "last_name": "McAdam",
+        "first_name": "McAdam"
+      },
+      {
+        "openlibrary_id": "/authors/OL3385258A",
+        "last_name": "WINN",
+        "first_name": "WINN"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169737M",
+    "title": "ACTES ET PAROLES MANUAL DE GRAMMAIRE ET DE LABORATOIRE",
+    "city": null,
+    "publisher": "Addison-Wesley",
+    "year": 1997,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2015-04-13",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3385259A",
+        "last_name": "Elizov",
+        "first_name": "Henriette"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169738M",
+    "title": "Personal Financial Strategies",
+    "city": null,
+    "publisher": "Addison-Wesley Publishing",
+    "year": 1996,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2013-03-12",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2005109A",
+        "last_name": "C. Steele",
+        "first_name": "Richard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169739M",
+    "title": "Top Funds for \"97\"",
+    "city": null,
+    "publisher": "Addison Wesley Pub Ltd",
+    "year": 1997,
+    "subject": "Reference",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2014-08-15",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2627971A",
+        "last_name": "Young",
+        "first_name": "Young"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1016973M",
+    "title": "Passport's illustrated travel guide to Paris",
+    "city": "Lincolnwood, Ill",
+    "publisher": "Passport Books",
+    "year": 1997,
+    "subject": "Paris (France) -- Guidebooks.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 192,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2016-05-01",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL38014A",
+        "last_name": "Morris",
+        "first_name": "Elisabeth"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169740M",
+    "title": "Addison-Wesley Secondary Math",
+    "city": null,
+    "publisher": "Addison-Wesley",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2013-05-15",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1173450A",
+        "last_name": "Obrinsky",
+        "first_name": "Mark"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169741M",
+    "title": "Elementary Algebra Student Solutions Manual",
+    "city": null,
+    "publisher": "Addison Wesley Publishing Company",
+    "year": 1998,
+    "subject": "Algebra - General",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2009-12-17",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL29198A",
+        "last_name": "Dugopolski",
+        "first_name": "Mark"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169742M",
+    "title": "Amazing English (Word Attack 3)",
+    "city": null,
+    "publisher": "Addison Wesley Publishing Company",
+    "year": 1998,
+    "subject": "ESL Curriculum",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2013-06-16",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2669721A",
+        "last_name": "Walker",
+        "first_name": "Michael"
+      },
+      {
+        "openlibrary_id": "/authors/OL3385260A",
+        "last_name": "Foreman",
+        "first_name": "Scott"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169743M",
+    "title": "Calculus with Supplementary Chapters Bundle",
+    "city": null,
+    "publisher": "Not Avail",
+    "year": 1998,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2000-05-19",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2670124A",
+        "last_name": "A. Beecher",
+        "first_name": "Judith"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169744M",
+    "title": "Bundle C by Dissection with FORTRAN 90",
+    "city": null,
+    "publisher": "Not Avail",
+    "year": 1998,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2013-11-23",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL401384A",
+        "last_name": "Kelley",
+        "first_name": "Al"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169745M",
+    "title": "Oo Faqs",
+    "city": null,
+    "publisher": "Addison-Wesley",
+    "year": 1998,
+    "subject": "Object-oriented programming (OOP)",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 400,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2010-05-26",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3385261A",
+        "last_name": "Hathaway",
+        "first_name": "Robert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169746M",
+    "title": "Visualworks Smalltalk",
+    "city": null,
+    "publisher": "Addison-Wesley",
+    "year": 1999,
+    "subject": "Computing and Information Technology",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2015-02-04",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1007088A",
+        "last_name": "Tomek",
+        "first_name": "Ivan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169747M",
+    "title": "Understanding Business Objects",
+    "city": null,
+    "publisher": "Addison Wesley Publishing Company",
+    "year": 2004,
+    "subject": "Object-Oriented Programming",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 225,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2013-03-07",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3385262A",
+        "last_name": "E. Shelton",
+        "first_name": "Robert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169748M",
+    "title": "Logicworks 3libraries Disk1 Windows Pkg",
+    "city": null,
+    "publisher": "Higher Education Publishing Company",
+    "year": 1996,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2005-05-21",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1444662A",
+        "last_name": "Neale",
+        "first_name": "Jenny"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169749M",
+    "title": "LogicWorks 3 Site License 5-Pack Pkg.",
+    "city": null,
+    "publisher": "Prentice Hall College Div",
+    "year": 1996,
+    "subject": "Computing and Information Technology",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2009-05-31",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3379136A",
+        "last_name": "Capilano",
+        "first_name": "Capilano"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1016974M",
+    "title": "Passport's illustrated travel guide to Boston & New England",
+    "city": "Lincolnwood, Ill",
+    "publisher": "Passport Books",
+    "year": 1997,
+    "subject": "Boston (Mass.) -- Guidebooks.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 192,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2002-08-26",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL272563A",
+        "last_name": "Robert",
+        "first_name": "Holmes,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169750M",
+    "title": "Introduction to Pspice 5e",
+    "city": null,
+    "publisher": "Addison-Wesley",
+    "year": 1999,
+    "subject": "Electronics - Circuits - General",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2013-11-09",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2670451A",
+        "last_name": "Nilsson",
+        "first_name": "Nilsson"
+      },
+      {
+        "openlibrary_id": "/authors/OL2671264A",
+        "last_name": "Riedel",
+        "first_name": "Riedel"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169751M",
+    "title": "Electric Circuits",
+    "city": null,
+    "publisher": "Addison Wesley Publishing Company",
+    "year": 1996,
+    "subject": "Applications of Computing",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 1200,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2007-04-02",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3385263A",
+        "last_name": "Nilsson",
+        "first_name": "James"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169752M",
+    "title": "Engineering Design Graphics 51982 and AutoCAD Release 12 Tutorial Guide 62344 Bundle",
+    "city": null,
+    "publisher": "Not Avail",
+    "year": 1998,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2006-02-16",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3379133A",
+        "last_name": "Earle",
+        "first_name": "James"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169753M",
+    "title": "Pd planet ant",
+    "city": null,
+    "publisher": "Planet Dexter",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2000-10-18",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1522068A",
+        "last_name": "Keely",
+        "first_name": "Jack"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169754M",
+    "title": "Exploring English Screening and Placement Tests",
+    "city": null,
+    "publisher": "Addison Wesley Publishing Company",
+    "year": 1998,
+    "subject": "ELT: Learning Material & Coursework",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 37,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2010-02-15",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2703575A",
+        "last_name": "Linse",
+        "first_name": "Caroline"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169755M",
+    "title": "More Grammar Plus Student Book (More Grammar Plus)",
+    "city": null,
+    "publisher": "Addison Wesley Publishing Company",
+    "year": 1996,
+    "subject": "Language teaching & learning material & coursework",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 159,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2002-12-09",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2907789A",
+        "last_name": "Mackey",
+        "first_name": "Mackey"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169756M",
+    "title": "More Grammar Plus Student Book",
+    "city": null,
+    "publisher": "Addison Wesley Publishing Company",
+    "year": 1996,
+    "subject": "Language teaching & learning material & coursework",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 173,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2009-12-16",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2907789A",
+        "last_name": "Mackey",
+        "first_name": "Mackey"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169757M",
+    "title": "More Grammar Plus",
+    "city": null,
+    "publisher": "Addison Wesley Publishing Company",
+    "year": 1997,
+    "subject": "English as a Second Language",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 74,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2006-09-02",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL447674A",
+        "last_name": "Mackey",
+        "first_name": "Daphne"
+      },
+      {
+        "openlibrary_id": "/authors/OL2671288A",
+        "last_name": "Sokmen",
+        "first_name": "Anita"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169758M",
+    "title": "Prealgebra Problem Solving (Annotated Instructor's Edition)",
+    "city": null,
+    "publisher": "Pearson Addison Wesley",
+    "year": 2004,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2002-11-29",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1167730A",
+        "last_name": "van Doorslaer",
+        "first_name": "Jozef"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169759M",
+    "title": "User's Guide",
+    "city": null,
+    "publisher": "Addison Wesley Publishing Company",
+    "year": 1997,
+    "subject": "ELT examination practice tests",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 95,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2007-08-18",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL237251A",
+        "last_name": "Phillips",
+        "first_name": "Deborah"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1016975M",
+    "title": "Passport's illustrated travel guide to Belgium",
+    "city": "Lincolnwood, Ill",
+    "publisher": "Passport Books",
+    "year": 1997,
+    "subject": "Belgium -- Guidebooks.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 192,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2008-04-04",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL38013A",
+        "last_name": "George",
+        "first_name": "McDonald,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169760M",
+    "title": "College Algebra/College Algebra & Trigonometry Omnitest 3 3.5 MS-DOS",
+    "city": null,
+    "publisher": "Addison Wesley Publishing Company",
+    "year": 1998,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2006-08-03",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL29198A",
+        "last_name": "Dugopolski",
+        "first_name": "Mark"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169761M",
+    "title": "The student edition of Auto Sketch 2",
+    "city": null,
+    "publisher": "Benjamin/Cummings Pub. Co",
+    "year": 1989,
+    "subject": "Computer graphics",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 290,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2013-01-10",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3385264A",
+        "last_name": "L Conner",
+        "first_name": "Frank"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169762M",
+    "title": "The student edition of Aldus PageMaker, version 4.0",
+    "city": null,
+    "publisher": "Addison-Wesley",
+    "year": 1991,
+    "subject": "Aldus PageMaker",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 371,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2002-08-15",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL38874A",
+        "last_name": "Victor Kerlow",
+        "first_name": "Isaac"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169763M",
+    "title": "Student Edition of Minitab Statistical",
+    "city": null,
+    "publisher": "Addison-Wesley",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2012-06-03",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL810837A",
+        "last_name": "Schaefer",
+        "first_name": "Robert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169764M",
+    "title": "The Student Edition of Framework II; Multifunction Software...Adapted for Education",
+    "city": null,
+    "publisher": "Addison-Wesley Publishing Company",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2016-10-10",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1218685A",
+        "last_name": "Aiello",
+        "first_name": "Kate"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169765M",
+    "title": "Mathematical modeling with MathCAD",
+    "city": null,
+    "publisher": "Benjamin/Cummings Pub. Co., Inc",
+    "year": 1990,
+    "subject": "Calculus",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 157,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2004-08-13",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2836091A",
+        "last_name": "Rowell",
+        "first_name": "Jim"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169766M",
+    "title": "Electric Circuits Transparencies Masters",
+    "city": null,
+    "publisher": "Addison-Wesley",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 600,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2016-09-11",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2670451A",
+        "last_name": "Nilsson",
+        "first_name": "Nilsson"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169767M",
+    "title": "NACS Nitty Gritty Bundle",
+    "city": null,
+    "publisher": "Addison-Wesley Professional",
+    "year": 2002,
+    "subject": "Object-oriented programming (OOP)",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2001-11-16",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3385265A",
+        "last_name": "AWProfessional",
+        "first_name": "AWProfessional"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169768M",
+    "title": "B-C Comp Sci Cat '93 /Catalog",
+    "city": null,
+    "publisher": "Addison-Wesley",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "dut",
+    "days_keep_count": 30,
+    "adding_date": "2014-01-11",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1429411A",
+        "last_name": "Redmond",
+        "first_name": "Jessica"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169769M",
+    "title": "B-C Science Cat 1993 /Catalog",
+    "city": null,
+    "publisher": "Addison-Wesley",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "dut",
+    "days_keep_count": 100,
+    "adding_date": "2003-05-20",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1281632A",
+        "last_name": "A. J. S. van den Gevel",
+        "first_name": "A."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1016976M",
+    "title": "Slackware Linux unleashed",
+    "city": "Indianapolis, Ind",
+    "publisher": "Sams Pub.",
+    "year": 1997,
+    "subject": "Linux.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 1331,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2016-10-24",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1013943A",
+        "last_name": "Hannon",
+        "first_name": "Nan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169770M",
+    "title": "The student edition of AUTOCAD Release 11 386 with AME",
+    "city": null,
+    "publisher": "Addison-Wesley",
+    "year": 1994,
+    "subject": "Architectural drawing",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 404,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2004-01-25",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3385266A",
+        "last_name": "R Kyles",
+        "first_name": "S."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169771M",
+    "title": "Instr Pack Mult Bus Fin 6e /Eiteman",
+    "city": null,
+    "publisher": "Addison Wesley Longman Publishing Co",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2008-10-29",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1460411A",
+        "last_name": "Kebbe",
+        "first_name": "Charles"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169772M",
+    "title": "Economics",
+    "city": null,
+    "publisher": "Addison-Wesley",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2002-08-17",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3354269A",
+        "last_name": "Ekelund",
+        "first_name": "Ekelund"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169773M",
+    "title": "Multimedia '96 Conference Proceedings (ACM Press)",
+    "city": null,
+    "publisher": "Addison-Wesley Pub (Sd)",
+    "year": 1996,
+    "subject": "Multimedia",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 572,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2001-07-03",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2670098A",
+        "last_name": "Acm",
+        "first_name": "Acm"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169774M",
+    "title": "Pocket Guide to Geometrics IIIM Dimensioning",
+    "city": null,
+    "publisher": "Addison-wesley",
+    "year": 1995,
+    "subject": "Computing and Information Technology",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2009-12-13",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3378832A",
+        "last_name": "Foster",
+        "first_name": "Lowell"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169775M",
+    "title": "a-W K-8 School Catalog 1992 /Addison Wesley",
+    "city": null,
+    "publisher": "Addison-Wesley",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "dut",
+    "days_keep_count": 30,
+    "adding_date": "2014-05-03",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL12391A",
+        "last_name": "Danesh Áli Pathan",
+        "first_name": "Muhammad"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169776M",
+    "title": "a-W 7-12 School Catalog 1992 /Addison Wesley",
+    "city": null,
+    "publisher": "Addison-Wesley",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "dut",
+    "days_keep_count": 50,
+    "adding_date": "2008-07-07",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1189775A",
+        "last_name": "Vail",
+        "first_name": "Linda"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169777M",
+    "title": "The art and science of C",
+    "city": null,
+    "publisher": "Addison-Wesley Pub. Co",
+    "year": 1995,
+    "subject": "C (Computer program language)",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 429,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2013-09-05",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL388217A",
+        "last_name": "Roberts",
+        "first_name": "Eric"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169778M",
+    "title": "Inst Man ( Turbo) Pasc",
+    "city": null,
+    "publisher": "Addison Wesley Longman Publishing Co",
+    "year": 1995,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2003-03-16",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2670452A",
+        "last_name": "Koffman",
+        "first_name": "Koffman"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169779M",
+    "title": "Im to 59064 (X)",
+    "city": null,
+    "publisher": "Penguin Books Australia Ltd.",
+    "year": 1999,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2008-09-30",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3385267A",
+        "last_name": "HANLY",
+        "first_name": "HANLY"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1016977M",
+    "title": "Laura Lemay's guide to sizzling Web site design",
+    "city": "Indianapolis, Ind",
+    "publisher": "Sams.net",
+    "year": 1997,
+    "subject": "Web sites -- Design.",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 218,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2014-09-11",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL246643A",
+        "last_name": "E. Holzschlag",
+        "first_name": "Molly"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169780M",
+    "title": "The Student Edition of Lotus 1-2-3 Release 2.3",
+    "city": null,
+    "publisher": "Addison-Wesley",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 700,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2004-11-04",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1298903A",
+        "last_name": "Robardet",
+        "first_name": "Michel"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169781M",
+    "title": "An introduction to HIV",
+    "city": null,
+    "publisher": "Benjamin/Cummings",
+    "year": 1993,
+    "subject": "HIV",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 31,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2013-06-02",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3385268A",
+        "last_name": "Kassler",
+        "first_name": "William"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169782M",
+    "title": "GENERAL CATALOG SUPP '92 /ADDISON WESLEY",
+    "city": null,
+    "publisher": "Addison Wesley Higher Education (a Pearson Education company)",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2013-07-16",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1075988A",
+        "last_name": "Van Atta",
+        "first_name": "Lucibel"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169783M",
+    "title": "Expert advisor. 1-2-3, release 2.2",
+    "city": null,
+    "publisher": "Addison-Wesley",
+    "year": 1989,
+    "subject": "Business",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 104,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2010-01-07",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1008286A",
+        "last_name": "M. Williams",
+        "first_name": "Mark"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169784M",
+    "title": "Communicating in English (Success)",
+    "city": null,
+    "publisher": "Addison Wesley Publishing Company",
+    "year": 1997,
+    "subject": "Communication",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2013-07-16",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2669721A",
+        "last_name": "Walker",
+        "first_name": "Michael"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169785M",
+    "title": "Student Manual for the Student Edition of AutoSketch 3 (50616)",
+    "city": null,
+    "publisher": "Addison Wesley Publishing Company",
+    "year": 1998,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2006-12-14",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3385270A",
+        "last_name": "Autodesk",
+        "first_name": "Conner"
+      },
+      {
+        "openlibrary_id": "/authors/OL2653254A",
+        "last_name": "Autodesk",
+        "first_name": "Autodesk"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169786M",
+    "title": "dBASE IV, version 1.1 (Student Edition)",
+    "city": null,
+    "publisher": null,
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2000-07-21",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL402479A",
+        "last_name": "A. Senn",
+        "first_name": "James"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169787M",
+    "title": "Student Edition of Minitab Statistical",
+    "city": null,
+    "publisher": "Addison-Wesley",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2012-11-05",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL810837A",
+        "last_name": "Schaefer",
+        "first_name": "Robert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169788M",
+    "title": "The student edition of Minitab",
+    "city": null,
+    "publisher": "Benjamin/Cummings",
+    "year": 1992,
+    "subject": "Computer programs",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 592,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2006-02-25",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3385271A",
+        "last_name": "L Schaefer",
+        "first_name": "Robert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169789M",
+    "title": "A tutorial guide to Lotus 1-2-3 release 2.3",
+    "city": null,
+    "publisher": "Addison-Wesley Pub. Co",
+    "year": 1991,
+    "subject": "Lotus 1-2-3 (Computer file)",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2008-02-16",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL431141A",
+        "last_name": "Zak",
+        "first_name": "Diane"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1016978M",
+    "title": "Teach yourself IntraBuilder in 21 days",
+    "city": "Indianapolis, Ind",
+    "publisher": "Sams.net Pub.",
+    "year": 1997,
+    "subject": "IntraBuilder.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 764,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2008-08-27",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL460061A",
+        "last_name": "Mahar",
+        "first_name": "Paul"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169790M",
+    "title": "Study Guide, Microeconomics",
+    "city": null,
+    "publisher": "Addison-Wesley",
+    "year": 2002,
+    "subject": "Microeconomics",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 392,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2006-11-26",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL199050A",
+        "last_name": "Michael",
+        "first_name": "Parkin,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169791M",
+    "title": "Higgs Hunter's Guide (On Demand Printing of 50935) (Frontiers in Physics)",
+    "city": null,
+    "publisher": "Addison Wesley Publishing Company",
+    "year": 1998,
+    "subject": "PHYSICS",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 448,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2008-02-18",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2805673A",
+        "last_name": "F. Gunion",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169792M",
+    "title": "Amazing English! An Integrated ESL Curriculum (Process Writing Projects Booklet, Level E)",
+    "city": null,
+    "publisher": "Addison-Wesley Publishing Company",
+    "year": 1996,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 30,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2007-04-24",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2670020A",
+        "last_name": "Schottman",
+        "first_name": "Elly"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169793M",
+    "title": "Explorations in Science",
+    "city": null,
+    "publisher": "Addison-Wesley",
+    "year": 1999,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2004-07-05",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1001924A",
+        "last_name": "S. Soane",
+        "first_name": "David"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169794M",
+    "title": "AutoCAD LT for Windows for Students ",
+    "city": null,
+    "publisher": "Addison-Wesley Publishing Company",
+    "year": 1995,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 185,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2001-01-04",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1310377A",
+        "last_name": "Santos G.",
+        "first_name": "Jorge"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169795M",
+    "title": "AutoCAD LT For Students",
+    "city": null,
+    "publisher": "Addison-Wesley Publishing Company",
+    "year": 1995,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2013-06-25",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3385272A",
+        "last_name": "By Title",
+        "first_name": "File"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169796M",
+    "title": "Lotus 1-2-3 for Macintosh",
+    "city": null,
+    "publisher": "Addison-Wesley Pub. Co",
+    "year": 1993,
+    "subject": "Business",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 67,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2016-08-01",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL431141A",
+        "last_name": "Zak",
+        "first_name": "Diane"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169797M",
+    "title": "The Student Edition of AUTOCAD Release 10",
+    "city": null,
+    "publisher": "Addison-Wesley",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2011-06-29",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3385273A",
+        "last_name": "D. Bethune and Shawna D. Lockhart",
+        "first_name": "James"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169798M",
+    "title": "Maple Based Instructors Guide to Introduction to Diferential Equa",
+    "city": null,
+    "publisher": "Addison-Wesley",
+    "year": 1999,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2010-09-12",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3385274A",
+        "last_name": "MEAD",
+        "first_name": "MEAD"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169799M",
+    "title": "The Calculus Toolkit",
+    "city": null,
+    "publisher": "Addison Wesley Higher Education (a Pearson Education company)",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2009-09-21",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1227151A",
+        "last_name": "Veṅkaṭēśvararāvu",
+        "first_name": "Tripuranēni"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1016979M",
+    "title": "Microsoft FrontPage 97",
+    "city": "Indianapolis, Ind",
+    "publisher": "Sams.net",
+    "year": 1997,
+    "subject": "Microsoft FrontPage.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 783,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2008-10-06",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL405658A",
+        "last_name": "Tyler",
+        "first_name": "Denise"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL101697M",
+    "title": "Threads through time",
+    "city": "London",
+    "publisher": "Penguin Books",
+    "year": 1999,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 422,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2003-04-10",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL68326A",
+        "last_name": "Rowbotham",
+        "first_name": "Sheila"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169800M",
+    "title": "Supplement sampler to accompany Computers and business information processing",
+    "city": null,
+    "publisher": "Addison-Wesley",
+    "year": 1981,
+    "subject": "Business",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 85,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2015-09-10",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3378456A",
+        "last_name": "S Davis",
+        "first_name": "William"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169801M",
+    "title": "Joy of Photography and More Joy of Photography",
+    "city": null,
+    "publisher": "Addison-Wesley Pub Co (T)",
+    "year": 1982,
+    "subject": "Hobbies/Crafts",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2016-08-27",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1130070A",
+        "last_name": "Kodak Company",
+        "first_name": "Eastman"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169802M",
+    "title": "Appeal of Cricket (Signed)",
+    "city": null,
+    "publisher": "AldineTransaction",
+    "year": 1995,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 280,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2010-07-01",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL288117A",
+        "last_name": "Benaud",
+        "first_name": "Richie"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169803M",
+    "title": "The Wheels on the Bus",
+    "city": null,
+    "publisher": "Walter de Gruyter & Co",
+    "year": 1999,
+    "subject": "Nursery rhymes",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2012-10-04",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1354660A",
+        "last_name": "Konovalov",
+        "first_name": "Iv"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169804M",
+    "title": "Traditional Nursery Rhymes",
+    "city": null,
+    "publisher": "Walter de Gruyter & Co",
+    "year": 1999,
+    "subject": "Nursery rhymes",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2004-02-01",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1445012A",
+        "last_name": "A. Rogozhin",
+        "first_name": "N."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169805M",
+    "title": "Traditional Nursery Rhymes",
+    "city": null,
+    "publisher": "Walter de Gruyter & Co",
+    "year": 1999,
+    "subject": "Nursery rhymes",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2000-12-01",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1269422A",
+        "last_name": "\"Problemi della ripresa europea e del nuovo ordine economico internazionale\" (1982 Modena, Italy)",
+        "first_name": "Convegno"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169806M",
+    "title": "Beep-beep, Toot-toot",
+    "city": null,
+    "publisher": "Walter de Gruyter & Co",
+    "year": null,
+    "subject": "Things that go",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2002-10-31",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1356360A",
+        "last_name": "Dangel",
+        "first_name": "Jacqueline"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169807M",
+    "title": "Fifty Favourite Christmas Carols, Songs and Stories",
+    "city": null,
+    "publisher": "Fast Forward",
+    "year": 1999,
+    "subject": "Musical scores, lyrics & songbooks",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2008-01-01",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1230767A",
+        "last_name": "Kamāl al-Dīn Mūsá",
+        "first_name": "Aḥmad"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169808M",
+    "title": "Bertram's Buyer's Notes",
+    "city": null,
+    "publisher": "Walter de Gruyter & Co",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2009-07-16",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1325454A",
+        "last_name": "Iamandi",
+        "first_name": "Constantin"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169809M",
+    "title": "Cat",
+    "city": null,
+    "publisher": "Walter de Gruyter & Co",
+    "year": null,
+    "subject": "Animals depicted in art",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2009-11-29",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL107654A",
+        "last_name": "Vēṅkaṭēśvararāvu",
+        "first_name": "Parsā"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1016980M",
+    "title": "Teach yourself Windows 95 in 24 hours",
+    "city": "Indianapolis, Ind",
+    "publisher": "Sams Pub.",
+    "year": 1997,
+    "subject": "Microsoft Windows (Computer file)",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 542,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2009-01-01",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL72683A",
+        "last_name": "M. Perry",
+        "first_name": "Greg"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169810M",
+    "title": "Fimbles Video",
+    "city": null,
+    "publisher": null,
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2012-04-06",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1434425A",
+        "last_name": "Geoffrey Scott",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169811M",
+    "title": "Tweenies Video",
+    "city": null,
+    "publisher": null,
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2015-03-17",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1270093A",
+        "last_name": "Yukihiko",
+        "first_name": "Kimiya,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169812M",
+    "title": "Americans in Paris",
+    "city": null,
+    "publisher": "Aldine",
+    "year": 1977,
+    "subject": "Americans",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 113,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2005-12-28",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL350266A",
+        "last_name": "Petit-Skinner",
+        "first_name": "Solange"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169813M",
+    "title": "Female Hierarchies",
+    "city": null,
+    "publisher": "Pub Marketing Enterprises",
+    "year": 1990,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2012-08-24",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL229722A",
+        "last_name": "Tiger",
+        "first_name": "Lionel"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169814M",
+    "title": "Food Heroes",
+    "city": null,
+    "publisher": null,
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2014-06-10",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL397688A",
+        "last_name": "Stein",
+        "first_name": "Rick"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169815M",
+    "title": "Bertrams Books for Xmas 2005 X200 Pack",
+    "city": null,
+    "publisher": null,
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2012-09-20",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1309644A",
+        "last_name": "Jialing.",
+        "first_name": "Shao,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169816M",
+    "title": "Human Evolution",
+    "city": null,
+    "publisher": "Aldine Publishing",
+    "year": 1973,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 425,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2001-06-19",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2672543A",
+        "last_name": "G. Campbell",
+        "first_name": "Bernard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169817M",
+    "title": "The Chromosomes in Human Evolution",
+    "city": null,
+    "publisher": "Aldine De Gruyter",
+    "year": 2002,
+    "subject": "Anthropology - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 152,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2008-11-07",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL581382A",
+        "last_name": "Marks",
+        "first_name": "Jonathan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169818M",
+    "title": "The Chromosomes in Human Evolution",
+    "city": null,
+    "publisher": "Aldine De Gruyter",
+    "year": 2002,
+    "subject": "Anthropology - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 152,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2016-09-03",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL581382A",
+        "last_name": "Marks",
+        "first_name": "Jonathan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169819M",
+    "title": "Ghost Rider: Is He Alive or Dead?",
+    "city": null,
+    "publisher": "Marvel Comics Group",
+    "year": 1973,
+    "subject": "Comics & Graphic Novels - Comic Books",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 36,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2003-05-28",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL560209A",
+        "last_name": "Lee",
+        "first_name": "Stan"
+      },
+      {
+        "openlibrary_id": "/authors/OL2671735A",
+        "last_name": "Friedrich",
+        "first_name": "Gary"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1016981M",
+    "title": "Lotus Notes and Domino Server 4.5 unleashed",
+    "city": "Indianapolis, IN",
+    "publisher": "SAMS",
+    "year": 1997,
+    "subject": "Lotus Notes.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 1094,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2005-08-08",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1236321A",
+        "last_name": "L. Schagrin",
+        "first_name": "Morton"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169820M",
+    "title": "Uncle Bob's Rules on Data Entry",
+    "city": null,
+    "publisher": "Test Publ 1",
+    "year": 1998,
+    "subject": "Reference",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2012-01-19",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3385275A",
+        "last_name": "Doran",
+        "first_name": "Arden"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169821M",
+    "title": "Cgroh's Useful Test Titles",
+    "city": null,
+    "publisher": "Test Publ 1",
+    "year": 1980,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2000-09-28",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3385276A",
+        "last_name": "Test",
+        "first_name": "Test"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169822M",
+    "title": "Benefit Cost and Policy Analysis an A",
+    "city": null,
+    "publisher": "Aldine Publishing Co",
+    "year": 1973,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2000-08-28",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3385277A",
+        "last_name": "Niskanen",
+        "first_name": "William"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169823M",
+    "title": "Benefit-cost and Policy Analysis 1974",
+    "city": null,
+    "publisher": "Aldine Publishing Co.",
+    "year": 1975,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2013-10-16",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1082360A",
+        "last_name": "González Cajiao",
+        "first_name": "Fernando"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169824M",
+    "title": "Aldine University Atlas",
+    "city": null,
+    "publisher": "Beresford Book Serv",
+    "year": 1969,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2013-08-25",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3385278A",
+        "last_name": "S. Ginsburg",
+        "first_name": "Norton"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169825M",
+    "title": "Structure of Political Geography",
+    "city": null,
+    "publisher": "Walter de Gruyter, Inc.",
+    "year": 1969,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2009-04-07",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3385279A",
+        "last_name": "K. Kasperson",
+        "first_name": "R."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169826M",
+    "title": "World patterns",
+    "city": null,
+    "publisher": "Aldine Pub. Co",
+    "year": 1971,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 128,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2014-01-06",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL473784A",
+        "last_name": "Philip & Son.",
+        "first_name": "George"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169827M",
+    "title": "Police Power and Individual Freedom",
+    "city": null,
+    "publisher": "Walter de Gruyter, Inc.",
+    "year": 1962,
+    "subject": "Congresses",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2015-11-09",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3385280A",
+        "last_name": "1960 International Conference on Criminal Law Administration",
+        "first_name": "Chicago,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169828M",
+    "title": "The Pundit Collection",
+    "city": null,
+    "publisher": null,
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2000-03-22",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1142806A",
+        "last_name": "D. Stanley",
+        "first_name": "T."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169829M",
+    "title": "NATION-BUILDING",
+    "city": null,
+    "publisher": null,
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2000-12-03",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1284542A",
+        "last_name": "R. MacQuarrie",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1016982M",
+    "title": "Teach yourself Microsoft Office 97 in 24 hours",
+    "city": "Indianapolis, Ind",
+    "publisher": "Sams Pub.",
+    "year": 1997,
+    "subject": "Microsoft Office.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 402,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2003-12-11",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL72683A",
+        "last_name": "M. Perry",
+        "first_name": "Greg"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169830M",
+    "title": "Utopia",
+    "city": null,
+    "publisher": "Lieber-Atherton",
+    "year": 1971,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2015-07-24",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL582568A",
+        "last_name": "Kateb",
+        "first_name": "George"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169831M",
+    "title": "Political Theory and Social Change.",
+    "city": null,
+    "publisher": "Walter de Gruyter, Inc.",
+    "year": 1967,
+    "subject": "Addresses, essays, lectures",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2000-08-12",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3385281A",
+        "last_name": "Press, 1967. New York",
+        "first_name": "Atherton"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169832M",
+    "title": "Lao-Tzu",
+    "city": null,
+    "publisher": null,
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2012-11-16",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1461996A",
+        "last_name": "Seldin",
+        "first_name": "Scott"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169833M",
+    "title": "Early Education",
+    "city": null,
+    "publisher": "Walter de Gruyter, Inc.",
+    "year": 1968,
+    "subject": "Congresses",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2012-04-28",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3385282A",
+        "last_name": "on Pre-School Education",
+        "first_name": "Conference"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169834M",
+    "title": "Smoking, Health, and Behavior.",
+    "city": null,
+    "publisher": "Walter de Gruyter, Inc.",
+    "year": 1969,
+    "subject": "Physiological effect",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2009-05-25",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3385283A",
+        "last_name": "Pub. Co. [1968] Chicago",
+        "first_name": "Aldine"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169835M",
+    "title": "Violent Men",
+    "city": null,
+    "publisher": "American Psychological Association (APA)",
+    "year": 1992,
+    "subject": "Aggressiveness (Psychology)",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2001-05-01",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1403187A",
+        "last_name": "Garg",
+        "first_name": "Nurussaba"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169836M",
+    "title": "Selected Papers on Conflict, Displacement, Learned Drives & Theory",
+    "city": null,
+    "publisher": "Aldine-Atherton",
+    "year": 1971,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2008-10-29",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1862183A",
+        "last_name": "E. Miller",
+        "first_name": "Neal"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169837M",
+    "title": "Interaction Concepts of Personality",
+    "city": null,
+    "publisher": "Aldine Publishing",
+    "year": 1977,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2005-03-06",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL391102A",
+        "last_name": "C. Carson",
+        "first_name": "Robert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169838M",
+    "title": "Social Interaction",
+    "city": null,
+    "publisher": "Walter de Gruyter, Inc.",
+    "year": 1970,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2004-01-21",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3385284A",
+        "last_name": "                      M",
+        "first_name": "Argyle                      "
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169839M",
+    "title": "Man, Woman and Marriage",
+    "city": null,
+    "publisher": "Lieber-Atherton",
+    "year": 1970,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2005-10-12",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2037193A",
+        "last_name": "L. Grey",
+        "first_name": "Alan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1016983M",
+    "title": "Teach yourself Windows NT 4 Workstation in 24 hours",
+    "city": "Indianapolis, Ind",
+    "publisher": "Sams Pub.",
+    "year": 1997,
+    "subject": "Microsoft Windows NT.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 510,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2005-09-03",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL117576A",
+        "last_name": "Teijirō",
+        "first_name": "Ueda,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169840M",
+    "title": "Biofeedback and Self Control 1975 1976, Stronghold of Civiliization",
+    "city": null,
+    "publisher": "Walter De Gruyter Inc",
+    "year": 1976,
+    "subject": "Canada",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 96,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2008-06-08",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3385285A",
+        "last_name": "Bank of Canada.",
+        "first_name": "Royal"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169841M",
+    "title": "Biofeedback and Self-Control 1976-1977",
+    "city": null,
+    "publisher": "Walter De Gruyter Inc",
+    "year": 1977,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 500,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2015-01-18",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2671362A",
+        "last_name": "Kamiya",
+        "first_name": "Joe"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169842M",
+    "title": "Biofeedback and Behavioral Medicine",
+    "city": null,
+    "publisher": "Aldine De Gruyter",
+    "year": 1981,
+    "subject": "Physiological & neuro-psychology",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 549,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2016-06-28",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2652093A",
+        "last_name": "Shapiro",
+        "first_name": "David"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169843M",
+    "title": "Meditation ",
+    "city": null,
+    "publisher": "Walter De Gruyter Inc",
+    "year": 1980,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 318,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2006-01-18",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3385286A",
+        "last_name": "H jr Shapiro Deane Shapiro",
+        "first_name": "Deane"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169844M",
+    "title": "Meditation Classic and Contemporary Perspective",
+    "city": null,
+    "publisher": "Walter de Gruyter, Inc.",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2011-05-27",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3385287A",
+        "last_name": "H. and Walsh, Roger N. Shapiro",
+        "first_name": "Deane"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169845M",
+    "title": "Toward Effective Counselling and Psychotherapy",
+    "city": null,
+    "publisher": "AldineTransaction",
+    "year": 1967,
+    "subject": "Counseling",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 416,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2011-01-24",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2128693A",
+        "last_name": "B. Truax",
+        "first_name": "Charles"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169846M",
+    "title": "Community Life for the Mentally Ill",
+    "city": null,
+    "publisher": "Walter de Gruyter, Inc.",
+    "year": 1969,
+    "subject": "Community mental health servic",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2008-09-02",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3385288A",
+        "last_name": "Pub. Co. [1969] Chicago",
+        "first_name": "Aldine"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169847M",
+    "title": "Mental Retardation",
+    "city": null,
+    "publisher": "Aldine Publishing Company, Chicago",
+    "year": 1975,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 419,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2010-04-08",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2224884A",
+        "last_name": "A. Baumeister",
+        "first_name": "Alfred"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169848M",
+    "title": "Utopiates the Use and Users of Lsd-25",
+    "city": null,
+    "publisher": "Walter de Gruyter, Inc.",
+    "year": 1964,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2016-08-06",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3385289A",
+        "last_name": "H. Blum",
+        "first_name": "R."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169849M",
+    "title": "Early Child Care",
+    "city": null,
+    "publisher": "Walter de Gruyter, Inc.",
+    "year": 1968,
+    "subject": "Child psychology",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2014-04-07",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1967492A",
+        "last_name": "A. Chandler",
+        "first_name": "Caroline"
+      },
+      {
+        "openlibrary_id": "/authors/OL3385290A",
+        "last_name": "S. Lourie",
+        "first_name": "Reginald"
+      },
+      {
+        "openlibrary_id": "/authors/OL3385291A",
+        "last_name": "DeHuff Peter",
+        "first_name": "Anne"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1016984M",
+    "title": "Windows NT 4 administrator's survival guide",
+    "city": "Indianapolis, Ind",
+    "publisher": "Sams Publishing",
+    "year": 1997,
+    "subject": "Microsoft Windows NT.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 825,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2004-06-29",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL458923A",
+        "last_name": "Sant'Angelo",
+        "first_name": "Rick"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169850M",
+    "title": "Group therapy today",
+    "city": null,
+    "publisher": "Aldine Pub. Co",
+    "year": 1974,
+    "subject": "Group psychotherapy",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 365,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2016-02-07",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1912436A",
+        "last_name": "Marinus Ruitenbeek",
+        "first_name": "Hendrik"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169851M",
+    "title": "Psychotherapy 1971 An Aldine Annual (Psychotherapy)",
+    "city": null,
+    "publisher": "Aldine",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2005-02-05",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1103988A",
+        "last_name": "Douceret",
+        "first_name": "Serge"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10169852M",
+    "title": "Psychotherapy and Behaviror Change 1973 (an Aldine Nnual on practice and research)",
+    "city": null,
+    "publisher": "Aldine",
+    "year": 1974,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2008-07-07",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1217279A",
+        "last_name": "Hideyuki",
+        "first_name": "Kudō,"
+      }
+    ]
+  }
+]

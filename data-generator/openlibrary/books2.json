@@ -1,0 +1,4482 @@
+[
+  {
+    "openlibrary_id": "/books/OL12113915M",
+    "title": "Hoover's Handbook of American Business",
+    "city": null,
+    "publisher": "Hoover's Handboooks",
+    "year": 1992,
+    "subject": "Industry & Industrial Studies",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 640,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2007-02-28",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3080432A",
+        "last_name": "Business Press",
+        "first_name": "Hoover's"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113916M",
+    "title": "Hoover's Handbook of American Business",
+    "city": null,
+    "publisher": "Hoover's Handboooks",
+    "year": 1992,
+    "subject": "Industry & Industrial Studies",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 640,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2008-09-04",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3080432A",
+        "last_name": "Business Press",
+        "first_name": "Hoover's"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113917M",
+    "title": "Statistical Abstract of the United States, 1992",
+    "city": null,
+    "publisher": "Hoover's",
+    "year": 1992,
+    "subject": "Statistics",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 979,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2009-08-12",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL140127A",
+        "last_name": "States. Bureau of the Census",
+        "first_name": "United"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113918M",
+    "title": "Brazil Company Handbook 1993",
+    "city": null,
+    "publisher": "Hoover's Inc",
+    "year": 1993,
+    "subject": "Reference",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 132,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2004-05-03",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1351144A",
+        "last_name": "Woodham Smith",
+        "first_name": "Cecil"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113919M",
+    "title": "Mexico Company Handbook",
+    "city": null,
+    "publisher": "Hoover's",
+    "year": 1992,
+    "subject": "International - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 173,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2002-08-06",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL136140A",
+        "last_name": "Monetary Fund.",
+        "first_name": "International"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1211391M",
+    "title": "América indígena",
+    "city": "Madrid",
+    "publisher": "Alianza Editorial",
+    "year": 1985,
+    "subject": "Indians.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 371,
+    "lang": "spa",
+    "days_keep_count": 100,
+    "adding_date": "2015-12-27",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL24886A",
+        "last_name": "Carrasco Pizana",
+        "first_name": "Pedro"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113920M",
+    "title": "Venezuela Company Handbook 92/93 (Venezuela Company Handbook)",
+    "city": null,
+    "publisher": "Hoover's",
+    "year": 1993,
+    "subject": "Directories",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 173,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2003-03-14",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820901A",
+        "last_name": "Editora",
+        "first_name": "Imf"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113921M",
+    "title": "Access Nippon 1994",
+    "city": null,
+    "publisher": "Hoover's Inc",
+    "year": 1994,
+    "subject": "1945-",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 424,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2009-08-13",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1459516A",
+        "last_name": "R. N.",
+        "first_name": "Robertson,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113922M",
+    "title": "Hoover's Masterlist of Major U.S. Companies 1993 (Hoover's Masterlist of Major Us Companies)",
+    "city": null,
+    "publisher": "Hoovers Inc",
+    "year": 1993,
+    "subject": "Industrial Directories (General)",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2014-01-11",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3059557A",
+        "last_name": "Press",
+        "first_name": "Reference"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113923M",
+    "title": "Hoover's Handbook of Emerging Companies, 1993-1994",
+    "city": null,
+    "publisher": "Hoover's",
+    "year": 1993,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 448,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2008-04-02",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1324824A",
+        "last_name": "M. Wright",
+        "first_name": "Nell"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113924M",
+    "title": "Hoover's Handbook of Emerging Companies, 1993-1994",
+    "city": null,
+    "publisher": "Hoover's",
+    "year": 1999,
+    "subject": "Corporate & Business History - General",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 448,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2007-07-02",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1061868A",
+        "last_name": "Knaff",
+        "first_name": "A."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113925M",
+    "title": "Hoover's Handbook of American Business, 1994 ",
+    "city": null,
+    "publisher": "Hoover's, Incorporated",
+    "year": 1994,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2003-08-12",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3080432A",
+        "last_name": "Business Press",
+        "first_name": "Hoover's"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113926M",
+    "title": "Hoover's Handbook of American Business 1994 (Hoover's Handbook of American Business)",
+    "city": null,
+    "publisher": "Hoover's",
+    "year": 1993,
+    "subject": "Corporations",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 1280,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2001-10-31",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3080432A",
+        "last_name": "Business Press",
+        "first_name": "Hoover's"
+      },
+      {
+        "openlibrary_id": "/authors/OL3820903A",
+        "last_name": "Campbell",
+        "first_name": "Alta"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113927M",
+    "title": "The National Book of Business Lists 1994",
+    "city": null,
+    "publisher": "Hoovers Inc",
+    "year": 1994,
+    "subject": "Corporate & Business History",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2014-08-30",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820904A",
+        "last_name": "K. Cronin",
+        "first_name": "Bartholomew"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113928M",
+    "title": "The National Book of Business Lists 1994",
+    "city": null,
+    "publisher": "Hoovers Inc",
+    "year": 1993,
+    "subject": "Business/Economics",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2000-11-25",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820904A",
+        "last_name": "K. Cronin",
+        "first_name": "Bartholomew"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113929M",
+    "title": "Mexico Company Handbook: 1993 ",
+    "city": null,
+    "publisher": "Hoover's",
+    "year": 1993,
+    "subject": "Directories",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 148,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2014-06-19",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820901A",
+        "last_name": "Editora",
+        "first_name": "Imf"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1211392M",
+    "title": "Cour suprême",
+    "city": "[Conakry]",
+    "publisher": "République de Guinée",
+    "year": 1994,
+    "subject": "Election law -- Guinea -- Cases.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 32,
+    "lang": "fre",
+    "days_keep_count": 100,
+    "adding_date": "2014-08-25",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL630854A",
+        "last_name": "Cour suprême.",
+        "first_name": "Guinea."
+      },
+      {
+        "openlibrary_id": "/authors/OL6930585A",
+        "last_name": "Cour suprême",
+        "first_name": "Guinea."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113930M",
+    "title": "Brazil Company Handbook 1993",
+    "city": null,
+    "publisher": "Hoovers Inc",
+    "year": 1993,
+    "subject": "Reference",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2001-05-02",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL136140A",
+        "last_name": "Monetary Fund.",
+        "first_name": "International"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113931M",
+    "title": "Access Nippon 1994",
+    "city": null,
+    "publisher": "Hoover's",
+    "year": 1994,
+    "subject": "Foreign Investments",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 400,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2006-10-08",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820905A",
+        "last_name": "Asami",
+        "first_name": "Hiroko"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113932M",
+    "title": "Company Handbook Hong Kong May 1993",
+    "city": null,
+    "publisher": "Hoovers Inc",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2013-06-12",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1118082A",
+        "last_name": "Januar Nahas",
+        "first_name": "Satu"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113933M",
+    "title": "The Texas 500",
+    "city": null,
+    "publisher": "Hoovers Inc",
+    "year": 1994,
+    "subject": "Industrial Directories (General)",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 300,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2004-06-21",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1417536A",
+        "last_name": "2000",
+        "first_name": "Europhras"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113934M",
+    "title": "Company Handbook Hong Kong November 1993",
+    "city": null,
+    "publisher": "Hoovers Inc",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2016-07-16",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1307389A",
+        "last_name": "V. Voronkova",
+        "first_name": "G."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113935M",
+    "title": "Hoover's Handbook of Emerging Companies, 1994-1995",
+    "city": null,
+    "publisher": "Not Avail",
+    "year": 1994,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2015-05-28",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3059558A",
+        "last_name": "J. Spain",
+        "first_name": "Patrick"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113936M",
+    "title": "Hoover's Handbook of Emerging Companies 1995/Profiles of America's Most Exciting Growth Enterprises ",
+    "city": null,
+    "publisher": "Reference Press",
+    "year": 1994,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 448,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2016-08-29",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3059558A",
+        "last_name": "J. Spain",
+        "first_name": "Patrick"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113937M",
+    "title": "The Bay Area 500",
+    "city": null,
+    "publisher": "Reference Press",
+    "year": 1994,
+    "subject": "Corporate & Business History - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 320,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2005-07-29",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3059557A",
+        "last_name": "Press",
+        "first_name": "Reference"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113938M",
+    "title": "U.S. Industrial Outlook 1994",
+    "city": null,
+    "publisher": "Hoover's",
+    "year": 1994,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 680,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2008-06-02",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3545102A",
+        "last_name": "H. Brown",
+        "first_name": "Ronald"
+      },
+      {
+        "openlibrary_id": "/authors/OL382164A",
+        "last_name": "E. Garten",
+        "first_name": "Jeffrey"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113939M",
+    "title": "Hoover's Guide to Private Companies, 1994-1995",
+    "city": null,
+    "publisher": "Hoover's",
+    "year": 1994,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 302,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2005-04-27",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820906A",
+        "last_name": "Incorporated Reference",
+        "first_name": "Press"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1211393M",
+    "title": "The first twenty-five hundred years",
+    "city": "Columbia, Mo",
+    "publisher": "C.L. Reed",
+    "year": 1994,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 232,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2008-04-24",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL630855A",
+        "last_name": "L. Reed",
+        "first_name": "Charles"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113940M",
+    "title": "Hoover's Masterlist of Major U.S. Companies 1994-1995 (Hoover's Masterlist of Major Us Companies)",
+    "city": null,
+    "publisher": "Hoover's",
+    "year": 1994,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 672,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2004-11-05",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3059557A",
+        "last_name": "Press",
+        "first_name": "Reference"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113941M",
+    "title": "1995 Nasdaq Fact Book & Company Directory",
+    "city": null,
+    "publisher": "Natl Assn of Securities Dealer",
+    "year": 1995,
+    "subject": "Business/Economics",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2015-03-17",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1427739A",
+        "last_name": "K. Gerke",
+        "first_name": "Susan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113942M",
+    "title": "Fact Book for the Year 1993 (New York Stock Exchange Fact Book)",
+    "city": null,
+    "publisher": "New York Stock Exchange Inc",
+    "year": 1994,
+    "subject": "Reference",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2010-06-02",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1342183A",
+        "last_name": "Koṭiyōn̲.",
+        "first_name": "Cēvar̲"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113943M",
+    "title": "1994 Fact Book/Equities and Derivative Securities Covering the 1993 Market (American Stock Exchange ",
+    "city": null,
+    "publisher": "Amer Stock Exchange",
+    "year": 1994,
+    "subject": "Investment Finance",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2007-06-21",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1034036A",
+        "last_name": "Rainer",
+        "first_name": "Schmidt,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113944M",
+    "title": "Hoover's Handbook of American Business 1995 (Hoover's Handbook of American Business)",
+    "city": null,
+    "publisher": "Reference Press",
+    "year": 1994,
+    "subject": "Corporate & Business History - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 1000,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2012-02-16",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3080432A",
+        "last_name": "Business Press",
+        "first_name": "Hoover's"
+      },
+      {
+        "openlibrary_id": "/authors/OL3820903A",
+        "last_name": "Campbell",
+        "first_name": "Alta"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113945M",
+    "title": "Hoover's Handbook of American Business 1995 (Hoover's Handbook of American Business)",
+    "city": null,
+    "publisher": "Hoover's",
+    "year": 1994,
+    "subject": "Industry & Industrial Studies",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 1280,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2000-11-16",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3080432A",
+        "last_name": "Business Press",
+        "first_name": "Hoover's"
+      },
+      {
+        "openlibrary_id": "/authors/OL3820903A",
+        "last_name": "Campbell",
+        "first_name": "Alta"
+      },
+      {
+        "openlibrary_id": "/authors/OL3059558A",
+        "last_name": "J. Spain",
+        "first_name": "Patrick"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113946M",
+    "title": "The American Almanac 1994-1995",
+    "city": null,
+    "publisher": "Reference Press",
+    "year": 1994,
+    "subject": "Almanacs",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 1010,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2016-02-08",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL140127A",
+        "last_name": "States. Bureau of the Census",
+        "first_name": "United"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113947M",
+    "title": "Hoover's Masterlist of Major Latin American Companies 1996-1997 (Hoover's Masterlist of Major Latin ",
+    "city": null,
+    "publisher": "Hoover's",
+    "year": 1996,
+    "subject": "Exports & Imports",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 149,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2012-12-12",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3059557A",
+        "last_name": "Press",
+        "first_name": "Reference"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113948M",
+    "title": "Mexico Company Handbook, 1994/95",
+    "city": null,
+    "publisher": "Hoover's",
+    "year": 1994,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 133,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2005-11-12",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820907A",
+        "last_name": "Press Us",
+        "first_name": "Reference"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113949M",
+    "title": "Brazil Company Handbook 1995/96",
+    "city": null,
+    "publisher": "Hoover's",
+    "year": 1995,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 171,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2012-07-29",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1287953A",
+        "last_name": "Geeves",
+        "first_name": "Philip"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1211394M",
+    "title": "Don Belisario",
+    "city": "[Tuxtla Gutiérrez, Mexico]",
+    "publisher": "Gobierno del Estado de Chiapas, Instituto Chiapaneco de Cultura",
+    "year": 1994,
+    "subject": "Domínguez, Belisario, 1863-1913.",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 119,
+    "lang": "spa",
+    "days_keep_count": 10,
+    "adding_date": "2005-02-03",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL259989A",
+        "last_name": "Guillén",
+        "first_name": "Fedro"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113950M",
+    "title": "Asia Pacific Securities Handbook 1994-95",
+    "city": null,
+    "publisher": "Hoovers Inc",
+    "year": 1994,
+    "subject": "Securities",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 240,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2016-03-23",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1417674A",
+        "last_name": "A. Andres",
+        "first_name": "Brad"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113951M",
+    "title": "Hoover's Guide to the Book Business",
+    "city": null,
+    "publisher": "Hoover's",
+    "year": 1995,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 72,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2014-04-14",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1377702A",
+        "last_name": "Malms",
+        "first_name": "Michael"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113952M",
+    "title": "Hoover's Guide to Computer Companies/Book and 2 Free Disks",
+    "city": null,
+    "publisher": "Reference Press",
+    "year": 1995,
+    "subject": "Corporate & Business History - General",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 667,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2011-03-10",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820908A",
+        "last_name": "Inc Reference",
+        "first_name": "Press"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113953M",
+    "title": "Company Handbook Hong Kong June 1994 (Company Handbook Hong Kong)",
+    "city": null,
+    "publisher": "Hoovers Inc",
+    "year": 1994,
+    "subject": "Industrial Directories (General)",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2000-05-08",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1131266A",
+        "last_name": "Havén",
+        "first_name": "Heikki"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113954M",
+    "title": "Hoover's Masterlist of Major U.S. Companies, 1996-1997 (Hoover's Masterlist of Major Us Companies)",
+    "city": null,
+    "publisher": "Hoover's",
+    "year": 1996,
+    "subject": "Industry & Industrial Studies",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 946,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2012-02-08",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3059559A",
+        "last_name": "Incorporated",
+        "first_name": "Hoover's"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113955M",
+    "title": "The American Almanac 1995-1996",
+    "city": null,
+    "publisher": "Reference Pr",
+    "year": 1995,
+    "subject": "United States - General",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 1045,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2015-09-29",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL140127A",
+        "last_name": "States. Bureau of the Census",
+        "first_name": "United"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113956M",
+    "title": "Hoovers Handbook of Emerging Companies (Paper)",
+    "city": null,
+    "publisher": "Reference Press, Inc",
+    "year": 1995,
+    "subject": "Corporate & Business History",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 364,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2007-04-21",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1197352A",
+        "last_name": "W. Zimmerman",
+        "first_name": "Donald"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113957M",
+    "title": "Hoover's Handbook of Emerging Companies 1996 (Hoover's Handbook of Emerging Companies)",
+    "city": null,
+    "publisher": "Hoover's",
+    "year": 1995,
+    "subject": "Corporate & Business History - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 364,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2003-07-01",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1413350A",
+        "last_name": "Martínez Mogrovejo",
+        "first_name": "Jesús"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113958M",
+    "title": "Statistical Abstract of the United States, 1995 (115th ed, 1995)",
+    "city": null,
+    "publisher": "Hoover's",
+    "year": 1995,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 1045,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2002-04-03",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL18485A",
+        "last_name": "States",
+        "first_name": "United"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113959M",
+    "title": "Hoover's Handbook of Emerging Companies",
+    "city": null,
+    "publisher": "Hoovers Inc",
+    "year": 1995,
+    "subject": "Reference",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 128,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2008-02-13",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3059557A",
+        "last_name": "Press",
+        "first_name": "Reference"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1211395M",
+    "title": "Ansichten vom Niederrhein",
+    "city": "Darmstadt",
+    "publisher": "Wissenschaftliche Buchgesellschaft",
+    "year": 1989,
+    "subject": "Forster, Georg, 1754-1794 -- Travel -- Europe",
+    "genre": "Early works to 1800.",
+    "periodic_release": null,
+    "page_count": 464,
+    "lang": "ger",
+    "days_keep_count": 30,
+    "adding_date": "2005-04-24",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL21714A",
+        "last_name": "Forster",
+        "first_name": "Georg"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113960M",
+    "title": "Hoover's Handbook of World Business 1997 (Hoover's Handbook of World Business)",
+    "city": null,
+    "publisher": "Hoover's",
+    "year": 1997,
+    "subject": "Business & Management",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 612,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2016-07-20",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL144724A",
+        "last_name": "Nelson",
+        "first_name": "Leonard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113961M",
+    "title": "Prosper Merimee",
+    "city": null,
+    "publisher": "Y C P Pubns",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2015-06-19",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820909A",
+        "last_name": "H. Yu",
+        "first_name": "George"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113962M",
+    "title": "Prosper Merimee",
+    "city": null,
+    "publisher": "Y C P Pubns",
+    "year": 1997,
+    "subject": "Biography/Autobiography",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2008-02-01",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820909A",
+        "last_name": "H. Yu",
+        "first_name": "George"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113963M",
+    "title": "Nelson Rodrigues, the Great Rebel of Brazilian Theatre",
+    "city": null,
+    "publisher": "Y C P Pubns",
+    "year": 2003,
+    "subject": "Performing Arts/Dance",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2006-01-05",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820910A",
+        "last_name": "Yu Sun",
+        "first_name": "L."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113964M",
+    "title": "The general contracting handbook",
+    "city": null,
+    "publisher": "American Homebuilders Pub. Co",
+    "year": 1990,
+    "subject": "Building",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2006-06-15",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL842553A",
+        "last_name": "Delano Jackson",
+        "first_name": "Creed"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113965M",
+    "title": "Indiana Motor Vehicle Laws",
+    "city": null,
+    "publisher": "Graphics Ltd",
+    "year": 1990,
+    "subject": "Reference",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2013-05-15",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820911A",
+        "last_name": "Oddi",
+        "first_name": "Marsha"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113966M",
+    "title": "International Directory of Botanic Gardens, No. 5",
+    "city": null,
+    "publisher": "Balogh Scientific Books",
+    "year": 1990,
+    "subject": "Reference",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2001-04-22",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820912A",
+        "last_name": "A. Heywood",
+        "first_name": "Charles"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113967M",
+    "title": "Proceedings of the 10th International Diatom Symposium Joensun, Finland, Aug. 28-Sept, 2m 1988",
+    "city": null,
+    "publisher": "Balogh Scientific Books",
+    "year": 1990,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2000-10-14",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1020420A",
+        "last_name": "Simola",
+        "first_name": "Heikki"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113968M",
+    "title": "Anatomy and Systematics of Bagridae Teleostei and Siluroid Phylogeny",
+    "city": null,
+    "publisher": "Balogh Scientific Books",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2013-01-02",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820913A",
+        "last_name": "Mo",
+        "first_name": "Tianpei"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113969M",
+    "title": "Recent Advances in Burnet Moth Research (Lepidoptera, Zygenidae) (Theses Zoologicae,)",
+    "city": null,
+    "publisher": "Balogh Scientific Books",
+    "year": 1992,
+    "subject": "Life Sciences - Zoology - Entomology",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 192,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2003-08-04",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1165515A",
+        "last_name": "Maḥmūd Ḥasan",
+        "first_name": "Muḥyī"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1211396M",
+    "title": "Computerization of criminal justice information systems",
+    "city": "Helsinki",
+    "publisher": "Helsinki Institute for Crime Prevention and Control",
+    "year": 1992,
+    "subject": "Criminal justice, Administration of -- Data processing -- Congresses.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 528,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2014-02-13",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL630856A",
+        "last_name": "Nations Workshop on Computerization of Criminal Justice Information (1st 1990 Havana, Cuba)",
+        "first_name": "United"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113970M",
+    "title": "Plant Specialists Index",
+    "city": null,
+    "publisher": "Balogh Scientific Books",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2010-06-17",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2901907A",
+        "last_name": "K. Holmgren",
+        "first_name": "P."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113971M",
+    "title": "Taxonomic Literature. a Selective Guide to Botanical Publications & Collections With Dates, Commenta",
+    "city": null,
+    "publisher": "Balogh Scientific Books",
+    "year": 1992,
+    "subject": "Gardening/Plants",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2015-02-12",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL493566A",
+        "last_name": "E. Jarvis",
+        "first_name": "Charles"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113972M",
+    "title": "Names in Current Use for Extant Plant Genera",
+    "city": null,
+    "publisher": "Lubrecht & Cramer Ltd",
+    "year": 1985,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2008-05-06",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1235413A",
+        "last_name": "A. Halpern",
+        "first_name": "Alan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113973M",
+    "title": "Ethnobotany of the California Indians",
+    "city": null,
+    "publisher": "Balogh Scientific Books",
+    "year": 1994,
+    "subject": "Botany & plant sciences",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2016-11-29",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820914A",
+        "last_name": "M. Beck",
+        "first_name": "Beatrice"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113974M",
+    "title": "A Reference Guide to the Gymnosperms of the World",
+    "city": null,
+    "publisher": "Balogh Scientific Books",
+    "year": 1995,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2010-07-16",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820915A",
+        "last_name": "Nimsch",
+        "first_name": "Hubertus"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113975M",
+    "title": "A Century of Diatom Research in North America",
+    "city": null,
+    "publisher": "Balogh Scientific Books",
+    "year": 1995,
+    "subject": "Life Sciences - Biology - Marine Biology",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 194,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2003-08-12",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1547466A",
+        "last_name": "J. Sullivan",
+        "first_name": "M."
+      },
+      {
+        "openlibrary_id": "/authors/OL3820916A",
+        "last_name": "Kociolek",
+        "first_name": "P."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113976M",
+    "title": "Flore Pratique Des Algues D'Eau Douce de Belgique",
+    "city": null,
+    "publisher": "Balogh Scientific Books",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2003-12-01",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820917A",
+        "last_name": "Compere",
+        "first_name": "P."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113977M",
+    "title": "Orchidaceae Belgicae",
+    "city": null,
+    "publisher": "Balogh Scientific Books",
+    "year": 1987,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2005-02-28",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL487301A",
+        "last_name": "Klopfenstein",
+        "first_name": "E."
+      },
+      {
+        "openlibrary_id": "/authors/OL3820918A",
+        "last_name": "Toussaint",
+        "first_name": "P."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113978M",
+    "title": "West European Orchids, Vols. 1-5",
+    "city": null,
+    "publisher": "Balogh Scientific Books",
+    "year": 1994,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2013-05-13",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL487301A",
+        "last_name": "Klopfenstein",
+        "first_name": "E."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113979M",
+    "title": "The Get Out of Debt Workbook",
+    "city": null,
+    "publisher": "Miracle Pub Intl",
+    "year": 1989,
+    "subject": "Business/Economics",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2004-11-25",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820919A",
+        "last_name": "E. Allen",
+        "first_name": "Earl"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1211397M",
+    "title": "Información y reflexión sobre el SIDA",
+    "city": "Caracas",
+    "publisher": "Acción Ecuménica, Centro de Salud Integral",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 56,
+    "lang": "spa",
+    "days_keep_count": 50,
+    "adding_date": "2014-05-02",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1196032A",
+        "last_name": "Clise",
+        "first_name": "Rick"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113980M",
+    "title": "Baking Projects for Children",
+    "city": null,
+    "publisher": "Murdoch Books",
+    "year": 1992,
+    "subject": "Cakes, baking, icing & sugarcraft",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2015-02-23",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820312A",
+        "last_name": "Stephens",
+        "first_name": "Fran"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113981M",
+    "title": "Birthday Parties for Children",
+    "city": null,
+    "publisher": "Murdoch Books",
+    "year": 1995,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2008-01-04",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820313A",
+        "last_name": "Jenny",
+        "first_name": "Gerri"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113982M",
+    "title": "Let's Make a Present",
+    "city": null,
+    "publisher": "Murdoch Books (PA)",
+    "year": 1993,
+    "subject": "Customs & Traditions",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 128,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2009-02-25",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1390588A",
+        "last_name": "Cheng",
+        "first_name": "Andrea"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113983M",
+    "title": "Gardening Projects for Children (Projects for Parents Books)",
+    "city": null,
+    "publisher": "Murdoch Books (PA)",
+    "year": 1995,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2010-05-12",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820920A",
+        "last_name": "Bigge",
+        "first_name": "Tanya"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113984M",
+    "title": "Outdoor Projects for Children (Projects for Parents Books)",
+    "city": null,
+    "publisher": "Murdoch Books (PA)",
+    "year": 1995,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2002-07-10",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820921A",
+        "last_name": "Gerri",
+        "first_name": "Jenny"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113985M",
+    "title": "Rainy Day Projects for Children (Projects for Parents)",
+    "city": null,
+    "publisher": "Murdoch Books (PA)",
+    "year": 1990,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 120,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2001-02-11",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820921A",
+        "last_name": "Gerri",
+        "first_name": "Jenny"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113986M",
+    "title": "Toys and Games for Children to Make (Projects for Parents)",
+    "city": null,
+    "publisher": "Murdoch Books (PA)",
+    "year": 1990,
+    "subject": "Crafts & Hobbies",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 124,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2009-12-31",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820921A",
+        "last_name": "Gerri",
+        "first_name": "Jenny"
+      },
+      {
+        "openlibrary_id": "/authors/OL3820922A",
+        "last_name": "Gould",
+        "first_name": "Sherrie"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113987M",
+    "title": "The First U. S. Postal Museum",
+    "city": null,
+    "publisher": "Paragon Publishing Company",
+    "year": 1991,
+    "subject": "Public Affairs & Administration",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 50,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2012-04-13",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820923A",
+        "last_name": "R. Collins",
+        "first_name": "Herbert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113988M",
+    "title": "How to Build Shoebox Fords/Mercurys",
+    "city": null,
+    "publisher": "Hot Rod Library",
+    "year": 2001,
+    "subject": "Automotive - Customizing",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 202,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2010-09-07",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2634399A",
+        "last_name": "Johnson",
+        "first_name": "Richard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113989M",
+    "title": "How to Build Chrysler/Plymouth/Dodge Hot Rods",
+    "city": null,
+    "publisher": "Tex Smith Publishing",
+    "year": 2001,
+    "subject": "Automotive - Antique & Classic",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 204,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2000-04-21",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL891278A",
+        "last_name": "Johnson",
+        "first_name": "Rich"
+      },
+      {
+        "openlibrary_id": "/authors/OL3306764A",
+        "last_name": "Smith",
+        "first_name": "Tex"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1211398M",
+    "title": "Liberalising capital flows in developing countries",
+    "city": "Paris, France",
+    "publisher": "Development Centre of the Organisation for Economic Co-operation and Development",
+    "year": 1993,
+    "subject": "Capital movements -- Developing countries.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 155,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2004-05-02",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL45483A",
+        "last_name": "Bernhard",
+        "first_name": "Fischer,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113990M",
+    "title": "Sports Cars (Fine Line Design)",
+    "city": null,
+    "publisher": "Think Street",
+    "year": 1990,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2002-07-10",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL387410A",
+        "last_name": "Raybin Emert",
+        "first_name": "Phyllis"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113991M",
+    "title": "Dos Kleine Vekerl (The Little Alarm Clock)",
+    "city": null,
+    "publisher": "Yugntruf Youth for Yiddish",
+    "year": 1997,
+    "subject": "Children",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 24,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2000-01-22",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820924A",
+        "last_name": "Himelstein",
+        "first_name": "Esther"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113992M",
+    "title": "The Best of Santa Fe and Beyond",
+    "city": null,
+    "publisher": "Adobe Pub Co",
+    "year": null,
+    "subject": "Guidebooks",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 288,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2016-04-18",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1385587A",
+        "last_name": "Thornton",
+        "first_name": "Elizabeth"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113993M",
+    "title": "The Best of Santa Fe and Beyond (includes Taos) Millennium Edition",
+    "city": null,
+    "publisher": "Adobe Publishing Company",
+    "year": 1999,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 304,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2000-11-04",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1385587A",
+        "last_name": "Thornton",
+        "first_name": "Elizabeth"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113994M",
+    "title": "Simple Studies in Christian Essentials",
+    "city": null,
+    "publisher": "Baptist Mission of North America",
+    "year": 1999,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2008-02-28",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1285035A",
+        "last_name": "L. Bonney",
+        "first_name": "Charles"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113995M",
+    "title": "California Historic Capitol",
+    "city": null,
+    "publisher": "Craydon Pub Co",
+    "year": 1989,
+    "subject": "Sociology",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2009-07-21",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3704505A",
+        "last_name": "B. Donnelly",
+        "first_name": "Loraine"
+      },
+      {
+        "openlibrary_id": "/authors/OL3820925A",
+        "last_name": "T. Cray",
+        "first_name": "Evelyn"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113996M",
+    "title": "Californias Historic Capitol",
+    "city": null,
+    "publisher": "Craydon Pub Co",
+    "year": 1989,
+    "subject": "Sociology",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2006-09-29",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3704505A",
+        "last_name": "B. Donnelly",
+        "first_name": "Loraine"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113997M",
+    "title": "Californias Historic Capitol",
+    "city": null,
+    "publisher": "Craydon Pub Co",
+    "year": 1989,
+    "subject": "Sociology",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2007-04-02",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1140062A",
+        "last_name": "I. Ionescu",
+        "first_name": "N."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113998M",
+    "title": "California's Historic Capitol",
+    "city": null,
+    "publisher": "Craydon Pub Co",
+    "year": 1989,
+    "subject": "Sociology",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2005-04-11",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1308632A",
+        "last_name": "Pressel",
+        "first_name": "Ingeborg"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113999M",
+    "title": "Testing Testing 1 2 3",
+    "city": null,
+    "publisher": "Eotu Group",
+    "year": 1990,
+    "subject": "Science Fiction",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2009-04-22",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL26981A",
+        "last_name": "V. Hendrix",
+        "first_name": "Howard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1211399M",
+    "title": "En tierra bien distante",
+    "city": "[Tuxtla Gutiérrez, Mexico]",
+    "publisher": "Gobierno del Estado de Chiapas, Consejo Estatal de Fomento a la Investigación y Difusión de la Cultura, DIF-Chiapas, Instituto Chiapaneco de Cultura",
+    "year": 1993,
+    "subject": "Spaniards -- Mexico -- Chiapas -- History -- 20th century.",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 229,
+    "lang": "spa",
+    "days_keep_count": 30,
+    "adding_date": "2011-11-01",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL630857A",
+        "last_name": "Hurtado, Ma. Mercedes.",
+        "first_name": "Molina"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL121139M",
+    "title": "Komentarz do Kodeksu cywilnego",
+    "city": "Warszawa",
+    "publisher": "Wydawn. Prawnicze",
+    "year": 1999,
+    "subject": "Inheritance and succession -- Poland.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 302,
+    "lang": "pol",
+    "days_keep_count": 100,
+    "adding_date": "2008-05-23",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL80980A",
+        "last_name": "Skowrońska-Bocian",
+        "first_name": "Elżbieta"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12113M",
+    "title": "Dehli prānte.",
+    "city": null,
+    "publisher": null,
+    "year": 1966,
+    "subject": "Delhi (India) -- Description and travel",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 349,
+    "lang": "ben",
+    "days_keep_count": 10,
+    "adding_date": "2004-04-27",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2607A",
+        "last_name": "Bhaṭṭācārya",
+        "first_name": "Bibekarañjana"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114000M",
+    "title": "The Best of Eotu, 89",
+    "city": null,
+    "publisher": "Eotu Group",
+    "year": 1990,
+    "subject": "Fiction",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2012-01-24",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL727401A",
+        "last_name": "Dennis",
+        "first_name": "Larry"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114001M",
+    "title": "Passing Thru",
+    "city": null,
+    "publisher": "Free River Press",
+    "year": 1990,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 82,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2004-12-14",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1116252A",
+        "last_name": "K. P. Salve",
+        "first_name": "N."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114002M",
+    "title": "Five Street Poets",
+    "city": null,
+    "publisher": "Free River Press",
+    "year": 1990,
+    "subject": "Anthologies (multiple authors)",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 44,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2010-05-14",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820926A",
+        "last_name": "Gilbert",
+        "first_name": "El"
+      },
+      {
+        "openlibrary_id": "/authors/OL3820927A",
+        "last_name": "Schooler",
+        "first_name": "Diana"
+      },
+      {
+        "openlibrary_id": "/authors/OL3820928A",
+        "last_name": "Goller",
+        "first_name": "Josef"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114003M",
+    "title": "Lion's Share",
+    "city": null,
+    "publisher": "Free River Press",
+    "year": 1990,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 24,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2008-10-30",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820926A",
+        "last_name": "Gilbert",
+        "first_name": "El"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114004M",
+    "title": "From Within Walls (Folk literature)",
+    "city": null,
+    "publisher": "Free River Press",
+    "year": 1991,
+    "subject": "Prisoner's writings, American",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 24,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2004-10-19",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820928A",
+        "last_name": "Goller",
+        "first_name": "Josef"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114005M",
+    "title": "Lemme Tell You Where I Used to Live (Folk literature)",
+    "city": null,
+    "publisher": "Free River Press",
+    "year": 1991,
+    "subject": "Prisoner's writings, American",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 24,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2002-06-14",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820927A",
+        "last_name": "Schooler",
+        "first_name": "Diana"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114006M",
+    "title": "Hitchhiker's Dream",
+    "city": null,
+    "publisher": "Free River Press",
+    "year": 1992,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 28,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2002-10-13",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820929A",
+        "last_name": "Yell",
+        "first_name": "Rebel"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114007M",
+    "title": "Story Jazz",
+    "city": null,
+    "publisher": "Free River Press",
+    "year": 1995,
+    "subject": "Music",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 160,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2002-02-05",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1603203A",
+        "last_name": "Wolf",
+        "first_name": "Robert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114008M",
+    "title": "Village Voices, Stories from the Amana Colonies",
+    "city": null,
+    "publisher": "Free River Press",
+    "year": 1996,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 100,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2015-02-17",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2623771A",
+        "last_name": "Various",
+        "first_name": "Various"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114009M",
+    "title": "Heartland Portrait ",
+    "city": null,
+    "publisher": "Free River Press",
+    "year": 1995,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2016-03-15",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1226301A",
+        "last_name": "A. Trípodi",
+        "first_name": "Carlos"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1211400M",
+    "title": "Parts procurement at Japanese transplants in the U.K.",
+    "city": "Tokyo, Japan",
+    "publisher": "Institute of Economic Research, Chuo University",
+    "year": 1993,
+    "subject": "Industrial procurement -- Great Britain.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 23,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2011-02-02",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL630858A",
+        "last_name": "Ikeda",
+        "first_name": "Masayoshi"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114010M",
+    "title": "Dirt & Duty",
+    "city": null,
+    "publisher": "Free River Press",
+    "year": 1995,
+    "subject": "Agriculture",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 78,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2008-08-25",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820930A",
+        "last_name": "Hudson",
+        "first_name": "Murray"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114011M",
+    "title": "Village in the City",
+    "city": null,
+    "publisher": "Free River Press",
+    "year": 2002,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2016-05-17",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1426644A",
+        "last_name": "West",
+        "first_name": "Krista"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114012M",
+    "title": "Fishin', Fightin', Feedin' & Farmin'",
+    "city": null,
+    "publisher": "Free River Press",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 96,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2002-11-04",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL73306A",
+        "last_name": "Hudson",
+        "first_name": "Jack"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114013M",
+    "title": "Iowa Harvest",
+    "city": null,
+    "publisher": "Free River Press",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2004-04-14",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1312327A",
+        "last_name": "L. Ross",
+        "first_name": "David"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114014M",
+    "title": "Pulp Feathers",
+    "city": null,
+    "publisher": "Free River Press",
+    "year": 2003,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 228,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2002-06-20",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820931A",
+        "last_name": "P. Wolf",
+        "first_name": "R."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114015M",
+    "title": "Violence in the Holy Land",
+    "city": null,
+    "publisher": "Free River Press",
+    "year": 2004,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 173,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2010-11-04",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1603203A",
+        "last_name": "Wolf",
+        "first_name": "Robert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114016M",
+    "title": "River Days",
+    "city": null,
+    "publisher": "Free River Press",
+    "year": 2005,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2016-11-23",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1603203A",
+        "last_name": "Wolf",
+        "first_name": "Robert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114017M",
+    "title": "National Directory of Nonprofit Organizations, 1991 (National Directory of Nonprofit Organizations, ",
+    "city": null,
+    "publisher": "Taft Group",
+    "year": 1991,
+    "subject": "Nonprofit Organizations & Charities",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2005-03-04",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1181381A",
+        "last_name": "Whaley",
+        "first_name": "Terrence"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114018M",
+    "title": "Real World Macro",
+    "city": null,
+    "publisher": "Dollars Sense",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2010-09-03",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1273905A",
+        "last_name": "Frank",
+        "first_name": "Ellen"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114019M",
+    "title": "Career Choices",
+    "city": null,
+    "publisher": "Academy Inovations",
+    "year": 2003,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2006-04-14",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL581053A",
+        "last_name": "Bingham",
+        "first_name": "Mindy"
+      },
+      {
+        "openlibrary_id": "/authors/OL892954A",
+        "last_name": "Stryker",
+        "first_name": "Sandy"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1211401M",
+    "title": "Social Sponsoring und Social Marketing",
+    "city": "Köln",
+    "publisher": "Bund",
+    "year": 1993,
+    "subject": "Social marketing -- Germany -- Congresses.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 250,
+    "lang": "ger",
+    "days_keep_count": 30,
+    "adding_date": "2004-07-26",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL113756A",
+        "last_name": "Cabry Dix",
+        "first_name": "Charles"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114020M",
+    "title": "Lifestyle Math",
+    "city": null,
+    "publisher": "Academic Innovations",
+    "year": 1998,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2004-12-23",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1346809A",
+        "last_name": "Hopf",
+        "first_name": "Heinz"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114021M",
+    "title": "Possibilities",
+    "city": null,
+    "publisher": null,
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2006-09-16",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820932A",
+        "last_name": "Goode",
+        "first_name": "Janet"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114022M",
+    "title": "Instructor's and Counselor's Guide for Career Choices (An Interdisciplinary curriculum for high scho",
+    "city": null,
+    "publisher": "academic innovation",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2003-02-19",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL581053A",
+        "last_name": "Bingham",
+        "first_name": "Mindy"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114023M",
+    "title": "Career Choices and Changes",
+    "city": null,
+    "publisher": null,
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2014-07-03",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1047842A",
+        "last_name": "Thomas Stössel",
+        "first_name": "Frank"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114024M",
+    "title": "Career Choices and Changes, A Workbook for Discovering Who You Are, What You Want and How to Get It",
+    "city": null,
+    "publisher": "Academic Innovations",
+    "year": 2005,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2003-05-23",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1307204A",
+        "last_name": "Toshio",
+        "first_name": "Nozawa,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114025M",
+    "title": "Career Strategies",
+    "city": null,
+    "publisher": "Academic Innovations",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2003-11-30",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1340104A",
+        "last_name": "Meyer Heikoff",
+        "first_name": "Joseph"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114026M",
+    "title": "Career Strategies",
+    "city": null,
+    "publisher": "Academic Innovations",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2006-09-15",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820933A",
+        "last_name": "Comiskey",
+        "first_name": "Jim"
+      },
+      {
+        "openlibrary_id": "/authors/OL3820934A",
+        "last_name": "McGrath",
+        "first_name": "Jay"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114027M",
+    "title": "Life strategies",
+    "city": null,
+    "publisher": "Academic Innovations",
+    "year": 2000,
+    "subject": "Conduct of life",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 156,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2004-10-03",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820933A",
+        "last_name": "Comiskey",
+        "first_name": "Jim"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114028M",
+    "title": "A Birder's Guide to Florida",
+    "city": null,
+    "publisher": "American Birding Assoc",
+    "year": 2005,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2006-09-20",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL549475A",
+        "last_name": "Pranty",
+        "first_name": "Bill"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114029M",
+    "title": "Aba Checklist",
+    "city": null,
+    "publisher": "Amer Birding Assn",
+    "year": 1990,
+    "subject": "Birds",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2006-03-27",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1420762A",
+        "last_name": "J. J. Brouwer",
+        "first_name": "Frits"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1211402M",
+    "title": "Cultural, linguistic, and educational rights in the Åland Islands",
+    "city": "Helsinki",
+    "publisher": "Advisory Board for International Human Rights Affairs",
+    "year": 1992,
+    "subject": "Educational law and legislation -- Finland -- Åland.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 102,
+    "lang": "fin",
+    "days_keep_count": 50,
+    "adding_date": "2000-04-30",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL503246A",
+        "last_name": "Hannikainen",
+        "first_name": "Lauri"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114030M",
+    "title": "ABA Checklist",
+    "city": null,
+    "publisher": "American Birding Association",
+    "year": 2002,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 161,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2001-01-26",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1328793A",
+        "last_name": "Seki",
+        "first_name": "Kobayashi,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114031M",
+    "title": "Birds of the Baja Peninsula",
+    "city": null,
+    "publisher": "Amer Birding Assn",
+    "year": 2001,
+    "subject": "Baja California (Peninsula)",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 264,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2009-05-28",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1458341A",
+        "last_name": "Doubtfire",
+        "first_name": "Stanley"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114032M",
+    "title": "The Instructor's Guide to Mastering Microstation",
+    "city": null,
+    "publisher": "Chanimar Ace",
+    "year": 1990,
+    "subject": "Computer Books: General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2010-01-28",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL897901A",
+        "last_name": "H. Young",
+        "first_name": "Kim"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114033M",
+    "title": "The Instructor's Guide to Mastering Microstation Basics",
+    "city": null,
+    "publisher": "Chanimar Ace",
+    "year": 1991,
+    "subject": "Computer Books: General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2006-02-05",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL897901A",
+        "last_name": "H. Young",
+        "first_name": "Kim"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114034M",
+    "title": "The Instructor's Guide to Mastering Microstation Mdl",
+    "city": null,
+    "publisher": "Chanimar Ace",
+    "year": 1991,
+    "subject": "Do-It-Yourself",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2016-02-23",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL897901A",
+        "last_name": "H. Young",
+        "first_name": "Kim"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114035M",
+    "title": "Do It Yourself Work Spaces",
+    "city": null,
+    "publisher": "Chanimar Ace",
+    "year": 1994,
+    "subject": "Computer Books: Spreadsheets",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2012-06-11",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL897320A",
+        "last_name": "K.",
+        "first_name": "Young,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114036M",
+    "title": "Paul The Shepard Boy and the Birthday Sandals",
+    "city": null,
+    "publisher": "Lynn LaGrange",
+    "year": null,
+    "subject": "Children",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2000-12-15",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL897157A",
+        "last_name": "M. LaGrange",
+        "first_name": "Lynn"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114037M",
+    "title": "Winnie, the Humpback Whale and Her Second Tale",
+    "city": null,
+    "publisher": "Fables",
+    "year": 1990,
+    "subject": "Children: Kindergarten",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2012-11-07",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820935A",
+        "last_name": "M. Lagrange",
+        "first_name": "Lynn"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114038M",
+    "title": "Joey The Little Reindeer",
+    "city": null,
+    "publisher": "Lynn LaGrange",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2009-04-12",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820936A",
+        "last_name": "LaGrange",
+        "first_name": "Lynn"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114039M",
+    "title": "Sir Cedrick Peabody",
+    "city": null,
+    "publisher": "Fables",
+    "year": 1991,
+    "subject": "Children: Grades 1-2",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2011-02-19",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820935A",
+        "last_name": "M. Lagrange",
+        "first_name": "Lynn"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1211403M",
+    "title": "Dialógy Vladimíra Mečiara",
+    "city": "[Slovakia]",
+    "publisher": "HOS - Hnutie za občiansku slobodu na Slovensku",
+    "year": 1992,
+    "subject": "Czechoslovakia -- Politics and government -- 1945-1992.",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 92,
+    "lang": "slo",
+    "days_keep_count": 50,
+    "adding_date": "2003-07-27",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1079642A",
+        "last_name": "L. Morrill",
+        "first_name": "Richard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114040M",
+    "title": "Polly & the Frog",
+    "city": null,
+    "publisher": "Fables",
+    "year": 1991,
+    "subject": "Children",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 36,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2005-12-29",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820936A",
+        "last_name": "LaGrange",
+        "first_name": "Lynn"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114041M",
+    "title": "Polly and the Frog",
+    "city": null,
+    "publisher": "Lynn LaGrange",
+    "year": null,
+    "subject": "Children",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2013-07-19",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820936A",
+        "last_name": "LaGrange",
+        "first_name": "Lynn"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114042M",
+    "title": "Our First Flight",
+    "city": null,
+    "publisher": "Writer's Kramp Ink",
+    "year": 1993,
+    "subject": "Airplanes",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 32,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2011-01-27",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820937A",
+        "last_name": "R. Daciek",
+        "first_name": "Michael"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114043M",
+    "title": "Our First Flight",
+    "city": null,
+    "publisher": "Writer's Kramp Ink",
+    "year": 1993,
+    "subject": "Airplanes",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 32,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2001-12-06",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820937A",
+        "last_name": "R. Daciek",
+        "first_name": "Michael"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114044M",
+    "title": "Kailouie and the Snorkel Monster",
+    "city": null,
+    "publisher": "Writers Kramp Ink",
+    "year": 1995,
+    "subject": "Children's All Ages",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 32,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2007-05-02",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820937A",
+        "last_name": "R. Daciek",
+        "first_name": "Michael"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114045M",
+    "title": "Kailouie and the Snorkel Monster",
+    "city": null,
+    "publisher": "Writer's Kramp Ink",
+    "year": 1995,
+    "subject": "Animals - Fishes",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 32,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2005-12-24",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820937A",
+        "last_name": "R. Daciek",
+        "first_name": "Michael"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114046M",
+    "title": "Laughing Through The Alphabet",
+    "city": null,
+    "publisher": "Writer's Kramp Ink",
+    "year": 1995,
+    "subject": "Alphabet",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 32,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2009-10-29",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820937A",
+        "last_name": "R. Daciek",
+        "first_name": "Michael"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114047M",
+    "title": "The F.I.T.Ness Game",
+    "city": null,
+    "publisher": "Open Book Pub",
+    "year": 1993,
+    "subject": "Health/Fitness",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2010-05-25",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3059572A",
+        "last_name": "Czimbal",
+        "first_name": "Bob"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114048M",
+    "title": "Stress Survival Kit",
+    "city": null,
+    "publisher": "Open Book Pub",
+    "year": 1992,
+    "subject": "Self-Help",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2005-10-15",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3059572A",
+        "last_name": "Czimbal",
+        "first_name": "Bob"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114049M",
+    "title": "Kindred Spirits",
+    "city": null,
+    "publisher": "Open Book Publishers",
+    "year": 2005,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2005-11-16",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820938A",
+        "last_name": "Zadikov Bob Czimbal",
+        "first_name": "Maggie"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1211404M",
+    "title": "Once upon a desert",
+    "city": "Barstow, Calif",
+    "publisher": "Mojave River Valley Museum Association",
+    "year": 1994,
+    "subject": "Mojave Desert Region (Calif.) -- History.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 281,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2015-07-20",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1227862A",
+        "last_name": "Sāmala",
+        "first_name": "Baṭakr̥shṇa"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114050M",
+    "title": "Every Teacher's Guidebook on Thematic Integrated Education",
+    "city": null,
+    "publisher": "Jonka Enterprises",
+    "year": 1992,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 250,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2013-01-06",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820939A",
+        "last_name": "Favors",
+        "first_name": "John"
+      },
+      {
+        "openlibrary_id": "/authors/OL3820940A",
+        "last_name": "Kathryne Favors and Dr.  John Favors",
+        "first_name": "Dr. Kathryne Favors and Dr. "
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114051M",
+    "title": "The 12 Volt Doctors Troubleshooting Book",
+    "city": null,
+    "publisher": "Weems&Plath, Incorporated",
+    "year": 1990,
+    "subject": "Boating - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 58,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2006-07-22",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820941A",
+        "last_name": "Beyn",
+        "first_name": "Edgar"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114052M",
+    "title": "The Perfect Box",
+    "city": null,
+    "publisher": "C Plath North Amer Div of",
+    "year": 1989,
+    "subject": "Sports",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2002-12-11",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1458986A",
+        "last_name": "J. Beyn",
+        "first_name": "Edgar"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114053M",
+    "title": "The Offshore Log (Rev)",
+    "city": null,
+    "publisher": "C Plath North Amer Div of",
+    "year": 1997,
+    "subject": "Reference",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2014-12-21",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL232411A",
+        "last_name": "R. Hinz",
+        "first_name": "Earl"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114054M",
+    "title": "The Sportfishing Log",
+    "city": null,
+    "publisher": "Weems & Plath, Baltimore",
+    "year": 1987,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2002-09-02",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820942A",
+        "last_name": "& Plath",
+        "first_name": "Weems"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114055M",
+    "title": "Ship's Log for Kids",
+    "city": null,
+    "publisher": "Weems & Plath, Incorporated",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 108,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2003-04-02",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL456747A",
+        "last_name": "Travis-Bildahl",
+        "first_name": "Sandra"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114056M",
+    "title": "The Boat Book of Fun",
+    "city": null,
+    "publisher": "Weems and Plath, Inc.",
+    "year": 1999,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 97,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2010-09-14",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1175276A",
+        "last_name": "Moréu Lacruz",
+        "first_name": "Esteban"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114057M",
+    "title": "On my mind: Anita Virgil, Vincent Tripi ",
+    "city": null,
+    "publisher": "Press Here",
+    "year": 1989,
+    "subject": "20th century",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 28,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2012-07-28",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL424080A",
+        "last_name": "Virgil",
+        "first_name": "Anita"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114058M",
+    "title": "A vote for Alice",
+    "city": null,
+    "publisher": "Press Here",
+    "year": 1992,
+    "subject": "Carroll, Lewis",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2001-09-06",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3733883A",
+        "last_name": "Dylan Welch",
+        "first_name": "Michael"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114059M",
+    "title": "Raking sand: Virginia Brady Young, Vincent Tripi ",
+    "city": null,
+    "publisher": "Press Here",
+    "year": 1993,
+    "subject": "20th century",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 28,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2004-03-26",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1771605A",
+        "last_name": "Brady Young",
+        "first_name": "Virginia"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1211405M",
+    "title": "Das \"sexuell gefährdete Kind\"",
+    "city": "Pfaffenweiler",
+    "publisher": "Centaurus",
+    "year": 1993,
+    "subject": "Child sexual abuse -- Germany.",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 329,
+    "lang": "ger",
+    "days_keep_count": 200,
+    "adding_date": "2016-02-21",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL630859A",
+        "last_name": "Schetsche",
+        "first_name": "Michael"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114060M",
+    "title": "Blue Water",
+    "city": null,
+    "publisher": "Pr Here",
+    "year": 1995,
+    "subject": "Haiku, American",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2011-04-26",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3733883A",
+        "last_name": "Dylan Welch",
+        "first_name": "Michael"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114061M",
+    "title": "Simple Universe",
+    "city": null,
+    "publisher": "Pr Here",
+    "year": 1995,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2005-06-04",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1131764A",
+        "last_name": "Uchida",
+        "first_name": "Sono"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114062M",
+    "title": "Michael Leonard: Verisimilitude ",
+    "city": null,
+    "publisher": "Stiebel Modern",
+    "year": 1992,
+    "subject": "Exhibitions",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 38,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2014-11-01",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL636758A",
+        "last_name": "Leonard",
+        "first_name": "Michael"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114063M",
+    "title": "Opd Chemical Buyers Directory, 1992",
+    "city": null,
+    "publisher": "Schnell Publishing Company",
+    "year": 1991,
+    "subject": "Chemistry - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 856,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2012-07-14",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1140249A",
+        "last_name": "Robinson",
+        "first_name": "Geoff"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114064M",
+    "title": "OPD Chemical Buyers Directory 2001",
+    "city": null,
+    "publisher": "Schnell Publishing",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2007-05-01",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1073700A",
+        "last_name": "A. Berkowitz",
+        "first_name": "Stephen"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114065M",
+    "title": "OPD Chemical Buyers Directory 2002",
+    "city": null,
+    "publisher": "Schnell Publishing",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2004-05-07",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1036372A",
+        "last_name": "I. Deri͡a︡gina",
+        "first_name": "S."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114066M",
+    "title": "OPD Chemical Buyers Directory 2003",
+    "city": null,
+    "publisher": "James Hannan",
+    "year": 2002,
+    "subject": "opd chemical buyers directory",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 630,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2011-07-17",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1437455A",
+        "last_name": "Marie Holland",
+        "first_name": "Ann"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114067M",
+    "title": "OPD Chemical Buyers Directory 2004",
+    "city": null,
+    "publisher": "Schnell Publishing",
+    "year": 2003,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2009-03-26",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1088192A",
+        "last_name": "de Escalante de Mendoza",
+        "first_name": "Juan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114068M",
+    "title": "Latin America After the Cold War (Ashbrook essay)",
+    "city": null,
+    "publisher": "John M. Ashbrook Center for Public Affairs, Ashland University",
+    "year": 1990,
+    "subject": "Foreign relations",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 19,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2004-04-30",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL222247A",
+        "last_name": "Falcoff",
+        "first_name": "Mark"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114069M",
+    "title": "Sources of Soviet Perestro",
+    "city": null,
+    "publisher": "John M Ashbrook Center for Public",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2010-04-04",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1285178A",
+        "last_name": "Laudrain",
+        "first_name": "Maurice"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1211406M",
+    "title": "Un régime pédagogique pour l'éducation des adultes dans les commissions scolaires",
+    "city": "Sainte-Foy [Québec]",
+    "publisher": "Direction des communications du Conseil supérieur de l'éducation",
+    "year": 1994,
+    "subject": "Adult education -- Québec (Province)",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 25,
+    "lang": "fre",
+    "days_keep_count": 30,
+    "adding_date": "2004-11-11",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL5428802A",
+        "last_name": "(Province). Conseil supérieur de l'éducation.",
+        "first_name": "Québec"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114070M",
+    "title": "The Permanent Democratic Congress (Ashbrook essay)",
+    "city": null,
+    "publisher": "John M. Ashbrook Center for Public Affairs",
+    "year": 1991,
+    "subject": "Congress",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 31,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2013-10-22",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL261595A",
+        "last_name": "J. Ornstein",
+        "first_name": "Norman"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114071M",
+    "title": "What in the World is Going On?",
+    "city": null,
+    "publisher": "John m Ashbrook Center for Public",
+    "year": 1992,
+    "subject": "Education / Administration",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 13,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2013-08-23",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820944A",
+        "last_name": "du Pont",
+        "first_name": "Pete"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114072M",
+    "title": "The Education of Teachers",
+    "city": null,
+    "publisher": "John M Ashbrook Center for Public",
+    "year": 1992,
+    "subject": "Education",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2006-09-07",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL355798A",
+        "last_name": "Kramer",
+        "first_name": "Rita"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114073M",
+    "title": "The Hamilton-Madison-Jefferson Triangle: Their Three Cornered Perspectives on the Constitution (Essa",
+    "city": null,
+    "publisher": "John M Ashbrook Center for Public",
+    "year": 1992,
+    "subject": "Politics/International Relations",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2012-01-08",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1313011A",
+        "last_name": "Yiran.",
+        "first_name": "Hong,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114074M",
+    "title": "Hope to the World for All Future Time America and the World After the Cold War (Ashbrook essay)",
+    "city": null,
+    "publisher": "John M. Ashbrook Center for Public Affairs",
+    "year": 1992,
+    "subject": "20th century",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 25,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2010-09-23",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2009387A",
+        "last_name": "Tucker",
+        "first_name": "David"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114075M",
+    "title": "Why Are People Beating Up on Higher Education (Excellence in Education)",
+    "city": null,
+    "publisher": "John M. Ashbrook Center for Public Affairs",
+    "year": 1992,
+    "subject": "Administration - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2007-02-05",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2628947A",
+        "last_name": "E., Jr. Finn",
+        "first_name": "Chester"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114076M",
+    "title": "The Business of Our Schools (Excellence in education series)",
+    "city": null,
+    "publisher": "John M. Ashbrook Center for Public Affairs",
+    "year": 1992,
+    "subject": "Administration",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 32,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2003-09-14",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL317641A",
+        "last_name": "P. Doyle",
+        "first_name": "Denis"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114077M",
+    "title": "Academic Freedom",
+    "city": null,
+    "publisher": "John M Ashbrook Center for Public",
+    "year": 1992,
+    "subject": "Academic freedom",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 30,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2015-07-15",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL447388A",
+        "last_name": "Lynne V.",
+        "first_name": "Cheney,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114078M",
+    "title": "A GI Bill for Children (Excellence in Education Series)",
+    "city": null,
+    "publisher": "John M. Ashbrook Center for Public Affairs",
+    "year": 1992,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 32,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2003-02-23",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL224712A",
+        "last_name": "Alexander",
+        "first_name": "Lamar"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114079M",
+    "title": "Lessons of the Bush Defeat (Ashbrook Essay)",
+    "city": null,
+    "publisher": "John M. Ashbrook Center for Public Affairs",
+    "year": 1993,
+    "subject": "Presidents & Heads of State",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 77,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2007-02-12",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820946A",
+        "last_name": "W. Schramm",
+        "first_name": "Peter"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1211407M",
+    "title": "Charlotta Garrigue Masaryková",
+    "city": "Praha",
+    "publisher": "Mladá fronta",
+    "year": 1992,
+    "subject": "Masaryková, Charlotta G. 1850-1923.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 44,
+    "lang": "cze",
+    "days_keep_count": 10,
+    "adding_date": "2004-07-27",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL553795A",
+        "last_name": "Polák",
+        "first_name": "Stanislav"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114080M",
+    "title": "Consequences of the Clinton Victory",
+    "city": null,
+    "publisher": "John M. Ashbrook Center for Public Affairs",
+    "year": 1994,
+    "subject": "Presidents & Heads of State",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 110,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2013-12-31",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820946A",
+        "last_name": "W. Schramm",
+        "first_name": "Peter"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114081M",
+    "title": "My Experiences in War and Business",
+    "city": null,
+    "publisher": "John m Ashbrook Center for Public",
+    "year": 1999,
+    "subject": "Biography & Autobiography / Business",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 317,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2000-08-28",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3059577A",
+        "last_name": "Earl Hawkins",
+        "first_name": "Otis"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114082M",
+    "title": "The Tool",
+    "city": null,
+    "publisher": "Balance Productions",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 202,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2007-12-28",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820947A",
+        "last_name": "Hawes",
+        "first_name": "Larry"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114083M",
+    "title": "If a Rock Speaks or a Stream Sings ... Listen",
+    "city": null,
+    "publisher": "Balance Productions",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 305,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2012-12-25",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820948A",
+        "last_name": "Story Teller",
+        "first_name": "The"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114084M",
+    "title": "Dimensions of Discovery",
+    "city": null,
+    "publisher": "Baylor Univ",
+    "year": 1993,
+    "subject": "Texas - Local History",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2015-10-30",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1010719A",
+        "last_name": "E. Lich",
+        "first_name": "Glen"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114085M",
+    "title": "Implications of a North American Free Trade Region",
+    "city": null,
+    "publisher": "Baylor University, Regional Studies",
+    "year": 1992,
+    "subject": "International - Economics",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 215,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2002-05-14",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1052767A",
+        "last_name": "Kezich",
+        "first_name": "Giovanni"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114086M",
+    "title": "Texas Blackland Prairie",
+    "city": null,
+    "publisher": "Baylor University, Regional Studies",
+    "year": 1993,
+    "subject": "United States - South - West South Central (General)",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2003-10-13",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820949A",
+        "last_name": "Sharples",
+        "first_name": "Rebecca"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114087M",
+    "title": "In his traces",
+    "city": null,
+    "publisher": "Baylor University",
+    "year": 1996,
+    "subject": "Baptists",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 336,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2000-05-31",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1128855A",
+        "last_name": "W. Baker",
+        "first_name": "Eugene"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114088M",
+    "title": "Horn Shelter Number 2, the north end",
+    "city": null,
+    "publisher": "Strecker Museum Complex, Baylor University",
+    "year": 1996,
+    "subject": "Antiquities",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 129,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2013-10-07",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3820951A",
+        "last_name": "E Forrester",
+        "first_name": "Robert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114089M",
+    "title": "The Odessa meteor craters and their geological implications (Occasional papers of the Strecker Museu",
+    "city": null,
+    "publisher": "Strecker Museum Complex, Baylor University",
+    "year": 2000,
+    "subject": "Ector County",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 50,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2009-05-03",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL127141A",
+        "last_name": "L. Evans",
+        "first_name": "Glen"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1211408M",
+    "title": "Geomant",
+    "city": "Smolensk",
+    "publisher": "TRAST-IMAKOM",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 142,
+    "lang": "rus",
+    "days_keep_count": 50,
+    "adding_date": "2014-06-17",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL630860A",
+        "last_name": "Rybkin",
+        "first_name": "Pavel"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114090M",
+    "title": "U.S. History",
+    "city": null,
+    "publisher": "Bureau of Electronic Publishing",
+    "year": 1993,
+    "subject": "Software - History - CDROM / Universal",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2002-08-10",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3059578A",
+        "last_name": "Development",
+        "first_name": "Bureau"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114091M",
+    "title": "Countries of the World Encyclopedia",
+    "city": null,
+    "publisher": "Bureau of Electronic Publishing",
+    "year": 1993,
+    "subject": "Software - Reference - CDROM / Universal",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2016-08-11",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3059578A",
+        "last_name": "Development",
+        "first_name": "Bureau"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114092M",
+    "title": "Monarch Notes",
+    "city": null,
+    "publisher": "Bureau of Electronic Publishing",
+    "year": 1993,
+    "subject": "Book Notes",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2012-04-05",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3059578A",
+        "last_name": "Development",
+        "first_name": "Bureau"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114093M",
+    "title": "Multimedia World History",
+    "city": null,
+    "publisher": "Bureau of Electronic Publishing",
+    "year": 1994,
+    "subject": "World - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2013-02-21",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3059578A",
+        "last_name": "Development",
+        "first_name": "Bureau"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12114094M",
+    "title": "Great Literature Plus",
+    "city": null,
+    "publisher": "Bureau of Electronic Publishing",
+    "year": 1993,
+    "subject": "Books & Reading",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2009-04-23",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3059578A",
+        "last_name": "Development",
+        "first_name": "Bureau"
+      }
+    ]
+  }
+]

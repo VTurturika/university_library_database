@@ -1,1201 +1,4401 @@
 [
   {
-    "openlibrary_id": "/books/OL12767813M",
-    "title": "Proceedings of the 8th Conference on Optics of Excitons in Confined Systems (OECS-8). Lecce, Italy, ",
-    "city": null,
-    "publisher": "Wiley-VCH",
+    "openlibrary_id": "/books/OL13634995M",
+    "title": "Angli-Oros-Mongol geologiĭn tolʹ =",
+    "city": "Ulaanbaatar",
+    "publisher": "MUIS-iĭn Khėvlėkh U̇ĭldvėr",
     "year": 2004,
-    "subject": "States of matter",
-    "genre": null,
+    "subject": "Geology -- Dictionaries -- Polyglot",
+    "genre": "Dictionaries",
     "periodic_release": null,
-    "page_count": 250,
-    "lang": "eng",
-    "days_keep_count": 50,
-    "adding_date": "2012-03-09",
-    "count": 5,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL4037450A",
-        "last_name": "Cingolani",
-        "first_name": "Roberto"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL12767814M",
-    "title": "Vibrational Spectroscopy in Life Science",
-    "city": null,
-    "publisher": "Wiley-VCH",
-    "year": 2007,
-    "subject": "Biochemistry",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 320,
-    "lang": "eng",
+    "page_count": 517,
+    "lang": null,
     "days_keep_count": 30,
-    "adding_date": "2007-01-19",
-    "count": 500,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL17320A",
-        "last_name": "Siebert",
-        "first_name": "Friedrich"
-      },
-      {
-        "openlibrary_id": "/authors/OL4037451A",
-        "last_name": "Hildebrandt",
-        "first_name": "Peter"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL12767815M",
-    "title": "Infrarotthermographie",
-    "city": null,
-    "publisher": "Wiley-VCH",
-    "year": 2004,
-    "subject": "Civil Engineering, Surveying & Building",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 354,
-    "lang": "ger",
-    "days_keep_count": 30,
-    "adding_date": "2008-12-16",
-    "count": 500,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL499181A",
-        "last_name": "Schuster",
-        "first_name": "Norbert"
-      },
-      {
-        "openlibrary_id": "/authors/OL4037452A",
-        "last_name": "G. Kolobrodov",
-        "first_name": "Valentin"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL12767816M",
-    "title": "Proceedings of the 11th Conference on II-VI Compounds, Niagara Falls, New York, 22-26 September, 200",
-    "city": null,
-    "publisher": "Wiley-VCH",
-    "year": 2004,
-    "subject": "Semi-conductors & super-conductors",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 780,
-    "lang": "eng",
-    "days_keep_count": 30,
-    "adding_date": "2005-12-30",
-    "count": 50,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL1297460A",
-        "last_name": "Nobuyoshi",
-        "first_name": "Araki,"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL12767817M",
-    "title": "Proceedings of the 3rd Conference on Physics of Light-Matter Coupling in Nanostructures Acireale, It",
-    "city": null,
-    "publisher": "Wiley-VCH",
-    "year": 2004,
-    "subject": "Optics (light)",
-    "genre": null,
-    "periodic_release": 2,
-    "page_count": 308,
-    "lang": "eng",
-    "days_keep_count": 200,
-    "adding_date": "2002-08-18",
-    "count": 20,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL1227891A",
-        "last_name": "on Small Hydro Stations (1983 New Delhi, India)",
-        "first_name": "Seminar"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL12767818M",
-    "title": "Amorphous and Microcrystalline Silicon Materials Science and Devices (Physica Status Solidi: Confere",
-    "city": null,
-    "publisher": "Wiley-VCH",
-    "year": 2004,
-    "subject": "Electricity, magnetism & electromagnetism",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 240,
-    "lang": "eng",
-    "days_keep_count": 10,
-    "adding_date": "2013-07-14",
-    "count": 5,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL4037453A",
-        "last_name": "Nickel",
-        "first_name": "N."
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL12767819M",
-    "title": "Solar Thermal Power Plants",
-    "city": null,
-    "publisher": "Wiley-VCH",
-    "year": 2007,
-    "subject": "Energy conversion & storage",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 250,
-    "lang": "eng",
-    "days_keep_count": 200,
-    "adding_date": "2005-10-23",
-    "count": 50,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL3169455A",
-        "last_name": "Vogel",
-        "first_name": "Werner"
-      },
-      {
-        "openlibrary_id": "/authors/OL4037454A",
-        "last_name": "Kalb",
-        "first_name": "Henry"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL1276781M",
-    "title": "North Carolina yeoman",
-    "city": "Athens",
-    "publisher": "University of Georgia Press",
-    "year": 1996,
-    "subject": "Thomasson, Basil Armstrong, 1829-1862 -- Diaries.",
-    "genre": null,
-    "periodic_release": 1,
-    "page_count": 355,
-    "lang": "eng",
-    "days_keep_count": 30,
-    "adding_date": "2016-06-01",
-    "count": 5,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL658581A",
-        "last_name": "Armstrong Thomasson",
-        "first_name": "Basil"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL12767820M",
-    "title": "Physik Auf Der Spur",
-    "city": null,
-    "publisher": "Wiley-VCH",
-    "year": 2005,
-    "subject": "PHYSICS",
-    "genre": null,
-    "periodic_release": 2,
-    "page_count": 316,
-    "lang": "ger",
-    "days_keep_count": 50,
-    "adding_date": "2000-11-16",
+    "adding_date": "2007-12-03",
     "count": 100,
     "authors": [
       {
-        "openlibrary_id": "/authors/OL4037455A",
-        "last_name": "Voss-De Haan",
-        "first_name": "Patrick"
+        "openlibrary_id": "/authors/OL4319676A",
+        "last_name": "Oi︠u︡ungėrėl",
+        "first_name": "Sod"
       }
     ]
   },
   {
-    "openlibrary_id": "/books/OL12767821M",
-    "title": "Quantum Kinetics Theory",
-    "city": null,
-    "publisher": "John Wiley & Sons",
-    "year": 2005,
-    "subject": "Solid State Physics",
-    "genre": null,
+    "openlibrary_id": "/books/OL13634996M",
+    "title": "George Hunsby",
+    "city": "[Bellingham, Wash",
+    "publisher": "C. S. Scott]",
+    "year": 1991,
+    "subject": "Hunsby, George, -- 1898-",
+    "genre": "Biography.",
     "periodic_release": null,
-    "page_count": 550,
-    "lang": "eng",
-    "days_keep_count": 50,
-    "adding_date": "2011-11-12",
-    "count": 500,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL2680318A",
-        "last_name": "T. Vasko",
-        "first_name": "Fedir"
-      },
-      {
-        "openlibrary_id": "/authors/OL2680319A",
-        "last_name": "E. Raichev",
-        "first_name": "Oleg"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL12767822M",
-    "title": "Relativit?tstheorie - Eine Umfassende Einf?hrung in Die Spezielle Und Allgemeine Relativit?tstheorie",
-    "city": null,
-    "publisher": "Wiley-VCH",
-    "year": 2007,
-    "subject": "PHYSICS",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 600,
-    "lang": null,
-    "days_keep_count": 200,
-    "adding_date": "2002-04-05",
-    "count": 500,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL4037456A",
-        "last_name": "Matschull",
-        "first_name": "H-J"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL12767823M",
-    "title": "Physik Kompaktleitfaden",
-    "city": null,
-    "publisher": "Wiley-VCH",
-    "year": 2005,
-    "subject": "Biology, Life Sciences",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 328,
-    "lang": "ger",
-    "days_keep_count": 50,
-    "adding_date": "2011-12-25",
-    "count": 10,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL1574458A",
-        "last_name": "Grossmann",
-        "first_name": "Alexander"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL12767824M",
-    "title": "Berechnung Elektrischer Maschinen",
-    "city": null,
-    "publisher": "Wiley-VCH",
-    "year": 2007,
-    "subject": "Electronics & Communications Engineering",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 686,
-    "lang": "ger",
-    "days_keep_count": 30,
-    "adding_date": "2003-05-17",
-    "count": 10,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL3294582A",
-        "last_name": "Muller",
-        "first_name": "Germar"
-      },
-      {
-        "openlibrary_id": "/authors/OL3294583A",
-        "last_name": "Ponick",
-        "first_name": "Bernd"
-      },
-      {
-        "openlibrary_id": "/authors/OL1177273A",
-        "last_name": "Vogt",
-        "first_name": "Karl"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL12767825M",
-    "title": "Einfuhrung in Die Kern- Und Elementarteilchenphysik",
-    "city": null,
-    "publisher": "Wiley-VCH",
-    "year": 2005,
-    "subject": "PHYSICS",
-    "genre": null,
-    "periodic_release": 2,
-    "page_count": 496,
+    "page_count": 0,
     "lang": "eng",
     "days_keep_count": 100,
-    "adding_date": "2012-08-23",
-    "count": 50,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL4037457A",
-        "last_name": "Machner",
-        "first_name": "Hartmut"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL12767826M",
-    "title": "Nanometer Semiconductor Devices",
-    "city": null,
-    "publisher": "Vch Verlagsgesellschaft Mbh",
-    "year": 2005,
-    "subject": "Nanotechnology",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 250,
-    "lang": "eng",
-    "days_keep_count": 100,
-    "adding_date": "2009-11-07",
-    "count": 20,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL229977A",
-        "last_name": "Amann",
-        "first_name": "Markus-Christian"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL12767827M",
-    "title": "Polar Oxides",
-    "city": null,
-    "publisher": "Wiley-VCH",
-    "year": 2005,
-    "subject": "Chemistry of non-metals & their compounds",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 391,
-    "lang": "eng",
-    "days_keep_count": 100,
-    "adding_date": "2010-10-22",
+    "adding_date": "2006-11-03",
     "count": 5,
     "authors": [
       {
-        "openlibrary_id": "/authors/OL114202A",
-        "last_name": "R. Gleig",
+        "openlibrary_id": "/authors/OL4319677A",
+        "last_name": "Scott Gibson",
+        "first_name": "Christopher"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13634997M",
+    "title": "Mongol Ulsyn ėru̇u̇giĭn ėrkh zu̇ĭ",
+    "city": "Ulaanbaatar",
+    "publisher": "\"Golden Aĭ Printing\" Khėvlėliĭn Gazar",
+    "year": 2004,
+    "subject": "Criminal law -- Mongolia",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 632,
+    "lang": "mon",
+    "days_keep_count": 30,
+    "adding_date": "2007-09-04",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319678A",
+        "last_name": "Zhant︠s︡an",
+        "first_name": "Suuriĭn"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13634998M",
+    "title": "Bogd Ochirvaanʹ Otgontėngėr khaĭrkhany tu̇u̇kh shastir, taĭlga takhilga, zan u̇ĭliĭn tovchoon orshiv",
+    "city": "Ulaanbaatar",
+    "publisher": "[\"Mȯnkhiĭn U̇sėg\" KhKhK]",
+    "year": 2004,
+    "subject": "Mountain worship -- Mongolia",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "mon",
+    "days_keep_count": 100,
+    "adding_date": "2012-06-20",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319679A",
+        "last_name": "Su̇khbat",
+        "first_name": "Pu̇rėvzhalyn"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13634999M",
+    "title": "Vzaimootnosheniia Rossii i Mongolii v XVII-/XIX vv. : voprosy istoriografii.",
+    "city": "Ulan-Ude : Izdatelstvo Buriatskogo gosuniversiteta, 2004",
+    "publisher": null,
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2005-04-15",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319680A",
+        "last_name": "D. Dugarov",
+        "first_name": "V."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1363499M",
+    "title": "Santo André",
+    "city": "Santo André",
+    "publisher": "Prefeitura Municipal de Santo André",
+    "year": 1991,
+    "subject": "Santo André (São Paulo, Brazil)",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 362,
+    "lang": "por",
+    "days_keep_count": 50,
+    "adding_date": "2002-11-26",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL695946A",
+        "last_name": "A. Gaiarsa",
+        "first_name": "Otaviano"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL136349M",
+    "title": "Muera la gobierna",
+    "city": "Managua",
+    "publisher": "Universidad de las Regiones Autónomas de la Costa Caribe Nicaragüense, (URACCAN)",
+    "year": 1999,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 316,
+    "lang": "spa",
+    "days_keep_count": 50,
+    "adding_date": "2016-01-16",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL89943A",
+        "last_name": "María Téllez Argüello",
+        "first_name": "Dora"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13634M",
+    "title": "Bhāṣāśāstr̲aṃ.",
+    "city": null,
+    "publisher": null,
+    "year": 1964,
+    "subject": "Language and languages",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 147,
+    "lang": "mal",
+    "days_keep_count": 30,
+    "adding_date": "2013-08-26",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL9155A",
+        "last_name": "V. Sebastian",
+        "first_name": "Edamarth"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635000M",
+    "title": "Dong nan Ya yu Zhongguo xi nan shao shu min zu jian zhu wen hua tan xi",
+    "city": "Tianjin Shi",
+    "publisher": "Tianjin da xue chu ban she",
+    "year": 2004,
+    "subject": "Architecture, Domestic -- Southeast Asia",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 182,
+    "lang": "chi",
+    "days_keep_count": 10,
+    "adding_date": "2007-03-09",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1358288A",
+        "last_name": "Changming.",
+        "first_name": "Yang,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635001M",
+    "title": "Extensive readvance of late Pleistocene (YD?) alpine glaciers in the Nooksack River Valley, 10,000 t",
+    "city": "Bellingham, WA",
+    "publisher": "Department of Geology, Western Washington University",
+    "year": 1996,
+    "subject": "Glacial epoch -- Washington (State) -- Nooksack River Valley -- Guidebooks",
+    "genre": "Guidebooks.",
+    "periodic_release": 1,
+    "page_count": 74,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2010-05-03",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3084174A",
+        "last_name": "J. Kovanen",
+        "first_name": "Dori"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635002M",
+    "title": "Tėngėr i︠a︡zguurtan",
+    "city": "Ulaanbaatar",
+    "publisher": "Soëmboprinting",
+    "year": 2004,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 337,
+    "lang": "mon",
+    "days_keep_count": 100,
+    "adding_date": "2004-04-25",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4293113A",
+        "last_name": "Zandraabaĭdiĭ",
+        "first_name": "Kh"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635003M",
+    "title": "Khambyn ovoony i︠a︡s i︠u︡u ȯguul̇̇nė vė?",
+    "city": "Ulaanbaatar",
+    "publisher": "\"Gan print\" khėvlėkh ui̇̆ldvėr",
+    "year": 2004,
+    "subject": "Mass burials -- Mongolia -- Ulaanbaatar Region",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 32,
+    "lang": "mon",
+    "days_keep_count": 50,
+    "adding_date": "2002-07-11",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL108566A",
+        "last_name": "Akim",
         "first_name": "G."
       }
     ]
   },
   {
-    "openlibrary_id": "/books/OL12767828M",
-    "title": "Introduction to Heavy Ion Collisions",
-    "city": null,
-    "publisher": "John Wiley & Sons",
-    "year": 2006,
-    "subject": "Nuclear Physics",
-    "genre": null,
-    "periodic_release": 2,
-    "page_count": 350,
-    "lang": "eng",
-    "days_keep_count": 50,
-    "adding_date": "2009-06-18",
-    "count": 100,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL4037458A",
-        "last_name": "P. Csernai",
-        "first_name": "Laszlo"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL12767829M",
-    "title": "Biophysik",
-    "city": null,
-    "publisher": "Wiley-VCH",
-    "year": 2009,
-    "subject": "Biology, Life Sciences",
-    "genre": null,
-    "periodic_release": 2,
-    "page_count": 850,
-    "lang": "ger",
-    "days_keep_count": 30,
-    "adding_date": "2008-05-11",
-    "count": 300,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL4037459A",
-        "last_name": "Sackmann",
-        "first_name": "E."
-      },
-      {
-        "openlibrary_id": "/authors/OL2325466A",
-        "last_name": "Merkel",
-        "first_name": "Rudolf"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL1276782M",
-    "title": "A chocolate soldier",
-    "city": "Evanston, Ill",
-    "publisher": "TriQuarterly Books",
-    "year": 1995,
-    "subject": "African American universities and colleges -- Fiction.",
-    "genre": "Fiction.",
-    "periodic_release": null,
-    "page_count": 278,
-    "lang": "eng",
-    "days_keep_count": 50,
-    "adding_date": "2015-08-06",
-    "count": 20,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL388567A",
-        "last_name": "Colter",
-        "first_name": "Cyrus"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL12767830M",
-    "title": "Physics of Molecules",
-    "city": null,
-    "publisher": "Wiley-VCH",
-    "year": null,
-    "subject": "Chemistry",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 461,
-    "lang": null,
-    "days_keep_count": 100,
-    "adding_date": "2006-04-26",
-    "count": 500,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL3307278A",
-        "last_name": "Demtroder",
-        "first_name": "Wolfgang"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL12767831M",
-    "title": "Organische Molekulare Festkorper",
-    "city": null,
-    "publisher": "Wiley-VCH",
+    "openlibrary_id": "/books/OL13635004M",
+    "title": "Mongolyn nu̇u̇dėlchin ardyn ėmnėlėg",
+    "city": "[Ulaanbaatar]",
+    "publisher": "\"Sodpress\" KhKhK",
     "year": 2005,
-    "subject": "Electronics & Communications Engineering",
+    "subject": "Therapeutics -- Mongolia",
     "genre": null,
-    "periodic_release": null,
-    "page_count": 412,
-    "lang": "ger",
-    "days_keep_count": 50,
-    "adding_date": "2014-02-17",
-    "count": 300,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL3177208A",
-        "last_name": "Schwoerer",
-        "first_name": "Markus"
-      },
-      {
-        "openlibrary_id": "/authors/OL4037461A",
-        "last_name": "Wolf",
-        "first_name": "Hans-Christoph"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL12767832M",
-    "title": "Physical Properties of Crystals",
-    "city": null,
-    "publisher": "Wiley-VCH",
-    "year": 2007,
-    "subject": "Science",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 453,
-    "lang": "eng",
-    "days_keep_count": 200,
-    "adding_date": "2011-06-16",
+    "periodic_release": 2,
+    "page_count": 329,
+    "lang": "mon",
+    "days_keep_count": 10,
+    "adding_date": "2012-06-20",
     "count": 5,
     "authors": [
       {
-        "openlibrary_id": "/authors/OL4037462A",
-        "last_name": "Haussühl",
-        "first_name": "Siegfried"
+        "openlibrary_id": "/authors/OL4319681A",
+        "last_name": "Su̇khbat",
+        "first_name": "Shagdarzhavyn"
       }
     ]
   },
   {
-    "openlibrary_id": "/books/OL12767833M",
-    "title": "Solar Electric Power Systems",
-    "city": null,
-    "publisher": "Wiley-VCH",
-    "year": 2007,
-    "subject": "Energy conversion & storage",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 300,
-    "lang": null,
-    "days_keep_count": 50,
-    "adding_date": "2001-11-01",
-    "count": 20,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL4037463A",
-        "last_name": "Luther",
-        "first_name": "Joachim"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL12767834M",
-    "title": "Quantum Optics for Quantum Information Processing",
-    "city": null,
-    "publisher": "John Wiley & Sons",
-    "year": 2006,
-    "subject": "Communications engineering / telecommunications",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 400,
-    "lang": "eng",
-    "days_keep_count": 200,
-    "adding_date": "2007-05-04",
-    "count": 5,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL4037464A",
-        "last_name": "Mataloni",
-        "first_name": "Paolo"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL12767835M",
-    "title": "Proceedings of the Conference on Photo-Responsive Materials",
-    "city": null,
-    "publisher": "Wiley-VCH",
+    "openlibrary_id": "/books/OL13635005M",
+    "title": "Obri︠a︡dy i prazdniki kori︠a︡kov",
+    "city": "Sankt-Peterburg",
+    "publisher": "Nauka",
     "year": 2004,
-    "subject": "PHYSICS",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 350,
-    "lang": "eng",
-    "days_keep_count": 100,
-    "adding_date": "2014-09-29",
-    "count": 500,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL1863773A",
-        "last_name": "Leitch",
-        "first_name": "Alexander"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL12767836M",
-    "title": "Grundlagen Der Theoretischen Physik",
-    "city": null,
-    "publisher": "Wiley-VCH",
-    "year": 2005,
-    "subject": "Mathematics",
+    "subject": "Koryaks -- Social life and customs",
     "genre": null,
     "periodic_release": 1,
-    "page_count": 2333,
-    "lang": "ger",
-    "days_keep_count": 100,
-    "adding_date": "2014-09-02",
-    "count": 500,
+    "page_count": 150,
+    "lang": "rus",
+    "days_keep_count": 30,
+    "adding_date": "2007-01-25",
+    "count": 300,
     "authors": [
       {
-        "openlibrary_id": "/authors/OL1696874A",
-        "last_name": "Schmutzer",
-        "first_name": "Ernst"
+        "openlibrary_id": "/authors/OL4319682A",
+        "last_name": "V. Gorbacheva",
+        "first_name": "V."
       }
     ]
   },
   {
-    "openlibrary_id": "/books/OL12767837M",
-    "title": "Einstein",
-    "city": null,
-    "publisher": "Wiley-VCH",
+    "openlibrary_id": "/books/OL13635006M",
+    "title": "Departmental academic advising study at Western Washington University",
+    "city": "Bellingham, WA",
+    "publisher": "Office of Institutional Assessment, Research, and Testing, Western Washington University",
     "year": 2005,
-    "subject": "Biography & Autobiography",
+    "subject": "Western Washington University -- Students -- Services for",
     "genre": null,
-    "periodic_release": null,
-    "page_count": 735,
-    "lang": "ger",
-    "days_keep_count": 100,
-    "adding_date": "2009-07-09",
+    "periodic_release": 3,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2011-11-25",
     "count": 5,
     "authors": [
       {
-        "openlibrary_id": "/authors/OL449424A",
-        "last_name": "Brian",
-        "first_name": "Denis"
+        "openlibrary_id": "/authors/OL4319683A",
+        "last_name": "A. Dickson",
+        "first_name": "Ryan"
       }
     ]
   },
   {
-    "openlibrary_id": "/books/OL12767838M",
-    "title": "ICNAAM - International Conference of Numerical Analysis and Applied Mathematics 2004",
-    "city": null,
-    "publisher": "John Wiley & Sons",
-    "year": 2005,
-    "subject": "Applied mathematics",
+    "openlibrary_id": "/books/OL13635007M",
+    "title": "Filosofii︠a︡ imeni",
+    "city": "Moskva",
+    "publisher": "Izd-vo Moskovskogo universiteta",
+    "year": 1990,
+    "subject": "Names",
     "genre": null,
-    "periodic_release": 1,
-    "page_count": 540,
-    "lang": "eng",
+    "periodic_release": null,
+    "page_count": 269,
+    "lang": "rus",
     "days_keep_count": 50,
-    "adding_date": "2013-03-12",
+    "adding_date": "2009-01-09",
     "count": 10,
     "authors": [
       {
-        "openlibrary_id": "/authors/OL145734A",
-        "last_name": "Yak Keur",
+        "openlibrary_id": "/authors/OL4319684A",
+        "last_name": "Fedorovich Losev",
+        "first_name": "Alekseĭ"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635008M",
+    "title": "Die Mongolei",
+    "city": "Freiburg i. Br",
+    "publisher": "Interconnections",
+    "year": 1997,
+    "subject": "Velikai︠a︡ Sibirskai︠a︡ magistralʹ",
+    "genre": "Guidebooks.",
+    "periodic_release": null,
+    "page_count": 384,
+    "lang": "ger",
+    "days_keep_count": 30,
+    "adding_date": "2007-02-06",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319685A",
+        "last_name": "Johannes v. Bristow",
+        "first_name": "Heinrich"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635009M",
+    "title": "I remember the world",
+    "city": "[S.l",
+    "publisher": "M. A. Thompson?]",
+    "year": 2003,
+    "subject": "Thompson, Mary A",
+    "genre": "Biography.",
+    "periodic_release": null,
+    "page_count": 282,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2010-10-05",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319686A",
+        "last_name": "A. Thompson",
+        "first_name": "Mary"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1363500M",
+    "title": "Agrotóxicos",
+    "city": "Campinas, SP, Brasil",
+    "publisher": "Fundação Cargill",
+    "year": 1991,
+    "subject": "Agricultural chemicals -- Law and legislation -- Brazil.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 838,
+    "lang": "por",
+    "days_keep_count": 30,
+    "adding_date": "2000-10-27",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL79796A",
+        "last_name": "Brazil.",
+        "first_name": "Brazil."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635010M",
+    "title": "Response curves for phosphorus plume lengths from reactive-solute-transport simulations of onland di",
+    "city": "Reston, Va",
+    "publisher": "U.S. Geological Survey",
+    "year": 2005,
+    "subject": "Sewage disposal in the ground -- Environmental aspects -- Massachusetts -- Computer simulation",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 28,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2007-07-24",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1488649A",
+        "last_name": "A. Colman",
         "first_name": "John"
       }
     ]
   },
   {
-    "openlibrary_id": "/books/OL12767839M",
-    "title": "PSS C (IWN 2004)",
-    "city": null,
-    "publisher": "John Wiley & Sons",
-    "year": 2005,
-    "subject": "Electricity, magnetism & electromagnetism",
+    "openlibrary_id": "/books/OL13635011M",
+    "title": "The futures study",
+    "city": "[Bellingham, Wash.?",
+    "publisher": "J. W. Klein, 1995?]",
+    "year": 1995,
+    "subject": "Western Washington University -- Administration",
     "genre": null,
     "periodic_release": 2,
-    "page_count": 1020,
+    "page_count": 100,
     "lang": "eng",
-    "days_keep_count": 100,
-    "adding_date": "2010-02-07",
+    "days_keep_count": 10,
+    "adding_date": "2009-10-05",
     "count": 100,
     "authors": [
       {
-        "openlibrary_id": "/authors/OL1087654A",
-        "last_name": "Ausschuss für Oberschlesien.",
-        "first_name": "Deutscher"
+        "openlibrary_id": "/authors/OL4319687A",
+        "last_name": "W. Klein",
+        "first_name": "Joshua"
       }
     ]
   },
   {
-    "openlibrary_id": "/books/OL1276783M",
-    "title": "A certain Finkelmeyer",
-    "city": "Evanston, Ill",
-    "publisher": "Northwestern University Press",
-    "year": 1995,
-    "subject": "Jewish men -- Fiction.",
+    "openlibrary_id": "/books/OL13635012M",
+    "title": "Addendum to the Final environmental impact statement for the Olivine resource recovery facility",
+    "city": "[Bellingham, Wash",
+    "publisher": "Dept. of Public Works",
+    "year": 1988,
+    "subject": "Incinerators -- Washington (State) -- Bellingham",
     "genre": null,
     "periodic_release": null,
-    "page_count": 362,
+    "page_count": 59,
     "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2015-05-24",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319688A",
+        "last_name": "Asmundson",
+        "first_name": "Mark"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635013M",
+    "title": "Minsok hanbang ŭihak ŭro am ŭl igyŏnaenŭn pangbŏp",
+    "city": "Sŏul-si",
+    "publisher": "Tʻaeil Chʻulpʻansa",
+    "year": 2002,
+    "subject": "Herbs -- Therapeutic use",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 354,
+    "lang": "kor",
+    "days_keep_count": 30,
+    "adding_date": "2005-12-04",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319689A",
+        "last_name": "Pak",
+        "first_name": "Chʻŏn-su"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635014M",
+    "title": "Bilgiin zurkhen = Wisdom sutra.",
+    "city": "Ulaanbaatar : Tsomorlig Khevlel, 2004",
+    "publisher": null,
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2002-06-18",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319690A",
+        "last_name": "D. Tumurtogoo",
+        "first_name": "Otoch"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635015M",
+    "title": "Mongol takhiĭn khuvʹ Tavilan",
+    "city": "Ulaanbaatar",
+    "publisher": "Interpress",
+    "year": 2004,
+    "subject": "Wild horses -- Mongolia",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 167,
+    "lang": "mon",
     "days_keep_count": 200,
-    "adding_date": "2003-06-14",
+    "adding_date": "2006-05-01",
     "count": 500,
     "authors": [
       {
-        "openlibrary_id": "/authors/OL297057A",
-        "last_name": "Roziner",
-        "first_name": "Feliks"
+        "openlibrary_id": "/authors/OL308186A",
+        "last_name": "Amarkhu̇u̇",
+        "first_name": "O."
       }
     ]
   },
   {
-    "openlibrary_id": "/books/OL12767840M",
-    "title": "RF Superconductivity",
-    "city": null,
-    "publisher": "Wiley-VCH",
-    "year": 2008,
-    "subject": "Electricity, magnetism & electromagnetism",
-    "genre": null,
-    "periodic_release": 1,
-    "page_count": 550,
-    "lang": "eng",
-    "days_keep_count": 30,
-    "adding_date": "2006-05-08",
-    "count": 10,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL4037465A",
-        "last_name": "Padamsee",
-        "first_name": "H."
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL12767841M",
-    "title": "Albert Einstein",
-    "city": null,
-    "publisher": "Wiley-VCH",
-    "year": 2005,
-    "subject": "History",
+    "openlibrary_id": "/books/OL13635016M",
+    "title": "Mongol ardyn gar urlal.",
+    "city": "Ulaanbaatar : [s.n.], 2004",
+    "publisher": null,
+    "year": null,
+    "subject": null,
     "genre": null,
     "periodic_release": null,
-    "page_count": 255,
-    "lang": "eng",
-    "days_keep_count": 10,
-    "adding_date": "2014-05-19",
-    "count": 10,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL2679917A",
-        "last_name": "Renn",
-        "first_name": "Jürgen"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL12767842M",
-    "title": "Proceedings of the Second Seeheim Conference on Magnetism (SCM2004)",
-    "city": null,
-    "publisher": "John Wiley & Sons",
-    "year": 2005,
-    "subject": "Electricity, magnetism & electromagnetism",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 700,
-    "lang": "eng",
-    "days_keep_count": 200,
-    "adding_date": "2016-07-23",
-    "count": 20,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL135838A",
-        "last_name": "State Ports Authority.",
-        "first_name": "Virginia."
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL12767843M",
-    "title": "Physiker Zwischen Autonomie Und Anpassung",
-    "city": null,
-    "publisher": "Wiley-VCH",
-    "year": 2007,
-    "subject": "History of science",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 688,
-    "lang": "ger",
+    "page_count": 0,
+    "lang": null,
     "days_keep_count": 50,
-    "adding_date": "2012-07-06",
-    "count": 300,
+    "adding_date": "2001-02-07",
+    "count": 500,
     "authors": [
       {
-        "openlibrary_id": "/authors/OL1182779A",
-        "last_name": "Mkhan-po.",
-        "first_name": "Zla-baʼi-ʼod-zer"
+        "openlibrary_id": "/authors/OL4319691A",
+        "last_name": "Iadamzhav",
+        "first_name": "Tserengiin"
       }
     ]
   },
   {
-    "openlibrary_id": "/books/OL12767844M",
-    "title": "Proceedings of the Conference on Phonon Scattering in Condensed Matter (Phonons 2004): Physica Statu",
-    "city": null,
-    "publisher": "Wiley-VCH",
-    "year": 2006,
-    "subject": "PHYSICS",
-    "genre": null,
-    "periodic_release": 1,
-    "page_count": 650,
-    "lang": "eng",
-    "days_keep_count": 30,
-    "adding_date": "2001-06-18",
-    "count": 300,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL1204523A",
-        "last_name": "Jastrzębska-Mamełka",
-        "first_name": "Maria"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL12767845M",
-    "title": "Auf Den Schultern Von Riesen Und Zwergen",
-    "city": null,
-    "publisher": "Wiley-VCH",
-    "year": 2006,
-    "subject": "PHYSICS",
+    "openlibrary_id": "/books/OL13635017M",
+    "title": "Yuan dai Menggu wen hua lun cong",
+    "city": "Taibei Shi",
+    "publisher": "Wen shi zhe chu ban she",
+    "year": 2004,
+    "subject": "Mongols -- History -- To 1500",
     "genre": null,
     "periodic_release": null,
-    "page_count": 376,
-    "lang": "ger",
+    "page_count": 309,
+    "lang": "chi",
     "days_keep_count": 200,
-    "adding_date": "2012-03-02",
-    "count": 10,
+    "adding_date": "2003-08-27",
+    "count": 300,
     "authors": [
       {
-        "openlibrary_id": "/authors/OL2679917A",
-        "last_name": "Renn",
-        "first_name": "Jürgen"
+        "openlibrary_id": "/authors/OL4319692A",
+        "last_name": "Yuan",
+        "first_name": "Guofan"
       }
     ]
   },
   {
-    "openlibrary_id": "/books/OL12767846M",
-    "title": "Einstein's Berlin",
-    "city": null,
-    "publisher": "Wiley-VCH",
-    "year": 2006,
-    "subject": "Biography: general",
+    "openlibrary_id": "/books/OL13635018M",
+    "title": "Yuan dai Menggu wen hua lun ji",
+    "city": "Taibei Shi",
+    "publisher": "Taiwan shang wu yin shu guan gu fen you xian gong si",
+    "year": 2004,
+    "subject": "Mongols -- History -- To 1500",
     "genre": null,
     "periodic_release": null,
-    "page_count": 232,
-    "lang": "eng",
-    "days_keep_count": 10,
-    "adding_date": "2015-03-11",
-    "count": 20,
+    "page_count": 285,
+    "lang": "chi",
+    "days_keep_count": 30,
+    "adding_date": "2003-05-04",
+    "count": 100,
     "authors": [
       {
-        "openlibrary_id": "/authors/OL2764361A",
-        "last_name": "Hoffmann",
+        "openlibrary_id": "/authors/OL4319693A",
+        "last_name": "Yuan",
+        "first_name": "Guofan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635019M",
+    "title": "Mongolyn zaiaag tenger tushdeg.",
+    "city": "Ulaanbaatar : Tsomorlig Khevlel, 2005",
+    "publisher": null,
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2008-10-19",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3335423A",
+        "last_name": "Badarch",
         "first_name": "D."
       }
     ]
   },
   {
-    "openlibrary_id": "/books/OL12767847M",
-    "title": "Special Relativity and How it Works",
-    "city": null,
-    "publisher": "Wiley-VCH",
-    "year": 2008,
-    "subject": "Relativity physics",
+    "openlibrary_id": "/books/OL1363501M",
+    "title": "A presença da Bahia na música popular brasileira",
+    "city": "Brasília",
+    "publisher": "MusiMed",
+    "year": 1990,
+    "subject": "Popular music -- Brazil -- Salvador -- History and criticism",
     "genre": null,
-    "periodic_release": 1,
-    "page_count": 670,
-    "lang": "eng",
+    "periodic_release": 3,
+    "page_count": 206,
+    "lang": "por",
     "days_keep_count": 50,
-    "adding_date": "2009-03-02",
-    "count": 20,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL1521014A",
-        "last_name": "Fayngold",
-        "first_name": "Moses"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL12767848M",
-    "title": "Albert Einstein - Akademie-Vortrage",
-    "city": null,
-    "publisher": "Wiley-VCH",
-    "year": 2005,
-    "subject": "PHYSICS",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 448,
-    "lang": "ger",
-    "days_keep_count": 30,
-    "adding_date": "2006-12-23",
+    "adding_date": "2011-11-21",
     "count": 10,
     "authors": [
       {
-        "openlibrary_id": "/authors/OL1082381A",
-        "last_name": "Simon",
-        "first_name": "Dieter"
+        "openlibrary_id": "/authors/OL695947A",
+        "last_name": "Americo Lisboa Junior",
+        "first_name": "Luiz"
       }
     ]
   },
   {
-    "openlibrary_id": "/books/OL12767849M",
-    "title": "Electron and Positron Scattering",
-    "city": null,
-    "publisher": "John Wiley & Sons Inc",
-    "year": 2007,
-    "subject": "Particle & high-energy physics",
+    "openlibrary_id": "/books/OL13635020M",
+    "title": "Altan ordony ulsaas Egipedtei barzh baisan diplomat Khariltsaa : XIII-XIV zuund.",
+    "city": "Ulaanbaatar : Admon, 2004",
+    "publisher": null,
+    "year": null,
+    "subject": null,
     "genre": null,
     "periodic_release": 3,
-    "page_count": 330,
-    "lang": "eng",
-    "days_keep_count": 200,
-    "adding_date": "2001-12-25",
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2000-11-24",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319694A",
+        "last_name": "Zakirov",
+        "first_name": "Salikh"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635021M",
+    "title": "Ein Hirtenleben in der modernen Mongolei",
+    "city": "Berlin",
+    "publisher": "Frieling",
+    "year": 1999,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 367,
+    "lang": "ger",
+    "days_keep_count": 30,
+    "adding_date": "2010-08-01",
     "count": 20,
     "authors": [
       {
-        "openlibrary_id": "/authors/OL3330255A",
-        "last_name": "T. Whelan",
-        "first_name": "Colm"
-      },
+        "openlibrary_id": "/authors/OL4319695A",
+        "last_name": "Tibor",
+        "first_name": "Dorothée"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635022M",
+    "title": "East of the barrier, or, Side lights on the Manchuria mission",
+    "city": "New York",
+    "publisher": "Fleming H. Revell",
+    "year": 1902,
+    "subject": "Presbyterian Church -- Missions -- China -- Manchuria",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 237,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2016-08-08",
+    "count": 10,
+    "authors": [
       {
-        "openlibrary_id": "/authors/OL4037466A",
-        "last_name": "R. J. Walters",
+        "openlibrary_id": "/authors/OL2585920A",
+        "last_name": "Miller Graham",
+        "first_name": "J."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635023M",
+    "title": "Zurkhaig sonirkhokhyn uchir ...",
+    "city": "Ulaanbaatar : [s.n.], [2005]",
+    "publisher": null,
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2010-05-04",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319696A",
+        "last_name": "Oiuunchimeg",
+        "first_name": "L."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635024M",
+    "title": "Mongolyn modernist uran zokhiol.",
+    "city": "Ulaanbaatar : [s.n.], 2004",
+    "publisher": null,
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2010-09-13",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319697A",
+        "last_name": "Battor",
+        "first_name": "Sharaagiin"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635025M",
+    "title": "Zurkhaĭn ukhaany nėr, utgyg giĭgu̇u̇lėgch tu̇lkhu̇u̇r tolʹ bichig =",
+    "city": "Ulaanbaatar",
+    "publisher": "[s.n.]",
+    "year": 2004,
+    "subject": "Astrology, Mongolian -- Dictionaries -- Mongolian",
+    "genre": "Dictionaries",
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "mon",
+    "days_keep_count": 10,
+    "adding_date": "2008-09-21",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319698A",
+        "last_name": "Tėrbish",
+        "first_name": "L."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635026M",
+    "title": "Tȯvd khėl bichigt suralt︠s︡akh dėvtėr dėėdiĭn nomond orokhuĭ u̇u̇d =",
+    "city": "Ulaanbaatar",
+    "publisher": "[s.n.]",
+    "year": 2004,
+    "subject": "Tibetan language -- Textbooks for foreign speakers -- Mongolian",
+    "genre": "Textbooks for foreign speakers",
+    "periodic_release": null,
+    "page_count": 298,
+    "lang": "mon",
+    "days_keep_count": 100,
+    "adding_date": "2004-12-01",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319699A",
+        "last_name": "Tėrbish",
+        "first_name": "L."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635027M",
+    "title": "Nuo'enjiya",
+    "city": "Taibei Xian Xindian Shi",
+    "publisher": "Zheng zhong shu ju",
+    "year": 2003,
+    "subject": "Mongols -- Pictorial works",
+    "genre": "Pictorial works.",
+    "periodic_release": 2,
+    "page_count": 189,
+    "lang": "chi",
+    "days_keep_count": 100,
+    "adding_date": "2009-08-08",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1247573A",
+        "last_name": "Murong.",
+        "first_name": "Xi,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635028M",
+    "title": "Menggu, tian tang cao yuan",
+    "city": "Taibei Shi",
+    "publisher": "Taiwan shang wu yin shu guan",
+    "year": 2002,
+    "subject": "Mongolia -- Description and travel",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 223,
+    "lang": "chi",
+    "days_keep_count": 10,
+    "adding_date": "2007-08-28",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319700A",
+        "last_name": "Xie",
+        "first_name": "Yunchuan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635029M",
+    "title": "Wai Menggu wen ti",
+    "city": "Taibei",
+    "publisher": "Nan tian shu ju",
+    "year": 2001,
+    "subject": "Mongolia -- Politics and government -- 20th century",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 146,
+    "lang": "chi",
+    "days_keep_count": 100,
+    "adding_date": "2015-08-30",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1369650A",
+        "last_name": "Xueyao.",
+        "first_name": "Liu,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1363502M",
+    "title": "Carnavais de Porto Alegre",
+    "city": "[Porto Alegre]",
+    "publisher": "Secretaria Municipal da Cultura",
+    "year": 1992,
+    "subject": "Carnival -- Brazil -- Porto Alegre",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 66,
+    "lang": "por",
+    "days_keep_count": 10,
+    "adding_date": "2006-02-19",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL5405192A",
+        "last_name": "Krawczyk",
+        "first_name": "Flávio"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635030M",
+    "title": "Some ecological effects of forest fires in Washington State",
+    "city": "Bellingham, WA",
+    "publisher": "Huxley College of Environmental Studies",
+    "year": null,
+    "subject": "Forest fires -- Washington (State)",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2016-04-13",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319701A",
+        "last_name": "Starr",
+        "first_name": "Richard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635031M",
+    "title": "Hanŭihak kwa hyŏndae ŭihak",
+    "city": "Sŏul",
+    "publisher": "Sŏul Taehakkyo Chʻulpʻanbu",
+    "year": 2003,
+    "subject": "Medicine -- History",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 241,
+    "lang": "kor",
+    "days_keep_count": 50,
+    "adding_date": "2010-01-26",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319702A",
+        "last_name": "Kim",
+        "first_name": "U-gyŏm"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635032M",
+    "title": "Forest fire ecology in eastern Washington",
+    "city": "[Bellingham, Wash",
+    "publisher": "Huxley College of Environmental Studies, Western Washington State College",
+    "year": 1970,
+    "subject": "Forest fires -- Washington (State)",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 23,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2012-01-19",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4318851A",
+        "last_name": "B. Rudeen",
+        "first_name": "Jeffrey"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635033M",
+    "title": "The domestication of marine life",
+    "city": "[Bellingham, Wash",
+    "publisher": "Huxley College of Environmental Studies, Western Washington State College",
+    "year": 1971,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2008-11-26",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319703A",
+        "last_name": "Routt",
+        "first_name": "Tom"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635034M",
+    "title": "The Beverage Container Control Act",
+    "city": "[Bellingham, Wash",
+    "publisher": "Huxley College of Environmental Studies, Western Washington State College",
+    "year": 1971,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 14,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2005-06-23",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319704A",
+        "last_name": "Rossi",
+        "first_name": "Kathy"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635035M",
+    "title": "Self evaluation & educational critique",
+    "city": "[Bellingham, Wash",
+    "publisher": "Huxley College of Environmental Studies, Western Washington State College",
+    "year": 1973,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 10,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2008-07-13",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319705A",
+        "last_name": "Routt",
+        "first_name": "Tom"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635036M",
+    "title": "Dėlkhiĭg ėzėgnėn ėzėmdėkh tȯlȯvlȯgȯȯ",
+    "city": "Ulaanbaatar",
+    "publisher": "Urlakh Ėrdėm Khėvlėliĭn Gazar",
+    "year": 2004,
+    "subject": "Philosophy, Mongolian",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "mon",
+    "days_keep_count": 50,
+    "adding_date": "2006-02-18",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319706A",
+        "last_name": "T︠S︡ Khuṙdėt ovogt.",
+        "first_name": "Puṙėvsambuu,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635037M",
+    "title": "\"Real\" Indians and others",
+    "city": "Vancouver",
+    "publisher": "UBC Press",
+    "year": 2004,
+    "subject": "Indians of North America -- Urban residence -- Canada",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 303,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2001-10-17",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL250558A",
+        "last_name": "Lawrence",
+        "first_name": "Bonita"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635038M",
+    "title": "U̇u̇rdiĭn dursgal nomon khȯshȯȯ",
+    "city": "Ulaanbaatar",
+    "publisher": "\"Nomos\" Khėvlėliĭn Gazar",
+    "year": 2004,
+    "subject": "Balkhaazhav, T︠S︡",
+    "genre": "Biography.",
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "mon",
+    "days_keep_count": 10,
+    "adding_date": "2002-04-18",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4315824A",
+        "last_name": "Balkhaazhav",
+        "first_name": "T︠S︡"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635039M",
+    "title": "Zakhchin ardyn urtyn duu, duulaachid",
+    "city": "Ulaanbaatar",
+    "publisher": "[s.n.]",
+    "year": 2004,
+    "subject": "Vocal music -- Mongolia",
+    "genre": "Biography.",
+    "periodic_release": 2,
+    "page_count": 383,
+    "lang": "mon",
+    "days_keep_count": 30,
+    "adding_date": "2010-07-25",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319707A",
+        "last_name": "Battulga",
+        "first_name": "Togmidyn"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1363503M",
+    "title": "A entrevista de Guayaquil",
+    "city": "Rio [de Janeiro] RJ",
+    "publisher": "Oficina Letras & ArtesProd. Art. e Cult.",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 122,
+    "lang": "por",
+    "days_keep_count": 10,
+    "adding_date": "2014-06-27",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL695949A",
+        "last_name": "Monjardim",
+        "first_name": "Adelpho"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635040M",
+    "title": "Omniin goviin khuchtenuud.",
+    "city": "Ulaanbaatar : [s.n.], 2004",
+    "publisher": null,
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2010-12-15",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319708A",
+        "last_name": "Seddorzh",
+        "first_name": "R."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635041M",
+    "title": "Mongolyn nuut︠s︡ tovchoo ba Chingis Khaany tukhaĭ tulguur mėdlėg",
+    "city": "Ulaanbaatar",
+    "publisher": "\"Bembi San\" Khėvlėliĭn Gazar",
+    "year": 2004,
+    "subject": "Genghis Khan, -- 1162-1227",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 172,
+    "lang": "mon",
+    "days_keep_count": 50,
+    "adding_date": "2016-10-21",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319709A",
+        "last_name": "Damdinbazaryn Oi︠u︡ut ovogt.",
+        "first_name": "Puṙėvdorzh,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635042M",
+    "title": "Regional development from above and below",
+    "city": "Bellingham, Wash",
+    "publisher": "Huxley College of the Environment, Western Washington University",
+    "year": 2005,
+    "subject": "Sustainable development -- Developing countries",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 24,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2003-07-13",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319710A",
+        "last_name": "Brownell",
+        "first_name": "Andreya"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635043M",
+    "title": "Effects of soil moisture on larvae survival of the anicia checkerspot butterfly in North Cascades Na",
+    "city": "Bellingham, WA",
+    "publisher": "Huxley College of the Environment, Western Washington University",
+    "year": 2004,
+    "subject": "Butterflies -- Washington (State) -- North Cascades National Park",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 22,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2014-10-17",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319711A",
+        "last_name": "Wanwig",
+        "first_name": "Bjorn"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635044M",
+    "title": "City of Lynden land supply analysis",
+    "city": "Bellingham, WA",
+    "publisher": "Huxley College of the Environment, Western Washington University",
+    "year": 2004,
+    "subject": "Land use -- Washington (State) -- Lynden",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 24,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2013-12-04",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319712A",
+        "last_name": "S. Burdick",
+        "first_name": "Matthew"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635045M",
+    "title": "Fire in south Florida ecosystems",
+    "city": "Asheville, N.C",
+    "publisher": "Southeastern Forest Experiment Station",
+    "year": 1980,
+    "subject": "Fire ecology -- Florida",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 125,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2009-01-23",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4310550A",
+        "last_name": "D Wade",
+        "first_name": "Dale"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635046M",
+    "title": "Recognizing developmental stages in southern pine flowers",
+    "city": "Asheville, N.C",
+    "publisher": "U.S. Dept. of Agriculture, Forest Service, Southeastern Forest Experiment Station",
+    "year": 1980,
+    "subject": "Longleaf pine -- Growth",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 13,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2013-03-07",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319713A",
+        "last_name": "L Bramlett",
+        "first_name": "D."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635047M",
+    "title": "Changes in wood processing and use have influenced the likelihood of beetle infestations in seasoned",
+    "city": "[New Orleans, La.]",
+    "publisher": "U.S. Dept. of Agriculture, Forest Service, Southern Forest Experiment Station",
+    "year": 1980,
+    "subject": "Household pests -- Southern States",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 10,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2013-10-18",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319714A",
+        "last_name": "H Williams",
+        "first_name": "Lonnie"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635048M",
+    "title": "Baño de Oro Natural Area Luquillo Mountains, Puerto Rico",
+    "city": "New Orleans, La",
+    "publisher": "U.S. Dept. of Agriculture, Forest Service, Southern Forest Experiment Station",
+    "year": 1994,
+    "subject": "Biosphere reserves -- Puerto Rico",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 55,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2008-01-15",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1336724A",
+        "last_name": "M. Whiting",
+        "first_name": "J."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635049M",
+    "title": "The emergency response operations (draft)",
+    "city": "[Gaithersburg, Md.]",
+    "publisher": "National Institute of Standards and Technology, Technology Administration, U.S. Dept. of Commerce",
+    "year": 2005,
+    "subject": "Emergency management -- United States",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2015-11-15",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4314551A",
+        "last_name": "R Lawson",
+        "first_name": "J."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1363504M",
+    "title": "Corpo de mulher",
+    "city": "São Paulo, SP",
+    "publisher": "MG",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 177,
+    "lang": "por",
+    "days_keep_count": 10,
+    "adding_date": "2012-12-04",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL517574A",
+        "last_name": "A. Amaral Rezende",
+        "first_name": "M."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635050M",
+    "title": "Orthogonal curvilinear grid generation [for Tampa Bay]",
+    "city": "[Silver Spring, Md.]",
+    "publisher": "U.S. Dept. of Commerce, National Oceanic and Atmospheric Administration, National Ocean Service, Office of Ocean and Earth Sciences, Marine Analysis and Interpretation Division, Coastal and Estuarine Oceanography Branch",
+    "year": 1995,
+    "subject": "Numerical grid generation (Numerical analysis)",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 50,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2009-08-25",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1420807A",
+        "last_name": "(Colombia : Dept.). Secretaría de Educación y Cultura.",
+        "first_name": "Antioquia"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635051M",
+    "title": "Tampa PORTS voice data response system description and access statistics, May 1993 - May 1995",
+    "city": "[Silver Spring, Md.]",
+    "publisher": "U.S. Dept. of Commerce, National Oceanic and Atmospheric Administration, National Ocean Service, Office of Ocean and Earth Sciences, Marine Analysis and Interpretation Division, Coastal and Estuarine Oceanography Branch",
+    "year": 1995,
+    "subject": "Sea level -- Florida -- Tampa Bay -- Data processing",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 38,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2003-05-07",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL141016A",
+        "last_name": "Gustaf Weibull",
+        "first_name": "Carl"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635052M",
+    "title": "Application of special variance estimators to geodesy",
+    "city": "Rockville, Md",
+    "publisher": "U.S. Dept. of Commerce, National Oceanic and Atmospheric Administration, National Ocean Survey",
+    "year": 1980,
+    "subject": "Geodesy",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2004-07-25",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL118679A",
+        "last_name": "William",
+        "first_name": "Anderson,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635053M",
+    "title": "Chemical contaminants in northeast United States marine sediments",
+    "city": "Rockville, Md",
+    "publisher": "National Oceanic and Atmospheric Administration, National Ocean Service",
+    "year": 1983,
+    "subject": "Marine pollution -- Northeastern States",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 82,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2006-09-26",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1443768A",
+        "last_name": "Jaegermann",
+        "first_name": "Judith"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635054M",
+    "title": "Testimony of George K. Yin, chief of staff of the Joint Committee on Taxation, at a hearing of the S",
+    "city": "[Washington, D.C.]",
+    "publisher": "Joint Committee on Taxation",
+    "year": 2005,
+    "subject": "Income tax deductions for charitable contributions -- United States",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2001-12-11",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319717A",
+        "last_name": "K Yin",
+        "first_name": "George"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635055M",
+    "title": "Testimony of George K. Yin, chief of staff of the Joint Committee on Taxation, at a hearing of the H",
+    "city": "[Washington, D.C.]",
+    "publisher": "Joint Committee on Taxation",
+    "year": 2005,
+    "subject": "Nonprofit organizations -- United States",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2010-07-08",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319718A",
+        "last_name": "K Yin",
+        "first_name": "George"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635056M",
+    "title": "Finite element analysis for design engineers",
+    "city": "Warrendale, PA : SAE International",
+    "publisher": null,
+    "year": 2004,
+    "subject": "Finite element method",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 185,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2010-02-21",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3099392A",
+        "last_name": "M. Kurowski",
+        "first_name": "Paul"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635057M",
+    "title": "Simulated ground-water flow for a pond-dominated aquifer system near Great Sandy Bottom Pond, Pembro",
+    "city": "Reston, Va",
+    "publisher": "U.S. Geological Survey",
+    "year": 2005,
+    "subject": "Groundwater flow -- Massachusetts -- Pembroke Region",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 43,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2011-06-12",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1445682A",
+        "last_name": "S. Carlson",
+        "first_name": "Carl"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635058M",
+    "title": "Stars become sand when they land",
+    "city": "[Bellingham, Wash.]",
+    "publisher": "A. Frost",
+    "year": 2005,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 122,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2007-04-08",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2951017A",
+        "last_name": "Frost",
+        "first_name": "Allen"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635059M",
+    "title": "Wetland inventory of Scott County, Minnesota",
+    "city": "[Bellingham, Wash",
+    "publisher": "Huxley College of the Environment, Western Washington University",
+    "year": 2002,
+    "subject": "Wetlands -- Minnesota -- Scott County",
+    "genre": "Maps.",
+    "periodic_release": null,
+    "page_count": 37,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2010-05-05",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319720A",
+        "last_name": "S. Vira",
+        "first_name": "Nick"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1363505M",
+    "title": "Linha terminal",
+    "city": "São Paulo",
+    "publisher": "Edições GRD",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 183,
+    "lang": "por",
+    "days_keep_count": 10,
+    "adding_date": "2005-04-12",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL695950A",
+        "last_name": "Luiz Calife",
+        "first_name": "Jorge"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635060M",
+    "title": "Granby River Trails internship report",
+    "city": "Bellingham, WA",
+    "publisher": "Huxley College of the Environment, Western Washington University",
+    "year": 2005,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2014-12-09",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319721A",
+        "last_name": "Dircksen",
+        "first_name": "Zach"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635061M",
+    "title": "Vvedenie v literaturovedenie",
+    "city": "Moskva",
+    "publisher": "Prosveshchenie",
+    "year": 1965,
+    "subject": "Literature",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 365,
+    "lang": "rus",
+    "days_keep_count": 10,
+    "adding_date": "2000-04-13",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1995360A",
+        "last_name": "L. Abramovich",
+        "first_name": "G."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635062M",
+    "title": "Heathcliff's tale",
+    "city": "Leyburn",
+    "publisher": "Tartarus Press, 2005.",
+    "year": 2005,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 167,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2012-02-01",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL81374A",
+        "last_name": "Tennant",
+        "first_name": "Emma"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635063M",
+    "title": "GIS internship/WSDA Pest Protection Division, Yakima, WA",
+    "city": "Bellingham, WA",
+    "publisher": "Huxley College of the Environment, Western Washington University",
+    "year": 2004,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 10,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2013-04-25",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319722A",
+        "last_name": "Riese",
+        "first_name": "Joel"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635064M",
+    "title": "On the fireline with the Craig Interagency Hotshot crew",
+    "city": "Bellingham, WA",
+    "publisher": "Huxley College of the Environment, Western Washington University",
+    "year": 2005,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2008-08-12",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319723A",
+        "last_name": "Awes",
+        "first_name": "Justin"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635065M",
+    "title": "Man, environment and social values",
+    "city": "Bellingham, WA",
+    "publisher": "Huxley College of Environmental Studies",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 12,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2001-06-05",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2737306A",
+        "last_name": "L. Smith",
+        "first_name": "Richard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635066M",
+    "title": "Stabilized engineered wood fiber for accessible trails",
+    "city": "[Madison, WI]",
+    "publisher": "U.S. Dept. of Agriculture, Forest Service, Forest Products Laboratory",
+    "year": 2004,
+    "subject": "Fibers",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 11,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2000-06-28",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1445684A",
+        "last_name": "Laufenberg",
+        "first_name": "Theodore"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635067M",
+    "title": "Thermal effluent and environmental change",
+    "city": "Bellingham, WA",
+    "publisher": "Huxley College of Environmental Studies",
+    "year": 1970,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2012-09-11",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4318841A",
+        "last_name": "Rogers",
+        "first_name": "Brant"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635068M",
+    "title": "The science of creative intelligence and environmental education",
+    "city": "[Bellingham, Wash",
+    "publisher": "Huxley College of Environmental Studies, Western Washington State College",
+    "year": 1973,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 26,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2010-05-05",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319725A",
+        "last_name": "Routt",
+        "first_name": "Tom"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635069M",
+    "title": "Wilkshire, the issues of annexation",
+    "city": "Bellingham, WA",
+    "publisher": "Huxley College of Environmental Studies",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 27,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2009-03-16",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319726A",
+        "last_name": "Graafstra",
+        "first_name": "Ron"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1363506M",
+    "title": "Ciranda patida",
+    "city": "São Paulo, Brasil",
+    "publisher": "Castelo Artes Gráficas e Editora",
+    "year": 1990,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 139,
+    "lang": "por",
+    "days_keep_count": 50,
+    "adding_date": "2006-09-21",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL695951A",
+        "last_name": "Carolina Gagete",
+        "first_name": "Lourdes"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635070M",
+    "title": "The cancer journals",
+    "city": "San Francisco",
+    "publisher": "Aunt Lute Books",
+    "year": 1996,
+    "subject": "Lorde, Audre -- Diaries",
+    "genre": "Diaries.",
+    "periodic_release": null,
+    "page_count": 77,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2000-07-04",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL278850A",
+        "last_name": "Lorde",
+        "first_name": "Audre"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635071M",
+    "title": "Radiation exposure overview",
+    "city": "Rockville, Md",
+    "publisher": "U.S. Dept. of Health, Education and Welfare, Public Health Service, Environmental Control Administration, Bureau of Radiological Health",
+    "year": 1970,
+    "subject": "Radioactive waste disposal",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 29,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2001-09-28",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1746965A",
+        "last_name": "H. Oates",
+        "first_name": "William"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635072M",
+    "title": "The discontinuation of the Slush Cup",
+    "city": "Bellingham, WA",
+    "publisher": "Huxley College of Environmental Studies",
+    "year": 1982,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 27,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2006-07-29",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2867713A",
+        "last_name": "E. Bryan",
+        "first_name": "James"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635073M",
+    "title": "The Woburn Park attitude survey and its relation to the local planning process",
+    "city": "Bellingham, WA",
+    "publisher": "Huxley College of Environmental Studies",
+    "year": 1982,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 14,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2003-05-20",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319727A",
+        "last_name": "Overcast",
+        "first_name": "Curt"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635074M",
+    "title": "City of Phoenix Planning Department",
+    "city": "Bellingham, WA",
+    "publisher": "Huxley College of Environmental Studies, Western Washington State College",
+    "year": 1977,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 19,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2009-07-24",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3650176A",
+        "last_name": "Parks",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635075M",
+    "title": "Modal analysis theory and testing",
+    "city": "Belgium",
+    "publisher": "Katholieke Universiteit Leuven, Faculty of Engineering, Dept. of Mechanical Engineering, Division of Production Engineering, Machine Design and Automation",
+    "year": 1998,
+    "subject": "Modal analysis -- Testing",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2009-06-29",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319728A",
+        "last_name": "Heylen",
+        "first_name": "Ward"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635076M",
+    "title": "Summer internship, 1983",
+    "city": "[Bellingham, WA",
+    "publisher": "Huxley College of Environmental Studies, Western Washington University",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2014-07-26",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319729A",
+        "last_name": "R. Holley",
+        "first_name": "James"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635077M",
+    "title": "Comprehensive land use plan update",
+    "city": "[Bellingham, WA",
+    "publisher": "Huxley College of Environmental Studies, Western Washington University",
+    "year": 1988,
+    "subject": "Swinomish Indian Reservation (Wash.)",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2007-05-27",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4293444A",
+        "last_name": "Morrison",
+        "first_name": "Amy"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635078M",
+    "title": "Camp Satsop Y.C.C. final evaluation report",
+    "city": "[Bellingham, Wash",
+    "publisher": "Huxley College of Environmental Studies, Western Washington University",
+    "year": 1980,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2016-05-30",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL959453A",
+        "last_name": "Millar",
+        "first_name": "Alan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635079M",
+    "title": "Grove's dictionary of music and musicians.",
+    "city": "London",
+    "publisher": "Macmillan and Co.",
+    "year": 1948,
+    "subject": "Music -- Dictionaries",
+    "genre": "Dictionaries.",
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2005-10-21",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL421921A",
+        "last_name": "George Grove",
+        "first_name": "Sir"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1363507M",
+    "title": "Os orixás africanos e as sete linhas de umbanda",
+    "city": "São Paulo",
+    "publisher": "Tríade Editorial",
+    "year": 1992,
+    "subject": "Umbanda (Cult)",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 60,
+    "lang": "por",
+    "days_keep_count": 50,
+    "adding_date": "2015-12-31",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL695952A",
+        "last_name": "S. Santos",
+        "first_name": "Gilton"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635080M",
+    "title": "Shale-oil development",
+    "city": "Bellingham, WA",
+    "publisher": "Huxley College of Environmental Studies",
+    "year": 1975,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2001-08-02",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319730A",
+        "last_name": "Morrison",
+        "first_name": "Bryan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635081M",
+    "title": "Alto's mat maker's handbook",
+    "city": "Kirkland, WA",
+    "publisher": "Alto's EZ/MAT",
+    "year": 1986,
+    "subject": "Mat cutting (Pictures)",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 95,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2005-12-19",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319731A",
+        "last_name": "O. Albright",
+        "first_name": "Alto"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635082M",
+    "title": "Navajo rugs",
+    "city": "Palm Desert, Calif",
+    "publisher": "Best-West Pub.",
+    "year": 1963,
+    "subject": "Navajo Indians",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 72,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2014-09-26",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1145479A",
+        "last_name": "S. Maxwell",
+        "first_name": "Gilbert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635083M",
+    "title": "Craft manual of North American Indian footwear",
+    "city": "Ronan, Mont",
+    "publisher": "[s.n.]",
+    "year": 1969,
+    "subject": "Indians of North America -- Clothing -- Handbooks, manuals, etc",
+    "genre": "Handbooks, manuals, etc.",
+    "periodic_release": null,
+    "page_count": 71,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2013-06-16",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2534933A",
+        "last_name": "George M.",
+        "first_name": "White,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635084M",
+    "title": "Truth of a Hopi",
+    "city": "Flagstaff, Ariz",
+    "publisher": "[Northland Press",
+    "year": 1967,
+    "subject": "Hopi Indians -- Folklore",
+    "genre": "Folklore.",
+    "periodic_release": null,
+    "page_count": 137,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2004-10-08",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319732A",
+        "last_name": "Nequatewa",
+        "first_name": "Edmund"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635085M",
+    "title": "The seat of the soul",
+    "city": "New York, NY",
+    "publisher": "Simon & Schuster",
+    "year": 1990,
+    "subject": "New Age movement",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 255,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2015-01-07",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL65861A",
+        "last_name": "Zukav",
+        "first_name": "Gary"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635086M",
+    "title": "Effects of alternative instream-flow criteria and water-supply demands on ground-water development o",
+    "city": "Reston, Va",
+    "publisher": "U.S. Dept. of the Interior, U.S. Geological Survey",
+    "year": 2005,
+    "subject": "Groundwater -- Rhode Island -- Big River Region",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 110,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2009-06-26",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1409730A",
+        "last_name": "E. Granato",
+        "first_name": "Gregory"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635087M",
+    "title": "GWM--a ground-water management process for the U.S. Geological Survey Modular Ground-Water Model (MO",
+    "city": "Reston, Va",
+    "publisher": "U.S. Dept. of the Interior, U.S. Geological Survey",
+    "year": 2005,
+    "subject": "MODFLOW-2000",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 124,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2011-02-27",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1447584A",
+        "last_name": "P. Ahlfeld",
+        "first_name": "David"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635088M",
+    "title": "Remote sensing",
+    "city": "Washington, D.C. (101 Independence Ave., S.E., Washington 20540-4750)",
+    "publisher": "Science Reference Section, Science, Technology, and Business Division, Library of Congress",
+    "year": 2005,
+    "subject": "Remote sensing -- Bibliography",
+    "genre": "Bibliography",
+    "periodic_release": 3,
+    "page_count": 31,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2003-10-28",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4318444A",
+        "last_name": "Clifton",
+        "first_name": "Margaret"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635089M",
+    "title": "The environmental significance of a nuclear power plant at Hawks Point, Washington",
+    "city": "Bellingham, WA",
+    "publisher": "Huxley College of Environmental Studies",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 40,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2011-08-29",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1707106A",
+        "last_name": "M. Erickson",
+        "first_name": "Steve"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1363508M",
+    "title": "Mercosul",
+    "city": "São Paulo",
+    "publisher": "CEDI",
+    "year": 1992,
+    "subject": "MERCOSUR (Organization)",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 203,
+    "lang": "por",
+    "days_keep_count": 10,
+    "adding_date": "2009-10-17",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL645468A",
+        "last_name": "R. Schilling",
+        "first_name": "Paulo"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635090M",
+    "title": "Processes",
+    "city": "Bellingham, WA",
+    "publisher": "Huxley College of Environmental Studies",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2000-10-22",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319733A",
+        "last_name": "Guppy",
+        "first_name": "Chico"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635091M",
+    "title": "Summary of activities with Human Resources Planning - Health Planning",
+    "city": "Bellingham, Wash",
+    "publisher": "Huxley College of Environmental Studies, Western Washington State College",
+    "year": 1977,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 14,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2005-10-19",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319734A",
+        "last_name": "Hauck",
+        "first_name": "Steven"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635092M",
+    "title": "Sweeney Todd, the demon barber of Fleet Street",
+    "city": "New York",
+    "publisher": "Dodd, Mead",
+    "year": 1979,
+    "subject": "Musicals -- Librettos",
+    "genre": "Librettos.",
+    "periodic_release": null,
+    "page_count": 184,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2001-03-23",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL223562A",
+        "last_name": "Sondheim",
+        "first_name": "Stephen"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635093M",
+    "title": "The planning of Birnam Wood",
+    "city": "Bellingham, WA",
+    "publisher": "Huxley College of Environmental Studies",
+    "year": 1970,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2011-01-13",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319735A",
+        "last_name": "Shumway",
+        "first_name": "Gary"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635094M",
+    "title": "Educating physicians in the nineteenth century",
+    "city": "Bethesda, Md",
+    "publisher": "U.S. Dept. of Health and Human Services, Public Health Service, National Institutes of Health",
+    "year": 1988,
+    "subject": "National Library of Medicine (U.S.) -- Catalogs",
+    "genre": "Bibliography.",
+    "periodic_release": 1,
+    "page_count": 11,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2012-01-28",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL589315A",
+        "last_name": "Neville Bonner",
+        "first_name": "Thomas"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635095M",
+    "title": "Wood's library of standard medical authors, 1879-1886",
+    "city": "Bethesda, Md",
+    "publisher": "History of Medicine Division, National Library of Medicine",
+    "year": 1985,
+    "subject": "Wood's library of standard medical authors",
+    "genre": "Bibliography",
+    "periodic_release": 2,
+    "page_count": 31,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2013-12-20",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319736A",
+        "last_name": "M. Teigen",
+        "first_name": "Philip"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635096M",
+    "title": "A review of the actual and expected consequences of family size",
+    "city": "[Bethesda, Md.]",
+    "publisher": "U.S. Dept. of Health, Education, and Welfare, Public Health Service, National Institutes of Health",
+    "year": 1974,
+    "subject": "Family size -- United States",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 234,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2002-05-10",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319737A",
+        "last_name": "W. Terhune",
+        "first_name": "Kenneth"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635097M",
+    "title": "Harold Prince's Cabaret",
+    "city": "New York",
+    "publisher": "Random House",
+    "year": 1967,
+    "subject": "Musicals",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 115,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2013-11-12",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2170858A",
+        "last_name": "Masteroff",
+        "first_name": "Joe"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635098M",
+    "title": "Bach Music Workshop",
+    "city": "[Bellingham, Wash",
+    "publisher": "Dept. of Music, Western Washington University",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2009-07-03",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1350410A",
+        "last_name": "M. Docherty",
+        "first_name": "George"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635099M",
+    "title": "La Traversée du mal",
+    "city": "Paris",
+    "publisher": "Arléa",
+    "year": 2000,
+    "subject": "Tillion, Germaine -- Interviews",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 125,
+    "lang": "fre",
+    "days_keep_count": 100,
+    "adding_date": "2004-01-14",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL86829A",
+        "last_name": "Tillion",
+        "first_name": "Germaine"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1363509M",
+    "title": "XIII Congresso Nacional de Matemática Aplicada e Computacional",
+    "city": "Rio de Janeiro, RJ",
+    "publisher": "A Sociedade",
+    "year": 1990,
+    "subject": "Mathematical analysis -- Congresses.",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 184,
+    "lang": "por",
+    "days_keep_count": 200,
+    "adding_date": "2009-03-29",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL695953A",
+        "last_name": "Nacional de Matemática Aplicada e Computacional (13th 1990 Aguas de Lindóia, Brazil)",
+        "first_name": "Congresso"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL136350M",
+    "title": "Consenso y negociación en el FSLN",
+    "city": "Managua",
+    "publisher": "El Amanecer",
+    "year": 1998,
+    "subject": "Frente Sandinista de Liberación Nacional.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 145,
+    "lang": "spa",
+    "days_keep_count": 30,
+    "adding_date": "2006-09-18",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL89944A",
+        "last_name": "Hugo Tinoco",
+        "first_name": "Víctor"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635100M",
+    "title": "Collected stories",
+    "city": "New York",
+    "publisher": "Penguin Books",
+    "year": 2002,
+    "subject": "United States -- Social life and customs -- 20th century -- Fiction",
+    "genre": "Fiction.",
+    "periodic_release": null,
+    "page_count": 442,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2004-12-16",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL33600A",
+        "last_name": "Bellow",
+        "first_name": "Saul"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635101M",
+    "title": "Kinsley Construction",
+    "city": "Exton [Pa.]",
+    "publisher": "Newcomen Society of the United States",
+    "year": 2004,
+    "subject": "Kinsley Construction",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 40,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2000-07-21",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319739A",
+        "last_name": "A. Kinsley",
+        "first_name": "Robert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635102M",
+    "title": "Regions Financial Corporation",
+    "city": "Exton [Pa.]",
+    "publisher": "Newcomen Society of the United States",
+    "year": 2004,
+    "subject": "Regions Financial Corporation",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 24,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2012-03-10",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319740A",
+        "last_name": "Carl E. Jr.",
+        "first_name": "Jones,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635103M",
+    "title": "Chemistry of ground water in the Silver Springs Basin, Florida, with an emphasis on nitrate",
+    "city": "Reston, Va",
+    "publisher": "U.S. Dept. of Interior, U.S. Geological Survey",
+    "year": 2004,
+    "subject": "Groundwater -- Florida -- Silver Springs",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 54,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2009-09-07",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4303977A",
+        "last_name": "G Phelps",
+        "first_name": "G."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635104M",
+    "title": "Star wars",
+    "city": null,
+    "publisher": null,
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2000-08-08",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL284230A",
+        "last_name": "Perry",
+        "first_name": "Steve"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635105M",
+    "title": "A new age gyroscope",
+    "city": "Bellingham, WA",
+    "publisher": "Huxley College of Environmental Studies",
+    "year": 1976,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 21,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2011-01-14",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3469137A",
+        "last_name": "Harrison",
+        "first_name": "Robin"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635106M",
+    "title": "[Why study literature?",
+    "city": "Bellingham, WA",
+    "publisher": "Huxley College of Environmental Studies",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 24,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2016-06-03",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2852860A",
+        "last_name": "Edgar",
+        "first_name": "Chris"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635107M",
+    "title": "Hankow",
+    "city": "Taipei",
+    "publisher": "Southern Materials Center, Inc.",
+    "year": 1987,
+    "subject": "Guilds -- China -- Hankou (Wuhan) -- History -- 19th century",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 436,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2010-04-24",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1008820A",
+        "last_name": "T. Rowe",
+        "first_name": "William"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635108M",
+    "title": "Rents, taxes, and peasant resistance",
+    "city": "Taipei",
+    "publisher": "SMC Publishing",
+    "year": 1992,
+    "subject": "Peasant uprisings -- China -- Yangtze River Region -- History",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 326,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2006-12-14",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL25321A",
+        "last_name": "Bernhardt",
+        "first_name": "Kathryn"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635109M",
+    "title": "The learning circle",
+    "city": "Ottawa",
+    "publisher": "Indian and Northern Affairs Canada",
+    "year": 2000,
+    "subject": "Indigenous peoples -- Education -- Canada",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 61,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2004-09-25",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319741A",
+        "last_name": "A. McCue",
         "first_name": "H."
       }
     ]
   },
   {
-    "openlibrary_id": "/books/OL1276784M",
-    "title": "The invasion of planet Wampetter",
-    "city": "Los Angeles",
-    "publisher": "Perspective Pub.",
-    "year": 1995,
-    "subject": "Science fiction.",
+    "openlibrary_id": "/books/OL1363510M",
+    "title": "Migrantes temporários",
+    "city": "São Paulo, SP",
+    "publisher": "SPM",
+    "year": 1991,
+    "subject": "Seasonal labor -- Brazil -- Jequitinhonha River Valley.",
     "genre": null,
     "periodic_release": null,
-    "page_count": 133,
-    "lang": "eng",
+    "page_count": 75,
+    "lang": "por",
     "days_keep_count": 30,
-    "adding_date": "2000-03-21",
-    "count": 100,
+    "adding_date": "2011-02-16",
+    "count": 500,
     "authors": [
       {
-        "openlibrary_id": "/authors/OL229932A",
-        "last_name": "H. Pillsbury",
-        "first_name": "Samuel"
+        "openlibrary_id": "/authors/OL1449173A",
+        "last_name": "Handajani",
+        "first_name": "Hany"
       }
     ]
   },
   {
-    "openlibrary_id": "/books/OL12767850M",
-    "title": "Die Welt Hinter Den Dingen",
-    "city": null,
-    "publisher": "Wiley-VCH",
+    "openlibrary_id": "/books/OL13635110M",
+    "title": "Sprache un Geschlecht",
+    "city": "Stuttgart",
+    "publisher": "Metzler",
     "year": 2005,
-    "subject": "PHYSICS",
+    "subject": "Sociolinguistics",
     "genre": null,
     "periodic_release": 3,
-    "page_count": 134,
-    "lang": "eng",
-    "days_keep_count": 30,
-    "adding_date": "2005-11-15",
+    "page_count": 230,
+    "lang": "ger",
+    "days_keep_count": 100,
+    "adding_date": "2001-09-02",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1226678A",
+        "last_name": "Klann-Delius",
+        "first_name": "Gisela"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635111M",
+    "title": "Grenzgänge",
+    "city": "Heidelberg",
+    "publisher": "Winter",
+    "year": 2005,
+    "subject": "German literature -- History and criticism",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 364,
+    "lang": "ger",
+    "days_keep_count": 200,
+    "adding_date": "2000-12-27",
     "count": 20,
     "authors": [
       {
-        "openlibrary_id": "/authors/OL4037467A",
-        "last_name": "Wagner",
-        "first_name": "H-F."
+        "openlibrary_id": "/authors/OL1638236A",
+        "last_name": "Wiedemann",
+        "first_name": "Conrad"
       }
     ]
   },
   {
-    "openlibrary_id": "/books/OL12767851M",
-    "title": "Maschinen Mit Bewusstsein",
-    "city": null,
-    "publisher": "Wiley-VCH",
-    "year": 2006,
-    "subject": "Electronics & Communications Engineering",
+    "openlibrary_id": "/books/OL13635112M",
+    "title": "Seattle Women's Business Center internship",
+    "city": "Bellingham, WA",
+    "publisher": "Huxley College of the Environment, Western Washington University",
+    "year": 2005,
+    "subject": null,
     "genre": null,
-    "periodic_release": 1,
-    "page_count": 331,
+    "periodic_release": null,
+    "page_count": 38,
     "lang": "eng",
     "days_keep_count": 100,
-    "adding_date": "2012-04-14",
-    "count": 10,
+    "adding_date": "2007-11-28",
+    "count": 500,
     "authors": [
       {
-        "openlibrary_id": "/authors/OL4037468A",
-        "last_name": "Vowinkel",
-        "first_name": "B."
+        "openlibrary_id": "/authors/OL4319742A",
+        "last_name": "D. Austin",
+        "first_name": "Suzanne"
       }
     ]
   },
   {
-    "openlibrary_id": "/books/OL12767852M",
-    "title": "Theoretische Physik",
-    "city": null,
-    "publisher": "Wiley-VCH",
-    "year": 2006,
-    "subject": "Classical mechanics",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 381,
-    "lang": "ger",
-    "days_keep_count": 200,
-    "adding_date": "2009-08-05",
-    "count": 100,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL4037469A",
-        "last_name": "Reineker",
-        "first_name": "Peter"
-      },
-      {
-        "openlibrary_id": "/authors/OL4037470A",
-        "last_name": "Mercedes Schulz",
-        "first_name": "Beatrix"
-      },
-      {
-        "openlibrary_id": "/authors/OL1380543A",
-        "last_name": "Schulz",
-        "first_name": "Michael"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL12767853M",
-    "title": "Laser, Licht Und Leben",
-    "city": null,
-    "publisher": "Wiley-VCH",
-    "year": 2006,
-    "subject": "Biology, Life Sciences",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 217,
-    "lang": "ger",
-    "days_keep_count": 50,
-    "adding_date": "2009-03-15",
-    "count": 300,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL3302898A",
-        "last_name": "Popp",
-        "first_name": "Jurgen"
-      },
-      {
-        "openlibrary_id": "/authors/OL4037471A",
-        "last_name": "Liedtke",
-        "first_name": "Susanne"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL12767854M",
-    "title": "Theoretische Physik III",
-    "city": null,
-    "publisher": "Wiley-VCH",
-    "year": 2007,
-    "subject": "PHYSICS",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 537,
-    "lang": "ger",
-    "days_keep_count": 50,
-    "adding_date": "2014-04-09",
-    "count": 10,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL4037469A",
-        "last_name": "Reineker",
-        "first_name": "Peter"
-      },
-      {
-        "openlibrary_id": "/authors/OL4037470A",
-        "last_name": "Mercedes Schulz",
-        "first_name": "Beatrix"
-      },
-      {
-        "openlibrary_id": "/authors/OL1380543A",
-        "last_name": "Schulz",
-        "first_name": "Michael"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL12767855M",
-    "title": "Theoretische Physik",
-    "city": null,
-    "publisher": "Wiley-VCH",
-    "year": 2006,
-    "subject": "PHYSICS",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 438,
-    "lang": "ger",
-    "days_keep_count": 10,
-    "adding_date": "2009-04-18",
-    "count": 10,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL4037469A",
-        "last_name": "Reineker",
-        "first_name": "Peter"
-      },
-      {
-        "openlibrary_id": "/authors/OL4037470A",
-        "last_name": "Mercedes Schulz",
-        "first_name": "Beatrix"
-      },
-      {
-        "openlibrary_id": "/authors/OL1380543A",
-        "last_name": "Schulz",
-        "first_name": "Michael"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL12767856M",
-    "title": "Theoretische Physik IV",
-    "city": null,
-    "publisher": "Wiley-VCH",
-    "year": 2008,
-    "subject": "Mechanical Engineering & Materials",
-    "genre": null,
-    "periodic_release": 2,
-    "page_count": 320,
-    "lang": "ger",
-    "days_keep_count": 30,
-    "adding_date": "2001-09-26",
-    "count": 100,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL4037469A",
-        "last_name": "Reineker",
-        "first_name": "Peter"
-      },
-      {
-        "openlibrary_id": "/authors/OL4037470A",
-        "last_name": "Mercedes Schulz",
-        "first_name": "Beatrix"
-      },
-      {
-        "openlibrary_id": "/authors/OL1380543A",
-        "last_name": "Schulz",
-        "first_name": "Michael"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL12767857M",
-    "title": "Theoretische Physik V",
-    "city": null,
-    "publisher": "Wiley-VCH",
-    "year": 2008,
-    "subject": "Mechanical Engineering & Materials",
-    "genre": null,
-    "periodic_release": null,
-    "page_count": 320,
-    "lang": "ger",
-    "days_keep_count": 10,
-    "adding_date": "2005-10-01",
-    "count": 10,
-    "authors": [
-      {
-        "openlibrary_id": "/authors/OL4037469A",
-        "last_name": "Reineker",
-        "first_name": "Peter"
-      },
-      {
-        "openlibrary_id": "/authors/OL4037470A",
-        "last_name": "Mercedes Schulz",
-        "first_name": "Beatrix"
-      },
-      {
-        "openlibrary_id": "/authors/OL1380543A",
-        "last_name": "Schulz",
-        "first_name": "Michael"
-      }
-    ]
-  },
-  {
-    "openlibrary_id": "/books/OL12767858M",
-    "title": "Icnaam",
-    "city": null,
-    "publisher": "Wiley-VCH",
+    "openlibrary_id": "/books/OL13635113M",
+    "title": "Hugh Bone Washington State Legislative Internship",
+    "city": "Bellingham, WA",
+    "publisher": "Huxley College of the Environment, Western Washington University",
     "year": 2005,
-    "subject": "Numerical analysis",
+    "subject": null,
     "genre": null,
     "periodic_release": null,
-    "page_count": 950,
+    "page_count": 13,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2009-02-06",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319743A",
+        "last_name": "Dirmeyer",
+        "first_name": "Maitri"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635114M",
+    "title": "Salmon hazard sign and Nooksack Salmon Enhancement Association Board of Directors internship report",
+    "city": "Bellingham, WA",
+    "publisher": "Huxley College of the Environment, Western Washington University",
+    "year": 2005,
+    "subject": "Nooksack Salmon Enhancement Association",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 18,
     "lang": "eng",
     "days_keep_count": 30,
-    "adding_date": "2006-11-25",
+    "adding_date": "2002-05-15",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319744A",
+        "last_name": "L. Dawson",
+        "first_name": "Andrew"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635115M",
+    "title": "Lab and field work of marine mammals",
+    "city": "Bellingham, WA",
+    "publisher": "Huxley College of the Environment, Western Washington University",
+    "year": 2005,
+    "subject": "Marine biology",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 20,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2009-02-24",
     "count": 300,
     "authors": [
       {
-        "openlibrary_id": "/authors/OL1255955A",
-        "last_name": "Katami",
-        "first_name": "Ueno,"
+        "openlibrary_id": "/authors/OL4319745A",
+        "last_name": "M. Mathews",
+        "first_name": "Alyssa"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635116M",
+    "title": "Philosophy",
+    "city": "Beverly Hills, Calif",
+    "publisher": "Glencoe Press",
+    "year": 1975,
+    "subject": "Philosophy -- History",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 383,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2013-03-09",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL528658A",
+        "last_name": "Paul Janaro",
+        "first_name": "Richard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635117M",
+    "title": "Language and thinking",
+    "city": null,
+    "publisher": "Van Nostrand Reinhold",
+    "year": 1967,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 350,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2001-10-05",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319746A",
+        "last_name": "Griggs Alexander",
+        "first_name": "Hubert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635118M",
+    "title": "Preserving and providing access to Washington women's history",
+    "city": "Olympia, WA",
+    "publisher": "Washington State Institute for Public Policy",
+    "year": 2004,
+    "subject": "Women's rights -- Washington (State) -- History -- Information resources",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2010-11-09",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4318278A",
+        "last_name": "Pennucci",
+        "first_name": "Annie"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635119M",
+    "title": "City of Lynden land supply analysis &",
+    "city": "Bellingham, WA",
+    "publisher": "Huxley College of the Environment, Western Washington University",
+    "year": 2005,
+    "subject": "Institute for Watershed Studies",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 41,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2007-07-20",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319747A",
+        "last_name": "Sestrap",
+        "first_name": "Asta"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1363511M",
+    "title": "A Legião Estrangeira",
+    "city": "São Paulo, Brasil",
+    "publisher": "Editora Siciliano",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 136,
+    "lang": "por",
+    "days_keep_count": 50,
+    "adding_date": "2012-07-25",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL93118A",
+        "last_name": "Lispector",
+        "first_name": "Clarice"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635120M",
+    "title": "Round goby (Neogobius melanostomus) impacts on benthic invertebrates in Green Bay, Lake Michigan, Wi",
+    "city": "Bellingham, WA",
+    "publisher": "Huxley College of the Environment, Western Washington University",
+    "year": 2005,
+    "subject": "Benthos -- Wisconsin -- Green Bay ",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 18,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2009-12-08",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319748A",
+        "last_name": "Massart",
+        "first_name": "Jamie"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635121M",
+    "title": "An internship with the U.S. Geological Survey",
+    "city": "Bellingham, WA",
+    "publisher": "Huxley College of the Environment, Western Washington University",
+    "year": 2005,
+    "subject": "Internship programs -- Washington (State) -- Tacoma",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2012-01-03",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319749A",
+        "last_name": "Groce",
+        "first_name": "Matt"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635122M",
+    "title": "Sky/Pathways internship winter 2003",
+    "city": "Bellingham, WA",
+    "publisher": "Huxley College of the Environment, Western Washington University",
+    "year": 2003,
+    "subject": "Internship programs -- Washington (State) -- Skagit County",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 45,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2011-02-20",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319750A",
+        "last_name": "Isley",
+        "first_name": "Benson"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635123M",
+    "title": "Hankow",
+    "city": "Taipei",
+    "publisher": "SMC Publishing",
+    "year": 1992,
+    "subject": "Community organization -- China -- Hankou (Wuhan)",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 440,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2004-05-21",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1008820A",
+        "last_name": "T. Rowe",
+        "first_name": "William"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635124M",
+    "title": "Turning the corner",
+    "city": "[Washington, D.C.]",
+    "publisher": "U.S. Dept. of Education",
+    "year": 1995,
+    "subject": "Educational acceleration -- United States",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 22,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2006-11-13",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3506152A",
+        "last_name": "W. Riley",
+        "first_name": "Richard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635125M",
+    "title": "Spatial extent of dioxin/furan contaminated sediments in Dillenbaugh Creek",
+    "city": "Olympia, WA",
+    "publisher": "Washington State Dept. of Ecology",
+    "year": 2005,
+    "subject": "Contaminated sediments -- Washington (State) -- Dillenbaugh Creek",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 48,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2002-09-15",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4313100A",
+        "last_name": "Blakley",
+        "first_name": "Nigel"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635126M",
+    "title": "Growing healthy children.",
+    "city": "Washington",
+    "publisher": "Govt. Print. Off.",
+    "year": 1923,
+    "subject": "School hygiene -- New Jersey -- Trenton",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 35,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2003-05-06",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319751A",
+        "last_name": "J. N. Perkins",
+        "first_name": "Ina"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635127M",
+    "title": "Khar dom zaslyn sudryn khėlkhėės",
+    "city": "Ėrdėnėt",
+    "publisher": "\"Mongol Sudar\" Kompani",
+    "year": 1993,
+    "subject": "Medicine, Mongolian -- Sources",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 166,
+    "lang": "mon",
+    "days_keep_count": 10,
+    "adding_date": "2010-01-16",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319752A",
+        "last_name": "Dėmbėrėldorzh",
+        "first_name": "D."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635128M",
+    "title": "Internship report",
+    "city": "Bellingham, WA",
+    "publisher": "Huxley College of the Environment, Western Washington University",
+    "year": 2005,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 17,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2014-06-07",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319753A",
+        "last_name": "Weinheimer",
+        "first_name": "Josh"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635129M",
+    "title": "Port of Bellingham / Fairhaven",
+    "city": "[Bellingham, Wash",
+    "publisher": "Huxley College of Environmental Studies, Western Washington State College",
+    "year": null,
+    "subject": "Port of Bellingham (Wash.)",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2015-11-28",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319754A",
+        "last_name": "D. Stenbak",
+        "first_name": "Roger"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1363512M",
+    "title": "Itaipu",
+    "city": "São Paulo",
+    "publisher": "CEDI",
+    "year": 1991,
+    "subject": "Itaipu (Power plant)",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 53,
+    "lang": "por",
+    "days_keep_count": 10,
+    "adding_date": "2004-11-30",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL645468A",
+        "last_name": "R. Schilling",
+        "first_name": "Paulo"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635130M",
+    "title": "A proposal for the management of the Canyon Creek drainage basin",
+    "city": "Bellingham, WA",
+    "publisher": "Huxley College of Environmental Studies",
+    "year": 1975,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 34,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2000-06-12",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319755A",
+        "last_name": "C. Bullington",
+        "first_name": "Darryl"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635131M",
+    "title": "Tȯvd Mongol dokhiony bichig shinėkhėn oi︠u︡untan kharaad bai︠a︡sagch tolʹ =",
+    "city": "Ulaanbaatar",
+    "publisher": "[s.n.]",
+    "year": 2001,
+    "subject": "Buddhism -- Dictionaries -- Tibetan",
+    "genre": "Dictionaries",
+    "periodic_release": 3,
+    "page_count": 825,
+    "lang": "mon",
+    "days_keep_count": 10,
+    "adding_date": "2016-10-20",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319756A",
+        "last_name": "Tėrbish",
+        "first_name": "L."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635132M",
+    "title": "Pu̇gva-yn Zurkhaĭn saĭn nomlol mėrgėdiĭn khu̇zu̇u̇niĭ chimėg T︠S︡agaan bėndėrʺi︠a︡a unzhlaga, shinzh",
+    "city": "Ulaanbaatar",
+    "publisher": "[s.n.]",
+    "year": 2001,
+    "subject": "Astrology, Tibetan",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "mon",
+    "days_keep_count": 30,
+    "adding_date": "2001-11-04",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL104841A",
+        "last_name": "Gyatso",
+        "first_name": "Sangye"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635133M",
+    "title": "Water flow and nutrient flux from five estuarine rivers along the southwest coast of the Everglades ",
+    "city": "Reston, Va",
+    "publisher": "U.S. Dept. of the Interior, U.S. Geological Survey",
+    "year": 2004,
+    "subject": "Streamflow -- Florida -- Everglades National Park",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 24,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2013-09-02",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL59847A",
+        "last_name": "A. Levesque",
+        "first_name": "Victor"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635134M",
+    "title": "Keeping the northwest wild (one phone call at a time)",
+    "city": "Bellingham, WA",
+    "publisher": "Huxley College of the Environment, Western Washington University",
+    "year": 2005,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 11,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2004-05-15",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3412311A",
+        "last_name": "Burton",
+        "first_name": "Kate"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635135M",
+    "title": "Shoreline assessment model",
+    "city": "Bellingham, WA",
+    "publisher": "Huxley College of the Environment, Western Washington University",
+    "year": 2005,
+    "subject": "Coastal zone management -- Hawaii",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 23,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2014-04-23",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319757A",
+        "last_name": "Pramoulmetar",
+        "first_name": "Christopher"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635136M",
+    "title": "Whatcom County planning and land use internship",
+    "city": "Bellingham, WA",
+    "publisher": "Huxley College of the Environment, Western Washington University",
+    "year": 2005,
+    "subject": "Whatcom County (Wash.). -- Planning and Development Services",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2014-06-29",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4315512A",
+        "last_name": "Johnson",
+        "first_name": "Corey"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635137M",
+    "title": "Discharge measurements at gaging stations",
+    "city": "Washington, D.C",
+    "publisher": "U.S. G.P.O.",
+    "year": 1969,
+    "subject": "Water current meters",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 65,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2015-08-30",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4316297A",
+        "last_name": "J. Buchanan",
+        "first_name": "Thomas"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635138M",
+    "title": "Komponenty soderzhatelʹnoĭ struktury slova",
+    "city": "Moskva",
+    "publisher": "Izd. Moskovskogo universiteta",
+    "year": 1969,
+    "subject": "Semantics",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 191,
+    "lang": "rus",
+    "days_keep_count": 100,
+    "adding_date": "2000-12-05",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL363240A",
+        "last_name": "G. Komlev",
+        "first_name": "N."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635139M",
+    "title": "The next big thing",
+    "city": "London",
+    "publisher": "Penguin",
+    "year": 2003,
+    "subject": "Older men -- Fiction",
+    "genre": "Fiction.",
+    "periodic_release": 3,
+    "page_count": 246,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2000-08-22",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL22173A",
+        "last_name": "Brookner",
+        "first_name": "Anita"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1363513M",
+    "title": "Poesia e verdade",
+    "city": "São Paulo",
+    "publisher": "Livraria Duas Cidades",
+    "year": 1991,
+    "subject": "Poetry -- History and criticism.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 171,
+    "lang": "por",
+    "days_keep_count": 10,
+    "adding_date": "2001-01-14",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL695954A",
+        "last_name": "Vargas",
+        "first_name": "Milton"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635140M",
+    "title": "From Spanish to Portuguese",
+    "city": "Washington, D.C",
+    "publisher": "Foreign Service Institute, Dept. of State",
+    "year": 1971,
+    "subject": "Portuguese language -- Textbooks for foreign speakers -- Spanish",
+    "genre": "Textbooks for foreign speakers",
+    "periodic_release": null,
+    "page_count": 91,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2016-03-20",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1596584A",
+        "last_name": "Lee Ulsh",
+        "first_name": "Jack"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635141M",
+    "title": "Basic physical science",
+    "city": "Raleigh, N.C",
+    "publisher": "Conserva",
+    "year": 1982,
+    "subject": "Science -- Study and teaching",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 38,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2015-10-04",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2713940A",
+        "last_name": "Rice",
+        "first_name": "Eric"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635142M",
+    "title": "The Indian fishing controversy",
+    "city": "Bellingham, WA",
+    "publisher": "Huxley College of Environmental Studies",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2004-07-13",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319758A",
+        "last_name": "M. Traynor",
+        "first_name": "Stephen"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635143M",
+    "title": "The H.A.S.T.E.N. water quality and animal ecology survey",
+    "city": "Bellingham, WA",
+    "publisher": "Huxley College of Environmental Studies",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 83,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2001-06-21",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3863239A",
+        "last_name": "Ann Bailey",
+        "first_name": "Mary"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635144M",
+    "title": "Bellingham Transit System",
+    "city": "Bellingham, WA",
+    "publisher": "Huxley College of Environmental Studies",
+    "year": 1971,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 36,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2003-10-09",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319759A",
+        "last_name": "F. Rogers",
+        "first_name": "Douglas"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635145M",
+    "title": "Puget Sound salmon",
+    "city": "Bellingham, WA",
+    "publisher": "Huxley College of Environmental Studies",
+    "year": 1976,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 28,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2001-04-07",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319760A",
+        "last_name": "Atwood",
+        "first_name": "Debbie"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635146M",
+    "title": "National energy policy",
+    "city": "Bellingham, WA",
+    "publisher": "Huxley College of Environmental Studies",
+    "year": 1971,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 14,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2002-12-02",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1234074A",
+        "last_name": "Anderson",
+        "first_name": "Scott"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635147M",
+    "title": "Nooksack River estuary habitat assessment.",
+    "city": "Bellingham, WA : Lummi Nation Natural Resources Department, 2005",
+    "publisher": null,
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2002-05-08",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319761A",
+        "last_name": "... [et al] Brown",
+        "first_name": "Melissa"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635148M",
+    "title": "Proposed highway use ordinance",
+    "city": "Bellingham, WA",
+    "publisher": "Huxley College of Environmental Studies",
+    "year": 1974,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 69,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2002-05-05",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319762A",
+        "last_name": "C. Black",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635149M",
+    "title": "Hatchery production investigation catalog, 1972 brood",
+    "city": "[Olympia, Wash.]",
+    "publisher": "State of Washington, Dept. of Fisheries, Artificial Production Division",
+    "year": 1972,
+    "subject": "Fish hatcheries -- Washington (State) -- Statistics",
+    "genre": "Statistics.",
+    "periodic_release": null,
+    "page_count": 70,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2014-08-29",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL843949A",
+        "last_name": "Rasch",
+        "first_name": "Tony"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1363514M",
+    "title": "Romance negro e outras histórias",
+    "city": "São Paulo, SP",
+    "publisher": "Companhia das Letras",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 188,
+    "lang": "por",
+    "days_keep_count": 50,
+    "adding_date": "2002-07-04",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL93114A",
+        "last_name": "Fonseca",
+        "first_name": "Rubem"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635150M",
+    "title": "The government's role in reducing energy consumption",
+    "city": "Bellingham, WA",
+    "publisher": "Huxley College of Environmental Studies",
+    "year": 1975,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 29,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2006-07-01",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319763A",
+        "last_name": "Milligan",
+        "first_name": "Jessie"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635151M",
+    "title": "Reassessment of toxicity of Lake Roosevelt sediments",
+    "city": "Olympia, Wash",
+    "publisher": "Washington State Dept. of Ecology",
+    "year": 2001,
+    "subject": "Contaminated sediments -- Washington (State) -- Franklin D. Roosevelt Lake",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 26,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2009-06-17",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4317730A",
+        "last_name": "Era",
+        "first_name": "Brandee"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635152M",
+    "title": "Estimated water use and availability in the South Coastal Drainage Basin, southern Rhode Island, 199",
+    "city": "Reston, Va",
+    "publisher": "U.S. Dept. of the Interior, U.S. Geological Survey",
+    "year": 2005,
+    "subject": "Water-supply -- Rhode Island -- Atlantic Coast",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 46,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2012-09-27",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1416243A",
+        "last_name": "C. Wild",
+        "first_name": "Emily"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635153M",
+    "title": "Bellingham Bay study",
+    "city": "[Bellingham, Wash",
+    "publisher": "Huxley College of Environmental Studies, Western Washington University",
+    "year": 1973,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 37,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2002-10-04",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2984091A",
+        "last_name": "Harvey",
+        "first_name": "Steve"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635154M",
+    "title": "Pesticide use and pesticide residues in Chelan County WN",
+    "city": "Bellingham, WA",
+    "publisher": "Huxley College of Environmental Studies",
+    "year": 1970,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 10,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2004-03-22",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4291081A",
+        "last_name": "Whitney",
+        "first_name": "Gene"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635155M",
+    "title": "Internship at Kitsap County Surface and Storm Water Management (SSWM) Program",
+    "city": "Bellingham, WA",
+    "publisher": "Huxley College of the Environment, Western Washington University",
+    "year": 2005,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 36,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2016-12-01",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319764A",
+        "last_name": "Piercy",
+        "first_name": "Christopher"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635156M",
+    "title": "Lab and field work with the temperate sea anomene, Anthopleura elegantissima",
+    "city": "Bellingham, WA",
+    "publisher": "Huxley College of the Environment, Western Washington University",
+    "year": 2005,
+    "subject": "Sea anemones -- Effect of temperature on",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 10,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2013-05-31",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319765A",
+        "last_name": "A. Kegel",
+        "first_name": "Kathryn"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635157M",
+    "title": "Strategic tutoring",
+    "city": "Lawrence, KS",
+    "publisher": "Edge Enterprises",
+    "year": 2000,
+    "subject": "Tutors and tutoring",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 60,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2010-06-22",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319766A",
+        "last_name": "F. Hock",
+        "first_name": "Michael"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635158M",
+    "title": "Steps down the path to campus sustainability",
+    "city": "Bellingham, WA",
+    "publisher": "Huxley College of the Environment, Western Washington University",
+    "year": 2005,
+    "subject": "Western Washington University -- Planning",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 122,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2008-09-06",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319767A",
+        "last_name": "Christian",
+        "first_name": "Seth"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635159M",
+    "title": "ESCI 498b internship report",
+    "city": "Bellingham, WA",
+    "publisher": "Huxley College of the Environment, Western Washington University",
+    "year": 2005,
+    "subject": "Internship programs -- Washington (State) -- Manchester",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2014-10-25",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319768A",
+        "last_name": "Calligan",
+        "first_name": "Jennifer"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1363515M",
+    "title": "Guia Ruschel de ecologia 92",
+    "city": "São Paulo, Sp",
+    "publisher": "Editora Europa",
+    "year": 1992,
+    "subject": "Environmental sciences -- Dictionaries -- Portuguese.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 163,
+    "lang": "por",
+    "days_keep_count": 30,
+    "adding_date": "2015-07-21",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL695955A",
+        "last_name": "Raupp Ruschel",
+        "first_name": "Rogerio"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635160M",
+    "title": "Monitoring of a constructed wetland",
+    "city": "Bellingham, WA",
+    "publisher": "Huxley College of the Environment, Western Washington University",
+    "year": 2005,
+    "subject": "Internship programs -- Michigan -- Ann Arbor",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2015-11-28",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319769A",
+        "last_name": "Marlatt",
+        "first_name": "Nick"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635161M",
+    "title": "Swinomish Indian Tribal Community Water Resources Department",
+    "city": "Bellingham, WA",
+    "publisher": "Huxley College of the Environment, Western Washington University",
+    "year": 2005,
+    "subject": "Internship programs -- Washington (State) -- La Conner",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 20,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2005-12-19",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319770A",
+        "last_name": "LovellFord",
+        "first_name": "Rachel"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635162M",
+    "title": "Terrell Creek water quality monitoring project internship report",
+    "city": "Bellingham, WA",
+    "publisher": "Huxley College of the Environment, Western Washington University",
+    "year": 2005,
+    "subject": "Nooksack Salmon Enhancement Association",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2003-02-05",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319771A",
+        "last_name": "M. Sunich",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635163M",
+    "title": "Central Park",
+    "city": "[Bellingham, Wash",
+    "publisher": "Huxley College of Environmental Studies, Western Washington University",
+    "year": 1978,
+    "subject": "Central Park (New York, N.Y.) -- History",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 21,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2003-02-03",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319772A",
+        "last_name": "Hellyer",
+        "first_name": "Reed"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635164M",
+    "title": "Internship report",
+    "city": "[Bellingham, Wash",
+    "publisher": "Huxley College of Environmental Studies, Western Washington University",
+    "year": 1981,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2010-01-23",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319773A",
+        "last_name": "R. Johnston",
+        "first_name": "George"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635165M",
+    "title": "Electricity conservation in Seattle",
+    "city": "[Bellingham, Wash",
+    "publisher": "Huxley College of Environmental Studies, Western Washington State College",
+    "year": 1975,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 23,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2015-10-09",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319774A",
+        "last_name": "Drebin",
+        "first_name": "David"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635166M",
+    "title": "Ecological lifestyles",
+    "city": "Bellingham, WA",
+    "publisher": "Huxley College of Environmental Studies",
+    "year": 1975,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 64,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2002-05-14",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319775A",
+        "last_name": "Sevin",
+        "first_name": "Doug"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635167M",
+    "title": "Coal mining vs. nuclear energy",
+    "city": "Bellingham, WA",
+    "publisher": "Huxley College of Environmental Studies",
+    "year": 1975,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2005-07-31",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319776A",
+        "last_name": "Flaherty",
+        "first_name": "Heather"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635168M",
+    "title": "The National Geography Institute for Talented Minority Undergraduate Students",
+    "city": "[Bellingham, Wash",
+    "publisher": "Huxley College of Environmental Studies, Western Washington University",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2009-12-20",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319777A",
+        "last_name": "Ordonez",
+        "first_name": "Rita"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635169M",
+    "title": "Use of photographic film to estimate exposure near the Three Mile Island Nuclear Power Station",
+    "city": "Rockville, Md",
+    "publisher": "U.S. Dept. of Health and Human Services, Public Health Service, Food and Drug Administration, Bureau of Radiological Health",
+    "year": 1981,
+    "subject": "Three Mile Island Nuclear Power Plant (Pa.)",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 15,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2008-04-30",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319778A",
+        "last_name": "E. Shuping",
+        "first_name": "Ralph"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1363516M",
+    "title": "Vida para sempre jovem",
+    "city": "São Paulo, Brasil",
+    "publisher": "Editora Siciliano",
+    "year": 1992,
+    "subject": "Youth -- Brazil.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 166,
+    "lang": "por",
+    "days_keep_count": 10,
+    "adding_date": "2001-03-11",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1422327A",
+        "last_name": "Desportes",
+        "first_name": "Henri"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635170M",
+    "title": "Some considerations of hazards in the use of lasers for artistic displays",
+    "city": "Rockville, Md",
+    "publisher": "U.S. Dept. of Health, Education, and Welfare, Public Health Service, Food and Drug Administration, Bureau of Radiological Health",
+    "year": 1979,
+    "subject": "Lasers in art",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 11,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2005-10-08",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4237451A",
+        "last_name": "W. Peterson",
+        "first_name": "Richard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635171M",
+    "title": "Silk screening",
+    "city": "[Bellingham, Wash",
+    "publisher": "K. E. Johnson",
+    "year": null,
+    "subject": "Serigraphy",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2004-08-13",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3622162A",
+        "last_name": "E. Johnson",
+        "first_name": "Kathleen"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635172M",
+    "title": "Background data for the City of Fife Comprehensive Plan",
+    "city": "[Bellingham, Wash",
+    "publisher": "Huxley College of Environmental Studies], Western Washington University",
+    "year": 1985,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2009-11-29",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4319779A",
+        "last_name": "Nicolay",
+        "first_name": "Laureen"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13635173M",
+    "title": "Pilchuck Creek",
+    "city": "[Bellingham, Wash",
+    "publisher": "Huxley College of Environmental Studies, Western Washington State College",
+    "year": 1969,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 11,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2014-12-26",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL504477A",
+        "last_name": "Thompson",
+        "first_name": "Judy"
       }
     ]
   }

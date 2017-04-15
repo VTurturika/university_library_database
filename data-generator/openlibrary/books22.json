@@ -1,0 +1,4447 @@
+[
+  {
+    "openlibrary_id": "/books/OL10108151M",
+    "title": "Omnibus Budge Reconciliation Act of 1987",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1989,
+    "subject": "Reference",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2014-04-21",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373174A",
+        "last_name": "48004022818",
+        "first_name": "48004022818"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108152M",
+    "title": "Actuarial Values Alpha Volume",
+    "city": null,
+    "publisher": "U.S. Government Printing Office",
+    "year": 1989,
+    "subject": "Interest",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 803,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2015-04-19",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373175A",
+        "last_name": "4804022877",
+        "first_name": "4804022877"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108153M",
+    "title": "Actuarial Values, Beta Volume",
+    "city": null,
+    "publisher": "U.S. Government Printing Office",
+    "year": 1989,
+    "subject": "Interest",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 527,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2002-11-09",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1061844A",
+        "last_name": "Hohm",
+        "first_name": "Hartmut"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108154M",
+    "title": "Actuarial Values, Gamma Volume",
+    "city": null,
+    "publisher": "U.S. Government Printing Office",
+    "year": 1989,
+    "subject": "Interest",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 124,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2008-01-26",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1121856A",
+        "last_name": "Scientiae (1983 Center for Theoretical Studies, University of Miami)",
+        "first_name": "Orbis"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108155M",
+    "title": "World Coinage Report, 1985-1986",
+    "city": null,
+    "publisher": "United States Government Printing Office",
+    "year": 1988,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2008-06-03",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1308985A",
+        "last_name": "Wolff",
+        "first_name": "Rolf"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108156M",
+    "title": "Fly-rights",
+    "city": null,
+    "publisher": "For sale by the Supt. of Docs., U.S. G.P.O",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 32,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2005-06-30",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1363836A",
+        "last_name": "Population Workshop (3rd 1981 Yellowknife, N.W.T.)",
+        "first_name": "Northern"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108157M",
+    "title": "United States Federal Highway and Americas Highways",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1977,
+    "subject": "Reference",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2003-10-20",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373176A",
+        "last_name": "50001001233",
+        "first_name": "50001001233"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108158M",
+    "title": "Standard specifications for construction of roads and bridges on federal highway projects",
+    "city": null,
+    "publisher": "For sale by the Supt. of Docs., U.S. G.P.O",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 701,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2009-07-21",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL18485A",
+        "last_name": "States",
+        "first_name": "United"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108159M",
+    "title": "Manual on Uniform Traffic Control Devices for Streets and Highways ~ Part VI, Standards and Guides f",
+    "city": null,
+    "publisher": "Texas Department of Transportation",
+    "year": 1980,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2004-08-28",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373177A",
+        "last_name": "Department of Transportation",
+        "first_name": "Texas"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1010815M",
+    "title": "RPG IV jump start",
+    "city": "Loveland, CO",
+    "publisher": "Duke Press",
+    "year": 1997,
+    "subject": "RPG IV (Computer program language)",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 214,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2003-06-19",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL219693A",
+        "last_name": "Meyers",
+        "first_name": "Bryan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108160M",
+    "title": "Bridge Inspector's Training Manual",
+    "city": null,
+    "publisher": "U.S. Government Printing Office",
+    "year": 1987,
+    "subject": "Engineering - Civil",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 247,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2004-11-16",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1172015A",
+        "last_name": "Thibaut",
+        "first_name": "P."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108161M",
+    "title": "Nondestructive Testing in Aircraft",
+    "city": null,
+    "publisher": "Government printing office",
+    "year": null,
+    "subject": "aircraft",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2001-10-09",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373178A",
+        "last_name": "050-007-00208-4",
+        "first_name": "S/N"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108162M",
+    "title": "Airframe and Powerplant Mechanics General Handbook (Advisory Circular Series, No. 65-12a)",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1976,
+    "subject": "Science/Mathematics",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2000-06-14",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1019619A",
+        "last_name": "Josipović",
+        "first_name": "Milorad"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108163M",
+    "title": "Airframe & Power Plant Mechanics",
+    "city": null,
+    "publisher": "Dept. of Transpo Ht Standards Ser",
+    "year": 1995,
+    "subject": "Science/Mathematics",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 549,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2001-09-03",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL18485A",
+        "last_name": "States",
+        "first_name": "United"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108164M",
+    "title": "Airframe and Power Plant Mechanics ",
+    "city": null,
+    "publisher": "U.S. Government Printing Office",
+    "year": 1984,
+    "subject": "Aeronautics & Astronautics",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 613,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2013-09-29",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1459467A",
+        "last_name": "Steele White",
+        "first_name": "Kenneth"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108165M",
+    "title": "Instrument Flying Handbook",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1981,
+    "subject": "Reference",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2011-04-12",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373179A",
+        "last_name": "050-007-00585-7",
+        "first_name": "S/N"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108166M",
+    "title": "3rd Man a History of the Airline Crew ;Complement Controversy, 1947-1981",
+    "city": null,
+    "publisher": "Government printing office",
+    "year": 1987,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2013-12-11",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1348740A",
+        "last_name": "E. Chambers",
+        "first_name": "Catherine"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108167M",
+    "title": "Airline Transport Pilot, Aircraft Dispatcher, & Flight Navigator Question Book",
+    "city": null,
+    "publisher": "U.S. Government Printing Office",
+    "year": 1989,
+    "subject": "Aeronautics & Astronautics",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 158,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2015-02-12",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1168431A",
+        "last_name": "C. Taylor",
+        "first_name": "Diane"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108168M",
+    "title": "Aviation Mechanic General Question Book (Faa-T-8080-10c Ser)",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1989,
+    "subject": "Reference",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2012-02-13",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373180A",
+        "last_name": "50007008384",
+        "first_name": "50007008384"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108169M",
+    "title": "Planning the Metropolitan Airport System (S/N 050-008-00003-7)",
+    "city": null,
+    "publisher": "Federal Aviation Administration",
+    "year": 2000,
+    "subject": "Aviation - History",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 108,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2004-02-13",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL82293A",
+        "last_name": "States Federal Aviation Administration",
+        "first_name": "United"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1010816M",
+    "title": "Beginning the principalship",
+    "city": "Thousand Oaks, Calif",
+    "publisher": "Corwin Press",
+    "year": 1997,
+    "subject": "First year school principals -- United States.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 107,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2009-02-11",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL482470A",
+        "last_name": "C. Daresh",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108170M",
+    "title": "Aviation Instructor's Handbook",
+    "city": null,
+    "publisher": "U.S. Government Printing Office",
+    "year": 1988,
+    "subject": "Aeronautics & Astronautics",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 127,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2001-08-14",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL82293A",
+        "last_name": "States Federal Aviation Administration",
+        "first_name": "United"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108171M",
+    "title": "Pilot's Handbook of Aeronautical Knowledge AC 61 23B (U.S. Dept. of Transportation, Federal Aviation",
+    "city": null,
+    "publisher": "U.S. Department of Transportation",
+    "year": 1980,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2002-08-01",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1456621A",
+        "last_name": "K. Carboni",
+        "first_name": "David"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108172M",
+    "title": "Merchant Marine Deck Examination Reference Material",
+    "city": null,
+    "publisher": "Coast Guard",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 1,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2012-11-06",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL18485A",
+        "last_name": "States",
+        "first_name": "United"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108173M",
+    "title": "Transportation of Hazardous Material",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1986,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2004-11-05",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373181A",
+        "last_name": "52003010429",
+        "first_name": "52003010429"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108174M",
+    "title": "Mapping Our Genes, the Genome Projects",
+    "city": null,
+    "publisher": "Government printing office",
+    "year": 1988,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2006-05-10",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1451721A",
+        "last_name": "Lavo",
+        "first_name": "Nancy"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108175M",
+    "title": "New Developments in Biotechnology",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1988,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2006-04-02",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373182A",
+        "last_name": "52003011158",
+        "first_name": "52003011158"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108176M",
+    "title": "Artificial insemination: Practice in the United States ",
+    "city": null,
+    "publisher": "For sale by the Supt. of Docs., U.S. G.P.O",
+    "year": 1988,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 112,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2016-03-21",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1388461A",
+        "last_name": "Quinn",
+        "first_name": "Rix"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108177M",
+    "title": "Informing the Nation Federal Information Dissemination",
+    "city": null,
+    "publisher": "Government printing office",
+    "year": 1988,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2007-02-27",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373183A",
+        "last_name": "052003011301",
+        "first_name": "052003011301"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108178M",
+    "title": "New Development in Biotechnology No 5 Patenting Life",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2005-11-03",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373184A",
+        "last_name": "52003011379",
+        "first_name": "52003011379"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108179M",
+    "title": "Holding the Edge",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1989,
+    "subject": "Politics/International Relations",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2011-09-30",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1104664A",
+        "last_name": "vystavka akvareli (8th 1987 Moscow, R.S.F.S.R.?)",
+        "first_name": "Vsesoi͡u︡znai͡a︡"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1010817M",
+    "title": "You have to go to school-- you're the teacher!",
+    "city": "Thousand Oaks, Calif",
+    "publisher": "Corwin Press",
+    "year": 1997,
+    "subject": "Teachers -- United States.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 115,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2012-08-11",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL545038A",
+        "last_name": "Rosenblum-Lowden",
+        "first_name": "Renee"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108180M",
+    "title": "Catching Our Breath",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1989,
+    "subject": "Reference",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2009-11-15",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373185A",
+        "last_name": "52003011581",
+        "first_name": "52003011581"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108181M",
+    "title": "Facing America's Trash",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1989,
+    "subject": "Sociology",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2015-11-10",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373186A",
+        "last_name": "520311689",
+        "first_name": "520311689"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108182M",
+    "title": "Copyright and Home Copying",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1989,
+    "subject": "Fiction",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2011-09-21",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373187A",
+        "last_name": "52003011697",
+        "first_name": "52003011697"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108183M",
+    "title": "Partnerships Under Pressure",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1990,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2005-03-18",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1223087A",
+        "last_name": "E. Meyling",
+        "first_name": "H."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108184M",
+    "title": "Radiological assessment",
+    "city": null,
+    "publisher": "National Technical Information Service",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2008-03-09",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1284716A",
+        "last_name": "Horst",
+        "first_name": "Krüger,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108185M",
+    "title": "Asbestos in the Home",
+    "city": null,
+    "publisher": "U.S. Government Printing Office",
+    "year": 1989,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 12,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2005-10-08",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373188A",
+        "last_name": "52011002461",
+        "first_name": "52011002461"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108186M",
+    "title": "Implications of the accident at Chernobyl for safety regulation of commercial nuclear power plants i",
+    "city": null,
+    "publisher": "Supt. of Docs., U.S. G.P.O. [distributor]",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2012-07-08",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1195490A",
+        "last_name": "Morieda",
+        "first_name": "Takashi"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108187M",
+    "title": "Final environmental statement related to the operation of Limerick Generating Station, units 1 and 2",
+    "city": null,
+    "publisher": "U.S. Nuclear Regulatory Commission, Office of Nuclear Reactor Regulation",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 5,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2009-02-03",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL6332364A",
+        "last_name": "States. Nuclear Regulatory Commission.",
+        "first_name": "United"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108188M",
+    "title": "Human Factors Regulatory Research Program plan",
+    "city": null,
+    "publisher": "Supt. of Docs., U.S. G.P.O. [distributor]",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2004-05-31",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL6332364A",
+        "last_name": "States. Nuclear Regulatory Commission.",
+        "first_name": "United"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108189M",
+    "title": "Interfacing systems LOCA",
+    "city": null,
+    "publisher": "Supt. of Docs., U.S. G.P.O. [distributor]",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2002-08-09",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373189A",
+        "last_name": "L Chu",
+        "first_name": "T."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1010818M",
+    "title": "Time-saving tips for teachers",
+    "city": "Thousand Oaks, Calif",
+    "publisher": "Corwin Press",
+    "year": 1997,
+    "subject": "Teachers -- Time management.",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 115,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2003-02-07",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL235759A",
+        "last_name": "C. Wachter",
+        "first_name": "Joanne"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108190M",
+    "title": "Evaluation of boiling water reactor water-level sensing line break and single failure",
+    "city": null,
+    "publisher": "Division of Safety Issue Resolution, Office of Nuclear Regulatory Research, U.S. Nuclear Regulatory Commission",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2013-04-06",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1378154A",
+        "last_name": "Gerard Kalinowski",
+        "first_name": "Anthony"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108191M",
+    "title": "Health effects models for nuclear power plant accident consequence analysis",
+    "city": null,
+    "publisher": "Supt. of Docs., U.S. G.P.O. [distributor",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2016-11-21",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1249492A",
+        "last_name": "Hideo",
+        "first_name": "Wada,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108192M",
+    "title": "Recommendations for resolution of public comments on USI A-40, seismic design criteria",
+    "city": null,
+    "publisher": "Supt. of Docs., U.S. G.P.O., [distributor]",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2014-10-20",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373190A",
+        "last_name": "J Philippacopoulos",
+        "first_name": "A."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108193M",
+    "title": "A summary of hydrogen-air detonation experiments",
+    "city": null,
+    "publisher": "Division of Systems Research, Office of Nuclear Regulatory Research, U.S. Nuclear Regulatory Commission",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2008-05-07",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373191A",
+        "last_name": "M Guirao",
+        "first_name": "C."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108194M",
+    "title": "Detection and characterization of indications in segments of reactor pressure vessels",
+    "city": null,
+    "publisher": "Division of Engineering, Office of Nuclear Regulatory Research, U.S. Nuclear Regulatory Commisson",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 19,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2010-02-06",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373192A",
+        "last_name": "V Cook",
+        "first_name": "K."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108195M",
+    "title": "Analysis of core damage frequency",
+    "city": null,
+    "publisher": "Supt. of Docs., U.S. G.P.O. [distributor]",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2003-11-15",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1001993A",
+        "last_name": "E. Meyer",
+        "first_name": "Annette"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108196M",
+    "title": "Viscoplastic stress-strain characterization of A533 grade B class 1 steel",
+    "city": null,
+    "publisher": "Division of Engineering, Office of Nuclear Regulatory Research, U.S. Nuclear Regulatory Commission",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 51,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2011-08-29",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373193A",
+        "last_name": "H Giovanola",
+        "first_name": "J."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108197M",
+    "title": "SCDAP/RELAP5/MOD2 code manual",
+    "city": null,
+    "publisher": "U.S. G.P.O. [distributor]",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2006-09-13",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1056585A",
+        "last_name": "Robert",
+        "first_name": "Harvey,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108198M",
+    "title": "Working safely with nuclear gauges (NUREG/BR)",
+    "city": null,
+    "publisher": "[For sale by the Supt. of Docs., U.S. G.P.O",
+    "year": 1996,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 26,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2013-11-14",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1150874A",
+        "last_name": "Ballesteros Beretta",
+        "first_name": "Antonio"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108199M",
+    "title": "Proceedings of the International Nuclear Power Plant Aging Sympoisum",
+    "city": null,
+    "publisher": "Available from National Technical Information Service",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 389,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2004-11-20",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1227196A",
+        "last_name": "Ramsurrun",
+        "first_name": "P."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1010819M",
+    "title": "Life and death matters",
+    "city": "Walnut Creek, Calif",
+    "publisher": "AltaMira Press",
+    "year": 1997,
+    "subject": "Economic development -- Environmental aspects -- Developing countries.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 351,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2011-02-06",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1439435A",
+        "last_name": "Richards",
+        "first_name": "Duncan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL101081M",
+    "title": "Onomàstica de Poboleda",
+    "city": "Barcelona",
+    "publisher": "Institut d'Estudis Catalans",
+    "year": 1998,
+    "subject": "Names, Geographical -- Spain -- Poboleda.",
+    "genre": "Gazetteers.",
+    "periodic_release": 2,
+    "page_count": 255,
+    "lang": "cat",
+    "days_keep_count": 50,
+    "adding_date": "2006-10-13",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL67906A",
+        "last_name": "S. Jassans",
+        "first_name": "Miquel"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108200M",
+    "title": "Treaty Between the United States of America and the Union of Soviet Socialist Republics on the Elimi",
+    "city": null,
+    "publisher": "United States Government Printing Office",
+    "year": 1988,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2009-08-01",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2624611A",
+        "last_name": "Unknown",
+        "first_name": "Unknown"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108201M",
+    "title": "United States Government Policy and Supporting Positions (Congress House Comm. on Post Office and Ci",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1988,
+    "subject": "Politics/International Relations",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2011-09-16",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373194A",
+        "last_name": "52070065206",
+        "first_name": "52070065206"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108202M",
+    "title": "Congressional Pictorial Directory, 101st Congress (Official Congressional Directory Pictorial)",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1989,
+    "subject": "Politics/International Relations",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2012-11-18",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1201571A",
+        "last_name": "S. Claughton",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108203M",
+    "title": "1989-1990 Official Congressional Directory",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1989,
+    "subject": "Reference",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2014-10-18",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373195A",
+        "last_name": "52070065419",
+        "first_name": "52070065419"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108204M",
+    "title": "Rules of Civil Procedure for the United States District Courts With Forms, July 1, 1989",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2004-04-12",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1033481A",
+        "last_name": "G. Whisson",
+        "first_name": "Michael"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108205M",
+    "title": "Pressures for Reform in the East European Economies, Study Papers, October 28, 1989",
+    "city": null,
+    "publisher": "Government printing office",
+    "year": 1989,
+    "subject": "Business/Economics",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2010-05-10",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373196A",
+        "last_name": "5207065982",
+        "first_name": "5207065982"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108206M",
+    "title": "Pressures for Reform in the East European Economies, Study Papers, October 28,1989",
+    "city": null,
+    "publisher": "Government printing office",
+    "year": 1989,
+    "subject": "Business/Economics",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2012-07-25",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373197A",
+        "last_name": "52070065991",
+        "first_name": "52070065991"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108207M",
+    "title": "Constitution of the United States/Pocket Edition",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1976,
+    "subject": "Politics/International Relations",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2002-03-05",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373198A",
+        "last_name": "52071004777",
+        "first_name": "52071004777"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108208M",
+    "title": "The Constitution of the United States of America: Analysis and Interpretation ",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1988,
+    "subject": "Politics/International Relations",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2012-12-31",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373199A",
+        "last_name": "052-071-01157-9",
+        "first_name": "S/N"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108209M",
+    "title": "Capitol, A Pictorial History of the Capitol and of the Congress (052-071-00687-7)",
+    "city": null,
+    "publisher": "US Government Printing Office",
+    "year": 1988,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 192,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2015-04-22",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1225049A",
+        "last_name": "C. Antenucci",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1010820M",
+    "title": "The color of representation",
+    "city": "Ann Arbor",
+    "publisher": "University of Michigan Press",
+    "year": 1997,
+    "subject": "United States. Congress. House -- Voting -- History.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 189,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2000-02-20",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL545039A",
+        "last_name": "J. Whitby",
+        "first_name": "Kenny"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108210M",
+    "title": "Biographical Directory of the United States Congress, 1774-1989",
+    "city": null,
+    "publisher": "US Government Printing Office",
+    "year": 1988,
+    "subject": "Government - Legislative Branch",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 2115,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2006-05-23",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2661619A",
+        "last_name": "Committee on Printing Congress (U.S.)",
+        "first_name": "Joint"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108211M",
+    "title": "Constitution of the United States, 1988 Supplement (Constitution of the United States of America)",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1989,
+    "subject": "Politics/International Relations",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2010-11-11",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373200A",
+        "last_name": "5271008472",
+        "first_name": "5271008472"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108212M",
+    "title": "Historical Almanac of the United States Senate",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1990,
+    "subject": "Congress",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2000-05-16",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL365174A",
+        "last_name": "J. Dole",
+        "first_name": "Robert"
+      },
+      {
+        "openlibrary_id": "/authors/OL3373201A",
+        "last_name": "Wolff",
+        "first_name": "Wendy"
+      },
+      {
+        "openlibrary_id": "/authors/OL271351A",
+        "last_name": "A. Baker",
+        "first_name": "Richard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108213M",
+    "title": "Citizen's Guide on Using the Freedom of Information Act & the Privacy Act of 1974 to Request Governm",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1995,
+    "subject": "Law",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2015-02-03",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL103850A",
+        "last_name": "Singh Kukarpindia",
+        "first_name": "Mohan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108214M",
+    "title": "Toxic Substances Control Act Chemical Substance Inventory ( TSCA Inventory 1985 Edition) (5 Book Set",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1986,
+    "subject": "Science/Mathematics",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2007-09-14",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2866789A",
+        "last_name": "EPA",
+        "first_name": "EPA"
+      },
+      {
+        "openlibrary_id": "/authors/OL3373202A",
+        "last_name": "Government",
+        "first_name": "Federal"
+      },
+      {
+        "openlibrary_id": "/authors/OL62371A",
+        "last_name": "States. Environmental Protection Agency.",
+        "first_name": "United"
+      },
+      {
+        "openlibrary_id": "/authors/OL3373203A",
+        "last_name": "of Toxic Substances",
+        "first_name": "Office"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108215M",
+    "title": "A Citizen's Guide to Radon",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1986,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2003-06-22",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1086702A",
+        "last_name": "J. M. C.",
+        "first_name": "Toynbee,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108216M",
+    "title": "Asbestos in Buildings",
+    "city": null,
+    "publisher": "U.S. Government Printing Office",
+    "year": 1988,
+    "subject": "Construction - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 23,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2003-01-06",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373204A",
+        "last_name": "Chesson",
+        "first_name": "Jean"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108217M",
+    "title": "Toxics Release Inventory",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1989,
+    "subject": "Science/Mathematics",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2005-07-02",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373205A",
+        "last_name": "550002991",
+        "first_name": "550002991"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108218M",
+    "title": "Solar Greenhouses and Sunspaces",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2015-03-23",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373206A",
+        "last_name": "Center For Appropriate Technology",
+        "first_name": "National"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108219M",
+    "title": "Affordable Housing Through Energy Conservation",
+    "city": null,
+    "publisher": "U.S. Government Printing Office",
+    "year": 1989,
+    "subject": "Energy",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 394,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2003-12-09",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1037755A",
+        "last_name": "Tabakov",
+        "first_name": "Martin"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1010821M",
+    "title": "Educating Zion",
+    "city": "Provo, Utah",
+    "publisher": "BYU Studies",
+    "year": 1996,
+    "subject": "Brigham Young University -- History.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 263,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2007-12-31",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL238151A",
+        "last_name": "W. Welch",
+        "first_name": "John"
+      },
+      {
+        "openlibrary_id": "/authors/OL6822244A",
+        "last_name": "E. Norton",
+        "first_name": "Don"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108220M",
+    "title": "Environmental Restoration and Waste Management",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2001-01-06",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1455854A",
+        "last_name": "Maria Shelton",
+        "first_name": "Regina"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108221M",
+    "title": "Manufacturing energy consumption survey",
+    "city": null,
+    "publisher": "Energy Information Administration, Office of Energy Markets and End Use, U.S. Dept. of Energy",
+    "year": 1988,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 122,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2000-01-21",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1341431A",
+        "last_name": "B. Ghosh",
+        "first_name": "G."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108222M",
+    "title": "Oil and Gasfield Code Master List, 1988 (Doe.Eia-0379)",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2012-06-23",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373207A",
+        "last_name": "61003006035",
+        "first_name": "61003006035"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108223M",
+    "title": "Residential Energy Consumption Survey",
+    "city": null,
+    "publisher": "Government printing office",
+    "year": 1989,
+    "subject": "Reference",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2012-04-26",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373208A",
+        "last_name": "61003006191",
+        "first_name": "61003006191"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108224M",
+    "title": "1st Lessons a Report on Elementary Education in America",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1986,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2005-04-30",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL29887A",
+        "last_name": "J. Bennett",
+        "first_name": "William"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108225M",
+    "title": "Becoming a Nation of Readers",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1986,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2005-09-14",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373209A",
+        "last_name": "R. Brinkley",
+        "first_name": "Marilyn"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108226M",
+    "title": "Dealing With Dropouts",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1987,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2006-09-27",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL838553A",
+        "last_name": "Paulu",
+        "first_name": "Nancy"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108227M",
+    "title": "High school and beyond: A descriptive summary of 1980 high school seniors ",
+    "city": null,
+    "publisher": "U.S. Dept. of Education, Office of Educational Research and Improvement",
+    "year": 1988,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2007-08-02",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1345532A",
+        "last_name": "N. Forman",
+        "first_name": "Peter"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108228M",
+    "title": "Youth Indicators 1991",
+    "city": null,
+    "publisher": "Government printing office",
+    "year": 1991,
+    "subject": "Reference",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2016-12-02",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL105243A",
+        "last_name": "Seminar on \"Culture--the Undercurrent\" (1995 New Delhi, India)",
+        "first_name": "National"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108229M",
+    "title": "Higher Education Opportunities for Minorities and Women",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1988,
+    "subject": "Education",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2004-01-13",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2898434A",
+        "last_name": "C. Young",
+        "first_name": "William"
+      },
+      {
+        "openlibrary_id": "/authors/OL3373210A",
+        "last_name": "L. Hicks",
+        "first_name": "Edward"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1010822M",
+    "title": "Between the branches",
+    "city": "Pittsburgh, Pa",
+    "publisher": "University of Pittsburgh Press",
+    "year": 1997,
+    "subject": "United States. White House Office. Office of Legislative Affairs",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 330,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2013-01-24",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL545040A",
+        "last_name": "E. Collier",
+        "first_name": "Kenneth"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108230M",
+    "title": "State Higher Education Profiles, 1988/Stk No. 065-000-00357-1 (State Higher Education Profiles)",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1990,
+    "subject": "Politics/International Relations",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2007-11-11",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373211A",
+        "last_name": "6500003571",
+        "first_name": "6500003571"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108231M",
+    "title": "High school and beyond national longitudinal study",
+    "city": null,
+    "publisher": "U.S. Dept. of Education, Office of Educational Research and Improvement",
+    "year": 1988,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 40,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2008-04-23",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL856641A",
+        "last_name": "Eagle",
+        "first_name": "Eva"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108232M",
+    "title": "Guide to Department of Education Programs",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1989,
+    "subject": "Reference",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2012-05-31",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373212A",
+        "last_name": "650003708",
+        "first_name": "650003708"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108233M",
+    "title": "Dropout Rates in the United States, 1988 (National Center for Education Statistics Analysis Report S",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1989,
+    "subject": "Reference",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2001-02-09",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373213A",
+        "last_name": "65000003856",
+        "first_name": "65000003856"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108234M",
+    "title": "Education Indicators, 1989",
+    "city": null,
+    "publisher": "Government printing office",
+    "year": 1989,
+    "subject": "Education",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2006-02-15",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373214A",
+        "last_name": "65000003872",
+        "first_name": "65000003872"
+      },
+      {
+        "openlibrary_id": "/authors/OL1339043A",
+        "last_name": "O. Baker",
+        "first_name": "Curtis"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108235M",
+    "title": "Projections of Education Statistics to 2000 (Projections of Education Statistics to (Year))",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1989,
+    "subject": "Education",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2004-03-10",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373215A",
+        "last_name": "65000003929",
+        "first_name": "65000003929"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108236M",
+    "title": "Guide to Record Retention Requirements in the Code of Federal Regulations",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1989,
+    "subject": "Politics/International Relations",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2015-05-07",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1185543A",
+        "last_name": "on New Company Law (1984 Karachi, Pakistan)",
+        "first_name": "Seminar"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108237M",
+    "title": "Coup in Fiji Hearing Before the Subcommittee on Asian and Pacific Affairs",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1989,
+    "subject": "Sociology",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2005-06-10",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373216A",
+        "last_name": "552070053794",
+        "first_name": "552070053794"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108238M",
+    "title": "'Aerospace Power Journal'",
+    "city": null,
+    "publisher": "United States Government Printing Office",
+    "year": 1976,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2014-12-30",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1327624A",
+        "last_name": "de Alba",
+        "first_name": "María"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108239M",
+    "title": "Social Security Bulletin, Annual Statistical Supplement, 1994",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1993,
+    "subject": "Reference",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2000-03-08",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1271697A",
+        "last_name": "Gisling",
+        "first_name": "Pierre"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1010823M",
+    "title": "Multi-level marketing",
+    "city": "Arlington, Tex",
+    "publisher": "Summit Pub. Group",
+    "year": 1996,
+    "subject": "Multilevel marketing -- United States -- Directories",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 211,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2001-10-04",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1132937A",
+        "last_name": "Rudolf Hilty",
+        "first_name": "Hans"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108240M",
+    "title": "List of Journals Indexed in Index Medicus, 1994 (List of Journals Indexed in Index Medicus)",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1994,
+    "subject": "Reference",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2006-10-05",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1403940A",
+        "last_name": "Lowe",
+        "first_name": "Jill"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108241M",
+    "title": "Diplomatic List",
+    "city": null,
+    "publisher": "U.S. Government Printing Office",
+    "year": 2003,
+    "subject": "Government - U.S. Government",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2007-06-27",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL922268A",
+        "last_name": "States Government Printing Office",
+        "first_name": "United"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108242M",
+    "title": "Official Bingo Game Manual",
+    "city": null,
+    "publisher": "R. M. Greene",
+    "year": 1991,
+    "subject": "Gambling - General",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 61,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2012-05-11",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL779145A",
+        "last_name": "M. Greene",
+        "first_name": "Richard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108243M",
+    "title": "Projections of the Population of the United States by Age, Sex, and Race",
+    "city": null,
+    "publisher": "Government printing office",
+    "year": 1989,
+    "subject": "Sociology",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2004-03-17",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1130148A",
+        "last_name": "Sanders Gunn",
+        "first_name": "Lois"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108244M",
+    "title": "Population estimates by race and Hispanic origin for states, metropolitan areas, and selected counti",
+    "city": null,
+    "publisher": "U.S. Dept. of Commerce, Bureau of the Census",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 81,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2006-03-22",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373218A",
+        "last_name": "L Word",
+        "first_name": "David"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108245M",
+    "title": "Geographical Mobility",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1990,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2007-04-01",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1199077A",
+        "last_name": "A. Akodis",
+        "first_name": "I."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108246M",
+    "title": "America's Centenarians",
+    "city": null,
+    "publisher": "U.S. Government Printing Office",
+    "year": 1987,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 127,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2012-04-04",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1351882A",
+        "last_name": "R. Adamovich",
+        "first_name": "David"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108247M",
+    "title": "Population Profile of the United States, 1989",
+    "city": null,
+    "publisher": "Government printing office",
+    "year": 1990,
+    "subject": "Reference",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2003-06-28",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1321045A",
+        "last_name": "Aubertin",
+        "first_name": "Emile"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108248M",
+    "title": "Money Income of Household, Families and Person in the United States (Current Population Reports Ser ",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1989,
+    "subject": "Reference",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2009-02-15",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373219A",
+        "last_name": "803-005-30031-5",
+        "first_name": "S/N"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108249M",
+    "title": "Emerging Nation: A Documentary History of the Foreign Relations of the United States Under the Artic",
+    "city": null,
+    "publisher": "USGOV",
+    "year": 1996,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2014-01-31",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1429146A",
+        "last_name": "Willhauck",
+        "first_name": "Susan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1010824M",
+    "title": "Like unto like",
+    "city": "Columbia, S.C",
+    "publisher": "University of South Carolina Press",
+    "year": 1996,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 220,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2006-08-19",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL31982A",
+        "last_name": "Sherwood Bonner McDowell",
+        "first_name": "Katherine"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108250M",
+    "title": "Census of Agriculture",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1989,
+    "subject": "Reference",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2015-09-28",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1005757A",
+        "last_name": "Networks Group Meeting (9th 1988 Freiburg im Breisgau, Germany)",
+        "first_name": "Polymer"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108251M",
+    "title": "Census of Transportation: Geographic Area Series ",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1990,
+    "subject": "Politics/International Relations",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2000-01-23",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373220A",
+        "last_name": "0330000177",
+        "first_name": "0330000177"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108252M",
+    "title": "1987 census of transportation",
+    "city": null,
+    "publisher": "For sale by Supt. of Docs., U.S. G.P.O",
+    "year": 1990,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 1,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2008-05-10",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1403849A",
+        "last_name": "Conference on Laser Applications and Optical Metrology (2003 New Delhi, India)",
+        "first_name": "International"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108253M",
+    "title": "Job creation during the late 1980's: Dynamic aspects of employment growth ",
+    "city": null,
+    "publisher": "For sale by Supt. of Docs., U.S. G.P.O",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2000-04-28",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL227292A",
+        "last_name": "Ryscavage",
+        "first_name": "Paul"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108254M",
+    "title": "Adverse effects of aspartame: January 1986 through December 1990 ",
+    "city": null,
+    "publisher": "Supt. of Docs., U.S. G.P.O., distributor",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 6,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2000-07-26",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373221A",
+        "last_name": "Van de Kamp",
+        "first_name": "Jacqueline"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108255M",
+    "title": "Malawi",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2002-03-04",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1814813A",
+        "last_name": "D. Nelson",
+        "first_name": "Harold"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108256M",
+    "title": "Code of Federal Regulations, Title 10, Energy",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1987,
+    "subject": "Reference",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2000-07-16",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373222A",
+        "last_name": "869001000261",
+        "first_name": "869001000261"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108257M",
+    "title": "Code of Federal Regulations, Title 21",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1989,
+    "subject": "Reference",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2016-12-03",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373223A",
+        "last_name": "869007000706",
+        "first_name": "869007000706"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108258M",
+    "title": "Code of Federal Regulations, 36: Parks, Forests and Public Property, 1989 ",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1989,
+    "subject": "Reference",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2009-08-25",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373224A",
+        "last_name": "6907001303",
+        "first_name": "6907001303"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108259M",
+    "title": "Code of Federal Regulations, 36: Parks, Forests and Public Property, 1989 ",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1989,
+    "subject": "Reference",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2015-02-02",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373225A",
+        "last_name": "6907001311",
+        "first_name": "6907001311"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1010825M",
+    "title": "Understanding Camilo José Cela",
+    "city": "Columbia, S.C",
+    "publisher": "University of South Carolina Press",
+    "year": 1998,
+    "subject": "Cela, Camilo José, 1916-  -- Criticism and interpretation.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 187,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2010-08-30",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL545041A",
+        "last_name": "C. Charlebois",
+        "first_name": "Lucile"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108261M",
+    "title": "Basic federal personnel manual",
+    "city": null,
+    "publisher": "U.S. GPO, Supt. of Docs. [distributor]",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2015-12-28",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL18485A",
+        "last_name": "States",
+        "first_name": "United"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108262M",
+    "title": "Hours of duty, pay, and leave, annotated (FPM supplement)",
+    "city": null,
+    "publisher": "U.S. GPO, Supt. of Docs. [distributor",
+    "year": 1990,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2016-06-28",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1057992A",
+        "last_name": "Tzschaschel",
+        "first_name": "Sabine"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108263M",
+    "title": "Joint travel regulations",
+    "city": null,
+    "publisher": "For sale by the Supt. of Docs., U.S. G.P.O",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2009-04-03",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL18485A",
+        "last_name": "States",
+        "first_name": "United"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108264M",
+    "title": "Defense federal acquisition regulation supplement",
+    "city": null,
+    "publisher": "[Supt. of Docs., U.S. G.P.O., distributor]",
+    "year": 1998,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2008-12-29",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL18485A",
+        "last_name": "States",
+        "first_name": "United"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108265M",
+    "title": "The Joint Federal Travel Regulations (Comdtpub)",
+    "city": null,
+    "publisher": "Per Diem Travel and Transportation a of Defen",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 1,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2016-06-03",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL18485A",
+        "last_name": "States",
+        "first_name": "United"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108266M",
+    "title": "Air Force federal acquisition regulation supplement (AFFARS)",
+    "city": null,
+    "publisher": "[Supt. of Docs., U.S. G.P.O., distributor",
+    "year": 1996,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2016-02-23",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL18485A",
+        "last_name": "States",
+        "first_name": "United"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108267M",
+    "title": "Medicare (HCFA-pub)",
+    "city": null,
+    "publisher": "[For sale by the Supt. of Docs., U.S. G.P.O",
+    "year": 1998,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2000-06-23",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1077562A",
+        "last_name": "Johnson",
+        "first_name": "Elden"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108268M",
+    "title": "The International classification of diseases, 9th revision, clinical modification",
+    "city": null,
+    "publisher": "For sale by the Supt. of Docs., U.S. G.P.O",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2007-06-21",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL130317A",
+        "last_name": "Bottequin",
+        "first_name": "Armand"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108269M",
+    "title": "The International classification of diseases, 9th revision, clinical modification",
+    "city": null,
+    "publisher": "For sale by the Supt. of Docs., U.S. G.P.O",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2012-05-02",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1299290A",
+        "last_name": "Monchoachi",
+        "first_name": "Monchoachi"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1010826M",
+    "title": "Sacred leaves of Candomblé",
+    "city": "Austin",
+    "publisher": "University of Texas Press",
+    "year": 1997,
+    "subject": "Candomblé (Religion)",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 236,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2010-07-07",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL545042A",
+        "last_name": "A. Voeks",
+        "first_name": "Robert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108270M",
+    "title": "Federal travel regulation",
+    "city": null,
+    "publisher": "[For sale by the U.S. G.P.O., Supt. of Docs",
+    "year": 1996,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2016-03-28",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1032096A",
+        "last_name": "Wanley",
+        "first_name": "Humphrey"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108271M",
+    "title": "Title 48, Federal acquisition regulations system",
+    "city": null,
+    "publisher": "For sale by the Supt. of Docs., U.S. G.P.O",
+    "year": 1997,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2016-10-13",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL18485A",
+        "last_name": "States",
+        "first_name": "United"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108272M",
+    "title": "Rules and Regulations and Statements of Procedure",
+    "city": null,
+    "publisher": "U.S. Government Printing Office",
+    "year": 1996,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 1,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2004-12-14",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL18485A",
+        "last_name": "States",
+        "first_name": "United"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108273M",
+    "title": "Research grant handbook (NHB)",
+    "city": null,
+    "publisher": "For sale by the Supt. of Docs., U.S. G.P.O",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2015-11-08",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL18485A",
+        "last_name": "States",
+        "first_name": "United"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108274M",
+    "title": "Customs regulations of the United States",
+    "city": null,
+    "publisher": "[For sale by the Supt. of Docs., U.S. G.P.O.]",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2003-04-28",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL63432A",
+        "last_name": "Customs Service.",
+        "first_name": "U.S."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108275M",
+    "title": "Federal aviation regulations",
+    "city": null,
+    "publisher": "[Supt. of Docs., U.S. G.P.O., distributor]",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2011-10-15",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL18485A",
+        "last_name": "States",
+        "first_name": "United"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108276M",
+    "title": "Federal aviation regulations",
+    "city": null,
+    "publisher": "[For sale by the U.S. G.P.O., Supt. of Docs.]",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2012-09-02",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL18485A",
+        "last_name": "States",
+        "first_name": "United"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108277M",
+    "title": "Federal aviation regulations",
+    "city": null,
+    "publisher": "[Supt. of Docs., U.S. G.P.O., distributor]",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2003-04-20",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL18485A",
+        "last_name": "States",
+        "first_name": "United"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108278M",
+    "title": "Federal aviation regulations",
+    "city": null,
+    "publisher": "[Supt. of Docs., U.S. G.P.O., distributor]",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2010-11-11",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL18485A",
+        "last_name": "States",
+        "first_name": "United"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108279M",
+    "title": "Federal aviation regulations",
+    "city": null,
+    "publisher": "[Supt. of Docs., U.S. G.P.O, distributor",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2004-11-10",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL18485A",
+        "last_name": "States",
+        "first_name": "United"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1010827M",
+    "title": "Courts and Congress",
+    "city": "Washington, D.C",
+    "publisher": "Brookings Institution Press/Governance Institute",
+    "year": 1997,
+    "subject": "United States. Supreme Court -- History",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 163,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2001-03-04",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL545043A",
+        "last_name": "A. Katzmann",
+        "first_name": "Robert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108280M",
+    "title": "Federal aviation regulations",
+    "city": null,
+    "publisher": "For sale by the Supt. of Docs., U.S. G.P.O",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2007-12-16",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL18485A",
+        "last_name": "States",
+        "first_name": "United"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108281M",
+    "title": "Federal aviation regulations",
+    "city": null,
+    "publisher": "U.S. G.P.O., Supt. of Docs. [distributor]",
+    "year": 1997,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2012-09-25",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL18485A",
+        "last_name": "States",
+        "first_name": "United"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108282M",
+    "title": "Federal aviation regulations",
+    "city": null,
+    "publisher": "[For sale by the Supt. of Docs., U.S. G.P.O.]",
+    "year": 1994,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2007-08-21",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL18485A",
+        "last_name": "States",
+        "first_name": "United"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108283M",
+    "title": "Federal aviation regulations",
+    "city": null,
+    "publisher": "[Supt. of Docs., U.S. G.P.O., distributor]",
+    "year": 1994,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2011-07-26",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL18485A",
+        "last_name": "States",
+        "first_name": "United"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108284M",
+    "title": "Federal aviation regulations",
+    "city": null,
+    "publisher": "[Supt. of Docs., U.S. G.P.O., distributor",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2014-07-27",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL18485A",
+        "last_name": "States",
+        "first_name": "United"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108285M",
+    "title": "Federal aviation regulations",
+    "city": null,
+    "publisher": "[For sale by the Supt. of Docs., U.S. G.P.O.]",
+    "year": 1990,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 52,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2012-10-10",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL18485A",
+        "last_name": "States",
+        "first_name": "United"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108286M",
+    "title": "Federal aviation regulations",
+    "city": null,
+    "publisher": "[Supt. of Docs., U.S. G.P.O, distributor",
+    "year": 1995,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2012-11-08",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL18485A",
+        "last_name": "States",
+        "first_name": "United"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108287M",
+    "title": "Federal Aviation Regulations",
+    "city": null,
+    "publisher": "Dept. of Transportation Federal Aviation",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 1,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2002-05-11",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL18485A",
+        "last_name": "States",
+        "first_name": "United"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108288M",
+    "title": "Federal aviation regulations",
+    "city": null,
+    "publisher": "[Supt. of Docs., U.S. G.P.O, distributor",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2012-11-25",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL18485A",
+        "last_name": "States",
+        "first_name": "United"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108289M",
+    "title": "Federal aviation regulations",
+    "city": null,
+    "publisher": "U.S. G.P.O., Supt. of Docs., U.S. G.P.O. [distributor",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2009-10-03",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL18485A",
+        "last_name": "States",
+        "first_name": "United"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1010828M",
+    "title": "The meaning of democracy and the vulnerability of democracies",
+    "city": "Ann Arbor",
+    "publisher": "University of Michigan Press",
+    "year": 1997,
+    "subject": "Democracy.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 329,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2007-11-09",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL545044A",
+        "last_name": "Ostrom",
+        "first_name": "Vincent"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108290M",
+    "title": "Federal aviation regulations",
+    "city": null,
+    "publisher": "[Supt. of Docs., U.S. G.P.O., distributor",
+    "year": 1994,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2009-06-14",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL18485A",
+        "last_name": "States",
+        "first_name": "United"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108291M",
+    "title": "Government paper specification standards",
+    "city": null,
+    "publisher": "For sale by the Supt. of Docs., U.S. G.P.O",
+    "year": 1994,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2005-11-01",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL18485A",
+        "last_name": "States",
+        "first_name": "United"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108292M",
+    "title": "Rules and regulations",
+    "city": null,
+    "publisher": "For sale by the Supt. of Docs., U.S. G.P.O",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2006-09-21",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL6332364A",
+        "last_name": "States. Nuclear Regulatory Commission.",
+        "first_name": "United"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108293M",
+    "title": "NCUA rules and regulations (M)",
+    "city": null,
+    "publisher": "[Supt. of Docs., U.S. G.P.O., distributor]",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2005-03-25",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL18485A",
+        "last_name": "States",
+        "first_name": "United"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108294M",
+    "title": "Severe accident testing of electrical penetration assemblies",
+    "city": null,
+    "publisher": "Division of Engineering, Office of Nuclear Regulatory Research, U.S. Nuclear Regulatory Commission",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2013-11-01",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373226A",
+        "last_name": "B Clauss",
+        "first_name": "David"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108295M",
+    "title": "County Business Patterns",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1989,
+    "subject": "Business/Economics",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2011-06-09",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1284256A",
+        "last_name": "S. Nuttall",
+        "first_name": "Barry"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108296M",
+    "title": "Budget of the United States Government, Fiscal Year, 1991",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1990,
+    "subject": "Politics/International Relations",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2000-08-04",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL146067A",
+        "last_name": "State Legislative Council. Special Committee on Rehabilitation Services.",
+        "first_name": "Oklahoma."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108297M",
+    "title": "Statistics of Income. Corporation Income Tax Returns, 1986 (Statistics of Income Corporation Income ",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1990,
+    "subject": "Business/Economics",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2006-07-14",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373227A",
+        "last_name": "4804022907",
+        "first_name": "4804022907"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108298M",
+    "title": "Cumulated Abridged Index Medicus, 1989 (Cumulated Abridged Index Medicus)",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1990,
+    "subject": "Health/Fitness",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2008-09-21",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1285554A",
+        "last_name": "Reincke",
+        "first_name": "Heinrich"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108299M",
+    "title": "Fracture toughness characterization of nuclear piping steels",
+    "city": null,
+    "publisher": "Supt. of Docs., U.S. G.P.O., [distributor]",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 193,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2009-10-19",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373228A",
+        "last_name": "L Hiser",
+        "first_name": "A."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1010829M",
+    "title": "Dealing with differences",
+    "city": "Thousand Oaks, Calif",
+    "publisher": "Corwin Press",
+    "year": 1996,
+    "subject": "Prejudices -- United States -- Problems, exercises, etc",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2004-08-26",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL545045A",
+        "last_name": "Ellis",
+        "first_name": "Angele"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL101082M",
+    "title": "Saimaa-seminaari 1998",
+    "city": "Joensuu",
+    "publisher": "Joensuun yliopisto, Karjalan tutkimuslaitos",
+    "year": 1998,
+    "subject": "Limnology -- Finland -- Saimaa Lake -- Congresses.",
+    "genre": "Congresses.",
+    "periodic_release": null,
+    "page_count": 214,
+    "lang": "fin",
+    "days_keep_count": 10,
+    "adding_date": "2004-04-09",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL67907A",
+        "last_name": "(1998 Mikkeli, Finland)",
+        "first_name": "Saimaaseminaari"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108300M",
+    "title": "Proceedings of Symposium on Biosphere Reserves",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1989,
+    "subject": "Reference",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2006-08-12",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373229A",
+        "last_name": "Greeg",
+        "first_name": "W."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108301M",
+    "title": "Federal motor vehicle safety standards and regulations",
+    "city": null,
+    "publisher": "[For sale by the Supt. of Docs., U.S. G.P.O",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2016-12-04",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL18485A",
+        "last_name": "States",
+        "first_name": "United"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108302M",
+    "title": "County Business Patterns",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1989,
+    "subject": "Politics/International Relations",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2003-02-06",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1415627A",
+        "last_name": "Wechta",
+        "first_name": "Przemysław"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108303M",
+    "title": "County Business Patterns",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1990,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2011-01-16",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL115591A",
+        "last_name": "Enrique Azarola Gil",
+        "first_name": "Luis"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108304M",
+    "title": "Rules of Criminal Procedure for the United States District Courts, July 1, 1989",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2012-10-12",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373230A",
+        "last_name": "52070065907",
+        "first_name": "52070065907"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108305M",
+    "title": "An Act to Authorize Distribution within the United States of the United States Information Agency Fi",
+    "city": null,
+    "publisher": "Supt. of Docs., U.S. G.P.O., distributor",
+    "year": 1989,
+    "subject": "Archives",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2014-05-25",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL18485A",
+        "last_name": "States",
+        "first_name": "United"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108306M",
+    "title": "Aviation mechanic airframe",
+    "city": null,
+    "publisher": "Supt. of Docs., U.S. G.P.O., distributor]",
+    "year": 1990,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 6,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2014-05-11",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1387950A",
+        "last_name": "Weintraub",
+        "first_name": "Aileen"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108307M",
+    "title": "Code of Federal Regulations. 43. Public Lands: Interior, 1989",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1990,
+    "subject": "Reference",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2009-08-20",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373231A",
+        "last_name": "6907001591",
+        "first_name": "6907001591"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108308M",
+    "title": "Telecommunication (Cfr 47, Parts 0 to 19)",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1998,
+    "subject": "Politics/International Relations",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2008-09-29",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373232A",
+        "last_name": "869007001753",
+        "first_name": "869007001753"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108309M",
+    "title": "Cumulated Index Medicus, 1989 (Cumulated Index Medicus)",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1990,
+    "subject": "Health/Fitness",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2010-01-31",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1426912A",
+        "last_name": "Huddart",
+        "first_name": "David"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1010830M",
+    "title": "Successful site-based management",
+    "city": "Thousand Oaks, Calif",
+    "publisher": "Corwin Press",
+    "year": 1997,
+    "subject": "School-based management -- United States.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 183,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2010-10-11",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL545046A",
+        "last_name": "J. Reynolds",
+        "first_name": "Larry"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108310M",
+    "title": "Paraneoplastic Syndromes",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1989,
+    "subject": "Science/Mathematics",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2013-09-24",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373233A",
+        "last_name": "Nathanson",
+        "first_name": "Nathanson"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108311M",
+    "title": "Hematopoietic growth factors (Oncology overview)",
+    "city": null,
+    "publisher": "U.S. Dept. of Health and Human Services, Public Health Service, National Institutes of Health, National Cancer Institute, International Cancer Research Data Bank",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 7,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2006-08-27",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373234A",
+        "last_name": "A. S Moore",
+        "first_name": "Malcolm"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108312M",
+    "title": "Genetic intervention",
+    "city": null,
+    "publisher": "U.S. Dept. of Health and Human Services, Public Health Service, National Institutes of Health, National Cancer Institute, International Cancer Research Data Bank",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 9,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2016-09-24",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1755960A",
+        "last_name": "J. Cline",
+        "first_name": "Martin"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108313M",
+    "title": "State Government Finances in 1988 (State Government Finances in)",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1989,
+    "subject": "Business/Economics",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2011-11-02",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1347900A",
+        "last_name": "K. Farmer",
+        "first_name": "Norman"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108314M",
+    "title": "Critical Connections",
+    "city": null,
+    "publisher": "U.S. Government Printing Office",
+    "year": 1990,
+    "subject": "Telecommunications",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 403,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2006-04-15",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL18485A",
+        "last_name": "States",
+        "first_name": "United"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108315M",
+    "title": "List of Journals Indexed in Index Medicus, 1990 (List of Journals Indexed in Index Medicus)",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1990,
+    "subject": "Health/Fitness",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2014-01-22",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1039241A",
+        "last_name": "A. Gorlach",
+        "first_name": "A."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108316M",
+    "title": "Aviation, transport services",
+    "city": null,
+    "publisher": "For sale by the Supt. of Docs., U.S. G.P.O",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 8,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2011-04-14",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1378765A",
+        "last_name": "M. Bullard",
+        "first_name": "Ethel"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108317M",
+    "title": "Usda Plant Hardiness Zonemap (Miscellaneous publication / United States Dept. of Agriculture)",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1990,
+    "subject": "Nature/Ecology",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2007-09-01",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL158637A",
+        "last_name": "Henry M.",
+        "first_name": "Cathey,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108318M",
+    "title": "Resource Directory for Older People",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1990,
+    "subject": "Reference",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2003-03-13",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1045628A",
+        "last_name": "Andreas Dr.",
+        "first_name": "Beyer,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108319M",
+    "title": "A Profile of the working poor (Bulletin)",
+    "city": null,
+    "publisher": "For sale by the Supt. of Docs., U.S. G.P.O",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 33,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2007-04-25",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1115222A",
+        "last_name": "Bālakr̥ṣṇan",
+        "first_name": "Kalpat̲t̲a"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1010831M",
+    "title": "The 7 levels of change",
+    "city": "Arlington, Tex",
+    "publisher": "The Summit Pub. Group",
+    "year": 1997,
+    "subject": "Organizational change.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 213,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2010-09-05",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL545047A",
+        "last_name": "Smith",
+        "first_name": "Rolf"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108320M",
+    "title": "Rigid Container Recycling",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1990,
+    "subject": "Science/Mathematics",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2005-02-23",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373236A",
+        "last_name": "3009005698",
+        "first_name": "3009005698"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108321M",
+    "title": "Medical Subject Headings, 1990 (Medical Subject Headings)",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1990,
+    "subject": "Health/Fitness",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2002-12-18",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1202093A",
+        "last_name": "Piperno",
+        "first_name": "Franco"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108322M",
+    "title": "American Housing Survey, 1987",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1989,
+    "subject": "Reference",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2004-09-17",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373237A",
+        "last_name": "3024070839",
+        "first_name": "3024070839"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108323M",
+    "title": "County Business Patterns",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1990,
+    "subject": "Business/Economics",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2014-01-24",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1463220A",
+        "last_name": "M. Wrenn",
+        "first_name": "Douglas"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108324M",
+    "title": "Government Finances in 1987-88/Stk No 003-024-078084-7 (Government Finances in)",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1990,
+    "subject": "Politics/International Relations",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2013-06-13",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1407333A",
+        "last_name": "Mānutsayawitthayā Sirinthō̜n (Thailand).",
+        "first_name": "Sūn"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108325M",
+    "title": "Paraguay",
+    "city": null,
+    "publisher": "Dept. of the Army",
+    "year": 1990,
+    "subject": "Americas (North Central South West Indies)",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 320,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2004-06-06",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1079486A",
+        "last_name": "F. Skiba",
+        "first_name": "Gene"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108326M",
+    "title": "Ethics in the United Air Force, 1988",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1990,
+    "subject": "History: American",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2015-03-16",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373238A",
+        "last_name": "Ainslie",
+        "first_name": "Ainslie"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108327M",
+    "title": "Foreign Relations of the United States, 1955-57. Volume XIX",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1990,
+    "subject": "Politics/International Relations",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 741,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2006-08-26",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4493800A",
+        "last_name": "States. Department of State.",
+        "first_name": "United"
+      },
+      {
+        "openlibrary_id": "/authors/OL3373239A",
+        "last_name": "P. Glennon",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108328M",
+    "title": "Country Reports on Human Rights Practices for 1989, Report February 1990",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1990,
+    "subject": "Reference",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2014-10-31",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373240A",
+        "last_name": "52070066300",
+        "first_name": "52070066300"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108329M",
+    "title": "Annual Energy Outlook, 1990/Stk No 061-003-00649-3",
+    "city": null,
+    "publisher": "Government printing office",
+    "year": 1990,
+    "subject": "Politics/International Relations",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2013-03-15",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3373241A",
+        "last_name": "6103006493",
+        "first_name": "6103006493"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1010832M",
+    "title": "The investment opportunity of a lifetime--Hong Kong 1997 and beyond",
+    "city": "Arlington, Tex",
+    "publisher": "Legacy Books",
+    "year": 1997,
+    "subject": "Investments, Foreign -- China -- Hong Kong",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2001-07-06",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL545048A",
+        "last_name": "E. McConnell",
+        "first_name": "Richard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108330M",
+    "title": "Census of Transportation",
+    "city": null,
+    "publisher": "United States Government Printing",
+    "year": 1990,
+    "subject": "Business/Economics",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2001-11-23",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1014694A",
+        "last_name": "Antonakos",
+        "first_name": "Toula"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10108331M",
+    "title": "Analysis of core damage frequency",
+    "city": null,
+    "publisher": "Supt. of Docs., U.S. G.P.O. [distributor]",
+    "year": 1990,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2008-12-16",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1443386A",
+        "last_name": "Sutiyoso.",
+        "first_name": "Sutiyoso."
+      }
+    ]
+  }
+]

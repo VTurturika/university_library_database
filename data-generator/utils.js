@@ -44,7 +44,7 @@ module.exports = {
 
     writeJsonToFile: (params) => {
         fs.writeFileSync(`openlibrary/${params.name}.json`, JSON.stringify(params.data, null,2))
-        console.log(`Wrote ${params.data.length} book records to openlibrary/${params.name}.json`);
+        console.log(`Wrote ${params.data.length} book records to openlibrary/${params.name}.json\n`);
     },
 
     clearOpenLibraryDirectory: () => {
@@ -70,11 +70,14 @@ module.exports = {
     },
 
     runSerial: (tasks) => {
-        let result = Promise.resolve();
+        let promise = Promise.resolve();
+        let results = [];
+
         tasks.forEach(task => {
-            result = result.then(() => task());
+            promise = promise.then( () => task().then(result => results.push(result)) );
         });
-        return result;
+
+        return new Promise( resolve => promise.then( () => resolve(results) ) );
     },
 
     readOpenLibraryJsons: () => {

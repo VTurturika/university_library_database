@@ -1,0 +1,4402 @@
+[
+  {
+    "openlibrary_id": "/books/OL13827930M",
+    "title": "Zakonomernosti nauchno-tekhnicheskogo progressa i ikh planomernoe ispol'zovanie",
+    "city": "Moskva",
+    "publisher": "Ekonomika",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 10,
+    "adding_date": "2005-01-21",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3518617A",
+        "last_name": "V. Yakovets",
+        "first_name": "Yu."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827931M",
+    "title": "Kak rabotal Gogol'",
+    "city": "Ann Arbor (Mich.)",
+    "publisher": "Ardis",
+    "year": 1983,
+    "subject": "Gogol', N. V. -- 1809-1852.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 200,
+    "adding_date": "2012-09-29",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL74464A",
+        "last_name": "V. Veresaev",
+        "first_name": "V."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827932M",
+    "title": "Upravlenie nauchno-tekhnicheskim progressom v mashinostroenie",
+    "city": "Moskva",
+    "publisher": "Mashinostroenie",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 100,
+    "adding_date": "2014-06-07",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406009A",
+        "last_name": "N. Arkhangel'skii",
+        "first_name": "V."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827933M",
+    "title": "Istoricheskaya geografiya yuzhnykh oblastei Srednei Azii",
+    "city": "Ashkhabad",
+    "publisher": "Ylym",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 200,
+    "adding_date": "2007-03-24",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1090570A",
+        "last_name": "N. Khlopin",
+        "first_name": "I."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827934M",
+    "title": "Trudovoi podvig rabochego klassa v 1941-1945gg.",
+    "city": "Moskva",
+    "publisher": "Nauka",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 30,
+    "adding_date": "2012-12-14",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL475359A",
+        "last_name": "S. Zinich",
+        "first_name": "M."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827935M",
+    "title": "' Khadzhi-Murat' L'va Tolstogo",
+    "city": "Moskva",
+    "publisher": "Sovremennik",
+    "year": 1983,
+    "subject": "Tolstoi, L. N. -- 1828-1910.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 10,
+    "adding_date": "2015-01-09",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406010A",
+        "last_name": "P. Sergeenko",
+        "first_name": "A."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827936M",
+    "title": "ASU TP v mashinostroenii",
+    "city": "Moskva",
+    "publisher": "Mashinostroenie",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 100,
+    "adding_date": "2013-05-31",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406011A",
+        "last_name": "Yu Maksarev",
+        "first_name": "R."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827937M",
+    "title": "Dostoevskii i Turgenev",
+    "city": "Kursk",
+    "publisher": "[s.n.]",
+    "year": 1981,
+    "subject": "Dostoevskii , F. M. -- 1821-1881.",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 100,
+    "adding_date": "2010-08-12",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406012A",
+        "last_name": "V. Tyukhova",
+        "first_name": "E."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827938M",
+    "title": "Chto dolzhna znat' kazhdaya devushka",
+    "city": "Moskva",
+    "publisher": "Meditsina",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 50,
+    "adding_date": "2010-05-15",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406013A",
+        "last_name": "A. Rimkunas",
+        "first_name": "T."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827939M",
+    "title": "Psikhologiya obucheniya i vospitaniya v vysshei shkole",
+    "city": "Minsk",
+    "publisher": "Vysheishaya shkola",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 100,
+    "adding_date": "2012-12-20",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406014A",
+        "last_name": "A. Benediktov",
+        "first_name": "B."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1382793M",
+    "title": "Maḥbūbu Sarvarī baḥais̲iyata nas̲uru navīs",
+    "city": "Ḥaidarābād, Sindhu",
+    "publisher": "Gulshani Pablīkeshani",
+    "year": 1992,
+    "subject": "Sarvarī, Maḥbūbu -- Criticism and interpretation.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 187,
+    "lang": "snd",
+    "days_keep_count": 10,
+    "adding_date": "2011-01-08",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL704497A",
+        "last_name": "Muḥammadu Balocu Balocu",
+        "first_name": "Shāhu"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827940M",
+    "title": "Vo glave dvukh akademii",
+    "city": "Moskva",
+    "publisher": "Nauka",
+    "year": 1978,
+    "subject": "Dashkova, Ekaterina, -- Princess.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 200,
+    "adding_date": "2010-11-18",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406015A",
+        "last_name": "Ya. Liya Yakovlevna Lozinskaya",
+        "first_name": "L."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827941M",
+    "title": "Aleksei Nikolaevich Krylov",
+    "city": "Moskva",
+    "publisher": "Molodaya gvardiya",
+    "year": 1983,
+    "subject": "Krylov, Aleksei Nikolaevich.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 200,
+    "adding_date": "2016-11-08",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1253975A",
+        "last_name": "Lipilin",
+        "first_name": "Vladimir"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827942M",
+    "title": "Formirovanie razvitoi tvorcheskoi lichnosti studenta",
+    "city": "Kiev",
+    "publisher": "Vyshcha shkola",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 10,
+    "adding_date": "2004-10-20",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL818251A",
+        "last_name": "F. Kravchuk",
+        "first_name": "P."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827943M",
+    "title": "Sotsial'no-ekonomicheskoe razvitie i prirodookhrannaya deyatel'nost'",
+    "city": "Moskva",
+    "publisher": "Nauka",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 50,
+    "adding_date": "2014-11-13",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL87757A",
+        "last_name": "P. Ushakov",
+        "first_name": "E."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827944M",
+    "title": "Sibirskii letopisnyi svod (vtoraya polovina XVII v.)",
+    "city": "Novosibirsk",
+    "publisher": "Nauka, Sibirskoe otd-nie",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 200,
+    "adding_date": "2010-11-06",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406016A",
+        "last_name": "A. Dvoretskaya",
+        "first_name": "N."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827945M",
+    "title": "Mama, papa i vse, vse, vse...",
+    "city": "Leningrad",
+    "publisher": "Lenizdat",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 10,
+    "adding_date": "2009-03-14",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406017A",
+        "last_name": "Chaplina",
+        "first_name": "N."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827946M",
+    "title": "Dostovernost' ekonomicheskoi informatsii v ASU",
+    "city": "Leningrad",
+    "publisher": "Izd-vo Leningradskogouniversiteta",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 30,
+    "adding_date": "2012-11-01",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406018A",
+        "last_name": "L. Broido",
+        "first_name": "V."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827947M",
+    "title": "V sem'e rastut deti",
+    "city": "Moskva",
+    "publisher": "Russkii yazyk",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 50,
+    "adding_date": "2002-04-24",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406019A",
+        "last_name": "Belyakova ",
+        "first_name": "E. Belyakova "
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827948M",
+    "title": "Mekhanizm stimulirovaniya intensifikatsii proizvodstva",
+    "city": "Minsk",
+    "publisher": "Izd-vo BGU im. V.I. Lenina",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 10,
+    "adding_date": "2009-09-01",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4405317A",
+        "last_name": "G. Khryapchenkov",
+        "first_name": "V."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827949M",
+    "title": "Prestuplenie i nakazanie",
+    "city": "New York (N.Y.)",
+    "publisher": "International University Press",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 30,
+    "adding_date": "2002-01-01",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL22242A",
+        "last_name": "Mikhailovich Dostoyevsky",
+        "first_name": "Fyodor"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1382794M",
+    "title": "Virhāg̈e jo varjāʼu",
+    "city": "Ḥaidarābād, Sindhu",
+    "publisher": "Niyū Fīlḍs Pablīkeshans",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 133,
+    "lang": "snd",
+    "days_keep_count": 50,
+    "adding_date": "2001-09-07",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL704498A",
+        "last_name": "Mehboob",
+        "first_name": "Mahtab"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827950M",
+    "title": "Byudzhet vremeni naseleniya",
+    "city": "Moskva",
+    "publisher": "Finansy i statistika",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 10,
+    "adding_date": "2004-08-28",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1260333A",
+        "last_name": "I. Dumnov",
+        "first_name": "D."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827951M",
+    "title": "Rasskaz M. Sholokhova \"Sud'ba cheloveka\"",
+    "city": "Moskva",
+    "publisher": "Vysshaya shkola",
+    "year": 1984,
+    "subject": "Sholokhov, Mikhail, -- 1905-1984.",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 30,
+    "adding_date": "2009-08-15",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL193781A",
+        "last_name": "V. Ognev",
+        "first_name": "A."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827952M",
+    "title": "Vospitanie rabochei smeny",
+    "city": "Kiev",
+    "publisher": "Vyshcha shkola",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 100,
+    "adding_date": "2000-11-22",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1281788A",
+        "last_name": "Sh Khalilov",
+        "first_name": "A."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827953M",
+    "title": "Inflyatsiya v epokhi sotsial'nykh revolyutsii",
+    "city": "Moskva",
+    "publisher": "Nauka",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 10,
+    "adding_date": "2006-04-16",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1027974A",
+        "last_name": "A. Dalin",
+        "first_name": "S."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827954M",
+    "title": "Effektivnost' khimicheskikh proizvodstv",
+    "city": "Moskva",
+    "publisher": "Khimiya",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 100,
+    "adding_date": "2013-02-18",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406020A",
+        "last_name": "S. Tyzhnenko-Davtyan",
+        "first_name": "E."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827955M",
+    "title": "Naselenie i sotsialisticheskoe obshchestvo",
+    "city": "Moskva",
+    "publisher": "Finansy i statistika",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 200,
+    "adding_date": "2003-12-20",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4337763A",
+        "last_name": "V. Ryabushkin",
+        "first_name": "T."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827956M",
+    "title": "Etiket russkogo pis'ma",
+    "city": "Moskva",
+    "publisher": "Russkii yazyk",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 200,
+    "adding_date": "2010-08-17",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4385939A",
+        "last_name": "A. Akishina",
+        "first_name": "A."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827957M",
+    "title": "Voina - eto antikul'tura",
+    "city": "Moskva",
+    "publisher": "Sov. Rossiya",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 100,
+    "adding_date": "2006-03-13",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4332672A",
+        "last_name": "Evtushenko",
+        "first_name": "Evgenii"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827958M",
+    "title": "Stranitsy russkoi morskoi letopisi",
+    "city": "Moskva",
+    "publisher": "Gos. ucheb.-pedagog. izd-vo ministerstva prosveshcheniya",
+    "year": 1960,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 200,
+    "adding_date": "2003-10-11",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406021A",
+        "last_name": "I. Zverev",
+        "first_name": "B."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827959M",
+    "title": "Sovetskie rabochie i NTR",
+    "city": "Moskva",
+    "publisher": "Mysl'",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 100,
+    "adding_date": "2008-04-13",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1260148A",
+        "last_name": "I. Pivovar",
+        "first_name": "E."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1382795M",
+    "title": "Women of Sindh",
+    "city": "Karachi",
+    "publisher": "Association of Business Professional and Agricultural Women",
+    "year": 1992,
+    "subject": "Women -- Pakistan -- Sindh -- Statistics.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 82,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2016-09-23",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1394539A",
+        "last_name": "Baxter",
+        "first_name": "Nancy"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827960M",
+    "title": "Romantika bor'by i sozidaniya",
+    "city": "Minsk",
+    "publisher": "Izd-vo BGU im. V.I. Lenina",
+    "year": 1982,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 200,
+    "adding_date": "2004-10-25",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406022A",
+        "last_name": "A. Lysenko",
+        "first_name": "S."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827961M",
+    "title": "Geografiya v Moskovskom universitete",
+    "city": "Moskva",
+    "publisher": "Nauka",
+    "year": 1983,
+    "subject": "Imperatorskii Moskovskii universitet.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 50,
+    "adding_date": "2000-03-27",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1096598A",
+        "last_name": "A. Esakov",
+        "first_name": "V."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827962M",
+    "title": "Vklad nauki v kapital'noe stroitel'stvo",
+    "city": "Moskva",
+    "publisher": "Stroiizdat",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 100,
+    "adding_date": "2015-08-04",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4385723A",
+        "last_name": "G. Chentemirov",
+        "first_name": "M."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827963M",
+    "title": "Nauchno-pedagogicheskie kadry vysshei shkoly",
+    "city": "Kiev",
+    "publisher": "Vyshcha shkola",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 200,
+    "adding_date": "2000-07-27",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL673550A",
+        "last_name": "P. Pastukhov",
+        "first_name": "V."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827964M",
+    "title": "Togda vse  dyshalo nadezhdoi",
+    "city": "Yaroslavl'",
+    "publisher": "Verkhre-Volzhskoe knizh. izd-vo",
+    "year": 1982,
+    "subject": "Gertsen, A. I. -- 1812-1870.",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 50,
+    "adding_date": "2010-04-09",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL337816A",
+        "last_name": "F. Savinova",
+        "first_name": "R."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827965M",
+    "title": "Sovremennye metody regulirovaniya kachestva produktsii v usloviyakh ASU",
+    "city": "Moskva",
+    "publisher": "Finansy i statistika",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 10,
+    "adding_date": "2002-12-24",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406023A",
+        "last_name": "Ya Lukashin",
+        "first_name": "A."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827966M",
+    "title": "Pole zhizni moei...",
+    "city": "Moskva",
+    "publisher": "Politizdat",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 30,
+    "adding_date": "2015-04-23",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1265477A",
+        "last_name": "A. Braga",
+        "first_name": "M."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827967M",
+    "title": "Rastim patriotov-internatsionalistov",
+    "city": "Moskva",
+    "publisher": "Prosveshchenie",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 30,
+    "adding_date": "2015-03-20",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406024A",
+        "last_name": "F. Lukin",
+        "first_name": "P."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827968M",
+    "title": "V.A. Shaak (1880-1957)",
+    "city": "Moskva",
+    "publisher": "Meditsina",
+    "year": 1984,
+    "subject": "Shaak, V. A.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 10,
+    "adding_date": "2013-03-04",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406025A",
+        "last_name": "L. Okolov",
+        "first_name": "V."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827969M",
+    "title": "Sochineniya",
+    "city": "Moskva",
+    "publisher": "[s.n.]",
+    "year": 1856,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 200,
+    "adding_date": "2008-07-18",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4375835A",
+        "last_name": "N. Granovskii",
+        "first_name": "T."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1382796M",
+    "title": "Kahāṇiyūn, maz̤mūni ʻain shak̲h̲ṣiyata",
+    "city": "Karācī",
+    "publisher": "S̲aqāfata ʻain Siyāḥata Khāto, Ḥukūmat-i Sindhu",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 231,
+    "lang": "snd",
+    "days_keep_count": 50,
+    "adding_date": "2000-06-14",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL311621A",
+        "last_name": "Abṛo",
+        "first_name": "Jamālu"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827970M",
+    "title": "Kommentarii k Polozheniyu o poryadke naznacheniya i vyplaty gosudarstvennykh pensii",
+    "city": "Moskva",
+    "publisher": "Yurid. lit-ra",
+    "year": 1984,
+    "subject": "Union of Soviet Socialist Republics.",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 30,
+    "adding_date": "2015-07-25",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL251528A",
+        "last_name": "A. Babkin",
+        "first_name": "V."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827971M",
+    "title": "Chetyrekhznachnye matematicheskie tablitsy dlya srednei shkoly.",
+    "city": "Moskva",
+    "publisher": "Prosveshchenie",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 10,
+    "adding_date": "2006-12-26",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406026A",
+        "last_name": "M. Bradis",
+        "first_name": "V."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827972M",
+    "title": "Edinoe slovo",
+    "city": "Moskva",
+    "publisher": "Sov. pisatel'",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 100,
+    "adding_date": "2002-01-27",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406027A",
+        "last_name": "S. Papernyi",
+        "first_name": "Z."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827973M",
+    "title": "Obychnoe oruzhie i mezhdunarodnoe pravo",
+    "city": "Moskva",
+    "publisher": "Mezhdunarodnye otnosheniya",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 50,
+    "adding_date": "2009-02-10",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL515338A",
+        "last_name": "P. Blishchenko",
+        "first_name": "I."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827974M",
+    "title": "Lekarstvennye sredstva",
+    "city": "Moskva",
+    "publisher": "Meditsina",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 100,
+    "adding_date": "2010-06-25",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406028A",
+        "last_name": "D. Mashkovskii",
+        "first_name": "M."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827975M",
+    "title": "Upravlenie proizvodstvom i rukovoditel'",
+    "city": "Kiev",
+    "publisher": "Vyshcha shkola",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 10,
+    "adding_date": "2000-03-27",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL503517A",
+        "last_name": "N. Ermoshenko",
+        "first_name": "N."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827976M",
+    "title": "Posobie dlya zanyatii po russkomu yazyku v starshikh klassakh srednei shkoly",
+    "city": "Moskva",
+    "publisher": "Prosveshchenie",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 200,
+    "adding_date": "2007-04-18",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2281990A",
+        "last_name": "F. Grekov",
+        "first_name": "V."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827977M",
+    "title": "V tvorcheskoi masterskoi M. Gor'kogo",
+    "city": "L'vov",
+    "publisher": "Vyshcha shkola",
+    "year": 1982,
+    "subject": "Gor'kii , Maksim, -- 1868-1936.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 30,
+    "adding_date": "2001-08-31",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406029A",
+        "last_name": "F. Matveichuk",
+        "first_name": "N."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827978M",
+    "title": "Senazh i silos",
+    "city": "Moskva",
+    "publisher": "Kolos",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 100,
+    "adding_date": "2016-06-07",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4395950A",
+        "last_name": "A. Bogdanov",
+        "first_name": "G."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827979M",
+    "title": "Kreditnye otnosheniya mezhdu stranami-chlenami SEV",
+    "city": "Moskva",
+    "publisher": "Finansy i statistika",
+    "year": 1983,
+    "subject": "Sovet ekonomicheskoi vzaimopomoshchi.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 30,
+    "adding_date": "2007-03-01",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406030A",
+        "last_name": "N. Belicherko",
+        "first_name": "A."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1382797M",
+    "title": "Faqīru Muḥammadu Ṣalāḥ",
+    "city": "K̲h̲airpūr",
+    "publisher": "Sacalu Sarmastu Yādigāru Kameṭī",
+    "year": 1992,
+    "subject": "Ṣalaḥ, Faqīru Muḥammadu, 1776?-1858.",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 64,
+    "lang": "snd",
+    "days_keep_count": 30,
+    "adding_date": "2016-12-07",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL704499A",
+        "last_name": "Navāzu ʻAlī Shauqu",
+        "first_name": "Balocu"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827980M",
+    "title": "Istoricheskie vzglyady N.I. Kostomarova",
+    "city": "Kiev",
+    "publisher": "Naukova dumka",
+    "year": 1984,
+    "subject": "Kostomarov, N. I. -- 1817-1885.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 200,
+    "adding_date": "2003-01-01",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406031A",
+        "last_name": "A. Pinchuk",
+        "first_name": "Yu."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827981M",
+    "title": "[17] XVII s\"ezd VKP(b)",
+    "city": "Moskva",
+    "publisher": "Politizdat",
+    "year": 1984,
+    "subject": "Vsesoyuznaya Kommunisticheskaya partiya (bol'shevikov). -- S\"ezd",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 30,
+    "adding_date": "2016-02-07",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1263847A",
+        "last_name": "P. Chernov",
+        "first_name": "M."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827982M",
+    "title": "Evristicheskie metody v upravlenii proizvodstvom",
+    "city": "Leningrad",
+    "publisher": "Izd-vo Leningradskogo universiteta",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 50,
+    "adding_date": "2006-07-25",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL922476A",
+        "last_name": "V. Arkhipov",
+        "first_name": "A."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827983M",
+    "title": "V lesakh",
+    "city": "Moskva",
+    "publisher": "Sov. Rossiya.",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 50,
+    "adding_date": "2009-07-23",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406032A",
+        "last_name": "I. Mel'nikov",
+        "first_name": "P."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827984M",
+    "title": "Obshchestvenno-politicheskie i pravovye vzglyady L.N. Tolstogo",
+    "city": "Voronezh",
+    "publisher": "Izd-vo Voronezhskogo universiteta",
+    "year": 1983,
+    "subject": "Tolstoi , L. N. -- 1828-1910.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 100,
+    "adding_date": "2005-03-13",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406033A",
+        "last_name": "V. Yachevskii",
+        "first_name": "V."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827985M",
+    "title": "Russkaya krest'yanskaya kolonizatsiya Yuzhnogo Urala",
+    "city": "Moskva",
+    "publisher": "Nauka",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 200,
+    "adding_date": "2000-02-03",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406034A",
+        "last_name": "M. Tarasov",
+        "first_name": "Yu."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827986M",
+    "title": "Artel'noe kharchevanie fabrichno-zavodskikh rabochikh Moskovskoi gubernii",
+    "city": "Moskva",
+    "publisher": "[s.n.]",
+    "year": 1915,
+    "subject": "Moscow (Guberniya). -- Zemstvo. -- Statisticheskoe otdelenie.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 10,
+    "adding_date": "2015-10-15",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406035A",
+        "last_name": "M. Koz'minykh-Lanin",
+        "first_name": "I."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827987M",
+    "title": "Sobranie sochinenii v pyati tomakh.",
+    "city": "Moskva",
+    "publisher": "Khudozh. lit-ra",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 100,
+    "adding_date": "2016-02-20",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4327906A",
+        "last_name": "Gladkov",
+        "first_name": "F."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827988M",
+    "title": "Mezhdunarodnaya bezopasnost' i global'nye problemy",
+    "city": "Moskva",
+    "publisher": "Nauka",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 50,
+    "adding_date": "2014-03-18",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406036A",
+        "last_name": "E. Fedorov",
+        "first_name": "Yu."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827989M",
+    "title": "Student segodnya - spetsialist zavtra",
+    "city": "Moskva",
+    "publisher": "Molodaya gvardiya",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 200,
+    "adding_date": "2005-01-18",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1252700A",
+        "last_name": "Karpukhin",
+        "first_name": "O."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1382798M",
+    "title": "K̲h̲airpūr men k̲h̲airu jā d̤īnhan",
+    "city": "Karācī, Sindhu",
+    "publisher": "Kāfī Pablīkeshani",
+    "year": 1992,
+    "subject": "Buk̲h̲ārī, Sayyidu Muḥsin ʻAlī Shāhu, 1938- -- Friends and associates.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 173,
+    "lang": "snd",
+    "days_keep_count": 30,
+    "adding_date": "2003-04-23",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL704500A",
+        "last_name": "Muḥsin ʻAlī Shāhu Buk̲h̲ārī",
+        "first_name": "Sayyidu"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827990M",
+    "title": "Poetika L'va Tolstogo",
+    "city": "Moskva",
+    "publisher": "Izd-vo Moskovskogo universiteta",
+    "year": 1983,
+    "subject": "Tolstoi , L. N. -- 1828-1910.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 10,
+    "adding_date": "2009-03-27",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406037A",
+        "last_name": "A. Kovalev",
+        "first_name": "Vl."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827991M",
+    "title": "Uchet i otchetnost' v upravleniyakh gosudarstvennogo strakhovaniya",
+    "city": "Moskva",
+    "publisher": "Finansy i statistika",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 50,
+    "adding_date": "2014-03-06",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406038A",
+        "last_name": "P. Bryzgalova",
+        "first_name": "T."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827992M",
+    "title": "Integratsiya nauki, tekhniki i proizvodstva v agropromyshlennom komplekse",
+    "city": "Moskva",
+    "publisher": "Kolos",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 50,
+    "adding_date": "2002-11-04",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406039A",
+        "last_name": "M. Smolyanov",
+        "first_name": "A."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827993M",
+    "title": "Fabrichnoe zakonodatel'stvo v Rossii",
+    "city": "Moskva",
+    "publisher": "Pol'za",
+    "year": 1908,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 100,
+    "adding_date": "2006-11-09",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406040A",
+        "last_name": "Tyutryumova",
+        "first_name": "R."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827994M",
+    "title": "Mirovaya imperialisticheskaya voina 1914-18 gg.",
+    "city": "Cambridge",
+    "publisher": "Oriental Research Partners",
+    "year": 1973,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 100,
+    "adding_date": "2008-09-13",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406041A",
+        "last_name": "Khmelevskii",
+        "first_name": "G."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827995M",
+    "title": "Kvalimetricheskie aspekty upravleniya kachestvom novoi tekhniki",
+    "city": "Leningrad",
+    "publisher": "Izd-vo Leningradskogo universiteta",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 10,
+    "adding_date": "2014-07-20",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406042A",
+        "last_name": "M. Andrianov",
+        "first_name": "Yu."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827996M",
+    "title": "Pravovoe regulirovanie avtorskikh otnoshenii v kinematografii i televidenii",
+    "city": "Moskva",
+    "publisher": "Nauka",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 50,
+    "adding_date": "2000-10-09",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4369186A",
+        "last_name": "A. Chernysheva",
+        "first_name": "S."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827997M",
+    "title": "Shpitsbergen",
+    "city": "Moskva",
+    "publisher": "Mysl'",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 50,
+    "adding_date": "2004-09-03",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1262638A",
+        "last_name": "V. Pechurov",
+        "first_name": "L."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827998M",
+    "title": "Vspominai i dal'she...",
+    "city": "Moskva",
+    "publisher": "Politizdat",
+    "year": 1983,
+    "subject": "Sukhanov, Konstantin",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 100,
+    "adding_date": "2000-08-24",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1970931A",
+        "last_name": "Demidov",
+        "first_name": "P."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827999M",
+    "title": "Sobranie sochinenii v chetyrekh tomakh",
+    "city": "Moskva",
+    "publisher": "Khudozh. lit-ra",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 10,
+    "adding_date": "2005-09-11",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4280300A",
+        "last_name": "I︠U︡rʹevich Lermontov",
+        "first_name": "Mikhail"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1382799M",
+    "title": "Adabī vicāra",
+    "city": "Karācī, Sindhu",
+    "publisher": "Kāfī Pablīkeshani",
+    "year": 1992,
+    "subject": "Sindhi literature -- History and criticism.",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 96,
+    "lang": "snd",
+    "days_keep_count": 200,
+    "adding_date": "2007-06-16",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL704501A",
+        "last_name": "Em ʻAbbāsī",
+        "first_name": "K̲h̲vurshīd"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL138279M",
+    "title": "Puebla, cuna de la diplomacia mexicana",
+    "city": "[Puebla]",
+    "publisher": "Gobierno del Estado de Puebla, Secretaría de Cultura",
+    "year": 1997,
+    "subject": "Vázquez y Sánchez Vizcaíno, Francisco Pablo, 1769-1847.",
+    "genre": "Biography.",
+    "periodic_release": 1,
+    "page_count": 82,
+    "lang": "spa",
+    "days_keep_count": 30,
+    "adding_date": "2015-05-07",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL91228A",
+        "last_name": "Gómez Haro",
+        "first_name": "Enrique"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13827M",
+    "title": "Varuṇadhāra.",
+    "city": null,
+    "publisher": null,
+    "year": 1965,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 260,
+    "lang": "tel",
+    "days_keep_count": 30,
+    "adding_date": "2003-11-18",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2799A",
+        "last_name": "Veera Raghava Rao",
+        "first_name": "Manikonda"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828000M",
+    "title": "Deyatel'nost' KPSS po sblizheniyu natsii i narodnostei v usloviyakh razvitogo sotsializma",
+    "city": "Moskva",
+    "publisher": "Vysshaya shkola",
+    "year": 1983,
+    "subject": "Kommunisticheskaya partiya Sovetskogo Soyuza.",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 100,
+    "adding_date": "2015-06-13",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1260618A",
+        "last_name": "G. Sych",
+        "first_name": "E."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828001M",
+    "title": "Pedagogicheskie znaniya - roditelyam",
+    "city": "Moskva",
+    "publisher": "Prosveshchenie",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 100,
+    "adding_date": "2012-11-17",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4337347A",
+        "last_name": "F. Ostrovskaya",
+        "first_name": "L."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828002M",
+    "title": "Sorevnovanie - stimul uskoreniya nauchno-tekhnicheskogo progressa",
+    "city": "Minsk",
+    "publisher": "Nauka i tekhnika",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 10,
+    "adding_date": "2007-12-11",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406043A",
+        "last_name": "I. Kuropyatnik",
+        "first_name": "I."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828003M",
+    "title": "Sotsial'nyi mekhanizm ugolovno-pravovogo vozdeistviya",
+    "city": "Moskva",
+    "publisher": "Nauka",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 50,
+    "adding_date": "2013-08-12",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL184991A",
+        "last_name": "M. Kogan",
+        "first_name": "V."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828004M",
+    "title": "Operatsiyu nachnem na rassvete",
+    "city": "Moskva",
+    "publisher": "Politizdat",
+    "year": 1984,
+    "subject": "Ivanov, V. I.",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 10,
+    "adding_date": "2014-08-24",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406044A",
+        "last_name": "Teplyakov",
+        "first_name": "Yurii"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828005M",
+    "title": "Bor'ba sovetskogo naroda v tylu fashistskikh okkupantov v gody Velikoi Otechestvennoi voiny",
+    "city": "Moskva",
+    "publisher": "[s.n.]",
+    "year": 1982,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 100,
+    "adding_date": "2001-05-16",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406045A",
+        "last_name": "A. Karevskii",
+        "first_name": "F."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828006M",
+    "title": "Dialektika mirovogo razvitiya i zakonomernosti revolyutsionnogo protsessa",
+    "city": "Moskva",
+    "publisher": "Politizdat",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 30,
+    "adding_date": "2004-06-10",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406046A",
+        "last_name": "I. Sobolev",
+        "first_name": "A."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828007M",
+    "title": "Stikhi raznykh let, 1921-1983",
+    "city": "Leningrad",
+    "publisher": "Sov. pisatel',Leningradskoe otd-nie",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 10,
+    "adding_date": "2002-09-05",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406047A",
+        "last_name": "A. Manuilov",
+        "first_name": "V."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828008M",
+    "title": "Nestandartnyi rebenok",
+    "city": "Moskva",
+    "publisher": "Znanie",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 10,
+    "adding_date": "2010-04-05",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4405103A",
+        "last_name": "L. Levi",
+        "first_name": "V."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828009M",
+    "title": "Planirovanie i prognozirovanie razvitiya promyshlennykh uzlov",
+    "city": "Minsk",
+    "publisher": "Nauka i tekhnika",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 100,
+    "adding_date": "2001-06-24",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1275380A",
+        "last_name": "A. Dulaeva",
+        "first_name": "R."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1382800M",
+    "title": "Sar Sayyid, Jināḥ, Mashriqī",
+    "city": "Rāvalpinḍī",
+    "publisher": "Madnī Pablīkeshanz",
+    "year": 1992,
+    "subject": "Aḥmad K̲h̲ān̲, Sayyid, Sir, 1817-1898",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 208,
+    "lang": "urd",
+    "days_keep_count": 50,
+    "adding_date": "2016-03-23",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL704502A",
+        "last_name": "Sher Zamān",
+        "first_name": "K̲h̲āksār,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828010M",
+    "title": "Sobranie sochinenii v trekh tomakh.",
+    "city": "Moskva",
+    "publisher": "Molodaya gvardiya",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 100,
+    "adding_date": "2013-12-04",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2675056A",
+        "last_name": "Aitmatov",
+        "first_name": "Chingiz"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828011M",
+    "title": "Effektivnost' ispol'zovaniya gorodskikh territorii",
+    "city": "Moskva",
+    "publisher": "Stroiizdat",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 10,
+    "adding_date": "2009-09-06",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1271292A",
+        "last_name": "K. Ivanova",
+        "first_name": "A."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828012M",
+    "title": "Skaz o Belomor'e",
+    "city": "Arkhangel'sk",
+    "publisher": "Severo-Zapadnoe knizh. izd-vo",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 100,
+    "adding_date": "2005-05-24",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406048A",
+        "last_name": "Gemp",
+        "first_name": "Kseniya"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828013M",
+    "title": "Mirovoe khozyaistvo",
+    "city": "Moskva",
+    "publisher": "Nauka",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 10,
+    "adding_date": "2008-03-01",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4338251A",
+        "last_name": "S. Shiryaev",
+        "first_name": "Yu."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828014M",
+    "title": "Atomnaya teplofikatsiya v raionakh Severa",
+    "city": "Leningrad",
+    "publisher": "Nauka, Leningradskoe otd-nie",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 100,
+    "adding_date": "2006-11-17",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406049A",
+        "last_name": "R. Stepanov",
+        "first_name": "I."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828015M",
+    "title": "Partiinoe rukovodstvo professional'no-tekhnicheskim obrazovaniem v period razvitogo sotsializma",
+    "city": "Voronezh",
+    "publisher": "Izd-vo Voronezhskogo universiteta",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 30,
+    "adding_date": "2014-03-07",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406050A",
+        "last_name": "A. Lyntykh",
+        "first_name": "A."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828016M",
+    "title": "Drevnerusskie perevody knigi psalmov",
+    "city": "Tbilisi",
+    "publisher": "Metsniereba",
+    "year": 1979,
+    "subject": "Bible. -- O.T. -- Psalms.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "geo",
+    "days_keep_count": 50,
+    "adding_date": "2008-06-17",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4385407A",
+        "last_name": "Mzekala Shanidze",
+        "first_name": "Izdala"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828017M",
+    "title": "Obshchestvo i inzhener",
+    "city": "Leningrad",
+    "publisher": "Izd-vo Leningradskogo universiteta",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 100,
+    "adding_date": "2003-05-11",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1280480A",
+        "last_name": "A. Shapovalov",
+        "first_name": "E."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828018M",
+    "title": "Zakon narodonaseleniya pri sotsializme",
+    "city": "Moskva",
+    "publisher": "Nauka",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 50,
+    "adding_date": "2008-06-29",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406051A",
+        "last_name": "V. Pankrat'eva",
+        "first_name": "N."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828019M",
+    "title": "Bedstvie s golubyami",
+    "city": "Moskva",
+    "publisher": "Sov. pisatel'",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 10,
+    "adding_date": "2015-07-01",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4338334A",
+        "last_name": "Soloukhin",
+        "first_name": "Vladimir"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1382801M",
+    "title": "Shāhī maḥal",
+    "city": "Lāhaur",
+    "publisher": "Fikshan Hāʼūs",
+    "year": 1992,
+    "subject": "Mogul Empire -- History",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 232,
+    "lang": "urd",
+    "days_keep_count": 30,
+    "adding_date": "2014-10-15",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL101342A",
+        "last_name": "Mubarak Ali.",
+        "first_name": "Khan,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828020M",
+    "title": "Politekhnicheskoe obrazovanie i proforientatsiya uchashchikhsya v protsesse obucheniya khimii",
+    "city": "Moskva",
+    "publisher": "Prosveshchenie",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 50,
+    "adding_date": "2001-07-04",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406052A",
+        "last_name": "N. Burinskaya",
+        "first_name": "N."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828021M",
+    "title": "Statisticheskii kontrol' i regulirovanie kachestva massovoi produktsii",
+    "city": "Moskva",
+    "publisher": "Mashinostroenie",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 100,
+    "adding_date": "2012-09-05",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4395823A",
+        "last_name": "P. Balashov",
+        "first_name": "E."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828022M",
+    "title": "I.A. Bunin",
+    "city": "Moskva",
+    "publisher": "Khudozh. lit-ra",
+    "year": 1983,
+    "subject": "Bunin, I. A. -- 1870-1953.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 30,
+    "adding_date": "2014-02-11",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406053A",
+        "last_name": "K. Baboreko",
+        "first_name": "A."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828023M",
+    "title": "Natsional'nye informatsionnye resursy",
+    "city": "Moskva",
+    "publisher": "Nauka",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 10,
+    "adding_date": "2016-07-09",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL599268A",
+        "last_name": "R. Gromov",
+        "first_name": "G."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828024M",
+    "title": "Effektivnost' i kachestvo raboty v reproizvodstvennoi sfere",
+    "city": "Moskva",
+    "publisher": "Ekonomika",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 30,
+    "adding_date": "2004-08-07",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406054A",
+        "last_name": "I. Yakobson",
+        "first_name": "L."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828025M",
+    "title": "M. Gor'kii i Iv. Bunin",
+    "city": "Leningrad",
+    "publisher": "Sov.pisatel', Leningradskoe otd-nie",
+    "year": 1984,
+    "subject": "Gor'kii , Maksim, -- 1868-1936.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 50,
+    "adding_date": "2011-03-16",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406055A",
+        "last_name": "A. Ninov",
+        "first_name": "A."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828026M",
+    "title": "Vneshnyaya politika KPSS i sovetskogo gosudarstva v 1917-1921 gg. i ee burzhuaznye fal'sifikatory",
+    "city": "Leningrad",
+    "publisher": "Izd-vo Leningradskogo universiteta",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 100,
+    "adding_date": "2015-02-09",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1280583A",
+        "last_name": "G. Andreev",
+        "first_name": "A."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828027M",
+    "title": "Problemy ekonomiki stroitel'stva zapadno-sibirskogo neftegazovogo kompleksa",
+    "city": "Moskva",
+    "publisher": "Nedra",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 200,
+    "adding_date": "2010-07-12",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406056A",
+        "last_name": "Ya Voznyak",
+        "first_name": "V."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828028M",
+    "title": "Rossiiskie monopolii",
+    "city": "Moskva",
+    "publisher": "Izd-vo Moskovskogouniversiteta",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 10,
+    "adding_date": "2008-08-03",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1379749A",
+        "last_name": "R. Naumova",
+        "first_name": "G."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828029M",
+    "title": "Poiski istiny",
+    "city": "Moskva",
+    "publisher": "Molodaya gvardiya",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 10,
+    "adding_date": "2008-08-17",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406057A",
+        "last_name": "Migdal",
+        "first_name": "A."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1382802M",
+    "title": "Da Afghānistān da Bayāwadānūlo Idārah, \"Rafāh\"",
+    "city": "[Peshawar]",
+    "publisher": "Da Afghānistān da Bayāwadānūlo Idārah, Rafā",
+    "year": 1991,
+    "subject": "Reconstruction Authority for Afghanistan.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 68,
+    "lang": "pus",
+    "days_keep_count": 200,
+    "adding_date": "2009-06-24",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL704503A",
+        "last_name": "Aʻẓam",
+        "first_name": "Fārūq"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828030M",
+    "title": "Ternistyi put' k izobiliyu",
+    "city": "Moskva",
+    "publisher": "Sov. pisatel'",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 200,
+    "adding_date": "2011-01-15",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406058A",
+        "last_name": "Lisichkin",
+        "first_name": "Gennadii"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828031M",
+    "title": "Za leninskuyu natsional'nuyu politiku v Kazakhstane",
+    "city": "Alma-Ata",
+    "publisher": "Kraevoe izd-vo OGIZa v Kazakhstane",
+    "year": 1932,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 10,
+    "adding_date": "2003-07-28",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406059A",
+        "last_name": "Kuramysov",
+        "first_name": "I."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828032M",
+    "title": "Ispol'zovanie ekonomicheskikh zakonov v upravlenii sotsialisticheskim proizvodstvom",
+    "city": "Leningrad",
+    "publisher": "Izd-vo Leningradskogo universiteta",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 100,
+    "adding_date": "2013-02-20",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1272453A",
+        "last_name": "A. Nagdiev",
+        "first_name": "S."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828033M",
+    "title": "Stikhotvoreniya",
+    "city": "Leningrad",
+    "publisher": "Sov. pisatel'",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 10,
+    "adding_date": "2004-08-23",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406060A",
+        "last_name": "Tabidze",
+        "first_name": "Galaktion"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828034M",
+    "title": "Naselenie i zanyatost'",
+    "city": "Moskva",
+    "publisher": "Finansy i statistika",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 10,
+    "adding_date": "2011-09-29",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL608299A",
+        "last_name": "B. Breeva",
+        "first_name": "E."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828035M",
+    "title": "Narodnokhozyaistvennyi agropromyshlennyi kompleks Turkmenskoi SSR",
+    "city": "Ashkhabad",
+    "publisher": "Ylym",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 30,
+    "adding_date": "2003-07-20",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1153337A",
+        "last_name": "Ataev",
+        "first_name": "M."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828036M",
+    "title": "Sem'ya, obshchestvo",
+    "city": "Kishinev",
+    "publisher": "Shtiintsa",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 100,
+    "adding_date": "2009-04-22",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4385545A",
+        "last_name": "M. Zagorodnaya",
+        "first_name": "E."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828037M",
+    "title": "Metody sovershenstvovaniya mashin i sovremennye problemy mashinovedeniya",
+    "city": "Moskva",
+    "publisher": "Mashinostroenie",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 100,
+    "adding_date": "2003-08-29",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4339482A",
+        "last_name": "V. Frolov",
+        "first_name": "K."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828038M",
+    "title": "Analiz ekonomiki promyshlennogo proizvodstva",
+    "city": "Moskva",
+    "publisher": "Vysshaya shkola",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 50,
+    "adding_date": "2007-10-29",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4376241A",
+        "last_name": "D. Sheremet",
+        "first_name": "A."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828039M",
+    "title": "Vernost'",
+    "city": "Moskva",
+    "publisher": "Politizdat",
+    "year": 1984,
+    "subject": "Karbyshev, Dmitrii Mikhailovich.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 10,
+    "adding_date": "2011-07-01",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406061A",
+        "last_name": "D. Davydov",
+        "first_name": "Lev"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1382803M",
+    "title": "Brāhuī Urdū bol cāl",
+    "city": "Koʼiṭah, Pākistān",
+    "publisher": "Brāhūʼī Adabī Sosāʼiṭī",
+    "year": 1991,
+    "subject": "Brahui language -- Conversation and phrase books -- Urdu.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 70,
+    "lang": "dra",
+    "days_keep_count": 50,
+    "adding_date": "2007-05-10",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL704504A",
+        "last_name": "Shāhvānī",
+        "first_name": "Nādir"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828040M",
+    "title": "Intensifikatsiya sel'skokhozyaistvennogo proizvodstva i povyshenie urovnya zhizni sel'skogonaseleniy",
+    "city": "Frunze",
+    "publisher": "Ilim",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 10,
+    "adding_date": "2003-05-23",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1284275A",
+        "last_name": "B. Kalmanbetova",
+        "first_name": "B."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828041M",
+    "title": "Belomorskii Sever",
+    "city": "Arkhangel'sk",
+    "publisher": "Severo-Zapadnoe knizh. izd-vo.",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 100,
+    "adding_date": "2004-11-26",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406062A",
+        "last_name": "A. Zaitsev",
+        "first_name": "V."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828042M",
+    "title": "Optimizatsiya perspektivnogo planirovaniya",
+    "city": "Moskva",
+    "publisher": "Nauka",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 200,
+    "adding_date": "2002-07-05",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4336933A",
+        "last_name": "G. Mednitskii",
+        "first_name": "V."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828043M",
+    "title": "Stilisticheski okrashennaya leksika russkogo yazyka",
+    "city": "Moskva",
+    "publisher": "Nauka",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 200,
+    "adding_date": "2000-01-05",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1265626A",
+        "last_name": "F. Petrishcheva",
+        "first_name": "E."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828044M",
+    "title": "Sotsial'no-psikhologicheskie faktory upravleniya kollektivom",
+    "city": "Erevan",
+    "publisher": "Aiastan",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 100,
+    "adding_date": "2003-04-09",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406063A",
+        "last_name": "S. Kotandzhyan",
+        "first_name": "G."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828045M",
+    "title": "Ob umstvennom vospitanii",
+    "city": "Kiev",
+    "publisher": "Radyans'ka shkola",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 10,
+    "adding_date": "2014-12-07",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4338158A",
+        "last_name": "A. Sukhomlinskii",
+        "first_name": "V."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828046M",
+    "title": "Territorial'nye kompleksnye programmy",
+    "city": "Leningrad",
+    "publisher": "Izd-vo Leningradskogo universiteta",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 10,
+    "adding_date": "2003-08-02",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL786325A",
+        "last_name": "I. Chistobaev",
+        "first_name": "A."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828047M",
+    "title": "Vospitatel'naya i obrazovatel'naya funktsiya otsenki ucheniya shkol'nikov",
+    "city": "Moskva",
+    "publisher": "Pedagogika",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 30,
+    "adding_date": "2010-12-04",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL198888A",
+        "last_name": "Sh. A.",
+        "first_name": "Amonashvili,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828048M",
+    "title": "Ekonomicheskie problemy sotsialisticheskogo sorevnovaniya",
+    "city": "Riga",
+    "publisher": "Zinatne",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 100,
+    "adding_date": "2007-04-27",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1278125A",
+        "last_name": "A. Bazhenova",
+        "first_name": "L."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828049M",
+    "title": "Mir Pushkina v ego risunkakh, 1820-e gody",
+    "city": "Moskva",
+    "publisher": "Moskovskii rabochii",
+    "year": 1983,
+    "subject": "Pushkin, A. S. -- 1799-1837.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 100,
+    "adding_date": "2009-01-03",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406064A",
+        "last_name": "Kertselli",
+        "first_name": "Larisa"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1382804M",
+    "title": "Islāmik varlḍ ārḍar",
+    "city": "Lāhaur",
+    "publisher": "Maktabah al-Quraish",
+    "year": 1992,
+    "subject": "Islam and world politics.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 256,
+    "lang": "urd",
+    "days_keep_count": 100,
+    "adding_date": "2013-08-11",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL101350A",
+        "last_name": "Salīm Shaik̲h̲",
+        "first_name": "Asad"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828050M",
+    "title": "Gorod masterov",
+    "city": "Moskva",
+    "publisher": "Pedagogika",
+    "year": 1984,
+    "subject": "Leningradskii Dvorets pionerov im. A.A. Zhdanova. -- Teatr yunosheskogo tvorchestva.",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 200,
+    "adding_date": "2005-04-21",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406065A",
+        "last_name": "Yu Sazonov",
+        "first_name": "E."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828051M",
+    "title": "Pugachev i ego soobshchniki",
+    "city": "Zug",
+    "publisher": "Inter Documentation",
+    "year": 1982,
+    "subject": "Catherine -- II, -- Empress of Russia, -- 1729-1796.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 29,
+    "lang": "rus",
+    "days_keep_count": 100,
+    "adding_date": "2001-06-30",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2389333A",
+        "last_name": "F. Dubrovin",
+        "first_name": "N."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828052M",
+    "title": "Slitno ili razdelno?",
+    "city": "Moskva",
+    "publisher": "Russkii yazyk",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 30,
+    "adding_date": "2000-11-22",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL46089A",
+        "last_name": "Z. Bukchina",
+        "first_name": "B."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828053M",
+    "title": "Kholopstvo v pervoi polovine XVIII v.",
+    "city": "Leningrad",
+    "publisher": "Nauka, Leningradskoe otd-nie",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 50,
+    "adding_date": "2010-01-10",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406067A",
+        "last_name": "M. Paneyakh",
+        "first_name": "V."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828054M",
+    "title": "Marksistsko-leninskaya teoriya natsii i sovremennost'",
+    "city": "Moskva",
+    "publisher": "Politizdat",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 50,
+    "adding_date": "2010-03-12",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4392981A",
+        "last_name": "T. Kaltakhchyan",
+        "first_name": "S."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828055M",
+    "title": "Nauchno-tekhnicheskii progress i mineral'no syr'evaya baza",
+    "city": "Moskva",
+    "publisher": "[s.n.]",
+    "year": 1981,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 100,
+    "adding_date": "2000-04-21",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL913001A",
+        "last_name": "A. Arbatov",
+        "first_name": "A."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828056M",
+    "title": "Tsarstvo bozhie vnutri vas ili",
+    "city": "New York",
+    "publisher": "Russkoe literaturnoe izd-vo",
+    "year": 1919,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 100,
+    "adding_date": "2003-12-28",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1025187A",
+        "last_name": "Technologies Conference (1987 Montréal, Québec)",
+        "first_name": "Biomedical"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828057M",
+    "title": "Materialoemkost'",
+    "city": "Minsk",
+    "publisher": "Nauka i tekhnika",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 200,
+    "adding_date": "2005-12-28",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4336988A",
+        "last_name": "A. Mikhailova-Stanyuta",
+        "first_name": "I."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828058M",
+    "title": "Ekonomicheskoe obosnovanie tempov nauchno-tekhnicheskogo progressa",
+    "city": "Leningrad",
+    "publisher": "Izd-vo Leningradskogo universiteta",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 30,
+    "adding_date": "2013-03-23",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4396056A",
+        "last_name": "V. Valdaitsev",
+        "first_name": "S."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828059M",
+    "title": "Sovershenstvovanie organizatsii truda rabochikh v khimicheskoi promyshlennosti",
+    "city": "Moskva",
+    "publisher": "Khimiya",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 30,
+    "adding_date": "2006-06-06",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1094727A",
+        "last_name": "G. Bazukin",
+        "first_name": "P."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1382805M",
+    "title": "Afkār o ḥavādis̲",
+    "city": "Lāhaur",
+    "publisher": "Mag̲h̲ribī Pākistān Urdū Ikaiḍamī",
+    "year": 1991,
+    "subject": "Urdu wit and humor",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "urd",
+    "days_keep_count": 10,
+    "adding_date": "2005-07-02",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3902A",
+        "last_name": "Sālik",
+        "first_name": "ʻAbdulmajīd"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828060M",
+    "title": "Vospitanie podrostkov v sportivnom kollektive",
+    "city": "Moskva",
+    "publisher": "Fizkul'tura i sport",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 30,
+    "adding_date": "2016-10-10",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406068A",
+        "last_name": "I. Zotov",
+        "first_name": "Yu."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828061M",
+    "title": "Istoricheskaya missiya sotsialisticheskogo obshchestva",
+    "city": "Moskva",
+    "publisher": "Politizdat",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 200,
+    "adding_date": "2008-08-15",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4404009A",
+        "last_name": "Zagladin",
+        "first_name": "V."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828062M",
+    "title": "O gosudarstvennom byudzhete SSSR na 1984 god i ob ispolnenii gosudarstvennogo byudzheta SSSR za 1982",
+    "city": "Moskva",
+    "publisher": "Politizdat",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 30,
+    "adding_date": "2010-07-28",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4368413A",
+        "last_name": "F. Garbuzov",
+        "first_name": "V."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828063M",
+    "title": "Osnovaniya prekrashcheniya trudovogo dogovora",
+    "city": "Moskva",
+    "publisher": "[s.n.]",
+    "year": 1982,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 10,
+    "adding_date": "2014-01-23",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL366873A",
+        "last_name": "N. Gusov",
+        "first_name": "K."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828064M",
+    "title": "Plemena Dnestrovsko-Prutskogo mezhdurech'ya v period rastsveta tripol'skoi kul'tury",
+    "city": "Kishinev",
+    "publisher": "Shtiintsa",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 50,
+    "adding_date": "2001-02-07",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1258881A",
+        "last_name": "M. Vinogradova",
+        "first_name": "N."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828065M",
+    "title": "Drachuny",
+    "city": "Moskva",
+    "publisher": "Molodaya gvardiya",
+    "year": 1982,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 100,
+    "adding_date": "2006-06-25",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL59603A",
+        "last_name": "Nikolaevich Alekseev",
+        "first_name": "Mikhail"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828066M",
+    "title": "Ekonomika elektronnoi promyshlennosti",
+    "city": "Moskva",
+    "publisher": "Vysshaya shkola",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 100,
+    "adding_date": "2002-07-23",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1156385A",
+        "last_name": "M. Stukolov",
+        "first_name": "P."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828067M",
+    "title": "Gorod-geroi Novorossiisk",
+    "city": "Moskva",
+    "publisher": "Mysl'",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 100,
+    "adding_date": "2005-03-25",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406069A",
+        "last_name": "D. Zhurkin",
+        "first_name": "Yu."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828068M",
+    "title": "Kachestvo uslug i kul'tura obsluzhivaniya naseleniya",
+    "city": "Moskva",
+    "publisher": "Legkaya i pishchevaya promyshl.",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 200,
+    "adding_date": "2015-08-16",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406070A",
+        "last_name": "A. Barkan",
+        "first_name": "N."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828069M",
+    "title": "Geografiya infrastruktury",
+    "city": "Kiev",
+    "publisher": "Vyshcha shkola",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 100,
+    "adding_date": "2011-09-04",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL792254A",
+        "last_name": "F. Golikov",
+        "first_name": "N."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1382806M",
+    "title": "Nādirāt-i G̲h̲ālib",
+    "city": "Karācī",
+    "publisher": "Idārah-yi Nādirāt",
+    "year": 1992,
+    "subject": "Ghalib, Mirza Asadullah Khan, 1797-1869.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 320,
+    "lang": "urd",
+    "days_keep_count": 200,
+    "adding_date": "2009-06-20",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL704505A",
+        "last_name": "Āfāq Ḥusain Āfāq Dihlavī",
+        "first_name": "Sayyid"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828070M",
+    "title": "Modelirovanie tselevykh stroitel'nykh kompleksov",
+    "city": "Novosibirsk",
+    "publisher": "Nauka, Sibirskoe otd-nie",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 100,
+    "adding_date": "2003-01-07",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL417068A",
+        "last_name": "B. Kibalov",
+        "first_name": "E."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828071M",
+    "title": "Lesnaya kapel'",
+    "city": "Moskva",
+    "publisher": "Khudozh. lit-ra",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2006-10-21",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4332895A",
+        "last_name": "M. Prishvin",
+        "first_name": "M."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828072M",
+    "title": "Sebestoimost' v sisteme upravleniya otrasl'yu",
+    "city": "Moskva",
+    "publisher": "Ekonomika",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 50,
+    "adding_date": "2010-08-14",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4369366A",
+        "last_name": "F. Aksenenko",
+        "first_name": "A."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828073M",
+    "title": "Tekhnicheskii progress i uchet osnovnykh fondov",
+    "city": "Minsk",
+    "publisher": "Vysheishaya shkola",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 30,
+    "adding_date": "2007-03-27",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406071A",
+        "last_name": "I. Shul'man",
+        "first_name": "S."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828074M",
+    "title": "Istoriya slavyanskikh i balkanskikh nazvanii metallov",
+    "city": "Moskva",
+    "publisher": "Nauka",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 200,
+    "adding_date": "2014-09-20",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL195718A",
+        "last_name": "V. V.",
+        "first_name": "Ivanov,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828075M",
+    "title": "Istoriya gosudarstvennykh uchrezhdenii dorevolyutsionnoi Rossii.",
+    "city": "Moskva",
+    "publisher": "Vysshaya shkola",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 200,
+    "adding_date": "2001-01-04",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4385869A",
+        "last_name": "P. Eroshkin",
+        "first_name": "N."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828076M",
+    "title": "Vnedrenie rekomendatsii pedagogiicheskoi nauki v praktiku",
+    "city": "Moskva",
+    "publisher": "Pedagogika",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 30,
+    "adding_date": "2012-10-09",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1264287A",
+        "last_name": "I. Kartashov",
+        "first_name": "P."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828077M",
+    "title": "Ekonomika avtomatizatsii upravleniya proizvodstvom v gazovoi promyshlennosti",
+    "city": "Moskva",
+    "publisher": "Nedra",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 100,
+    "adding_date": "2014-12-10",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1275928A",
+        "last_name": "D. Promyslov",
+        "first_name": "B."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828078M",
+    "title": "Pervaya krest'yanskaya voina v Rossii",
+    "city": "Smolensk",
+    "publisher": "[s.n.]",
+    "year": 1967,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 50,
+    "adding_date": "2002-03-09",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4404022A",
+        "last_name": "P. Makovskii",
+        "first_name": "D."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828079M",
+    "title": "Resheniya prodovol'stvennoi problemy v SSSR",
+    "city": "Moskva",
+    "publisher": "Mysl'",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 50,
+    "adding_date": "2016-09-15",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4351458A",
+        "last_name": "Ya Kuznetsov",
+        "first_name": "G."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1382807M",
+    "title": "Sindhu jī qaumī jidd o jahd ʻain Jī.Em. Sayyidu",
+    "city": "Karācī",
+    "publisher": "Fikr-i Nau Pablishing Hāʼūs",
+    "year": 1992,
+    "subject": "Sayyidu, Jī. Em., 1904-",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 111,
+    "lang": "snd",
+    "days_keep_count": 100,
+    "adding_date": "2013-11-24",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1403255A",
+        "last_name": "Pordié",
+        "first_name": "Laurent"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828080M",
+    "title": "Iz istorii otechestvennogo oruzhiya",
+    "city": "Leningrad",
+    "publisher": "Izd-vo Leningradskogo universiteta",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 200,
+    "adding_date": "2007-11-08",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4369158A",
+        "last_name": "V. Mavrodin",
+        "first_name": "V."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828081M",
+    "title": "Nravy rasteryaevoi ulitsy",
+    "city": "Moskva",
+    "publisher": "Khudozh. lit-ra",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 10,
+    "adding_date": "2007-08-09",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4332705A",
+        "last_name": "I. Uspenskii",
+        "first_name": "G."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828082M",
+    "title": "Nravstvennoe vospitanie shkol'nikov",
+    "city": "Moskva",
+    "publisher": "Prosveshchenie",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 50,
+    "adding_date": "2008-04-16",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4367446A",
+        "last_name": "F. Kharlamov",
+        "first_name": "I."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828083M",
+    "title": "Analiz zatrudnenii v pedagogicheskoi deyatel'nosti nachinayushchikh uchitelei",
+    "city": "Moskva",
+    "publisher": "Pedagogika",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 30,
+    "adding_date": "2002-08-03",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406073A",
+        "last_name": "S. Polyakova",
+        "first_name": "T."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828084M",
+    "title": "Izmerenie i analiz rezuul'tata i effektivnosti stroitel'nogo proizvodstva",
+    "city": "Moskva",
+    "publisher": "Stroiizdat",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 50,
+    "adding_date": "2013-12-03",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL295139A",
+        "last_name": "M. Chistov",
+        "first_name": "L."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828085M",
+    "title": "Demograficheskie problemy i vosproizvodstvo trudovykh resursov",
+    "city": "Erevan",
+    "publisher": "Izd-vo AN Armyanskoi SSR",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 30,
+    "adding_date": "2011-10-27",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406074A",
+        "last_name": "E. Khodzhabekyan",
+        "first_name": "V."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828086M",
+    "title": "Russkii svobodnyi stikh",
+    "city": "Moskva",
+    "publisher": "Sovremennik",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 10,
+    "adding_date": "2008-04-08",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406075A",
+        "last_name": "Ovcharenko",
+        "first_name": "Ol'ga"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828087M",
+    "title": "Stronsii-90 i tsezii-137 v pochvenno-rastitel'nom pokrove Azerbaidzhana",
+    "city": "Moskva",
+    "publisher": "Nauka",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 30,
+    "adding_date": "2001-06-03",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL922410A",
+        "last_name": "A. Aliev",
+        "first_name": "D."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828088M",
+    "title": "Otpuska rabochikh i shizhashchikh",
+    "city": "Moskva",
+    "publisher": "Yurid. lit-ra",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 100,
+    "adding_date": "2005-02-03",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406076A",
+        "last_name": "S. Khokhryakova",
+        "first_name": "O."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828089M",
+    "title": "Doroga na eshafot",
+    "city": "Parizh [Paris]",
+    "publisher": "Tret'ya volna",
+    "year": 1983,
+    "subject": "Vavilov, N. I. -- 1887-1943.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 30,
+    "adding_date": "2000-01-11",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4396166A",
+        "last_name": "Reznik",
+        "first_name": "Semen"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1382808M",
+    "title": "Qāʼid-i Aʻẓam ne kyā kahā?",
+    "city": "Lāhaur",
+    "publisher": "Maktabah-yi Taʻmīr-i Insāniyyat",
+    "year": 1992,
+    "subject": "Jinnah, Mahomed Ali, 1876-1948 -- Quotations",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 136,
+    "lang": "urd",
+    "days_keep_count": 100,
+    "adding_date": "2000-05-06",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL10110A",
+        "last_name": "Ali Jinnah",
+        "first_name": "Mahomed"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828090M",
+    "title": "Prikosnovenie kosmosa",
+    "city": "Moskva",
+    "publisher": "Politizdat",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 200,
+    "adding_date": "2016-04-29",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4368463A",
+        "last_name": "N. Kubasov",
+        "first_name": "V."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828091M",
+    "title": "Shkola i pedagogika za rubezhom",
+    "city": "Moskva",
+    "publisher": "Prosveshchenie",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 10,
+    "adding_date": "2012-06-18",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406077A",
+        "last_name": "A. Mal'kova",
+        "first_name": "Z."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828092M",
+    "title": "Statistika torgovli",
+    "city": "Moskva",
+    "publisher": "Finansy istatistika",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 10,
+    "adding_date": "2008-12-16",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4386550A",
+        "last_name": "K. Belyaevskii",
+        "first_name": "I."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828093M",
+    "title": "Organizatsionno-ekonomicheskie osnovy industrializatsii zhivotnovodstva",
+    "city": "Moskva",
+    "publisher": "Kolos",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 200,
+    "adding_date": "2003-03-26",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406078A",
+        "last_name": "A. Moisa",
+        "first_name": "N."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828094M",
+    "title": "Ekonomicheskaya otsenka i analiz nauchno-tekhnicheskogo progressa v stroitel'stve",
+    "city": "Moskva",
+    "publisher": "Stroiizdat",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 50,
+    "adding_date": "2001-02-08",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1285336A",
+        "last_name": "P. Litovchenko",
+        "first_name": "V."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828095M",
+    "title": "Kachestvennye kharakteristiki naseleniya SSSR",
+    "city": "Moskva",
+    "publisher": "Finansy i statistika",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 200,
+    "adding_date": "2002-03-04",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1095195A",
+        "last_name": "V. Foteeva",
+        "first_name": "E."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828096M",
+    "title": "Kladovaya solntsa",
+    "city": "Yaroslavl'",
+    "publisher": "Verkhne-volzhskoe knizh.izd-vo",
+    "year": 1982,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 50,
+    "adding_date": "2014-12-20",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4332895A",
+        "last_name": "M. Prishvin",
+        "first_name": "M."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828097M",
+    "title": "Administrativno-territorial'noe ustroistvo sovetskogo gosudarstva",
+    "city": "Moskva",
+    "publisher": "Nauka",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 30,
+    "adding_date": "2003-07-12",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1263342A",
+        "last_name": "A. Shafir",
+        "first_name": "M."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828098M",
+    "title": "Raspredelenie po trudu",
+    "city": "Leningrad",
+    "publisher": "Izd-vo Leningradskogo universiteta",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 50,
+    "adding_date": "2006-07-30",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406079A",
+        "last_name": "T. Ryazanov",
+        "first_name": "V."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828099M",
+    "title": "Russkii diplomat vo Frantsii",
+    "city": "Leningrad",
+    "publisher": "Nauka, Leningradskoe otd-nie",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 10,
+    "adding_date": "2015-12-09",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406080A",
+        "last_name": "Matveev",
+        "first_name": "Andrei"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1382809M",
+    "title": "Maʻālī al-himam",
+    "city": "Lāhaur",
+    "publisher": "Naz̲īr Sanz Pablisharz",
+    "year": 1992,
+    "subject": "Sufism -- Early works to 1800.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 160,
+    "lang": "urd",
+    "days_keep_count": 10,
+    "adding_date": "2002-08-08",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL704506A",
+        "last_name": "al-Qāsim Junayd ibn Muḥammad",
+        "first_name": "Abū"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL138280M",
+    "title": "Palenque",
+    "city": "Morelia, Michoacán, México",
+    "publisher": "Instituto Michoacano de Cultura",
+    "year": 1997,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 78,
+    "lang": "spa",
+    "days_keep_count": 100,
+    "adding_date": "2000-08-21",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL91229A",
+        "last_name": "Lara Gómez",
+        "first_name": "Ramón"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828100M",
+    "title": "Stanovlenie i razvitie partiino-gosudarstvennogo kontrolya v Zapadnoi Sibiri (1920-1929gg.)",
+    "city": "Tomsk",
+    "publisher": "Izd-vo Tomskogo universiteta",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 10,
+    "adding_date": "2002-03-10",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL514762A",
+        "last_name": "P. Anashkin",
+        "first_name": "A."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828101M",
+    "title": "Rabochii kontrol' nad proizvodstvom",
+    "city": "Moskva",
+    "publisher": "Nauka",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 50,
+    "adding_date": "2005-10-12",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1265651A",
+        "last_name": "A. Vinogradov",
+        "first_name": "V."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828102M",
+    "title": "Osnovnye etapy razvitiya samoleta",
+    "city": "Moskva",
+    "publisher": "Mashinostroenie",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 30,
+    "adding_date": "2008-08-14",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1275606A",
+        "last_name": "S. Pyshnov",
+        "first_name": "V."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828103M",
+    "title": "Problemy teorii i analiza effektivnosti torgovli",
+    "city": "Kiev",
+    "publisher": "Vyshcha shkola",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 50,
+    "adding_date": "2005-12-30",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4367517A",
+        "last_name": "T. Zhigalov",
+        "first_name": "V."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828104M",
+    "title": "RSDRP i krest'yanstvo v revolyutsii 1905-1907gg.",
+    "city": "Moskva",
+    "publisher": "Politizdat",
+    "year": 1984,
+    "subject": "Rossiiskaya sotsial-demokraticheskaya rabochaya partiya.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 200,
+    "adding_date": "2007-12-13",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406081A",
+        "last_name": "T. Senchakova",
+        "first_name": "L."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828105M",
+    "title": "Formirovanie i ispol'zovanie sel'skokhozyaistvennykh kadrov v regione v usloviyakh nauchno-tekhniche",
+    "city": "Moskva",
+    "publisher": "Nauka",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 200,
+    "adding_date": "2011-07-20",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1284647A",
+        "last_name": "E. Plotnikova",
+        "first_name": "V."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828106M",
+    "title": "Sovershenstvovanie upravleniya proizvodstvom novoi tekhniki",
+    "city": "Moskva",
+    "publisher": "Nauka",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 200,
+    "adding_date": "2007-10-16",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1271140A",
+        "last_name": "L. Semenov",
+        "first_name": "A."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828107M",
+    "title": "Utopicheskii sotsializm ideologov revolyutsionnogo narodnichestva",
+    "city": "Moskva",
+    "publisher": "Izd-vo Moskovskogo universiteta",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 10,
+    "adding_date": "2013-07-15",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1276514A",
+        "last_name": "S. Fedorkin",
+        "first_name": "N."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828108M",
+    "title": "Fiziologicheskie osnovy lokal'nogo primeneniya udobrenii",
+    "city": "Moskva",
+    "publisher": "Nauka",
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 100,
+    "adding_date": "2000-06-03",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1263850A",
+        "last_name": "K. Trapeznikov",
+        "first_name": "V."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13828109M",
+    "title": "Semen Nikolaevich Vankov, 1858-1937",
+    "city": "Moskva",
+    "publisher": "Nauka",
+    "year": 1984,
+    "subject": "Vankov, Semen Nikolaevich.",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 100,
+    "adding_date": "2002-01-18",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4406082A",
+        "last_name": "Ya Chernyak",
+        "first_name": "A."
+      }
+    ]
+  }
+]

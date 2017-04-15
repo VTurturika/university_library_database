@@ -1,0 +1,4407 @@
+[
+  {
+    "openlibrary_id": "/books/OL11813699M",
+    "title": "A View Of Stars",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2007,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 40,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2015-11-30",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3746880A",
+        "last_name": "L. Henderson",
+        "first_name": "Stacy"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1181369M",
+    "title": "Nordiskt seminarium kring statistik om service och omsorger för äldre",
+    "city": "København",
+    "publisher": "Nordisk statistisk sekretariat",
+    "year": 1992,
+    "subject": "Older people -- Services for -- Scandinavia -- Statistics -- Congresses.",
+    "genre": "Congresses.",
+    "periodic_release": null,
+    "page_count": 180,
+    "lang": "swe",
+    "days_keep_count": 100,
+    "adding_date": "2009-10-07",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL617717A",
+        "last_name": "seminarium kring statistik om service och omsorger för äldre (1992 Sigtuna, Sweden)",
+        "first_name": "Nordiskt"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL118136M",
+    "title": "Bullet lease",
+    "city": "Bath, England",
+    "publisher": "Chivers Press",
+    "year": 2000,
+    "subject": "Large type books.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 256,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2003-01-02",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL78954A",
+        "last_name": "B. Newton",
+        "first_name": "D."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813700M",
+    "title": "The Reflection Never Lies",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Gregory Kruger",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 82,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2011-12-09",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754597A",
+        "last_name": "Kruger",
+        "first_name": "Gregory"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813701M",
+    "title": "Jump And The Joy Will Follow",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Mothers and daughters",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 320,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2011-10-08",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL467797A",
+        "last_name": "Nacif",
+        "first_name": "Linda"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813702M",
+    "title": "Cherries Can Be Fun",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2007,
+    "subject": "Juvenile Fiction / People & Places / United States",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 30,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2012-06-01",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3745389A",
+        "last_name": "Donohoe",
+        "first_name": "Suzanne"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813703M",
+    "title": "For Her, From Him",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Fantasy - General",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 64,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2007-11-28",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2623782A",
+        "last_name": "Anonymous",
+        "first_name": "Anonymous"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813704M",
+    "title": "Thorntree",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Alastair Anderson",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 256,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2010-08-01",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754598A",
+        "last_name": "Anderson",
+        "first_name": "Alastair"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813705M",
+    "title": "The Grand Book Of Business Success & Leadership",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Dr. Volkmar G. Hable",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 258,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2000-03-17",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754599A",
+        "last_name": "Volkmar G. Hable",
+        "first_name": "Dr."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813706M",
+    "title": "Accountability...A Noun or a Verb?",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Self-Help",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 142,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2013-10-11",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754600A",
+        "last_name": "L. Cassidy",
+        "first_name": "Richard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813707M",
+    "title": "The Reason for the Rhyme A Matter of Time: Poetry & Short Stories",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2007,
+    "subject": "Dave  Adams",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 178,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2016-05-24",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754601A",
+        "last_name": "Adams",
+        "first_name": "Dave"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813708M",
+    "title": "Operation Capitol Hill",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Ronald P. Wolff",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 296,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2010-06-03",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754602A",
+        "last_name": "P. Wolff",
+        "first_name": "Ronald"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813709M",
+    "title": "Quince and the Three Witches",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Tammy Johnson",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 36,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2016-11-20",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3055939A",
+        "last_name": "Johnson",
+        "first_name": "Tammy"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1181370M",
+    "title": "Le bocage bressuirais dans la guerre de Vendée",
+    "city": "Cholet",
+    "publisher": "Editions J. d'Orcival",
+    "year": 1993,
+    "subject": "Bressuire Region (France) -- History.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 85,
+    "lang": "fre",
+    "days_keep_count": 200,
+    "adding_date": "2012-10-14",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL617718A",
+        "last_name": "Coutant de Saisseval",
+        "first_name": "Guy"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813710M",
+    "title": "Warriors & Noblemen",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "John Whittlejohnwhittle@can.rogers.com604-538-8590",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 558,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2012-10-25",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754603A",
+        "last_name": "Whittle",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813711M",
+    "title": "The Guardian of Heaven",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Mark H. Barratt",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 286,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2010-09-18",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754604A",
+        "last_name": "H. Barratt",
+        "first_name": "Mark"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813712M",
+    "title": "You Are Here On the Earth to Enjoy Everything",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Daniel Neusom",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 108,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2004-01-06",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754605A",
+        "last_name": "Neusom",
+        "first_name": "Daniel"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813713M",
+    "title": "My Sister, My Enemy",
+    "city": null,
+    "publisher": "Booksurge Llc",
+    "year": 2005,
+    "subject": "Religious - General",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 404,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2005-05-21",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3745827A",
+        "last_name": "Copen Branham",
+        "first_name": "Wanda"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813714M",
+    "title": "Mr. Hunter and The Templars",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Mary E. Summers, Knights Templar, mystery, Scotland, Freemason, Victorian, detective, clans, Roslyn, Roslin, Rosslyn, Holy Grail",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 292,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2003-09-18",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754606A",
+        "last_name": "E. Summers",
+        "first_name": "Mary"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813715M",
+    "title": "Why You Exist",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2007,
+    "subject": "Peter Olufemi Olugbenro",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 174,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2006-02-21",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754607A",
+        "last_name": "Olufemi Olugbenro",
+        "first_name": "Peter"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813716M",
+    "title": "The Quest for the Amberti Scroll",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Roger P. Myers",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 432,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2010-11-25",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3472589A",
+        "last_name": "P. Myers",
+        "first_name": "Roger"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813717M",
+    "title": "Adventures in the Security Service",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Edward Michel-Bird",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 310,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2010-09-28",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1417280A",
+        "last_name": "Michel-Bird",
+        "first_name": "Edward"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813718M",
+    "title": "The Family Reunion On Paper Journal",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 250,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2011-10-24",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754608A",
+        "last_name": "E. Yarrington",
+        "first_name": "Dalva"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813719M",
+    "title": "Middle Andzia",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 346,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2001-12-30",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754609A",
+        "last_name": "Meisels Rosen",
+        "first_name": "Anda"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1181371M",
+    "title": "Anatolikē ēthikē kai dytikē technikē",
+    "city": "Athēna",
+    "publisher": "Ekdoseis M.P. Grēgorē",
+    "year": 1993,
+    "subject": "Technology -- Religious aspects -- Christianity.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 134,
+    "lang": "gre",
+    "days_keep_count": 30,
+    "adding_date": "2002-06-07",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL79365A",
+        "last_name": "P. Begzos",
+        "first_name": "Marios"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813720M",
+    "title": "Two Coins in the Fountain",
+    "city": null,
+    "publisher": "Booksurge Llc",
+    "year": 2005,
+    "subject": "Fantasy - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 132,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2013-05-18",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754610A",
+        "last_name": "Smythies Smythies",
+        "first_name": "John"
+      },
+      {
+        "openlibrary_id": "/authors/OL3754611A",
+        "last_name": "Smythies",
+        "first_name": "Vanna"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813721M",
+    "title": "Worth Far More Than Rubies",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Dafina L. Stewart",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 150,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2001-04-21",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754612A",
+        "last_name": "L. Stewart",
+        "first_name": "Dafina"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813722M",
+    "title": "The Receivers",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "R. A. Bumgardner, supernatural, paranormal, ESP, psychic, spirit, political, telepathy, mind, lesbian, seance, medium, clairvoyant, dream, mystic, environment, ghost, gender, discrimination, electrons, afterlife, poltergeist, manifestations, philosophy",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 248,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2006-07-24",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754613A",
+        "last_name": "A. Bumgardner",
+        "first_name": "R."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813723M",
+    "title": "A Broken Child",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Juliann Petruccelli<br> illustrated by Agnes V. Mojsa and Christopher Petruccelli",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 58,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2003-03-29",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754614A",
+        "last_name": "Petruccelli&lt;br&gt; illustrated by Agnes V. Mojsa and Christopher Petruccelli",
+        "first_name": "Juliann"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813724M",
+    "title": "match or CON?",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Gloria Morgan",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 74,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2011-05-02",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754615A",
+        "last_name": "Morgan",
+        "first_name": "Gloria"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813725M",
+    "title": "America's Suicidal Statecraft",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "James Cumes",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 654,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2003-07-31",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754616A",
+        "last_name": "Cumes",
+        "first_name": "James"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813726M",
+    "title": "The Lost City of Ubar",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Tom Hoopes",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 60,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2003-05-30",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3753832A",
+        "last_name": "Hoopes",
+        "first_name": "Tom"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813727M",
+    "title": "DANZA DE CABEZAS PODRIDAS",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Juan Trigos",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 584,
+    "lang": "spa",
+    "days_keep_count": 200,
+    "adding_date": "2000-08-24",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL70966A",
+        "last_name": "Trigos",
+        "first_name": "Juan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813728M",
+    "title": "YO DIGO QUE SOY YO, PERO QUIÉN SABE",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Juan Trigos",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 684,
+    "lang": "spa",
+    "days_keep_count": 30,
+    "adding_date": "2016-11-06",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL70966A",
+        "last_name": "Trigos",
+        "first_name": "Juan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813729M",
+    "title": "How To Not Be Left Behind",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Religious - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 156,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2014-07-04",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2718184A",
+        "last_name": "Lindsay",
+        "first_name": "Lee"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1181372M",
+    "title": "Teksty ustaw do nauki prawa finansowego",
+    "city": "Wrocław",
+    "publisher": "Wydawn. Uniwersytetu Wrocławskiego",
+    "year": 1993,
+    "subject": "Budget -- Law and legislation -- Poland",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 255,
+    "lang": "pol",
+    "days_keep_count": 50,
+    "adding_date": "2003-02-09",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL17120A",
+        "last_name": "Poland.",
+        "first_name": "Poland."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813730M",
+    "title": "All is Beautiful in Raphaela's Garden",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Eilzabeth McNamara",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 30,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2012-05-02",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754617A",
+        "last_name": "McNamara",
+        "first_name": "Eilzabeth"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813731M",
+    "title": "Barton Slade - The Last Of A Breed",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "S. Bryant Sterling",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 536,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2007-01-14",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3234115A",
+        "last_name": "Bryant Sterling",
+        "first_name": "S."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813732M",
+    "title": "God's Plan For The Family",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Religion",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 294,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2014-01-08",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754618A",
+        "last_name": "William Brock Jr.",
+        "first_name": "Robert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813733M",
+    "title": "Prophezeiung der Apokalypse: Eine Expedition vom Garten Eden zum Neuen Jerusalem:",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Herbert R. Stollorz, Apokalypse, Jesus, Satan, Israel, Juden, Bibel, Got, Gottes Plan, Eden, Jerusalem, Neuen Jerusalem, Himmel, Engel, Antichrist, Daniel, Apostel Johannes, jüdischen Messias, Zivilisation, Sintflut.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 456,
+    "lang": "ger",
+    "days_keep_count": 100,
+    "adding_date": "2004-03-03",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3267817A",
+        "last_name": "R. Stollorz",
+        "first_name": "Herbert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813734M",
+    "title": "Geheimnis des 17. Tammus",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Herbert R. Stollorz, Apokalypse, Jesus, Satan, Israel, Juden, Bibel, Got, Gottes Plan, Eden, Jerusalem, Neuen Jerusalem, Himmel, Engel, Antichrist, Daniel, Apostel Johannes, jüdischen Messias, Zivilisation, Sintflut.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 470,
+    "lang": "ger",
+    "days_keep_count": 50,
+    "adding_date": "2013-09-19",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3267817A",
+        "last_name": "R. Stollorz",
+        "first_name": "Herbert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813735M",
+    "title": "Close To My Heart",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Poetry",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 64,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2009-02-21",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL44375A",
+        "last_name": "Smith",
+        "first_name": "Carol"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813736M",
+    "title": "Alvin the Alligator Learns a Lesson",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2007,
+    "subject": "Elementary",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 24,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2016-03-22",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754619A",
+        "last_name": "Weatherford",
+        "first_name": "Donna"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813737M",
+    "title": "No Escape. . .A novel based on a true story",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2007,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 262,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2001-04-25",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3745908A",
+        "last_name": "L. James",
+        "first_name": "Karlon"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813738M",
+    "title": "Smoky Mountain Roots",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2007,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 134,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2016-02-17",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3747214A",
+        "last_name": "D. Fortner, Sr.",
+        "first_name": "Ray"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813739M",
+    "title": "And He Chose Them",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2007,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 158,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2013-03-04",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3746732A",
+        "last_name": "John Casso",
+        "first_name": "Christopher"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1181373M",
+    "title": "Ocupación y control del espacio por las sociedades indígenas de la frontera sur de Argentina (sigl",
+    "city": "Bahia Blanca",
+    "publisher": "Universidad Nacional del Sur, Departamento de Humanidades",
+    "year": 1993,
+    "subject": "Indians of South America -- Land tenure -- Argentina.",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 27,
+    "lang": "spa",
+    "days_keep_count": 100,
+    "adding_date": "2016-12-12",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL617719A",
+        "last_name": "Villar",
+        "first_name": "Daniel"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813740M",
+    "title": "The Adventures of the Lab Explorers:",
+    "city": null,
+    "publisher": "Booksurge Llc",
+    "year": 2007,
+    "subject": "Deborah Brock",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 24,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2009-08-17",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3745825A",
+        "last_name": "Brock",
+        "first_name": "Deborah"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813741M",
+    "title": "Moise Tshombe - visionnaire assassine",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Kayemb Uriel Nawej",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 262,
+    "lang": "fre",
+    "days_keep_count": 200,
+    "adding_date": "2012-06-23",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754620A",
+        "last_name": "Uriel Nawej",
+        "first_name": "Kayemb"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813742M",
+    "title": "Living The Lessons",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Education / Decision-Making & Problem Solving",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 545,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2006-09-08",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754621A",
+        "last_name": "LaField",
+        "first_name": "Olivia"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813743M",
+    "title": "Voices of Hell's Kitchen",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 150,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2003-11-19",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754622A",
+        "last_name": "V. Amodeo",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813744M",
+    "title": "Pass It Along",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Harold D. Jester",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 190,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2016-01-26",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL772813A",
+        "last_name": "D. Jester",
+        "first_name": "Harold"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813745M",
+    "title": "A Life in the Game",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "ninja, sex, computer games, rape",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 200,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2009-08-01",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754623A",
+        "last_name": "Lake",
+        "first_name": "Dana"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813746M",
+    "title": "Sleepy's Revenge",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Bev Currie",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 122,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2004-01-06",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754624A",
+        "last_name": "Currie",
+        "first_name": "Bev"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813747M",
+    "title": "ROGER and HIS TOYS",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2007,
+    "subject": "Tricia-Maria Hovell",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 24,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2003-02-12",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754625A",
+        "last_name": "Hovell",
+        "first_name": "Tricia-Maria"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813748M",
+    "title": "Black Seraph",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "SEAN DAVID MORTON, WAYNE E. HALEY BLACK SERAPH TERRORIST MADONNA BOMB FERRY JEW ASSASSIN VATICAN POPE ARCHBISHOP ANGEL GUN SUSPENSE MYSTERY THRILLER MUSLIM BUSINESS FEAR JEWISH FLOWERSHOP FATHER PRIEST RELIGION GOD INTERNATIONAL CONFLICT CONSPIRACY ANTHRA",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 198,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2015-08-16",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754626A",
+        "last_name": "DAVID MORTON & WAYNE E. HALEY",
+        "first_name": "SEAN"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813749M",
+    "title": "The Check Mark Journal",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2007,
+    "subject": "Timothy Brian Kirk",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 190,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2002-04-24",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754627A",
+        "last_name": "Brian Kirk",
+        "first_name": "Timothy"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1181374M",
+    "title": "Katalog der Bibliothek Jakob Ignaz Hittorff",
+    "city": "Köln",
+    "publisher": "Universitäts- und Stadtbibliothek Köln",
+    "year": 1993,
+    "subject": "Hittorff, Jacques Ignace, 1792-1867 -- Library -- Catalogs.",
+    "genre": "Catalogs.",
+    "periodic_release": null,
+    "page_count": 125,
+    "lang": "ger",
+    "days_keep_count": 50,
+    "adding_date": "2014-02-21",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL413535A",
+        "last_name": "Ignace Hittorff",
+        "first_name": "Jacques"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813750M",
+    "title": "Vatican Conspiracy Theory",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2007,
+    "subject": "Eric Bepots",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 218,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2002-09-07",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754628A",
+        "last_name": "Bepots",
+        "first_name": "Eric"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813751M",
+    "title": "The Third Rail",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Jill Winkowski",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 132,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2013-07-25",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754629A",
+        "last_name": "Winkowski",
+        "first_name": "Jill"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813752M",
+    "title": "Hurricane Proof",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Alan Georges",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 120,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2013-02-02",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754630A",
+        "last_name": "Georges",
+        "first_name": "Alan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813753M",
+    "title": "Bohemian Blood Bank",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "D.H. Theile",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 228,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2006-12-28",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754631A",
+        "last_name": "Theile",
+        "first_name": "D.H."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813754M",
+    "title": "FUCK THE NAVY....FUCK THE SYSTEM",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "MARK MOREMONEY",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 116,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2014-04-05",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754632A",
+        "last_name": "MOREMONEY",
+        "first_name": "MARK"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813755M",
+    "title": "Constipation Causes & Cure",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Dr. Anand  Dhingra",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 84,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2013-05-10",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754633A",
+        "last_name": "Anand Dhingra",
+        "first_name": "Dr."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813756M",
+    "title": "Helicopter Hangar Talk True Stories",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Men's Adventure",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 94,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2007-06-19",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754634A",
+        "last_name": "A. Reynolds",
+        "first_name": "Jerry"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813757M",
+    "title": "Medical Profiles",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2007,
+    "subject": "Medical History & Records",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 46,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2011-05-08",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754635A",
+        "last_name": "DeVore",
+        "first_name": "Sharon"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813758M",
+    "title": "The Democrats' New Path",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Wayne LeMieux",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 294,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2009-12-31",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754636A",
+        "last_name": "LeMieux",
+        "first_name": "Wayne"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813759M",
+    "title": "MystOry in the GarDEN of WEErDs",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Kat O9 Tales",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 500,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2010-11-10",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754637A",
+        "last_name": "O9 Tales",
+        "first_name": "Kat"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1181375M",
+    "title": "Un Berruyer à Bourges",
+    "city": "Thonon-les-Bains, Haute-Savoie",
+    "publisher": "Editions de l'Albaron",
+    "year": 1991,
+    "subject": "Bourges (France) in art",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 92,
+    "lang": "fre",
+    "days_keep_count": 10,
+    "adding_date": "2001-05-23",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL617720A",
+        "last_name": "Chaton",
+        "first_name": "Robert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813760M",
+    "title": "The Info Exchange",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "William R. Nelson",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 126,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2011-07-05",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2868933A",
+        "last_name": "R. Nelson",
+        "first_name": "William"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813761M",
+    "title": "Manufacturing Profit",
+    "city": null,
+    "publisher": "Booksurge Llc",
+    "year": 2006,
+    "subject": "Wendell Mueller",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 160,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2015-08-18",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754638A",
+        "last_name": "Mueller",
+        "first_name": "Wendell"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813762M",
+    "title": "Alphabets in Order",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Joyce Pyrtle",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 28,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2004-09-19",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754639A",
+        "last_name": "Pyrtle",
+        "first_name": "Joyce"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813763M",
+    "title": "Destined to Fame",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Alen Sawaya",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 496,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2000-05-10",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1499914A",
+        "last_name": "Sawaya",
+        "first_name": "Alen"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813764M",
+    "title": "\"Tea for Who\"",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Anthony Robert Aikman",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 202,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2008-07-09",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754640A",
+        "last_name": "Robert Aikman",
+        "first_name": "Anthony"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813765M",
+    "title": "The Pender Islands Handbook",
+    "city": null,
+    "publisher": "Booksurge Llc",
+    "year": 2006,
+    "subject": "Richard Fox",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 396,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2010-07-16",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2696127A",
+        "last_name": "Fox",
+        "first_name": "Richard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813766M",
+    "title": "Pigs and Riggs",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2007,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2015-08-13",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754641A",
+        "last_name": "Stilwell",
+        "first_name": "Linda"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813767M",
+    "title": "60 Years an Alcoholic 50 Years Without a Drink",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 416,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2013-01-29",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754642A",
+        "last_name": "Carpenter",
+        "first_name": "Freeman"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813768M",
+    "title": "Tuina Shandong - China Style For Children and Adults",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "tuina, china, massage, alternative medicine, acupuncture",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 140,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2008-10-23",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754643A",
+        "last_name": "Lewitus",
+        "first_name": "Erich"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813769M",
+    "title": "Midnight For Cinderella",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 492,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2014-10-20",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3132710A",
+        "last_name": "Campion",
+        "first_name": "James"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1181376M",
+    "title": "Form and style",
+    "city": "Boston",
+    "publisher": "Houghton Mifflin Co.",
+    "year": 1994,
+    "subject": "Report writing.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 250,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2012-02-13",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL37403A",
+        "last_name": "Slade",
+        "first_name": "Carole"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813770M",
+    "title": "Emerging from The Dungeons of Despair",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2007,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 140,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2015-01-17",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3746712A",
+        "last_name": "Ford",
+        "first_name": "E.W."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813771M",
+    "title": "The Adventures of Brutus and Baby",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2007,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 58,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2015-04-16",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3746854A",
+        "last_name": "Elizabeth Rogers",
+        "first_name": "Michelle"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813772M",
+    "title": "Chronic Crisis",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Selvoy M. Fillerup, MD, MSPH, FACS",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 170,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2003-06-20",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754644A",
+        "last_name": "M. Fillerup, MD, MSPH, FACS",
+        "first_name": "Selvoy"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813773M",
+    "title": "Maximum Influence Advantage",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Joseph R. Plazo",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 156,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2007-12-16",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754645A",
+        "last_name": "R. Plazo",
+        "first_name": "Joseph"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813774M",
+    "title": "Strategies for Building and Managing Your Retirement Dollars",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Jonathan Pyne and Amanda Stang",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 52,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2000-11-18",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754646A",
+        "last_name": "Pyne and Amanda Stang",
+        "first_name": "Jonathan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813775M",
+    "title": "Inoculating your children against Sexual Abuse",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2007,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 116,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2009-10-14",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3746715A",
+        "last_name": "E. Friedman",
+        "first_name": "Norman"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813776M",
+    "title": "War and Peace Between America And China",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2007,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 336,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2011-02-01",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754647A",
+        "last_name": "Kwai, pHD",
+        "first_name": "Terence"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813777M",
+    "title": "Satellite Communications Engineering",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Alex Fares",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 374,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2016-08-16",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2963398A",
+        "last_name": "Fares",
+        "first_name": "Alex"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813778M",
+    "title": "Satellite Communications Engineering",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2007,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 374,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2011-10-05",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2963398A",
+        "last_name": "Fares",
+        "first_name": "Alex"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813779M",
+    "title": "The Touch of Life",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2007,
+    "subject": "Ike Andrews",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 648,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2012-04-15",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754648A",
+        "last_name": "Andrews",
+        "first_name": "Ike"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1181377M",
+    "title": "Crónica de mayo",
+    "city": "Tlaxcala",
+    "publisher": "Gobierno del Estado de Tlaxcala, Consejo Estatal de Cultura",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 77,
+    "lang": "spa",
+    "days_keep_count": 200,
+    "adding_date": "2006-04-16",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL292754A",
+        "last_name": "Manuel",
+        "first_name": "Andrade,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813780M",
+    "title": "Nuclear Green",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Ralph Andrews",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 132,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2000-04-27",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3265873A",
+        "last_name": "Andrews",
+        "first_name": "Ralph"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813781M",
+    "title": "I Wish I Was Never Born",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Belo Lionel Brescia",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 380,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2000-01-09",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3590748A",
+        "last_name": "Lionel Brescia",
+        "first_name": "Belo"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813782M",
+    "title": "Tea in Connemara",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Lewis S. Blevins, Jr., M.D.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 152,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2005-06-23",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754649A",
+        "last_name": "S. Blevins, Jr., M.D.",
+        "first_name": "Lewis"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813783M",
+    "title": "160 Wisdom Keys That Guarantee A Swift Learning And Mastery Of English As A Second Language Volume 1",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Joseph T.M.A. Chime",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 168,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2005-05-03",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754650A",
+        "last_name": "T.M.A. Chime",
+        "first_name": "Joseph"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813784M",
+    "title": "The Last Veterinarian",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2007,
+    "subject": "Biography & Autobiography / General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 222,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2013-11-20",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3746742A",
+        "last_name": "Thayne Short",
+        "first_name": "Dr."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813785M",
+    "title": "Fine Rhyme Storytime",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2007,
+    "subject": "Jacqueline Miller",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 28,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2013-02-16",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754651A",
+        "last_name": "London-Miller",
+        "first_name": "Jacqueline"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813786M",
+    "title": "Colors of Glory",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Short Stories (single author)",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 202,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2015-11-16",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754652A",
+        "last_name": "Deo",
+        "first_name": "Nitin"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813787M",
+    "title": "FAQ About the Nuclear Case  of  Iran",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Dr. Bahman Aghai Diba",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 136,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2015-02-25",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3304850A",
+        "last_name": "Bahman Aghai Diba",
+        "first_name": "Dr."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813788M",
+    "title": "Sense and Non-Sense",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Tory B. Hanlen",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 34,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2014-10-04",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754653A",
+        "last_name": "B. Hanlen",
+        "first_name": "Tory"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813789M",
+    "title": "Renaldo",
+    "city": "USA/Canada",
+    "publisher": "BookSurge Publishing",
+    "year": 2007,
+    "subject": "Modern fiction",
+    "genre": "Historical Fiction",
+    "periodic_release": null,
+    "page_count": 540,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2006-04-10",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3733565A",
+        "last_name": "McCreath",
+        "first_name": "James"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1181378M",
+    "title": "Retreat from injustice",
+    "city": "Leichhardt, NSW",
+    "publisher": "Federation Press",
+    "year": 1994,
+    "subject": "Civil rights -- Australia.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 508,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2005-01-30",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL617721A",
+        "last_name": "O'Neill",
+        "first_name": "Nick"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813790M",
+    "title": "Search For The Grail",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Ken Schmitz",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 176,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2000-02-14",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754654A",
+        "last_name": "Schmitz",
+        "first_name": "Ken"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813791M",
+    "title": "At the Bottom of the Deep Ravine",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Jim Ardoin",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 324,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2012-02-28",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3746311A",
+        "last_name": "Ardoin",
+        "first_name": "Jim"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813792M",
+    "title": "Prosperity Step by Step",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Brad Jensen",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 158,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2016-06-06",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754655A",
+        "last_name": "Jensen",
+        "first_name": "Brad"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813793M",
+    "title": "I Stole Daddy's Toes",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2007,
+    "subject": "Juvenile Fiction / General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 33,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2011-02-02",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754656A",
+        "last_name": "Saunders",
+        "first_name": "Natashia"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813794M",
+    "title": "Sacred Sex",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 190,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2014-10-13",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3745979A",
+        "last_name": "Ramirez",
+        "first_name": "Magdala"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813795M",
+    "title": "With Malice and Forethought",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Fiction / Espionage",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 610,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2005-11-25",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754657A",
+        "last_name": "Meckanic",
+        "first_name": "D."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813796M",
+    "title": "The Happiest Beings Are Nihilists, Part 1",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Mark L. Collins, Phd.www.happynihilist.org",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 628,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2005-10-02",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754658A",
+        "last_name": "L. Collins",
+        "first_name": "Mark"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813797M",
+    "title": "Across This Puddle I Must Go",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Tory B. Hanlen",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 44,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2016-12-18",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754653A",
+        "last_name": "B. Hanlen",
+        "first_name": "Tory"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813798M",
+    "title": "A Dangerous Thing",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Betty Krasne",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 330,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2011-07-21",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754659A",
+        "last_name": "Krasne",
+        "first_name": "Betty"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813799M",
+    "title": "Olin",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "John Everett Johnson",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 278,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2016-12-08",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3588805A",
+        "last_name": "Everett Johnson",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1181379M",
+    "title": "The vampyre ; and, Ernestus Berchtold, or, The modern Oedipus",
+    "city": "Toronto",
+    "publisher": "University of Toronto Press",
+    "year": 1994,
+    "subject": "Horror tales, English.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 197,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2004-10-03",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL617722A",
+        "last_name": "William Polidori",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL118137M",
+    "title": "Last stage West",
+    "city": "Bath, England",
+    "publisher": "Chivers Press",
+    "year": 2000,
+    "subject": "Large type books",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 225,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2015-06-09",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL22356A",
+        "last_name": "Bonham",
+        "first_name": "Frank"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813800M",
+    "title": "High Plains Camelot",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Joe L. Davenport",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 112,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2012-10-10",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3490289A",
+        "last_name": "L. Davenport",
+        "first_name": "Joe"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813801M",
+    "title": "The Roster",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "James E. Pless",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 108,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2016-01-15",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754660A",
+        "last_name": "E. Pless",
+        "first_name": "James"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813802M",
+    "title": "The Other Side of Gettysburg",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2007,
+    "subject": "Francine Milano",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 108,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2000-08-14",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754661A",
+        "last_name": "Milano",
+        "first_name": "Francine"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813803M",
+    "title": "Intruders",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Jeff Gomm",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 192,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2003-06-28",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754662A",
+        "last_name": "Gomm",
+        "first_name": "Jeff"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813804M",
+    "title": "The Farm on Ginger Hill",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Irene Rosellia Amos",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 118,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2006-07-31",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754663A",
+        "last_name": "Rosellia Amos",
+        "first_name": "Irene"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813805M",
+    "title": "A TIME REVISITED",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Mickey Beckham",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 316,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2014-10-30",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754664A",
+        "last_name": "Beckham",
+        "first_name": "Mickey"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813806M",
+    "title": "Emotional Survival",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2007,
+    "subject": "Christina Strakes, Ph.D.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 144,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2002-03-27",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754665A",
+        "last_name": "Strakes, Ph.D.",
+        "first_name": "Christina"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813807M",
+    "title": "The Witch with an Itch",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2007,
+    "subject": "R. J. Spalding",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 34,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2001-05-28",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754666A",
+        "last_name": "J. Spalding",
+        "first_name": "Richard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813808M",
+    "title": "The Wisdom of the Gods",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Body, Mind & Spirit",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 580,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2000-09-23",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754667A",
+        "last_name": "Jo Miller",
+        "first_name": "Betsy"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813809M",
+    "title": "Reginald Rock Wants a Job",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Reginaldrockjob childrenkidslifeguardbakerteacherHollyRomero",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 28,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2011-11-14",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754668A",
+        "last_name": "L. Romero",
+        "first_name": "Holly"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1181380M",
+    "title": "Disney's pop-up book of things that go",
+    "city": "New York, NY",
+    "publisher": "Disney Press",
+    "year": 1993,
+    "subject": "Toy and movable books -- Specimens.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 12,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2016-04-22",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1004795A",
+        "last_name": "Ferris",
+        "first_name": "Lesley"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813810M",
+    "title": "The Conflict: Mind Versus Soul",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2007,
+    "subject": "Daniel G. Gall, Ph.D.",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 158,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2008-06-09",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754669A",
+        "last_name": "G. Gall, Ph.D.",
+        "first_name": "Daniel"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813811M",
+    "title": "Swing Island",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "R. Bennett-Woods",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 314,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2008-07-10",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754670A",
+        "last_name": "Bennett-Woods",
+        "first_name": "R."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813812M",
+    "title": "Desired Dream",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Heather Anngel",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 128,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2015-08-02",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754671A",
+        "last_name": "Anngel",
+        "first_name": "Heather"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813813M",
+    "title": "\"The Devil Dun' Gone Crazy\"",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2007,
+    "subject": "Keren Marshall",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 134,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2002-05-16",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754672A",
+        "last_name": "Marshall",
+        "first_name": "Keren"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813814M",
+    "title": "The Legends of Blue Feather",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Fiction",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 376,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2007-12-14",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3448812A",
+        "last_name": "Williams",
+        "first_name": "M.E."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813815M",
+    "title": "The Iranian Payk",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Political",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 106,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2009-01-17",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754673A",
+        "last_name": "KHASHAYAR",
+        "first_name": "KHASHAYAR"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813816M",
+    "title": "Chores Of A Female",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Poetry",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 56,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2016-03-11",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754674A",
+        "last_name": "Glitter",
+        "first_name": "Glitter"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813817M",
+    "title": "Judge Me",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Curtis A. Hahn",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 98,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2010-02-25",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754675A",
+        "last_name": "A. Hahn",
+        "first_name": "Curtis"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813818M",
+    "title": "The Romeo and Juliet Chronicles, Part 7:",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Gerald Spencer",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 314,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2008-08-15",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754676A",
+        "last_name": "Spencer",
+        "first_name": "Gerald"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813819M",
+    "title": "Mahaweli Meadow",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Valentine Perera",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 276,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2014-09-17",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754677A",
+        "last_name": "Perera",
+        "first_name": "Valentine"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1181381M",
+    "title": "Studia protobulgarica et mediaevalia europensia",
+    "city": "Veliko Tŭrnovo",
+    "publisher": "Univ. izd-vo \"Sv.-sv. Kiril i Metodiĭ\"",
+    "year": 1993,
+    "subject": "Bulgars (Turkic people)",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 295,
+    "lang": "bul",
+    "days_keep_count": 50,
+    "adding_date": "2002-01-19",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1367573A",
+        "last_name": "Kjærulff-Schmidt",
+        "first_name": "Helge"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813820M",
+    "title": "New Physics and the Mind",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Robert Paster",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 324,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2005-08-13",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754678A",
+        "last_name": "Paster",
+        "first_name": "Robert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813821M",
+    "title": "Follow Jesus and Watch His Miracles",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Jo Ann Gundlach Sherbine",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 120,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2010-08-16",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754679A",
+        "last_name": "Ann Gundlach Sherbine",
+        "first_name": "Jo"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813822M",
+    "title": "Kept Secrets",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "K.D. Johnson",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 144,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2001-12-19",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3746857A",
+        "last_name": "Johnson",
+        "first_name": "K.D."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813823M",
+    "title": "The Romeo and Juliet Chronicles,: Part 8",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Gerald Spencer with Marcela Basteri",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 608,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2005-10-29",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754680A",
+        "last_name": "Spencer with Marcela Basteri",
+        "first_name": "Gerald"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813824M",
+    "title": "Flee for Freedom",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Biri Janet M",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 222,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2001-12-20",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754681A",
+        "last_name": "Janet M",
+        "first_name": "Biri"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813825M",
+    "title": "Heart of a Gypsy",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 166,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2002-04-24",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3105702A",
+        "last_name": "Georgiou",
+        "first_name": "Angelo"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813826M",
+    "title": "Prosperity Christian Style",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2007,
+    "subject": "Michael F. Purnell",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 52,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2008-12-16",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754682A",
+        "last_name": "F. Purnell",
+        "first_name": "Michael"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813827M",
+    "title": "Who Remembers the Great and Holy Mother",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2007,
+    "subject": "Bette Ensign",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 98,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2007-12-13",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754683A",
+        "last_name": "Ensign",
+        "first_name": "Bette"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813828M",
+    "title": "Humanity's Cup",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Kecia Brown",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 136,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2007-03-05",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754684A",
+        "last_name": "Brown",
+        "first_name": "Kecia"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813829M",
+    "title": "Luella's Calling",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Eckie Friar",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 574,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2006-06-12",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754685A",
+        "last_name": "Friar",
+        "first_name": "Eckie"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1181382M",
+    "title": "The law and practice of local authority meetings",
+    "city": "Hemel Hempstead, Hertfordshire",
+    "publisher": "ICSA Pub.",
+    "year": 1993,
+    "subject": "Local government -- Law and legislation -- Great Britain.",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 415,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2012-11-18",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL617723A",
+        "last_name": "Stewart Brown Knowles",
+        "first_name": "Raymond"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813830M",
+    "title": "Dare You, Dare Me",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Modern fiction",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 318,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2011-09-28",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754686A",
+        "last_name": "Rivers",
+        "first_name": "Alder"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813831M",
+    "title": "Hoax III the flash MOB Hoax III killin real hughes`s",
+    "city": null,
+    "publisher": "Surge Pub",
+    "year": null,
+    "subject": "howard hughes; aviator; fliers; pilots billionaires; businessmen; entrepreneurs; southern fiction; american literature",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 344,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2013-03-29",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1037912A",
+        "last_name": "Laurens Lindner",
+        "first_name": "Gerardus"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813832M",
+    "title": "Destination Standerton",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Historical - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 316,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2007-12-24",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754676A",
+        "last_name": "Spencer",
+        "first_name": "Gerald"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813833M",
+    "title": "Progressive Christianity",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Jim D. Knowles",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 192,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2002-02-03",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754688A",
+        "last_name": "D. Knowles",
+        "first_name": "Jim"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813834M",
+    "title": "Mommy Said Can't Never Could",
+    "city": null,
+    "publisher": "Booksurge Llc",
+    "year": 2005,
+    "subject": "Love & Romance",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 22,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2016-07-04",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3745821A",
+        "last_name": "Wilcox Weems",
+        "first_name": "Angie"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813835M",
+    "title": "What Were Those Boys on Bus 40 Thinking",
+    "city": null,
+    "publisher": "Booksurge Llc",
+    "year": 2005,
+    "subject": "Elementary",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 26,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2013-03-09",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3746074A",
+        "last_name": "Jones Daniels",
+        "first_name": "Laverne"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813836M",
+    "title": "The Karhartadon Emerald: Volume One",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Science fiction",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 408,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2014-05-07",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754689A",
+        "last_name": "Hamilton",
+        "first_name": "M.L."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813837M",
+    "title": "THE AMETHYST",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Helga A. Hunter",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 40,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2009-12-31",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754690A",
+        "last_name": "A. Hunter",
+        "first_name": "Helga"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813838M",
+    "title": "Masturbation",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Dr. Richard Thomas",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 116,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2009-10-11",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754691A",
+        "last_name": "Richard Thomas",
+        "first_name": "Dr."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813839M",
+    "title": "The Scope of Death II",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Frank Rocha",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 246,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2013-01-19",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3746329A",
+        "last_name": "Rocha",
+        "first_name": "Frank"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1181383M",
+    "title": "Osnovni nasoki v istoricheskoto razvitie na Evropa",
+    "city": "Sofii͡a︡",
+    "publisher": "Izd-vo na Bŭlgarskata akademii͡a︡ na naukite",
+    "year": 1993,
+    "subject": "Europe -- History.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 275,
+    "lang": "bul",
+    "days_keep_count": 200,
+    "adding_date": "2014-03-26",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL201656A",
+        "last_name": "M. Bit͡s︡illi",
+        "first_name": "P."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813840M",
+    "title": "Words Unsaid",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Psychological",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 66,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2008-11-16",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754692A",
+        "last_name": "Macaulay Johnson",
+        "first_name": "W."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813841M",
+    "title": "Justice, Ethics and Morals in Switzerland and Abroad",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2007,
+    "subject": "Martin Zumbuehl",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 68,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2000-03-11",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754693A",
+        "last_name": "Zumbuehl",
+        "first_name": "Martin"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813842M",
+    "title": "Healing A Life Unraveled",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2007,
+    "subject": "Lisa Dunster Moeller",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 254,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2010-06-05",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754694A",
+        "last_name": "Dunster Moeller",
+        "first_name": "Lisa"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813843M",
+    "title": "Vanity: ",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Jenise M. Dew a.k.a. CCEP",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 130,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2015-07-14",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754695A",
+        "last_name": "M. Dew a.k.a. CCEP",
+        "first_name": "Jenise"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813844M",
+    "title": "My Green House",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Alynn Snyder",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 24,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2000-01-16",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754696A",
+        "last_name": "Snyder",
+        "first_name": "Alynn"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813845M",
+    "title": "Travel and Learning Book of Lumps Thumps Bumps and Stumps Volume One",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Gary M. Drobinski",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 216,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2007-12-14",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3745672A",
+        "last_name": "M. Drobinski",
+        "first_name": "Gary"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813846M",
+    "title": "The 3rd of the 22 Best Kept Secrets of All Time",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Rev. Linda Glas",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 406,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2014-03-13",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754697A",
+        "last_name": "Linda Glas",
+        "first_name": "Rev."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813847M",
+    "title": "Santa Was His Friend",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Ole St. Fick",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 28,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2004-12-23",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754698A",
+        "last_name": "St. Fick",
+        "first_name": "Ole"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813848M",
+    "title": "SERENDIPITY",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Poetry",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 176,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2001-03-16",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754699A",
+        "last_name": "E. Carter",
+        "first_name": "Lee"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813849M",
+    "title": "Enchantanessa",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Jardinechildren's bookskidsfantasyfairytales",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 32,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2002-02-16",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754700A",
+        "last_name": "Jardine",
+        "first_name": "Vanessa"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1181384M",
+    "title": "Whither Indian planning?",
+    "city": "Dehradun",
+    "publisher": "Indian Renaissance Institute",
+    "year": 1974,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 27,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2014-08-10",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL231889A",
+        "last_name": "Singh Minhas",
+        "first_name": "Bagicha"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813850M",
+    "title": "The Rise of the Crescent",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Mohammed Younis",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 458,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2010-11-13",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3745863A",
+        "last_name": "Younis",
+        "first_name": "Mohammed"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813851M",
+    "title": "Don't Fear The Shark",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Jonathan Kathrein",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 36,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2011-02-12",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754701A",
+        "last_name": "Kathrein",
+        "first_name": "Jonathan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813852M",
+    "title": "LISTENING - The Art of Self-Inquiry",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Christian Karl, Body, Mind & Spirit, Eastern Philosophy, Advaita, Self-Inquiry, Personal Transformation, Personal Growth, Self-Realization,",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 134,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2015-10-27",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754702A",
+        "last_name": "Karl",
+        "first_name": "Christian"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813853M",
+    "title": "47 Ways to Create Health and Well-Being",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Teresa Mitchel",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 250,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2011-12-16",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754703A",
+        "last_name": "Mitchel",
+        "first_name": "Teresa"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813854M",
+    "title": "PULSE",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "AARON MCCARTY",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 164,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2010-08-04",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754704A",
+        "last_name": "MCCARTY",
+        "first_name": "AARON"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813855M",
+    "title": "the Plant",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Dan L Dudgeon, marijuana, hemp, terrorism, Middle East, White House, Jadiid Zok, Homeland Security, Green Age, Fauxpium Wars, Angel Falls, Charles Johnson, Patriot Act, Puerto Rico, South America, World War, activism",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 150,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2011-08-21",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3233894A",
+        "last_name": "L Dudgeon",
+        "first_name": "Dan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813856M",
+    "title": "Berge und Träume",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 448,
+    "lang": "ger",
+    "days_keep_count": 100,
+    "adding_date": "2001-07-15",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754705A",
+        "last_name": "G. Hable",
+        "first_name": "Volkmar"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813857M",
+    "title": "Alaska",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Kirtley Thornton, Ph. D",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 102,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2003-04-11",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754706A",
+        "last_name": "Thornton, Ph. D",
+        "first_name": "Kirtley"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813858M",
+    "title": "Mind Full of Scorpions",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Psychological",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 148,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2009-02-22",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754707A",
+        "last_name": "Tapley-Milton",
+        "first_name": "Katherine"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813859M",
+    "title": "Pete Weber, The Cowboy Range Detective, Book 2",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Delbert Carr",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 428,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2015-11-29",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3745939A",
+        "last_name": "Carr",
+        "first_name": "Delbert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1181385M",
+    "title": "Vaalikansan äänivalta",
+    "city": "Porvoo",
+    "publisher": "W. Söderström",
+    "year": 1993,
+    "subject": "Elections -- Finland.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 568,
+    "lang": "fin",
+    "days_keep_count": 30,
+    "adding_date": "2010-08-26",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL268736A",
+        "last_name": "Pesonen",
+        "first_name": "Pertti"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813860M",
+    "title": "Midderylme",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Claire Bruno",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 232,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2014-07-31",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754708A",
+        "last_name": "Bruno",
+        "first_name": "Claire"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813861M",
+    "title": "Letters from Palestine",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Biography & Autobiography / General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 106,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2000-06-07",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL53316A",
+        "last_name": "Galimberti",
+        "first_name": "Fabrizio"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813862M",
+    "title": "God or Aliens 1",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2007,
+    "subject": "Biblical Criticism & Interpretation - Old Testament",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 324,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2013-08-12",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754709A",
+        "last_name": "Eterna",
+        "first_name": "Lazio"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813863M",
+    "title": "Business Minder",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Business & Economics / Accounting / Financial",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 348,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2007-04-09",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3746039A",
+        "last_name": "Y. Guest",
+        "first_name": "Pamela"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813864M",
+    "title": "Just a Pore Ole Boy From the Country",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Gordon Martin",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 110,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2003-07-18",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2831318A",
+        "last_name": "Martin",
+        "first_name": "Gordon"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813865M",
+    "title": "A Walk Along the River",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Stewart S. Warren, Maria Morales McConnell, Art Washburn, Mercury Heartlink, Del Norte, Upper Rio Grande, Colorado,Poetry collection, prose, poetry, San Luis Valley, bilingual, Aaron Abeyta, Carol Guerrero-Murphy, Peggy Godfrey, Taos, Santa Fe, Alamosa, D",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 150,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2007-03-09",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754710A",
+        "last_name": "Art Washburn, Maria Morales McConnell, Stewart S. Warren",
+        "first_name": "Editors:"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813866M",
+    "title": "Shadows and the power of darkness",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Maria Gilbert",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 230,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2004-08-25",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL538558A",
+        "last_name": "Gilbert",
+        "first_name": "Maria"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813867M",
+    "title": "Sanity Check",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2007,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 208,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2012-06-18",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754711A",
+        "last_name": "Wrenshall",
+        "first_name": "Peter"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813868M",
+    "title": "Memories From a Dark World",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Glenn Davis",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 110,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2002-04-17",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL249000A",
+        "last_name": "Davis",
+        "first_name": "Glenn"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813869M",
+    "title": "Just Thoughts",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Elvira Sisca",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 188,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2004-11-11",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754712A",
+        "last_name": "Sisca",
+        "first_name": "Elvira"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1181386M",
+    "title": "Mapas de la pobreza en la Argentina",
+    "city": "Buenos Aires, República Argentina",
+    "publisher": "Ministerio de Economía y  Obras y Servicios Públicos, Secretaría de Programación Económica, Instituto Nacional de Estadísticas y Censos",
+    "year": 1994,
+    "subject": "Basic needs -- Argentina -- Statistics.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 357,
+    "lang": "spa",
+    "days_keep_count": 50,
+    "adding_date": "2006-05-28",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1079039A",
+        "last_name": "H. Demling",
+        "first_name": "Robert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813870M",
+    "title": "Journey to the Fountain of You",
+    "city": null,
+    "publisher": "Booksurge Llc",
+    "year": 2006,
+    "subject": "Leith Eaton",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 222,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2002-01-06",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3746576A",
+        "last_name": "Eaton",
+        "first_name": "Leith"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813871M",
+    "title": "Alisa In Washerland",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Marian Flores",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 34,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2014-12-03",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754713A",
+        "last_name": "Flores",
+        "first_name": "Marian"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813872M",
+    "title": "The Shadow In My Smile",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Spirituality - General",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 136,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2003-08-04",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3318055A",
+        "last_name": "N. DeFoore",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813873M",
+    "title": "Kismet",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Jenny Melnik",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 90,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2011-08-22",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754714A",
+        "last_name": "Melnik",
+        "first_name": "Jenny"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813874M",
+    "title": "A Cup of Sugar and An Ounce of Sage",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Chiquia",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 90,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2014-03-25",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754715A",
+        "last_name": "Chiquia",
+        "first_name": "Chiquia"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813875M",
+    "title": "To Life",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2007,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 172,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2013-11-14",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754716A",
+        "last_name": "Ziff",
+        "first_name": "Stephen"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813876M",
+    "title": "Livestock Production in Unfavourable Economic Environments",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2007,
+    "subject": "Fairy Tales, Folklore & Mythology",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 354,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2007-12-23",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754717A",
+        "last_name": "G. A Jennings",
+        "first_name": "P."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813877M",
+    "title": "The Problems of Iran",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Political",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 162,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2016-12-05",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3304850A",
+        "last_name": "Bahman Aghai Diba",
+        "first_name": "Dr."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11813878M",
+    "title": "Oddly Huge",
+    "city": null,
+    "publisher": "BookSurge Publishing",
+    "year": 2006,
+    "subject": "Derik Taylor",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 176,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2012-08-20",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3754718A",
+        "last_name": "Taylor",
+        "first_name": "Derik"
+      }
+    ]
+  }
+]

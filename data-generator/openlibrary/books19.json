@@ -1,0 +1,4457 @@
+[
+  {
+    "openlibrary_id": "/books/OL11931376M",
+    "title": "The Doctor Alone Can't Cure You",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 204,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2007-07-07",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL381499A",
+        "last_name": "Alexander",
+        "first_name": "Rolf"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931377M",
+    "title": "Studies In The Medicine Of Ancient India Part I",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Anatomy",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 268,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2008-01-12",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL114491A",
+        "last_name": "F. Rudolf Hoernle",
+        "first_name": "A."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931378M",
+    "title": "Studies In The Social Sciences",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Finance",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 352,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2001-08-27",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2671891A",
+        "last_name": "Kent",
+        "first_name": "Raymond"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931379M",
+    "title": "Studies Of Arianism",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "History",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 340,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2013-09-27",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1808841A",
+        "last_name": "Melvill Gwatkin",
+        "first_name": "Henry"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1193137M",
+    "title": "Giuseppe [sic] Francesco Cipper",
+    "city": "Soncino, CR [Italy]",
+    "publisher": "Edizioni dei Soncino",
+    "year": 1994,
+    "subject": "Cipper, Giacomo Francesco, fl. 1705-1736 -- Criticism and interpretation.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 134,
+    "lang": "ita",
+    "days_keep_count": 30,
+    "adding_date": "2008-07-11",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL618839A",
+        "last_name": "Silvia Proni",
+        "first_name": "Maria"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931380M",
+    "title": "Studies Scientific And Social V2",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Research",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 544,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2014-11-03",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL154978A",
+        "last_name": "Russel Wallace",
+        "first_name": "Alfred"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931381M",
+    "title": "The True Story Of Capt. David Mathews And His State Line House",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 48,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2008-12-05",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2913246A",
+        "last_name": "Spargo",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931382M",
+    "title": "Subconscious Phenomena",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 140,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2005-03-06",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL224974A",
+        "last_name": "Munsterberg",
+        "first_name": "Hugo"
+      },
+      {
+        "openlibrary_id": "/authors/OL3454579A",
+        "last_name": "Ribot",
+        "first_name": "Theodore"
+      },
+      {
+        "openlibrary_id": "/authors/OL1878605A",
+        "last_name": "Janet",
+        "first_name": "Pierre"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931383M",
+    "title": "Surgical Memoirs And Other Essays",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Essays",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 372,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2012-10-19",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3454580A",
+        "last_name": "G. Mumford",
+        "first_name": "James"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931384M",
+    "title": "Sursum Corda",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 220,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2012-06-16",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2623782A",
+        "last_name": "Anonymous",
+        "first_name": "Anonymous"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931385M",
+    "title": "Swedenborgianism Examined",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 252,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2003-07-16",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL116360A",
+        "last_name": "Pond",
+        "first_name": "Enoch"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931386M",
+    "title": "Syllabus Of A Course In Pedagogy",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Educational Psychology",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 64,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2007-10-08",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1383812A",
+        "last_name": "Brooks",
+        "first_name": "Edward"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931387M",
+    "title": "Talleyrand",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 396,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2003-08-23",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2596722A",
+        "last_name": "McCabe",
+        "first_name": "Joseph"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931388M",
+    "title": "A Child's Story Of Saint Frances Cabrini",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 48,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2013-05-05",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3015027A",
+        "last_name": "Aldrich",
+        "first_name": "William"
+      },
+      {
+        "openlibrary_id": "/authors/OL3782582A",
+        "last_name": "Dumbrille",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931389M",
+    "title": "Ten Years Near The German Frontier",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 368,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2004-01-23",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3318599A",
+        "last_name": "Francis Egan",
+        "first_name": "Maurice"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1193138M",
+    "title": "Informatique, communication et société",
+    "city": "Paris",
+    "publisher": "L'Harmattan",
+    "year": 1993,
+    "subject": "Telecommunication -- Social aspects.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 214,
+    "lang": "fre",
+    "days_keep_count": 100,
+    "adding_date": "2009-08-17",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL11425A",
+        "last_name": "Vilgammula",
+        "first_name": "Mahathera"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931390M",
+    "title": "Ten Years North Of The Orange River",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 544,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2015-11-23",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2647843A",
+        "last_name": "MacKenzie",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931391M",
+    "title": "Tent Life In Siberia",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Europe - Former Soviet Republics",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 440,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2004-03-11",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL874206A",
+        "last_name": "Kennan",
+        "first_name": "George"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931392M",
+    "title": "Clinical Studies In Feeble-Mindedness",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Mental Health",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 256,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2013-03-13",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2269536A",
+        "last_name": "A. Doll",
+        "first_name": "Edgar"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931393M",
+    "title": "Studies And Notes On Philology And Literature V9",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 260,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2015-06-19",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2516883A",
+        "last_name": "Edgar Farley",
+        "first_name": "Frank"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931394M",
+    "title": "The Listener In The Country",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 136,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2002-01-20",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL317002A",
+        "last_name": "Edgar Chamberlin",
+        "first_name": "Joseph"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931395M",
+    "title": "The Ancient And Modern History Of The Maritime Ports Of Ireland",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Europe - Ireland",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 640,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2012-12-07",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2505383A",
+        "last_name": "Marmion",
+        "first_name": "Anthony"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931396M",
+    "title": "The Ancient And Noble Family Of The Savages Of The Ards",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Genealogy",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 416,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2010-08-15",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3782583A",
+        "last_name": "F. A.",
+        "first_name": "G."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931397M",
+    "title": "The Antidote",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 492,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2002-11-24",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3454581A",
+        "last_name": "Holdswoth Publisher",
+        "first_name": "J."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931398M",
+    "title": "The Apologetic Of The New Testament",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Christian Theology - Apologetics",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 268,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2007-06-01",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3121673A",
+        "last_name": "F. Scott",
+        "first_name": "E."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931399M",
+    "title": "The Arabs In Spain",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Europe - Spain & Portugal",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 340,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2016-01-08",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2623782A",
+        "last_name": "Anonymous",
+        "first_name": "Anonymous"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1193139M",
+    "title": "Die Zukunft der öffentlichen Bildung =",
+    "city": "Bern",
+    "publisher": "P. Lang",
+    "year": 1993,
+    "subject": "Education -- Europe -- Congresses.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 367,
+    "lang": "fre",
+    "days_keep_count": 10,
+    "adding_date": "2011-06-04",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1220610A",
+        "last_name": "Stiftung für Entwicklungsländer. Seminario Internacional (1970 : Berlin, Germany)",
+        "first_name": "Deutsche"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL119313M",
+    "title": "A juvenile monitor",
+    "city": "New Lebanon [N.Y.]",
+    "publisher": "[s.n.]",
+    "year": 1823,
+    "subject": "Shakers -- Conduct of life.",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 20,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2014-08-14",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1304564A",
+        "last_name": "Adler",
+        "first_name": "Gilbert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931400M",
+    "title": "The Argonauts Of California",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "United States - 19th Century",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 508,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2008-08-25",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3454582A",
+        "last_name": "Pioneer",
+        "first_name": "A"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931401M",
+    "title": "The Arians Of The Fourth Century",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Middle East - General",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 440,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2011-06-19",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL116295A",
+        "last_name": "Henry Newman",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931402M",
+    "title": "The Art Of Latin Poetry, Founded On The Work Of M. C. D. Jani",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Poetry",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 316,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2008-12-26",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3454583A",
+        "last_name": "C. D. Jani",
+        "first_name": "M."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931403M",
+    "title": "The Asclepiad",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 452,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2015-04-20",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3454584A",
+        "last_name": "W. Richardson",
+        "first_name": "Benjamin"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931404M",
+    "title": "The Atlantic Monthly",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Journalism",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 772,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2012-09-11",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3782584A",
+        "last_name": "And Fields",
+        "first_name": "Ticknor"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931405M",
+    "title": "The Autobiography Of A Landlady Of The Old School",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Regional Subjects - New England",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 288,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2003-04-26",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3454585A",
+        "last_name": "Landlady",
+        "first_name": "A"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931406M",
+    "title": "The Battle Abbey roll",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Europe - Great Britain - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 392,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2011-03-29",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL114104A",
+        "last_name": "Lucy Wilhelmina Stanhope Powlett, Duchess of Cleveland",
+        "first_name": "Catherine"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931407M",
+    "title": "The Battle Of Manila Bay, May 1, 1898",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 124,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2006-04-08",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3782585A",
+        "last_name": "W. Galt",
+        "first_name": "William"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931408M",
+    "title": "The Beauties Of The Rev. J. Wesley",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Christian Theology - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 260,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2012-06-20",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3454587A",
+        "last_name": "Pounder Publisher",
+        "first_name": "Jonathan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931409M",
+    "title": "The Beginnings Of English Literature",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "English, Irish, Scottish, Welsh",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 204,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2004-08-15",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1912717A",
+        "last_name": "M. Lewis",
+        "first_name": "Charlton"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1193140M",
+    "title": "Rapanui",
+    "city": "St. Leonards, Australia",
+    "publisher": "Allen & Unwin",
+    "year": 1994,
+    "subject": "Ethnology -- Easter Island.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 205,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2009-01-14",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL622935A",
+        "last_name": "McCall",
+        "first_name": "Grant"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931410M",
+    "title": "The Benin Massacre",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Africa - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 200,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2006-11-20",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3454588A",
+        "last_name": "Boisragon",
+        "first_name": "Alan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931411M",
+    "title": "The Bible And Other Ancient Literature In The Nineteenth Century",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Ancient and Classical",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 216,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2011-11-20",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL356315A",
+        "last_name": "T. Townsend",
+        "first_name": "L."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931412M",
+    "title": "The Bible Versus The Evolution Theory",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Christianity - Jehovah's Witnesses",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 52,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2011-10-13",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3782586A",
+        "last_name": "Tower Bible And Tract Society",
+        "first_name": "Watch"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931413M",
+    "title": "Edgar Allan Poe",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Literary",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 312,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2002-12-15",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2689544A",
+        "last_name": "H. Ingram",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931414M",
+    "title": "Selected Letters Of Pliny",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 152,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2010-11-18",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3782587A",
+        "last_name": "B. Allen",
+        "first_name": "G."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931415M",
+    "title": "The Book Of Blood",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Europe - Spain & Portugal",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 52,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2011-04-12",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3782588A",
+        "last_name": "M. Zarzamendi",
+        "first_name": "M."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931416M",
+    "title": "The Book Of Hours",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 172,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2013-01-06",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3454589A",
+        "last_name": "And Houghton Publishers",
+        "first_name": "Hurd"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931417M",
+    "title": "The Book Of Proverbs",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Bibles - Other",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 280,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2000-11-24",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3121692A",
+        "last_name": "J. Conant",
+        "first_name": "Thomas"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931418M",
+    "title": "The Boy Crusaders",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Historical - General",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 300,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2003-06-19",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3290884A",
+        "last_name": "George Edgar",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931419M",
+    "title": "The British Steam Ship, Peterhoff",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Ships & Shipbuilding - History",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 312,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2014-11-26",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2357946A",
+        "last_name": "Delafield Smith",
+        "first_name": "E."
+      },
+      {
+        "openlibrary_id": "/authors/OL3454590A",
+        "last_name": "H. Upton",
+        "first_name": "F."
+      },
+      {
+        "openlibrary_id": "/authors/OL3782589A",
+        "last_name": "And Smith",
+        "first_name": "Martin"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1193141M",
+    "title": "Dopisany życiorys-- Władysława Ossowskiego",
+    "city": "Wrocław",
+    "publisher": "Wydawn. \"W Kolorach Tęczy\"",
+    "year": 1994,
+    "subject": "Ossowski, Władysław, 1925-",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 88,
+    "lang": "pol",
+    "days_keep_count": 30,
+    "adding_date": "2015-09-02",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL622936A",
+        "last_name": "Szatsznajder",
+        "first_name": "Jan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931420M",
+    "title": "The Butterflies Of New England",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Butterflies & Moths",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 84,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2014-11-03",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2496716A",
+        "last_name": "J. Maynard",
+        "first_name": "C."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931421M",
+    "title": "The Case Of The Learned",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 192,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2012-02-18",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3454591A",
+        "last_name": "Conrad Francis De Hatzfeld",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931422M",
+    "title": "The Cattle Raid Of Cualnge, Tain Bo Cuailnge",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "English, Irish, Scottish, Welsh",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 164,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2002-03-08",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2350736A",
+        "last_name": "Winifred Faraday",
+        "first_name": "L."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931423M",
+    "title": "The Causes Of The French Revolution",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Europe - France",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 276,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2009-02-13",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2652556A",
+        "last_name": "Russell",
+        "first_name": "J."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931424M",
+    "title": "The Characters Of Theophrastus",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 212,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2000-02-28",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL113930A",
+        "last_name": "George",
+        "first_name": "Coffey,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931425M",
+    "title": "The China-Japan War",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Military - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 456,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2006-04-22",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3454592A",
+        "last_name": "Vladimir",
+        "first_name": "Vladimir"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931426M",
+    "title": "Scripture Searchings In The New Testament V1",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Biblical Criticism & Interpretation - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 604,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2001-12-31",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3454593A",
+        "last_name": "Dyke Whitmarsh",
+        "first_name": "Edgar"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931427M",
+    "title": "The Christian Traveler, Western Africa",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Africa - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 216,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2012-07-15",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3782590A",
+        "last_name": "Knight And Company",
+        "first_name": "Charles"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931428M",
+    "title": "The Church Of Rome",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Christian Church - History",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 356,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2003-05-13",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3454594A",
+        "last_name": "C. O'Donnoghue",
+        "first_name": "H."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931429M",
+    "title": "Shakespeare's Heroes On The Stage",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Shakespeare",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 416,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2013-12-27",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3454595A",
+        "last_name": "Edgar Lewis Wingate",
+        "first_name": "Charles"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1193142M",
+    "title": "Cagliari, la suggestione delle epigrafi",
+    "city": "Cagliari",
+    "publisher": "Edizioni della torre",
+    "year": 1993,
+    "subject": "Inscriptions -- Italy -- Cagliari.",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 119,
+    "lang": "ita",
+    "days_keep_count": 100,
+    "adding_date": "2002-10-27",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1045650A",
+        "last_name": "Mali͡a︡rov",
+        "first_name": "Anatoliĭ"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931430M",
+    "title": "The Communistic Societies Of The United States",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 472,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2015-03-25",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2691443A",
+        "last_name": "Nordhoff",
+        "first_name": "Charles"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931431M",
+    "title": "The Companions Of Pickle",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 324,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2014-07-21",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL112923A",
+        "last_name": "Lang",
+        "first_name": "Andrew"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931432M",
+    "title": "The Complete Works Of John Gower",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 664,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2008-11-29",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL624137A",
+        "last_name": "Gower",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931433M",
+    "title": "The Voice Of The Pack",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 312,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2011-05-20",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2172442A",
+        "last_name": "Marshall",
+        "first_name": "Edison"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931434M",
+    "title": "The Conflict Of East And West In Egypt",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Middle East - Egypt",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 212,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2009-07-22",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2598093A",
+        "last_name": "Eliot Bowen",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931435M",
+    "title": "The Congo And The Founding Of Its Free State",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Africa - General",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 560,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2001-09-13",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL113909A",
+        "last_name": "M. Stanley",
+        "first_name": "Henry"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931436M",
+    "title": "The Connecticut Quarterly Magazine, January To December 1897",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "United States - State & Local - New England",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 516,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2012-06-05",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3782591A",
+        "last_name": "C. Atwell",
+        "first_name": "George"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931437M",
+    "title": "The Conquest Of Canada",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Canada - General",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 368,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2012-10-21",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL758422A",
+        "last_name": "Larouche",
+        "first_name": "Pierre"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931438M",
+    "title": "The Control Of Life",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 320,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2016-09-02",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1204270A",
+        "last_name": "Thomson",
+        "first_name": "Arthur"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931439M",
+    "title": "The Conversion Of The Roman Empire",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Ancient - Rome",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 268,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2014-04-11",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1166314A",
+        "last_name": "Merivale",
+        "first_name": "Charles"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1193143M",
+    "title": "Portraits in science",
+    "city": "[Canberra]",
+    "publisher": "National Library of Australia",
+    "year": 1994,
+    "subject": "Scientists -- Australia -- Biography.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 203,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2010-08-04",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1161841A",
+        "last_name": "Miró Casado",
+        "first_name": "Ignacio"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931440M",
+    "title": "The American Review Of Reviews, An International Magazine",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Journalism",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 784,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2000-08-04",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2734614A",
+        "last_name": "Authors",
+        "first_name": "Various"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931441M",
+    "title": "The Correlation And Conservation Of Forces",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 484,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2008-11-19",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3454596A",
+        "last_name": "Grove",
+        "first_name": "Professor"
+      },
+      {
+        "openlibrary_id": "/authors/OL3454597A",
+        "last_name": "Helmholtz",
+        "first_name": "Prof."
+      },
+      {
+        "openlibrary_id": "/authors/OL3782592A",
+        "last_name": "Mayer",
+        "first_name": "Dr."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931442M",
+    "title": "The Correspondence Of Dr. Matthew Hutton, Archbishop Of York",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Letters",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 356,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2016-01-04",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL846721A",
+        "last_name": "Hutton",
+        "first_name": "Matthew"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931443M",
+    "title": "The Correspondence Of Horace Walpole, Earl Of Orford And William Mason V1",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Letters",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 472,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2012-10-27",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3454598A",
+        "last_name": "Mitford",
+        "first_name": "J."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931444M",
+    "title": "The Correspondence Of Nathan Walworth And Peter Seddon Of Outwood And Other Documents",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Letters",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 148,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2003-04-26",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3454599A",
+        "last_name": "Samuel Fletcher",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931445M",
+    "title": "Lord Brougham's Character Of Mr. Pitt",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 332,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2003-08-23",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3454600A",
+        "last_name": "Sibbald Edison",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931446M",
+    "title": "The Countess Pharamond",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 344,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2011-12-19",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL159011A",
+        "last_name": "Rita.",
+        "first_name": "Rita."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931447M",
+    "title": "The Country Of The Dwarfs",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Essays & Travelogues",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 320,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2015-04-27",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3013597A",
+        "last_name": "Du Chaillu",
+        "first_name": "Paul"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931448M",
+    "title": "The Critical And Miscellaneous Writings Of Theodore Parker",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "United States - General",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 412,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2006-07-30",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2893769A",
+        "last_name": "Parker",
+        "first_name": "Theodore"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931449M",
+    "title": "The Cruise Of Her Majesty's Ship Challenger",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Essays & Travelogues",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 412,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2007-04-14",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL165765A",
+        "last_name": "J. J. Spry",
+        "first_name": "W."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1193144M",
+    "title": "Diego Costa",
+    "city": "Calliano (Trento) [Italy]",
+    "publisher": "Manfrini",
+    "year": 1992,
+    "subject": "Costa, Diego, d. 1979 -- Exhibitions.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 223,
+    "lang": "ita",
+    "days_keep_count": 200,
+    "adding_date": "2006-02-06",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL46979A",
+        "last_name": "Scudiero",
+        "first_name": "Maurizio"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931450M",
+    "title": "The Cruise Of The Montauk To Bermuda, The West Indies And Florida",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Essays & Travelogues",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 460,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2014-02-08",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1215260A",
+        "last_name": "McQuade",
+        "first_name": "James"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931451M",
+    "title": "The Declaration Of Indulgence, 1672",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Europe - Great Britain - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 256,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2012-01-24",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2526156A",
+        "last_name": "Bate",
+        "first_name": "Frank"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931452M",
+    "title": "The Diary And Correspondence Of Charles Abbot, Lord Colchester V1",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "English, Irish, Scottish, Welsh",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 592,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2004-09-06",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3454602A",
+        "last_name": "Abbot",
+        "first_name": "Charles"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931453M",
+    "title": "The Diary Of An Idle Woman In Sicily",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 316,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2010-07-16",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2536953A",
+        "last_name": "Elliot",
+        "first_name": "Frances"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931454M",
+    "title": "The Discovery Of America",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "United States - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 648,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2005-03-27",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL457806A",
+        "last_name": "Fiske",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931455M",
+    "title": "The Discovery Of The Solomon Islands By Alvaro De Mendana In 1568 V2",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Oceania",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 320,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2005-12-11",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1231678A",
+        "last_name": "Carlisle",
+        "first_name": "Elliott"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931456M",
+    "title": "The Distribution Of Wealth",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Economics - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 368,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2004-01-09",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2575180A",
+        "last_name": "Cope",
+        "first_name": "Rufus"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931457M",
+    "title": "The Doctrine Of Formal Discipline In The Light Of Experimental Investigation",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Research",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 128,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2016-09-01",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3454604A",
+        "last_name": "P. Hewins",
+        "first_name": "Nellie"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931458M",
+    "title": "The Dramatic Art Of Lope De Vega",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 352,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2010-09-12",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL114569A",
+        "last_name": "Rudolph",
+        "first_name": "Schevill,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931459M",
+    "title": "The Dramatic Works Of Aaron Hill, Esq. V2",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "English, Irish, Scottish, Welsh",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 400,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2002-03-20",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1682717A",
+        "last_name": "Aaron",
+        "first_name": "Hill,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1193145M",
+    "title": "Dzieje społeczności żydowskiej powiatów Pułtusk i Maków Mazowiecki",
+    "city": "Warszawa",
+    "publisher": "Pułtuskie Towarzystwo Społeczno-Kulturalne",
+    "year": 1993,
+    "subject": "Jews -- Poland -- Masovia -- History.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 187,
+    "lang": "pol",
+    "days_keep_count": 10,
+    "adding_date": "2006-01-18",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL43607A",
+        "last_name": "Szczepański",
+        "first_name": "Janusz"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931460M",
+    "title": "The Dramatic Works Of John Crowne",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 360,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2012-12-12",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2584891A",
+        "last_name": "Crowne",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931461M",
+    "title": "The Dublin Review",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Europe - Ireland",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 548,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2002-07-06",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3454605A",
+        "last_name": "Oates And Company",
+        "first_name": "Burns"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931462M",
+    "title": "A Corner In Women And Other Follies",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 352,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2011-09-20",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3454606A",
+        "last_name": "Masson",
+        "first_name": "Tom"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931463M",
+    "title": "The Duchess Of Berry And The Court Of Louis XVIII",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Europe - Great Britain - General",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 308,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2013-12-19",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3300143A",
+        "last_name": "Léon Imbert de Saint-Amand",
+        "first_name": "Arthur"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931464M",
+    "title": "Advanced Lessons In Everyday English",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 432,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2011-03-19",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2315755A",
+        "last_name": "Miller Bolenius",
+        "first_name": "Emma"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931465M",
+    "title": "The Eclectic Magazine Of Foreign Literature, Science And Art",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Journalism",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 756,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2011-03-31",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3782558A",
+        "last_name": "H. Bidwell",
+        "first_name": "W."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931466M",
+    "title": "The Economy Of Happiness",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Personal Growth - Happiness",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 552,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2002-06-21",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2213689A",
+        "last_name": "MacKaye",
+        "first_name": "James"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931467M",
+    "title": "Benson Bidwell",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Scientists - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 260,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2002-03-15",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2521344A",
+        "last_name": "Bidwell",
+        "first_name": "Benson"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931468M",
+    "title": "Municipal Franchises V1",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Corporate & Business History - General",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 764,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2013-03-24",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL112938A",
+        "last_name": "F. Wilcox",
+        "first_name": "Delos"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931469M",
+    "title": "The Story Of Great Inventions",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Inventions",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 268,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2001-12-04",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2235563A",
+        "last_name": "Ellsworth Burns",
+        "first_name": "Elmer"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1193146M",
+    "title": "Frommer Missbrauch?",
+    "city": "Tübingen",
+    "publisher": "Edition Diskord",
+    "year": 1993,
+    "subject": "Catholic Church -- Clergy.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 160,
+    "lang": "ger",
+    "days_keep_count": 10,
+    "adding_date": "2015-11-26",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1335027A",
+        "last_name": "T. Kroese",
+        "first_name": "W."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931470M",
+    "title": "Modern Illumination, Theory And Practice",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Engineering - General",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 276,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2012-12-27",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3454607A",
+        "last_name": "C. Horstmann",
+        "first_name": "Henry"
+      },
+      {
+        "openlibrary_id": "/authors/OL3454608A",
+        "last_name": "H. Tousley",
+        "first_name": "Victor"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931471M",
+    "title": "The End",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Biblical Studies - Prophecy",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 364,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2001-09-23",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2981511A",
+        "last_name": "Cumming",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931472M",
+    "title": "The English Matron",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Sociology - Marriage & Family",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 256,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2014-07-02",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3454609A",
+        "last_name": "The Author Of The English Gentlewoman",
+        "first_name": "By"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931473M",
+    "title": "The English Of Shakespeare",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 396,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2004-02-13",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1966956A",
+        "last_name": "L. Craik",
+        "first_name": "George"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931474M",
+    "title": "The English Works Of George Herbert",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Reference",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 460,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2004-04-03",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL352504A",
+        "last_name": "Herbert Palmer",
+        "first_name": "George"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931475M",
+    "title": "The English Works Of John Gower",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Medieval",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 700,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2008-06-28",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL624137A",
+        "last_name": "Gower",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931476M",
+    "title": "The Englishwoman In Russia",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Essays & Travelogues",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 328,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2011-11-24",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3454610A",
+        "last_name": "A Lady",
+        "first_name": "By"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931477M",
+    "title": "The Essays Of George Eliot, Complete",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Essays",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 292,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2009-07-27",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL24528A",
+        "last_name": "Eliot",
+        "first_name": "George"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931478M",
+    "title": "The Essex Antiquarian",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "United States - State & Local - New England",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 212,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2007-07-26",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL879731A",
+        "last_name": "Perley",
+        "first_name": "Sidney"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931479M",
+    "title": "The Eumenides Of Aeschylus",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Ancient, Classical & Medieval",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 92,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2013-12-13",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3782593A",
+        "last_name": "At The University Press",
+        "first_name": "Committee"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1193147M",
+    "title": "Inventario dell'Archivio del Pio Monte e Capella dei Marinari sotto il titolo di \"Santa Maria di Cos",
+    "city": "Napoli",
+    "publisher": "[C.S.L.]",
+    "year": 1992,
+    "subject": "Pio monte e cappella dei marinari (Torre del Greco, Italy). Archivio -- Catalogs.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 41,
+    "lang": "ita",
+    "days_keep_count": 100,
+    "adding_date": "2013-09-24",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL622937A",
+        "last_name": "monte e cappella dei marinari (Torre del Greco, Italy). Archivio.",
+        "first_name": "Pio"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931480M",
+    "title": "Electric Franchises In New York City",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Public Affairs & Administration",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 184,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2005-07-29",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2143292A",
+        "last_name": "Arent",
+        "first_name": "Leonora"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931481M",
+    "title": "The Evidences Of Christianity",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Christian Theology - Apologetics",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 304,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2005-07-03",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3454611A",
+        "last_name": "J. Bolton",
+        "first_name": "W."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931482M",
+    "title": "Ethan Allen At Ticonderoga",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 48,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2004-05-22",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2913246A",
+        "last_name": "Spargo",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931483M",
+    "title": "The Fair Hills Of Ireland",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Europe - Ireland",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 428,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2016-08-07",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1776530A",
+        "last_name": "Lucius Gwynn",
+        "first_name": "Stephen"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931484M",
+    "title": "The Five Redeemers",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 168,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2006-02-15",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2981645A",
+        "last_name": "J. Barnett",
+        "first_name": "M."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931485M",
+    "title": "The Formation Of The New Testament",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Biblical Studies - New Testament",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 272,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2008-04-15",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3454612A",
+        "last_name": "Hooper Ferris",
+        "first_name": "George"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931486M",
+    "title": "The Story Of St. John Baptist De La Salle",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 148,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2006-08-26",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3782594A",
+        "last_name": "Brother Of The Christian Schools",
+        "first_name": "A"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931487M",
+    "title": "The Functional Versus The Representational Theories Of Knowledge In Locke's Essay",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 68,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2016-07-21",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2503674A",
+        "last_name": "Webster Moore",
+        "first_name": "Addison"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931488M",
+    "title": "Bismarck's Table-Talk",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 396,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2008-01-10",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL113602A",
+        "last_name": "von Bismarck",
+        "first_name": "Otto"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931489M",
+    "title": "The General History Of Ireland",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Europe - Ireland",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 596,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2015-01-07",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3454613A",
+        "last_name": "Keating",
+        "first_name": "Jeoffry"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1193148M",
+    "title": "Rascal rain",
+    "city": "Sydney, NSW, Australia",
+    "publisher": "Angus & Robertson",
+    "year": 1994,
+    "subject": "Baranay, Inez -- Travel -- Papua New Guinea.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 255,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2015-09-21",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL622938A",
+        "last_name": "Baranay",
+        "first_name": "Inez"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931490M",
+    "title": "Great Epochs In American History V10",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Science Fiction - Alternative History",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 228,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2012-07-08",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2196859A",
+        "last_name": "W. Halsey",
+        "first_name": "Francis"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931491M",
+    "title": "Bell's Electric Speaking Telephone",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Telecommunications",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 548,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2012-02-25",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2029880A",
+        "last_name": "B. Prescott",
+        "first_name": "George"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931492M",
+    "title": "The Gentleman's Magazine",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Journalism",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 584,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2009-04-20",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3454259A",
+        "last_name": "Urban",
+        "first_name": "Sylvanus"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931493M",
+    "title": "The Watthour Meter",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Engineering - Electrical & Electronic",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 196,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2001-10-27",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3454614A",
+        "last_name": "M. Shepard",
+        "first_name": "William"
+      },
+      {
+        "openlibrary_id": "/authors/OL3454615A",
+        "last_name": "G. Jones",
+        "first_name": "Allen"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931494M",
+    "title": "The Gentleman's Magazine",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Journalism",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 704,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2005-02-21",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3454259A",
+        "last_name": "Urban",
+        "first_name": "Sylvanus"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931495M",
+    "title": "The Genuine Remains Of Ossian, Literally Translated, With A Preliminary Dissertation",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Poetry",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 544,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2004-10-01",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3337284A",
+        "last_name": "MacGregor",
+        "first_name": "Patrick"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931496M",
+    "title": "The German Spirit",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Europe - Germany",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 144,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2010-06-01",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL215848A",
+        "last_name": "Francke",
+        "first_name": "Kuno"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931497M",
+    "title": "The Grammar, History And Derivation Of The English Language",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 468,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2014-06-18",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3454616A",
+        "last_name": "Daniel",
+        "first_name": "Canon"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931498M",
+    "title": "The Great Company, 1667-1871",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Corporate & Business History - General",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 372,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2005-09-12",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2976481A",
+        "last_name": "Willson",
+        "first_name": "Beckles"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931499M",
+    "title": "The Great Modern English Stories",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "English, Irish, Scottish, Welsh",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 384,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2011-11-16",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2121022A",
+        "last_name": "J. O'Brien",
+        "first_name": "Edward"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1193149M",
+    "title": "Stoicheia viomēchanikēs koinōniologias",
+    "city": "Thessalonikē",
+    "publisher": "Ekdoseis \"Anikoula\"",
+    "year": 1992,
+    "subject": "Industrial sociology.",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 205,
+    "lang": "gre",
+    "days_keep_count": 10,
+    "adding_date": "2002-12-24",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL470902A",
+        "last_name": "Piperopoulos",
+        "first_name": "Giōrgos"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL119314M",
+    "title": "Information concerning the well known Shaker cloaks.",
+    "city": "[West Pittsfield, Mass",
+    "publisher": "Sophia Helfrich",
+    "year": 1890,
+    "subject": "Shakers.",
+    "genre": "Catalogs.",
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2012-02-25",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1026469A",
+        "last_name": "Rajkovič",
+        "first_name": "Julia"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931500M",
+    "title": "The German Element In The United States V2",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Minority Studies - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 668,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2013-03-12",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3340701A",
+        "last_name": "Bernhardt Faust",
+        "first_name": "Albert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931501M",
+    "title": "The Green Book",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 520,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2009-06-05",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3454617A",
+        "last_name": "C. O'Callaghan",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931502M",
+    "title": "The Growth Of A Legend",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Europe - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 340,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2008-11-19",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3454618A",
+        "last_name": "Van Langenhove",
+        "first_name": "Fernand"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931503M",
+    "title": "The Strength Of The Pines",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 316,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2003-01-19",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2172442A",
+        "last_name": "Marshall",
+        "first_name": "Edison"
+      },
+      {
+        "openlibrary_id": "/authors/OL3454619A",
+        "last_name": "Herbert Dunton",
+        "first_name": "W."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931504M",
+    "title": "The Hellenics Of Walter Savage Landor",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 292,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2001-07-03",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL18119A",
+        "last_name": "Savage Landor",
+        "first_name": "Walter"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931505M",
+    "title": "The Heritage Of Burns",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 432,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2007-05-15",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2082535A",
+        "last_name": "Robertson Turnbull",
+        "first_name": "William"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931506M",
+    "title": "The Heroic Enthusiasts, Gli Eroici Furori",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 136,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2012-01-21",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL86293A",
+        "last_name": "Giordano",
+        "first_name": "Bruno,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931507M",
+    "title": "The Heroines Of Petosega",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 296,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2012-11-22",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3454620A",
+        "last_name": "Alva Dean",
+        "first_name": "Frederic"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931508M",
+    "title": "The Heroines Of Welsh History",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Women",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 588,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2000-04-25",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3454621A",
+        "last_name": "J. Llewelyn Prichard",
+        "first_name": "T."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931509M",
+    "title": "The Higher Christian Education",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Christian Education - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 364,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2011-04-21",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1962789A",
+        "last_name": "W. Dwight",
+        "first_name": "Benjamin"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1193150M",
+    "title": "La politica europea e il matrimonio inglese di una principessa polacca",
+    "city": "Manzania (Roma)",
+    "publisher": "Vecchiarelli",
+    "year": 1993,
+    "subject": "Maria Clementina, Princess, consort of James, Prince of Wales, 1702-1735.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 66,
+    "lang": "ita",
+    "days_keep_count": 30,
+    "adding_date": "2004-02-24",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL609820A",
+        "last_name": "Platania",
+        "first_name": "Gaetano"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931510M",
+    "title": "The Higher Medicine",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Alternative Medicine",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 248,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2010-12-01",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3454622A",
+        "last_name": "Stenson Hooker",
+        "first_name": "J"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931511M",
+    "title": "The Himalayan Districts Of Kooloo, Lahoul And Spiti",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Asia - General",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 396,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2016-04-26",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3454623A",
+        "last_name": "F. P. Harcourt",
+        "first_name": "A."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931512M",
+    "title": "The Hindu-Aryan Theory On Evolution And Involution",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Hinduism - History",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 100,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2016-08-22",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2523549A",
+        "last_name": "Chrishna Rajan Iyengar",
+        "first_name": "Tirumangalum"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931513M",
+    "title": "The Historical Evidences Of The Truth Of The Scripture Records",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "United States - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 452,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2014-07-04",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1144005A",
+        "last_name": "George",
+        "first_name": "Rawlinson,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931514M",
+    "title": "The Histories Of Caius Cornelius Tacitus",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Ancient - Rome",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 452,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2015-05-22",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL162630A",
+        "last_name": "S. Tyler",
+        "first_name": "W."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931515M",
+    "title": "The Challenge Of The Country",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Sociology - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 328,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2005-10-24",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3254574A",
+        "last_name": "Walter Fiske",
+        "first_name": "George"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931516M",
+    "title": "The History Of China And India",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Asia - China",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 424,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2013-10-25",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2984728A",
+        "last_name": "Corner",
+        "first_name": "Julia"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931517M",
+    "title": "The History Of English Poetry",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Poetry",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 612,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2011-02-21",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL630762A",
+        "last_name": "Thomas",
+        "first_name": "Warton,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931518M",
+    "title": "Philipp Reis, Inventor Of The Telephone",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Scientists - General",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 192,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2005-08-22",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3292776A",
+        "last_name": "P. Thompson",
+        "first_name": "Silvanus"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931519M",
+    "title": "The History Of The Cotton Famine",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Europe - Great Britain - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 576,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2010-05-25",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3454624A",
+        "last_name": "Arthur Arnold",
+        "first_name": "R."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1193151M",
+    "title": "Il Parlamento italiano e la questione ebraica",
+    "city": "Milano",
+    "publisher": "G. Franchetti",
+    "year": 1916,
+    "subject": "Jews -- Public opinion.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 24,
+    "lang": "ita",
+    "days_keep_count": 200,
+    "adding_date": "2014-11-12",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1450465A",
+        "last_name": "Eichstätt-Ingolstadt.",
+        "first_name": "Universitätsbibliothek"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931520M",
+    "title": "The History Of The Council Of Florence",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Christianity - History - General",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 196,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2005-08-21",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1073430A",
+        "last_name": "Bendiner",
+        "first_name": "Burton"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931521M",
+    "title": "The History Of The Governors Of Egypt",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Middle East - Egypt",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 76,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2004-10-16",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3782595A",
+        "last_name": "Umar Muhammad Ibn Yusuf Al-Kindi",
+        "first_name": "Abu"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931522M",
+    "title": "Edmond And Jules De Goncourt V1",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 260,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2002-05-12",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3454625A",
+        "last_name": "A. Belloc",
+        "first_name": "M."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931523M",
+    "title": "The History Of The Northern Interior Of British Columbia",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Canada - General",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 364,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2015-08-18",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2306183A",
+        "last_name": "G. Morice",
+        "first_name": "A."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931524M",
+    "title": "The History Of The Parish Of St. Michaels-On-Wyre, In The County Of Lancaster",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Christian Church - History",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 284,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2000-03-01",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3454626A",
+        "last_name": "Fishwick",
+        "first_name": "Henry"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931525M",
+    "title": "The Hobart Town Magazine",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Journalism",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 340,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2007-01-09",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2623782A",
+        "last_name": "Anonymous",
+        "first_name": "Anonymous"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931526M",
+    "title": "Scripture Stories In Verse",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Biblical Criticism & Interpretation - General",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 256,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2008-09-08",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3454627A",
+        "last_name": "Edmond",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931527M",
+    "title": "The Homeopathic Guide In All Diseases Of The Urinary And Sexual Organs",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Homeopathy",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 316,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2001-12-11",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3454628A",
+        "last_name": "Gollmann",
+        "first_name": "William"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931528M",
+    "title": "The Homilies Of St. John Chrysostom, Archbishop Of Constantinople, On The Statues; Or To The People ",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Christian Theology - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 436,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2015-05-15",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3454629A",
+        "last_name": "Of The English Church",
+        "first_name": "Members"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931529M",
+    "title": "The Homilies Of St. John Chrysostom, On The Second Epistle Of St. Paul, The Apostle, To The Corinthi",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Christian Theology - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 376,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2004-01-09",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2623782A",
+        "last_name": "Anonymous",
+        "first_name": "Anonymous"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1193152M",
+    "title": "Taezhnye ėtalony Evropeĭskogo Severo-Vostoka",
+    "city": "Syktyvkar",
+    "publisher": "Komi nauch. t͡s︡entr Uralʹskogo otd-nii͡a︡ Rossiĭskoĭ akademii nauk",
+    "year": 1993,
+    "subject": "Forest genetic resources conservation -- Russia (Federation) -- Komi.",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 147,
+    "lang": "rus",
+    "days_keep_count": 100,
+    "adding_date": "2013-04-02",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL622939A",
+        "last_name": "I. Nepomilueva",
+        "first_name": "N."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931530M",
+    "title": "The House Of Howard V1",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Europe - Great Britain - General",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 484,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2008-08-02",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL137379A",
+        "last_name": "Brenan",
+        "first_name": "Gerald"
+      },
+      {
+        "openlibrary_id": "/authors/OL3454630A",
+        "last_name": "Phillips Statham",
+        "first_name": "Edward"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931531M",
+    "title": "The House Of Lords Question",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Europe - Great Britain - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 416,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2011-03-11",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2494567A",
+        "last_name": "Reid",
+        "first_name": "Andrew"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931532M",
+    "title": "The Huguenots And Henry Of Navarre",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Europe - Great Britain - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 480,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2002-02-12",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2623782A",
+        "last_name": "Anonymous",
+        "first_name": "Anonymous"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931533M",
+    "title": "The Idiot",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Classics",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 624,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2001-09-01",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL22242A",
+        "last_name": "Mikhailovich Dostoyevsky",
+        "first_name": "Fyodor"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931534M",
+    "title": "The Illustrated Life Of Washington",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Historical - U.S.",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 496,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2000-09-15",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2913416A",
+        "last_name": "T. Headley",
+        "first_name": "J."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931535M",
+    "title": "The Imperial Commonwealth",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Europe - Great Britain - General",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 396,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2012-03-28",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3454631A",
+        "last_name": "P. Poley",
+        "first_name": "A."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931536M",
+    "title": "The Indians' Revenge; Or Days Of Horror",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Native American",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 244,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2012-02-11",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2560195A",
+        "last_name": "Berghold",
+        "first_name": "Alexander"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931537M",
+    "title": "The Industrial History Of England",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Europe - Great Britain - General",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 252,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2013-10-08",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3454632A",
+        "last_name": "De B. Gibbins",
+        "first_name": "H."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931538M",
+    "title": "The Industry Of Nations, As Exemplified In The Great Exhibition Of 1851",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Modern - 19th Century",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 416,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2011-11-03",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3454633A",
+        "last_name": "For Promoting Christian Knowledg",
+        "first_name": "Society"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931539M",
+    "title": "The Influence Of Wealth In Imperial Rome",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Ancient - Rome",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 352,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2009-04-25",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2173651A",
+        "last_name": "Stearns Davis",
+        "first_name": "William"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1193153M",
+    "title": "Pervye krylʹi͡a︡ Rossii",
+    "city": "Moskva",
+    "publisher": "Voen. izd-vo",
+    "year": 1993,
+    "subject": "Aeronautics -- Russia (Federation) -- History.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 255,
+    "lang": "rus",
+    "days_keep_count": 200,
+    "adding_date": "2002-09-04",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL622940A",
+        "last_name": "Kuzʹmina",
+        "first_name": "L."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931540M",
+    "title": "Mount Rainier",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "United States - State & Local - Pacific Northwest",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 384,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2016-09-16",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2123814A",
+        "last_name": "S. Meany",
+        "first_name": "Edmond"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931541M",
+    "title": "The International Law And Diplomacy Of The Russo-Japanese War",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Military - General",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 408,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2009-08-26",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2549051A",
+        "last_name": "S. Hershey",
+        "first_name": "Amos"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931542M",
+    "title": "The Isle Of Bute In The Olden Time; With Illustrations, Maps And Plans V1",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Europe - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 372,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2002-12-06",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2401873A",
+        "last_name": "King Hewison",
+        "first_name": "James"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931543M",
+    "title": "The Facetious Nights Of Straparola V3",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 408,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2004-04-23",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3454635A",
+        "last_name": "G. Waters",
+        "first_name": "W."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931544M",
+    "title": "The Jacobite Peerage, Baronetage, Knightage And Grants Of Honor",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Europe - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 288,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2006-10-26",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3782596A",
+        "last_name": "Of Ruvigny And Raineval",
+        "first_name": "Marquis"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931545M",
+    "title": "The White Indian Boy",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 48,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2010-04-28",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3782597A",
+        "last_name": "M. Bennett",
+        "first_name": "Helen"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931546M",
+    "title": "The Jewish Religion In The Time Of Jesus",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Judaism - History",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 148,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2011-11-26",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3454636A",
+        "last_name": "Hollman",
+        "first_name": "G."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931547M",
+    "title": "The Journal Of Philology V15",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 312,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2008-11-11",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1359245A",
+        "last_name": "Marroquín",
+        "first_name": "José"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931548M",
+    "title": "The Journal Of The American Irish Historical Society V3",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "United States - General",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 244,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2009-05-27",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL998544A",
+        "last_name": "Hamilton Murray",
+        "first_name": "Thomas"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931549M",
+    "title": "The Journey Of William Of Rubruck To The Eastern Parts Of The World, 1253-55",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Essays & Travelogues",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 360,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2014-10-03",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3454637A",
+        "last_name": "Of Rubruck",
+        "first_name": "William"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1193154M",
+    "title": "Leermeesters",
+    "city": "Amsterdam",
+    "publisher": "Querido",
+    "year": 1994,
+    "subject": "Literature -- History and criticism.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 264,
+    "lang": "dut",
+    "days_keep_count": 50,
+    "adding_date": "2013-07-27",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL76375A",
+        "last_name": "Kees.",
+        "first_name": "Fens,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931550M",
+    "title": "The Pearl Of Anjou And Other Poems",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 192,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2007-10-23",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3454638A",
+        "last_name": "Walters",
+        "first_name": "Edmond"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931551M",
+    "title": "Twentieth Century Socialism",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Political Ideologies - Communism & Socialism",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 468,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2009-10-09",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1296454A",
+        "last_name": "Kelly",
+        "first_name": "Edmond"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931552M",
+    "title": "The Knickerbocker V2",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Journalism",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 500,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2001-04-14",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3454640A",
+        "last_name": "And Company",
+        "first_name": "Peabody"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931553M",
+    "title": "Bibliography Of Indian Legends",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 48,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2007-12-18",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3782598A",
+        "last_name": "Of Indian Affairs",
+        "first_name": "Office"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931554M",
+    "title": "Combined Chronology",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 48,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2005-11-11",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3782599A",
+        "last_name": "Conger",
+        "first_name": "Margaret"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11931555M",
+    "title": "The Land Of Bolivar V2",
+    "city": null,
+    "publisher": "Kessinger Publishing, LLC",
+    "year": 2007,
+    "subject": "Latin America - South America",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 368,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2016-08-07",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1873110A",
+        "last_name": "Mudie Spence",
+        "first_name": "James"
+      }
+    ]
+  }
+]

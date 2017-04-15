@@ -1,7 +1,7 @@
 "use strict";
 
 const utils = require("./utils.js");
-const fetch = require("./mockaroo-fetch.js");
+const generator = require("./mockaroo-fetch.js");
 const data = require('./filling-data.json');
 const args = utils.args;
 
@@ -17,7 +17,7 @@ else {
         })
     }
     else {
-        fetch[ args.table ]( args.rows_count || 10)
+        generator.fetch(args.table, args.rows_count)
             .then( records => {
 
                 utils.writeSqlToFile({

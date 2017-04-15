@@ -1,0 +1,4432 @@
+[
+  {
+    "openlibrary_id": "/books/OL10250150M",
+    "title": "For the Children",
+    "city": null,
+    "publisher": "Scholastic Press",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2002-10-05",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1133066A",
+        "last_name": "Kolesnikov",
+        "first_name": "I͡U︡riĭ"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250151M",
+    "title": "It's Spring, Blue! (Blue's Clues It's Sring, Blue!)",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2005-02-08",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1233112A",
+        "last_name": "Rivers",
+        "first_name": "Henry"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250152M",
+    "title": "Just Wanna Have Fun (Rugrats)",
+    "city": null,
+    "publisher": "Klasky CSUPO inc.",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 61,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2003-12-24",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1139356A",
+        "last_name": "Pau",
+        "first_name": "Carles"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250153M",
+    "title": "The Perfect Bone (Cat Dog, Chapter Book 3)",
+    "city": null,
+    "publisher": "Scholastic Inc.",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2006-01-05",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1184893A",
+        "last_name": "Cant",
+        "first_name": "Garth"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250154M",
+    "title": "Redcoats and Petticoats",
+    "city": null,
+    "publisher": "Scholastic Inc.",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2010-02-17",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1031345A",
+        "last_name": "Koziński",
+        "first_name": "Zbigniew"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250155M",
+    "title": "Alpha Tales (Letter P: The Pigs Picnic) (Grades PreK-1)",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2001,
+    "subject": "Alphabet",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2011-08-13",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL62273A",
+        "last_name": "H. Moore",
+        "first_name": "Helen"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250156M",
+    "title": "Un Mundo Extrano",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": "Animals - Insects, Spiders, etc.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "spa",
+    "days_keep_count": 50,
+    "adding_date": "2010-01-19",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL24257A",
+        "last_name": "Berger",
+        "first_name": "Melvin"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250157M",
+    "title": "Angelica the Grape (Rugrats, #7)",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2007-08-09",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1341493A",
+        "last_name": "R. Lall",
+        "first_name": "R."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250158M",
+    "title": "Moose Tracks",
+    "city": null,
+    "publisher": "Schostic inc.",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2009-10-27",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1358394A",
+        "last_name": "Toshinori.",
+        "first_name": "Tsubouchi,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250159M",
+    "title": "Where Do You Think You're Going, Christopher Columbus ",
+    "city": null,
+    "publisher": "Scholastic. Inc.",
+    "year": 1999,
+    "subject": "JNF025060",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2001-07-22",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1104384A",
+        "last_name": "Whitford",
+        "first_name": "Ray"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1025015M",
+    "title": "Mealio",
+    "city": "Frisco, Tex. (P.O. Box 773, Frisco 75034)",
+    "publisher": "B.P.S. Buckles",
+    "year": 1996,
+    "subject": "Mealio family.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 145,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2003-09-10",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL551354A",
+        "last_name": "Pauline Smith Buckles",
+        "first_name": "Barbara"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250160M",
+    "title": "All about Me 2000 Prepack",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 1999,
+    "subject": "Crafts & Hobbies - Diaries & Journals",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2013-09-14",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2633017A",
+        "last_name": "Krulik",
+        "first_name": "Nancy"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250161M",
+    "title": "Star Wars Journals Episode 1 Mixed Prepack",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": "Action & Adventure - General",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2015-07-30",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2703425A",
+        "last_name": "Books",
+        "first_name": "Scholastic"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250162M",
+    "title": "Super-Science Readers - Animal Homes (Grades 2-3)",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": "Elementary",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2010-01-31",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2703506A",
+        "last_name": "Professional Books",
+        "first_name": "Scholastic"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250163M",
+    "title": "Animal homes (Super-science readers)",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": "Animals",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2004-11-21",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL36303A",
+        "last_name": "Fleming",
+        "first_name": "Maria"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250164M",
+    "title": "Super-Science Readers - Creepy Crawlies A to Z (Grades 2-3)",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": "Elementary",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2002-04-06",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2712040A",
+        "last_name": "Ainsworth",
+        "first_name": "Louisa"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250165M",
+    "title": "Super-Science Readers - The Life of a Butterfly (Grades 2-3)",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": "Elementary",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2005-06-13",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL232173A",
+        "last_name": "Bernard",
+        "first_name": "Robin"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250166M",
+    "title": "The life of a butterfly",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": "Butterflies",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2006-04-22",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL232173A",
+        "last_name": "Bernard",
+        "first_name": "Robin"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250167M",
+    "title": "Valentine's Day Mixed Prepack",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 1999,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2001-03-06",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2703425A",
+        "last_name": "Books",
+        "first_name": "Scholastic"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250168M",
+    "title": "Shocking Science",
+    "city": null,
+    "publisher": "Sterling Pub Co Inc",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2004-09-22",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3402906A",
+        "last_name": "Johnstone, Leslie Levine",
+        "first_name": "Shar;"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250169M",
+    "title": "Black Hands, White Sails",
+    "city": null,
+    "publisher": "Scholastic Press",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2009-10-09",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2703639A",
+        "last_name": "C. Mckissack",
+        "first_name": "Patricia"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1025016M",
+    "title": "Easy blood",
+    "city": "Olympia, WA",
+    "publisher": "DragonRed Pub.",
+    "year": 1997,
+    "subject": "Layton, Mike.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 320,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2015-12-20",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL410288A",
+        "last_name": "Layton",
+        "first_name": "Mike"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250170M",
+    "title": "Easter Mixed Prepack",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 1999,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2005-10-29",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2703425A",
+        "last_name": "Books",
+        "first_name": "Scholastic"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250171M",
+    "title": "Easter Mixed Prepack",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 1999,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2000-06-16",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2703425A",
+        "last_name": "Books",
+        "first_name": "Scholastic"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250172M",
+    "title": "Christmas in the Big Woods & My Book of Little House Christmas Paper Dolls",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 1995,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2016-11-26",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1105583A",
+        "last_name": "M. Buff",
+        "first_name": "Iva"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250173M",
+    "title": "Powerpuff Girls Mixed Prepack",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2014-09-13",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2703425A",
+        "last_name": "Books",
+        "first_name": "Scholastic"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250174M",
+    "title": "Star Wars Jedi Apprentice",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": "Action & Adventure",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2003-08-25",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2703425A",
+        "last_name": "Books",
+        "first_name": "Scholastic"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250175M",
+    "title": "Froggy's Halloween (Froggy)",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 1999,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 28,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2006-05-11",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL19943A",
+        "last_name": "London",
+        "first_name": "Jonathan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250176M",
+    "title": "Pochacco and Friends",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 48,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2007-06-29",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1148110A",
+        "last_name": "B. (David Brainard) Pilsbury",
+        "first_name": "David"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250177M",
+    "title": "Bands we love",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": "Popular music",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 32,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2015-04-11",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3402907A",
+        "last_name": "Shaw",
+        "first_name": "Kristen"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250178M",
+    "title": "Chip (Teacher's Pet)",
+    "city": null,
+    "publisher": "Little Apple",
+    "year": 2001,
+    "subject": "Computers - General",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 48,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2003-03-25",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1351224A",
+        "last_name": "Langston",
+        "first_name": "Kathleen"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250179M",
+    "title": "Dinosaur (Teacher's Pet)",
+    "city": null,
+    "publisher": "Little Apple",
+    "year": 2001,
+    "subject": "Animals - Dinosaurs & Prehistoric Creatures",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 48,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2008-07-02",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1433822A",
+        "last_name": "R. Livingston",
+        "first_name": "Donald"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1025017M",
+    "title": "Life on the line",
+    "city": "New York",
+    "publisher": "Ballantine",
+    "year": 1996,
+    "subject": "Wattleton, Faye",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 489,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2011-06-15",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL551355A",
+        "last_name": "Wattleton",
+        "first_name": "Faye"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250180M",
+    "title": "Tumble (Teacher's Pet)",
+    "city": null,
+    "publisher": "Little Apple",
+    "year": 2001,
+    "subject": "Sports & Recreation - Gymnastics",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 48,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2002-04-21",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1016120A",
+        "last_name": "Golt",
+        "first_name": "Sidney"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250181M",
+    "title": "Buzz (Teacher's Pet)",
+    "city": null,
+    "publisher": "Little Apple",
+    "year": 2001,
+    "subject": "Science & Nature - Astronomy",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 48,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2015-12-26",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL136214A",
+        "last_name": "Feulner",
+        "first_name": "Adolf"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250182M",
+    "title": "Outrageous (Teacher's Pet)",
+    "city": null,
+    "publisher": "Little Apple",
+    "year": 2001,
+    "subject": "Curiosities & Wonders",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 48,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2016-12-03",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1269334A",
+        "last_name": "A. Nēmas",
+        "first_name": "Theodōros"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250183M",
+    "title": "Fyn's (Teacher's Pet)",
+    "city": null,
+    "publisher": "Little Apple",
+    "year": 2001,
+    "subject": "Animals - Marine Life",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 48,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2004-04-08",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL118661A",
+        "last_name": "Kanda",
+        "first_name": "Matunosuke"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250184M",
+    "title": "Orangutans (Animal safari)",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": "Juvenile literature",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2000-05-25",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL23014A",
+        "last_name": "Helldorfer",
+        "first_name": "Mary-Claire"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250185M",
+    "title": "Suprise, Angelica",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2009-12-23",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2627888A",
+        "last_name": "Gold",
+        "first_name": "Gold"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250186M",
+    "title": "Look! (High Frequency Readers) (No. 14)",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": "Children's Books - General",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 9,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2005-12-05",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2830906A",
+        "last_name": "Chapman",
+        "first_name": "Cindy"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250187M",
+    "title": "What is It? (High Frequency Readers) (No. 16)",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": "Children's Books - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 9,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2002-08-09",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2703986A",
+        "last_name": "Tarlow",
+        "first_name": "Ellen"
+      },
+      {
+        "openlibrary_id": "/authors/OL265121A",
+        "last_name": "Blevins",
+        "first_name": "Wiley"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250188M",
+    "title": "My Secret Valentine",
+    "city": null,
+    "publisher": "Scholastic, Inc.",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2011-12-12",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL142920A",
+        "last_name": "Hummel",
+        "first_name": "Dieter"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250189M",
+    "title": "Los Pollitos dicen - The Baby Chicks Sing",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 32,
+    "lang": "spa",
+    "days_keep_count": 30,
+    "adding_date": "2012-03-25",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1334808A",
+        "last_name": "Setapanich",
+        "first_name": "Nongram"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1025018M",
+    "title": "A history of the family of Herman Hampton and Julious Bonnie Holloway Smith of Nashville, Tennessee",
+    "city": "Athens, Ga. (790 Quailwood Dr., Athens 30606)",
+    "publisher": "D. Dyson",
+    "year": 1996,
+    "subject": "Smith family.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 128,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2002-03-17",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL551356A",
+        "last_name": "Dyson",
+        "first_name": "Dawn"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250190M",
+    "title": "Sun and Moon (Scholastic Audio Cassette)",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2012-03-17",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1265279A",
+        "last_name": "Howard",
+        "first_name": "James"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250191M",
+    "title": "Top 25 Easy-To-Make Books, Word Walls and Charts for Building Literacy",
+    "city": null,
+    "publisher": "Scholastic Professional Books",
+    "year": 2001,
+    "subject": "Language Experience Approach",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 80,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2012-09-01",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3402908A",
+        "last_name": "Getman",
+        "first_name": "Heather"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250192M",
+    "title": "The Swimmers (Level B, Set 2, Book 4)",
+    "city": null,
+    "publisher": "Scholastic Inc.",
+    "year": 1987,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2005-04-16",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1022372A",
+        "last_name": "Ralf",
+        "first_name": "Kaminski,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250193M",
+    "title": "Samantha (Book 5, Level B, Set 2)",
+    "city": null,
+    "publisher": "Scholastic Inc.",
+    "year": 1987,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 22,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2007-04-04",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1399082A",
+        "last_name": "Roger Blythe",
+        "first_name": "T."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250194M",
+    "title": "The Sleepover Book",
+    "city": null,
+    "publisher": "Scholastic Inc.",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2012-07-12",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1409743A",
+        "last_name": "M. Marrone",
+        "first_name": "Garry"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250195M",
+    "title": "JumpStart Kindergarten Science & Nature Workbook",
+    "city": null,
+    "publisher": "Schholastic Inc.",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2008-09-09",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3402909A",
+        "last_name": "Franck",
+        "first_name": "Camilla"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250196M",
+    "title": "Jump Start 2nd Grade Parts of Speech",
+    "city": null,
+    "publisher": "scolastic",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 32,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2003-01-09",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1004954A",
+        "last_name": "P. McPherson",
+        "first_name": "Steven"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250197M",
+    "title": "Jump Start 2nd Grade Reading & Social Studies",
+    "city": null,
+    "publisher": "scholastic",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 32,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2004-10-14",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1399252A",
+        "last_name": "A. Lipkan",
+        "first_name": "V."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250198M",
+    "title": "Jump Start 2nd Grade Prefixes & Suffixes",
+    "city": null,
+    "publisher": "scholastic",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 32,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2000-11-27",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1021805A",
+        "last_name": "B. Tolochenko",
+        "first_name": "V."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250199M",
+    "title": "JumpStart Pre-K Letter Games Workbook",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2010,
+    "subject": "Adult Assortments Not to Be Sold Separately",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2008-03-15",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1067269A",
+        "last_name": "Maḥmūd Muḥammad ʻAbd al-Muṭṭalib",
+        "first_name": "Aḥmad"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1025019M",
+    "title": "Russian lessons",
+    "city": "Arlington, Va",
+    "publisher": "Cameron Publications Services",
+    "year": 1996,
+    "subject": "Schweitzer, Carole Dorsch -- Travel -- Russia (Federation) -- Moscow.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 274,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2008-04-04",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL551357A",
+        "last_name": "Dorsch Schweitzer",
+        "first_name": "Carole"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL102501M",
+    "title": "Problemy utilizat͡s︡ii i͡a︡dernogo oruzhii͡a︡",
+    "city": "Moskva",
+    "publisher": "Voen. akademii͡a︡ Raketnykh voĭsk strategicheskogo naznachenii͡a︡ im. Petra Velikogo",
+    "year": 1998,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 272,
+    "lang": "rus",
+    "days_keep_count": 200,
+    "adding_date": "2004-09-02",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL68831A",
+        "last_name": "N. Radaev",
+        "first_name": "N."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250200M",
+    "title": "JumpStart Pre-K Match & Remember Workbook",
+    "city": null,
+    "publisher": "Scholastic Inc.",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 32,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2000-04-22",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2703590A",
+        "last_name": "Sumeral Harrison",
+        "first_name": "Carol"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250201M",
+    "title": "JumpStart Pre-K Rhyming Words Workbook",
+    "city": null,
+    "publisher": "Scholastic Inc.",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 32,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2010-06-20",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3402905A",
+        "last_name": "Warrence",
+        "first_name": "Michelle"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250202M",
+    "title": "Jumpstart 1st Gr",
+    "city": null,
+    "publisher": "Cartwheel",
+    "year": 2001,
+    "subject": "Language Experience Approach",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 32,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2010-05-25",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL22195A",
+        "last_name": "Anastasio",
+        "first_name": "Dina"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250203M",
+    "title": "Jump Start 1st Grade Environment",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 32,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2003-06-29",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1298272A",
+        "last_name": "Nadinka.",
+        "first_name": "Rajnai,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250204M",
+    "title": "Jump Start 1st Grade Sounds (Jump Start, 1st Grade)",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2010-06-09",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1453701A",
+        "last_name": "Ines Giovagnoli",
+        "first_name": "Paula"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250205M",
+    "title": "Scholastic Reading Clubhouse Cassette #4",
+    "city": null,
+    "publisher": "scholastic",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2000-11-16",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1381421A",
+        "last_name": "Nacional de Rocha Fosfática (1st 1979 Brasília, Brazil)",
+        "first_name": "Encontro"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250206M",
+    "title": "Lions and Tigers and Leopards The Big Cats Jennifer C. Urquhart",
+    "city": null,
+    "publisher": "Scholastic INC.",
+    "year": 1999,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2007-09-25",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1254530A",
+        "last_name": "Xaver Procházka",
+        "first_name": "František"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250207M",
+    "title": "Los Musicos de Bremen / The Bremen-Town Musicians",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2001,
+    "subject": "Fairy Tales & Folklore - Single Title",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "spa",
+    "days_keep_count": 200,
+    "adding_date": "2001-10-07",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL25873A",
+        "last_name": "Wilhelm",
+        "first_name": "Hans"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250208M",
+    "title": "Backstage Pass Prepack",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2009-09-25",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2703588A",
+        "last_name": "Raso",
+        "first_name": "Anne"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250209M",
+    "title": "Pokemon Charizard Go Prepack",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2007-03-04",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL67633A",
+        "last_name": "West",
+        "first_name": "Tracey"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1025020M",
+    "title": "River tips and tree trunks",
+    "city": "North Liberty, Iowa",
+    "publisher": "Ice Cube Press",
+    "year": 1996,
+    "subject": "Rivers -- West (U.S.)",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 112,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2011-02-07",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL551358A",
+        "last_name": "H. Semken",
+        "first_name": "S."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250210M",
+    "title": "Supb-Easy Shape Art",
+    "city": null,
+    "publisher": "Teaching Resources",
+    "year": 2002,
+    "subject": "Education / Teaching Methods & Materials / General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 48,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2000-08-02",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3402910A",
+        "last_name": "Howes",
+        "first_name": "Jacqueline"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250211M",
+    "title": "Dinofours",
+    "city": null,
+    "publisher": "Scholastic Inc.",
+    "year": 2001,
+    "subject": "Animals - Dinosaurs & Prehistoric Creatures",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 32,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2011-07-16",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL18868A",
+        "last_name": "Metzger",
+        "first_name": "Steve"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250212M",
+    "title": "The little banjo",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": "Banjo",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2015-08-09",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL221875A",
+        "last_name": "Wolkstein",
+        "first_name": "Diane"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250213M",
+    "title": "Oceans (Make it work!)",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": "Experiments",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 47,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2002-09-20",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL217995A",
+        "last_name": "Haslam",
+        "first_name": "Andrew"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250214M",
+    "title": "The Mystery of Mars",
+    "city": null,
+    "publisher": "Scholastic, Inc.",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2009-12-02",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1003959A",
+        "last_name": "June Flanders",
+        "first_name": "M."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250215M",
+    "title": "The Cat Barked?",
+    "city": null,
+    "publisher": "Scholastic Inc.",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2000-08-08",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1383566A",
+        "last_name": "Fenglin.",
+        "first_name": "Wang,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250216M",
+    "title": "The Little Banjo",
+    "city": null,
+    "publisher": "Scholastic Inc.",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2006-04-08",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1202434A",
+        "last_name": "Sédillot",
+        "first_name": "L.-A"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250217M",
+    "title": "UN Libro Sobre El Esqueleto",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2002,
+    "subject": "Anatomy",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "spa",
+    "days_keep_count": 10,
+    "adding_date": "2015-06-09",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL723677A",
+        "last_name": "Belov Gross",
+        "first_name": "Ruth"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250218M",
+    "title": "Jumpstart Prepack",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": "Readers - Beginner",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2002-11-30",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2703425A",
+        "last_name": "Books",
+        "first_name": "Scholastic"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250219M",
+    "title": "The Singing Chick",
+    "city": null,
+    "publisher": "Scholastic Inc",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2003-09-04",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL218395A",
+        "last_name": "Stenmark",
+        "first_name": "Victoria"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1025021M",
+    "title": "The women's armchair guide to pro football",
+    "city": "New York, NY",
+    "publisher": "BVision Sportsmedia, L.P.",
+    "year": 1996,
+    "subject": "National Football League -- Miscellanea.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 132,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2016-10-07",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL248218A",
+        "last_name": "Berns",
+        "first_name": "Betsy"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250220M",
+    "title": "Super-Science Readers - Swim With the Whales (Grades 2-3)",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": "Marine Life",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2000-12-20",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2816333A",
+        "last_name": "W. Kranking",
+        "first_name": "Kathleen"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250221M",
+    "title": "The Night Sky",
+    "city": null,
+    "publisher": "Scholastic Inc",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2014-09-30",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1433109A",
+        "last_name": "Andrea Bowen",
+        "first_name": "Michele"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250222M",
+    "title": "What Mommies Do Best/What Daddies Do Best",
+    "city": null,
+    "publisher": "Scholastic Inc.",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2008-10-03",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2629701A",
+        "last_name": "Numeroff",
+        "first_name": "Laura"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250223M",
+    "title": "Pooh's Easter Egg Hunt",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 1999,
+    "subject": "Readers - Beginner",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 28,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2003-02-09",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL35974A",
+        "last_name": "Gaines",
+        "first_name": "Isabel"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250224M",
+    "title": "Get Sporty",
+    "city": null,
+    "publisher": "Scholastic, Inc.",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 92,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2003-04-06",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1097670A",
+        "last_name": "C. Laurie",
+        "first_name": "Ian"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250225M",
+    "title": "You Go Girl! 101 Reasons Why It's Great to Be a Girl",
+    "city": null,
+    "publisher": "Scholastic, Inc.",
+    "year": 2000,
+    "subject": "Girls, Modern, Children's Literature, Opportunities for girls",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2006-09-07",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1166063A",
+        "last_name": "V. Kostrikov",
+        "first_name": "P."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250226M",
+    "title": "Girl chat",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2001,
+    "subject": "Girl's fun, phone facts, talk, conversation",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 105,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2012-05-10",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1385748A",
+        "last_name": "Dickerson",
+        "first_name": "Karle"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250227M",
+    "title": "What's Cooking in My World",
+    "city": null,
+    "publisher": "SCHOLASTIC",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2016-05-17",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1394138A",
+        "last_name": "J. Sansom",
+        "first_name": "C."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250228M",
+    "title": "Girl to Girl - Awesome Tips and Cool Info from Six Girls Like You",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2000-06-26",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1019177A",
+        "last_name": "Arnanz",
+        "first_name": "Enrique"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250229M",
+    "title": "BE A SPORT HOW TO BE AN AWESOME ATHLETE AND HAVE A BALL",
+    "city": null,
+    "publisher": "Scholastic Book Services",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2010-09-16",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL12958A",
+        "last_name": "Mahāpātra",
+        "first_name": "Yadumaṇi"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1025022M",
+    "title": "Outer search inner journey",
+    "city": "Puyallup, Wash",
+    "publisher": "Aphrodite Pub. Co.",
+    "year": 1997,
+    "subject": "Dodds, Peter F.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 280,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2016-07-29",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL551359A",
+        "last_name": "F. Dodds",
+        "first_name": "Peter"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250230M",
+    "title": "Make it Work! INSECTS (The Hands-on Approach to Science)",
+    "city": null,
+    "publisher": "Scholastic-Two Can Publishing Ltd.",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2000-04-02",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1141570A",
+        "last_name": "Andreev",
+        "first_name": "German"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250231M",
+    "title": "Shrinking Mouse",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2011-04-08",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1291360A",
+        "last_name": "G. Ravich",
+        "first_name": "M."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250232M",
+    "title": "Curious George Goes Camping (Margret & H.A. Rey's)",
+    "city": null,
+    "publisher": "Scholastic Inc.",
+    "year": 1999,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 24,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2004-06-26",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1260222A",
+        "last_name": "Extraordinaria de Ministros de OLADE (1st 1979 San José, Costa Rica)",
+        "first_name": "Reunión"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250233M",
+    "title": "Franklin Goes to the Hospital",
+    "city": null,
+    "publisher": "scholastic",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2010-12-31",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1201660A",
+        "last_name": "Painchaud",
+        "first_name": "Gisèle"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250234M",
+    "title": "Toot & Puddle - A Present for Toot",
+    "city": null,
+    "publisher": "scholastic",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2002-12-24",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1447908A",
+        "last_name": "I. Kininē",
+        "first_name": "Ephē"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250235M",
+    "title": "More Proofreading Practice, Please! (FunnyBone Books, Grade 5)",
+    "city": null,
+    "publisher": "Teaching Resources",
+    "year": 2003,
+    "subject": "Elementary",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 48,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2014-06-14",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2159069A",
+        "last_name": "Greenberg",
+        "first_name": "Dan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250236M",
+    "title": "Just Dog",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 1999,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2012-09-06",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1143910A",
+        "last_name": "of Friends of the People (Philadelphia, Pa.)",
+        "first_name": "Society"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250237M",
+    "title": "Owly",
+    "city": null,
+    "publisher": "Scholastic Inc.",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2009-06-08",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL39842A",
+        "last_name": "Thaler",
+        "first_name": "Mike"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250238M",
+    "title": "Daisy and the Egg",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2011-08-05",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1319361A",
+        "last_name": "Camargos Barreto",
+        "first_name": "Ivete"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250239M",
+    "title": "Rugrats",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2002-03-20",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3402911A",
+        "last_name": "Maria Cardona Kitty Richards",
+        "first_name": "Jose"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1025023M",
+    "title": "Nuances, the soul of hospice",
+    "city": "Branford, CT",
+    "publisher": "Connecticut Hospice",
+    "year": 1997,
+    "subject": "Connecticut Hospice.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 119,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2005-12-18",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL551360A",
+        "last_name": "W. Abbott",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250240M",
+    "title": "SOLARES",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2003-06-28",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2627058A",
+        "last_name": "a",
+        "first_name": "a"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250241M",
+    "title": "The Secrets of Droon Mixed Prepack",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2000-05-10",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL514471A",
+        "last_name": "Abbott",
+        "first_name": "Tony"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250242M",
+    "title": "The Boxcar Children The Hockey Mystery",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2003-08-17",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1225711A",
+        "last_name": "Breiding",
+        "first_name": "Klaus"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250243M",
+    "title": "Mean, Mean Maureen Green",
+    "city": null,
+    "publisher": "Yearling Books",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2007-07-23",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1412527A",
+        "last_name": "Capone",
+        "first_name": "Lorenzo"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250244M",
+    "title": "Emily Elizabeth Dress-Up Doll",
+    "city": null,
+    "publisher": "Sidekicks",
+    "year": 2002,
+    "subject": "Toys, Dolls, & Puppets",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2015-12-11",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3402912A",
+        "last_name": "Elizabeth Sk",
+        "first_name": "Emily"
+      },
+      {
+        "openlibrary_id": "/authors/OL2703421A",
+        "last_name": "Scholastic",
+        "first_name": "Scholastic"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250245M",
+    "title": "Finger Skate Board Tricks and Tips",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": "Games & Activities - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 32,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2012-03-22",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3402913A",
+        "last_name": "Buntrock",
+        "first_name": "Susan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250246M",
+    "title": "Scholastic Read XL",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2000-11-14",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1090836A",
+        "last_name": "G. Biesele",
+        "first_name": "Igildo"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250247M",
+    "title": "Scholastic Read XL",
+    "city": null,
+    "publisher": null,
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2010-08-25",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL132448A",
+        "last_name": "Mahraun",
+        "first_name": "Artur"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250248M",
+    "title": "Scholastic Read XL",
+    "city": null,
+    "publisher": "Scholastic Inc.",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2001-08-16",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1285850A",
+        "last_name": "M. Stojković",
+        "first_name": "Momir"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250249M",
+    "title": "Scholastic Read XL Teacher's Guide 6th grade (Reading XL)",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2001,
+    "subject": "text",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 418,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2013-03-08",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1339639A",
+        "last_name": "Keene Ferguson",
+        "first_name": "W."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1025024M",
+    "title": "I found life through suicide",
+    "city": "Mt. Pleasant, Mich",
+    "publisher": "Bach Communications",
+    "year": 1996,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 133,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2005-07-09",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL551361A",
+        "last_name": "A. Bach",
+        "first_name": "Steven"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250250M",
+    "title": "Scholastic Read XL - Teacher's Guide - Grade 7",
+    "city": null,
+    "publisher": "Scholastic Inc.",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2007-07-10",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1454937A",
+        "last_name": "C. Brodie",
+        "first_name": "Regis"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250251M",
+    "title": "Scholastic Read Xl: Reading Improvement: Reading Excellence: Teacher's Guide",
+    "city": null,
+    "publisher": null,
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2016-08-13",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1362841A",
+        "last_name": "Mirkovich",
+        "first_name": "Kamen"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250252M",
+    "title": "Scholastic Read XL &gt;&gt; Reading Improvement &gt;&gt; Reading Excellence - Assessment Grade 8",
+    "city": null,
+    "publisher": null,
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2005-08-27",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1376120A",
+        "last_name": "Witt",
+        "first_name": "Günter"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250253M",
+    "title": "Scholastic Read XL 6th grade Practice book (Read XL Practice Book)",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2001,
+    "subject": "text",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 176,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2009-06-22",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1205947A",
+        "last_name": "Robertson",
+        "first_name": "Wyndham"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250254M",
+    "title": "Scholastic Read XL - Practice Book - Grade 7",
+    "city": null,
+    "publisher": "Scholastic Inc.",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2015-03-31",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1440600A",
+        "last_name": "Vāsudēvamūrti.",
+        "first_name": "Vāsudēvamūrti."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250255M",
+    "title": "Scholastic Read XL Level 8 Practice Book",
+    "city": null,
+    "publisher": "Scholastic Inc.",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 174,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2009-01-29",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1127458A",
+        "last_name": "Jo McCoy",
+        "first_name": "Ruth"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250256M",
+    "title": "Hansel Y Gretel",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": "Fairy Tales & Folklore - Single Title",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 46,
+    "lang": "spa",
+    "days_keep_count": 50,
+    "adding_date": "2003-09-21",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL723677A",
+        "last_name": "Belov Gross",
+        "first_name": "Ruth"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250257M",
+    "title": "Dinosaur balloons (Action pack)",
+    "city": null,
+    "publisher": "Tangerine Press",
+    "year": 2000,
+    "subject": "Balloon sculpture",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 24,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2015-10-01",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3402914A",
+        "last_name": "Lumby",
+        "first_name": "Ted"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250258M",
+    "title": "Teaching with the Rib-Tickling Poetry of Douglas Florian",
+    "city": null,
+    "publisher": "Teaching Resources",
+    "year": 2003,
+    "subject": "Teaching Methods & Materials - Language Arts",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 80,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2016-01-31",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1510209A",
+        "last_name": "Novelli",
+        "first_name": "Joan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250259M",
+    "title": "Mini Gift Books for Your Class",
+    "city": null,
+    "publisher": "Scholastic Professional Books",
+    "year": 2000,
+    "subject": "Teaching Methods & Materials - Classroom Planning",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2011-12-25",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3402915A",
+        "last_name": "& Mayer",
+        "first_name": "Backer"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1025025M",
+    "title": "Dreams of dolphins dancing",
+    "city": "Cornville, Ariz",
+    "publisher": "Curtis Books",
+    "year": 1997,
+    "subject": "Dolphins -- Fiction.",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2000-04-22",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL551362A",
+        "last_name": "Bourque",
+        "first_name": "Joan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250260M",
+    "title": "Mini Gift Books for Your Class",
+    "city": null,
+    "publisher": "Scholastic Professional Books",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2010-05-06",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3402915A",
+        "last_name": "& Mayer",
+        "first_name": "Backer"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250261M",
+    "title": "Mini Gift Books for Your Class",
+    "city": null,
+    "publisher": "Scholastic Professional Books",
+    "year": 2000,
+    "subject": "Teaching Methods & Materials - Classroom Planning",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2007-11-12",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3402915A",
+        "last_name": "& Mayer",
+        "first_name": "Backer"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250262M",
+    "title": "Logico (A logical approach to Learning)",
+    "city": null,
+    "publisher": "Scholastic & Tangerine Press",
+    "year": 1998,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2010-11-08",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1214358A",
+        "last_name": "Evensmo",
+        "first_name": "Jan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250263M",
+    "title": "Clifford The Small Red Puppy Teether Rattle",
+    "city": null,
+    "publisher": "Sidekicks",
+    "year": 2003,
+    "subject": "Juvenile Fiction / Toys, Dolls, Puppets",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2006-03-11",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2703403A",
+        "last_name": "Inc.",
+        "first_name": "Scholastic"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250264M",
+    "title": "The Gruffalo",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2006-07-12",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL232548A",
+        "last_name": "Donaldson",
+        "first_name": "Julia"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250265M",
+    "title": "Scooby-Doo #01 Prepack",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2011-08-08",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2703421A",
+        "last_name": "Scholastic",
+        "first_name": "Scholastic"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250266M",
+    "title": "Scooby-Doo #02 Prepack",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2016-05-12",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2703421A",
+        "last_name": "Scholastic",
+        "first_name": "Scholastic"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250267M",
+    "title": "Animal Ark Mixed Prepack",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2011-08-03",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1353348A",
+        "last_name": "Desiato",
+        "first_name": "James"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250268M",
+    "title": "American History; More Than 100 Facts You Won't Believe (Know-It-All)",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2009-10-09",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1323964A",
+        "last_name": "Cunha",
+        "first_name": "Gérson"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250269M",
+    "title": "Inventions & great ideas (Know-it-all)",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2001,
+    "subject": "Inventions",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 53,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2001-02-20",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1399558A",
+        "last_name": "Deprisco",
+        "first_name": "Dorothea"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1025026M",
+    "title": "A-Plus notes for algebra",
+    "city": "Redondo Beach, CA",
+    "publisher": "A-Plus Notes Learning Center",
+    "year": 1996,
+    "subject": "Algebra.",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 223,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2010-01-21",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL551363A",
+        "last_name": "Yang",
+        "first_name": "Rong"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250270M",
+    "title": "Bumblebee, Bumblebee, Do You Know Me?",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2015-04-24",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1199620A",
+        "last_name": "Rubino",
+        "first_name": "Luciano"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250271M",
+    "title": "Clifford The Small Red Puppy Stack-ring Developmental Toy",
+    "city": null,
+    "publisher": "Sidekicks",
+    "year": 2003,
+    "subject": "Non-Classifiable",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2015-02-04",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2703403A",
+        "last_name": "Inc.",
+        "first_name": "Scholastic"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250272M",
+    "title": "Clifford The Small Red Puppy Ring Rattle",
+    "city": null,
+    "publisher": "Sidekicks",
+    "year": 2003,
+    "subject": "Non-Classifiable",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2000-02-22",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2703403A",
+        "last_name": "Inc.",
+        "first_name": "Scholastic"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250273M",
+    "title": "Clifford The Small Red Puppy Crinkle Rattle",
+    "city": null,
+    "publisher": "Sidekicks",
+    "year": 2003,
+    "subject": "Juvenile Fiction / Toys, Dolls, Puppets",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2016-10-21",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2703403A",
+        "last_name": "Inc.",
+        "first_name": "Scholastic"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250274M",
+    "title": "Emily Elizabeth Playwear - Cheerleading Outfit (Sidekicks)",
+    "city": null,
+    "publisher": "Sidekicks",
+    "year": 2003,
+    "subject": "Juvenile Fiction / Toys, Dolls, Puppets",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2016-05-23",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2703403A",
+        "last_name": "Inc.",
+        "first_name": "Scholastic"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250275M",
+    "title": "Clifford The Small Red Puppy Display",
+    "city": null,
+    "publisher": "Sidekicks",
+    "year": 2003,
+    "subject": "Juvenile Fiction / Toys, Dolls, Puppets",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2012-06-09",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2703403A",
+        "last_name": "Inc.",
+        "first_name": "Scholastic"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250276M",
+    "title": "Elympics ",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2014-02-23",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1182321A",
+        "last_name": "Agarwal",
+        "first_name": "Sushila"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250277M",
+    "title": "JUST A LITTLE BIT (Scholastic Audio Cassette)",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2008-02-06",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1067450A",
+        "last_name": "Muḥammad Jammāl",
+        "first_name": "Rāsim"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250278M",
+    "title": "Tweety's High-Flying Adventure",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": "Action & Adventure",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 32,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2010-09-19",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL34865A",
+        "last_name": "E. Heller",
+        "first_name": "Sarah"
+      },
+      {
+        "openlibrary_id": "/authors/OL29446A",
+        "last_name": "Cristaldi",
+        "first_name": "Kathryn"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250279M",
+    "title": "Around the World in Tweety Time",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": "Action & Adventure",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 24,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2011-02-11",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL34865A",
+        "last_name": "E. Heller",
+        "first_name": "Sarah"
+      },
+      {
+        "openlibrary_id": "/authors/OL29446A",
+        "last_name": "Cristaldi",
+        "first_name": "Kathryn"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1025027M",
+    "title": "Native Tennessee authors and illustrators of children's and young adult literature",
+    "city": "White Bluff, TN",
+    "publisher": "M.F. Phenicie",
+    "year": 1996,
+    "subject": "Children's literature, American -- Tennessee -- Bio-bibliography -- Dictionaries",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 164,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2000-01-29",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL551364A",
+        "last_name": "Frances Phenicie",
+        "first_name": "Mary"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250280M",
+    "title": "WALKER'S CROSSING",
+    "city": null,
+    "publisher": "Simon and Schuster Children's Publishing Division New York",
+    "year": 1999,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2012-04-24",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1436410A",
+        "last_name": "Hammerness",
+        "first_name": "Karen"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250281M",
+    "title": "Everworld Prepack",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 167,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2001-12-05",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2703454A",
+        "last_name": "A. Applegate",
+        "first_name": "Katherine"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250282M",
+    "title": "BFF cookbook",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": "Cookery",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 88,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2001-08-08",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3402916A",
+        "last_name": "E DerKazarian",
+        "first_name": "Susan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250283M",
+    "title": "Election 2000 Road White House",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2002-01-20",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2703403A",
+        "last_name": "Inc.",
+        "first_name": "Scholastic"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250284M",
+    "title": "Teddy Bears' Trick-or-Treat",
+    "city": null,
+    "publisher": "Cartwheel Books",
+    "year": 2001,
+    "subject": "Holidays & Celebrations - Halloween",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 12,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2007-07-14",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2703604A",
+        "last_name": "Williams",
+        "first_name": "Sam"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250285M",
+    "title": "Froggy Aprende a Nadar",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 1995,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "spa",
+    "days_keep_count": 10,
+    "adding_date": "2009-05-26",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL10344A",
+        "last_name": "Mahboobani",
+        "first_name": "Goverdhan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250286M",
+    "title": "Wild Earth",
+    "city": null,
+    "publisher": "Cartwheel",
+    "year": 2002,
+    "subject": "Juvenile Nonfiction",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 48,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2007-02-28",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL218961A",
+        "last_name": "Jean Hopping",
+        "first_name": "Lorraine"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250287M",
+    "title": "Wild Weather",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2002,
+    "subject": "Earthquakes & Volcanoes",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 44,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2013-05-20",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL218961A",
+        "last_name": "Jean Hopping",
+        "first_name": "Lorraine"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250288M",
+    "title": "Mad Science #5: Clue Me In!",
+    "city": null,
+    "publisher": "Scholastic Paperbacks",
+    "year": 2003,
+    "subject": "Mysteries, Espionage, & Detective Stories",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 112,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2001-12-10",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL228331A",
+        "last_name": "Keenan",
+        "first_name": "Sheila"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250289M",
+    "title": "Fluffy Learns to Read (Fluffy The Classroom Guinea Pig)",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 8,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2007-07-15",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1011846A",
+        "last_name": "Moody Genthner",
+        "first_name": "Nancy"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1025028M",
+    "title": "Brutal delicacies",
+    "city": "[Ormond Beach, FL",
+    "publisher": "Camelot Pub. Co.",
+    "year": 1996,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 544,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2002-02-21",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL551365A",
+        "last_name": "Camner",
+        "first_name": "Howard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250290M",
+    "title": "Teacher's Pets",
+    "city": null,
+    "publisher": "Tangerine Press",
+    "year": 2001,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 32,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2000-06-22",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1386090A",
+        "last_name": "Dower",
+        "first_name": "Laura"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250291M",
+    "title": "Albert's Ballgame",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 1996,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 33,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2005-12-26",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3402917A",
+        "last_name": "Tyron",
+        "first_name": "Leslie"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250292M",
+    "title": "Oral Presentations Made Easy!",
+    "city": null,
+    "publisher": "Scholastic Professional Books",
+    "year": 2002,
+    "subject": "Elementary",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 48,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2009-03-13",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL260241A",
+        "last_name": "Barlow",
+        "first_name": "Bob"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250293M",
+    "title": "Hello Reader Prepack #02",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2015-09-19",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2703425A",
+        "last_name": "Books",
+        "first_name": "Scholastic"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250294M",
+    "title": "Hello Reader Prepack #01",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2013-03-13",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2703425A",
+        "last_name": "Books",
+        "first_name": "Scholastic"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250295M",
+    "title": "Whoops!",
+    "city": null,
+    "publisher": "Scholastic, Inc.",
+    "year": 1999,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2012-06-06",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1291775A",
+        "last_name": "Study Team.",
+        "first_name": "UNDP/ILO"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250296M",
+    "title": "Rooster's Surprise",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 1999,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 8,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2001-06-22",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3402918A",
+        "last_name": "Coghill",
+        "first_name": "Vicki"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250297M",
+    "title": "The Lost Hat",
+    "city": null,
+    "publisher": "Scholastic, Inc.",
+    "year": 1999,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2009-05-21",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1366086A",
+        "last_name": "Podestá",
+        "first_name": "Carlos"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250298M",
+    "title": "Down on the Farm",
+    "city": null,
+    "publisher": "Scholastic, Inc.",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2010-10-11",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1239857A",
+        "last_name": "van Dam",
+        "first_name": "Wim"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250299M",
+    "title": "Going to Town",
+    "city": null,
+    "publisher": "Scholastic, Inc.",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2011-11-11",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1388857A",
+        "last_name": "Gutteridge",
+        "first_name": "Rene"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1025029M",
+    "title": "Colt .45 government models",
+    "city": "Fort Wayne, IN",
+    "publisher": "C.W. Clawson",
+    "year": 1996,
+    "subject": "Automatic pistols.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 230,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2008-02-21",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL248221A",
+        "last_name": "W. Clawson",
+        "first_name": "Charles"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL102502M",
+    "title": "Corrupción y cambio",
+    "city": "México",
+    "publisher": "Fondo de Cultura Económica",
+    "year": 1998,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 399,
+    "lang": "spa",
+    "days_keep_count": 100,
+    "adding_date": "2016-05-15",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1061132A",
+        "last_name": "Reisenleitner",
+        "first_name": "Gudula"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250300M",
+    "title": "The Fence",
+    "city": null,
+    "publisher": "Scholastic, Inc.",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2014-01-12",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1277088A",
+        "last_name": "Toshiharu",
+        "first_name": "Itō,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250301M",
+    "title": "In the House",
+    "city": null,
+    "publisher": "Scholastic, Inc.",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2009-02-13",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1004162A",
+        "last_name": "M. Verner",
+        "first_name": "Andrew"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250302M",
+    "title": "Animals on the Farm",
+    "city": null,
+    "publisher": "Scholastic, Inc.",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 8,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2005-06-13",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL127210A",
+        "last_name": "Luis",
+        "first_name": "Cabrera,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250303M",
+    "title": "2 Grrrls",
+    "city": null,
+    "publisher": "Scholastic Paperbacks",
+    "year": 2001,
+    "subject": "Juvenile Fiction",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 64,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2012-04-25",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2633017A",
+        "last_name": "Krulik",
+        "first_name": "Nancy"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250304M",
+    "title": "One Thing I'm Good At",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 137,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2003-10-11",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1341989A",
+        "last_name": "Māmuna, Ābadullāh.",
+        "first_name": "Āla"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250305M",
+    "title": "Star Wars Episode 1 Journal Pack- Anakin Skywalker and Queen Amidala (Star Wars Episode 1 Journal)",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 1999,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2001-09-30",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL92907A",
+        "last_name": "Strasser",
+        "first_name": "Todd"
+      },
+      {
+        "openlibrary_id": "/authors/OL444006A",
+        "last_name": "Watson",
+        "first_name": "Jude"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250306M",
+    "title": "Ogres! Ogres! Ogres! A Feasting Frenzy from A to Z",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2012-07-09",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL32495A",
+        "last_name": "Heller",
+        "first_name": "Nicholas"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250307M",
+    "title": "Class Acts",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": "Social Issues - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 48,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2001-01-15",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2802801A",
+        "last_name": "T. Morreale",
+        "first_name": "Marie"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250308M",
+    "title": "Scholastic Question and Answer Mixed Prepack",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2012-05-21",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2703421A",
+        "last_name": "Scholastic",
+        "first_name": "Scholastic"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250309M",
+    "title": "Ready-to-go Reproducibles: Standardized Test Skill Builders",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": "Teaching Methods & Materials - Mathematics",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 48,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2016-10-02",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1342227A",
+        "last_name": "Rashid Ahmed",
+        "first_name": "A."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1025030M",
+    "title": "Hide & seek",
+    "city": "Hubbardston, Mass",
+    "publisher": "Deer Pond Pub.",
+    "year": 1997,
+    "subject": "Hunting -- Fiction.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 128,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2005-04-24",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL235534A",
+        "last_name": "Scott.",
+        "first_name": "Johnson,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250310M",
+    "title": "Ready-to-go Reproducibles: Standardized Test Skill Builders",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": "Teaching Methods & Materials - Classroom Planning",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 48,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2011-02-28",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1296925A",
+        "last_name": "Kasindorf",
+        "first_name": "Jeanie"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250311M",
+    "title": "TEN MEN",
+    "city": null,
+    "publisher": "Scholastic, Inc",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2005-03-28",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL30892A",
+        "last_name": "Cherrington",
+        "first_name": "Janelle"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250312M",
+    "title": "WE ARE TEN",
+    "city": null,
+    "publisher": "SCHOLASTIC, INC.",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2000-08-02",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3402919A",
+        "last_name": "TarLOW",
+        "first_name": "ELLEN"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250313M",
+    "title": "Hop on Top (My FIrst Phonics Readers, Book 4)",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2002-04-11",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1287826A",
+        "last_name": "Aviḥatsira",
+        "first_name": "Shalom"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250314M",
+    "title": "Scholastic Reference Mixed Prepack",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": "Children's Books/Ages 9-12 Nonfiction",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2006-12-28",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2703421A",
+        "last_name": "Scholastic",
+        "first_name": "Scholastic"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250315M",
+    "title": "Around the World Who's Been Here?",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2009-08-23",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL21160A",
+        "last_name": "Barrett George",
+        "first_name": "Lindsay"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250316M",
+    "title": "Tricks and Treats Mixed Prepack",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2000-02-25",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2703421A",
+        "last_name": "Scholastic",
+        "first_name": "Scholastic"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250317M",
+    "title": "Scholastic Read XL 6th grade test preperation (Reading improvement, reading excellence)",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2001,
+    "subject": "text",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 88,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2004-05-15",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1415544A",
+        "last_name": "Shtëmbari",
+        "first_name": "Kristaq"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250318M",
+    "title": "Read XL Grade 8",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2016-11-23",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL133732A",
+        "last_name": "García Nieto",
+        "first_name": "José"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250319M",
+    "title": "Un Bolsillo Para Corduroy Book and Cassette",
+    "city": null,
+    "publisher": "Scholastic, Inc",
+    "year": 1995,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2002-11-09",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1476261A",
+        "last_name": "Freeman",
+        "first_name": "Don"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1025031M",
+    "title": "The DHEA breakthrough",
+    "city": "New York",
+    "publisher": "Ballantine Books",
+    "year": 1996,
+    "subject": "Dehydroepiandrosterone -- Therapeutic use.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 309,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2009-05-10",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL227939A",
+        "last_name": "Snehan Cherniske",
+        "first_name": "Stephen"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250320M",
+    "title": "Science fair bunnies",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2001,
+    "subject": "Juvenile fiction",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2010-07-15",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL19258A",
+        "last_name": "Lasky",
+        "first_name": "Kathryn"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250321M",
+    "title": "Best Friends Notes",
+    "city": null,
+    "publisher": "Scholastic, Inc.",
+    "year": 1999,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2014-02-07",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1366015A",
+        "last_name": "Repšys",
+        "first_name": "Petras"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250322M",
+    "title": "Contrary Bear",
+    "city": null,
+    "publisher": "Scholastic Inc.",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2008-02-07",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1012912A",
+        "last_name": "H. Weil",
+        "first_name": "Harry"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250323M",
+    "title": "Clifford the Big Red Dog Plush Bookmark",
+    "city": null,
+    "publisher": "Sidekicks",
+    "year": 1999,
+    "subject": "Readers - Beginner",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2012-05-17",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2703421A",
+        "last_name": "Scholastic",
+        "first_name": "Scholastic"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250324M",
+    "title": "Memorizing Strategies & Other Brain-Based Activities",
+    "city": null,
+    "publisher": "Teaching Resources",
+    "year": 2004,
+    "subject": "Learning Styles",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 80,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2008-12-26",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2703483A",
+        "last_name": "Nickelsen",
+        "first_name": "Leann"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250325M",
+    "title": "Spin-A-Story Writing Prompts Chart (Grades 2-5)",
+    "city": null,
+    "publisher": "Scholastic Professional Books",
+    "year": 2000,
+    "subject": "Teaching Methods & Materials - Classroom Planning",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2005-10-03",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1125205A",
+        "last_name": "Advanced Research Workshop on Asymmetric Catalysis (1984 Sanibel Island, Fla.)",
+        "first_name": "NATO"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250326M",
+    "title": "15 Easy & Irresistible Math Mini Books",
+    "city": null,
+    "publisher": "Scholastic Professional Books",
+    "year": 2002,
+    "subject": "Elementary",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 80,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2009-03-06",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL384598A",
+        "last_name": "Ann Crawford",
+        "first_name": "Sheryl"
+      },
+      {
+        "openlibrary_id": "/authors/OL19746A",
+        "last_name": "I. Sanders",
+        "first_name": "Nancy"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250327M",
+    "title": "Thematic Poetry",
+    "city": null,
+    "publisher": "Instructor Books",
+    "year": 2001,
+    "subject": "Elementary",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 32,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2016-01-30",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL32035A",
+        "last_name": "Franco",
+        "first_name": "Betsy"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250328M",
+    "title": "Thematic Poetry",
+    "city": null,
+    "publisher": "Instructor Books",
+    "year": 2001,
+    "subject": "Elementary",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 32,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2003-11-27",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL32035A",
+        "last_name": "Franco",
+        "first_name": "Betsy"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10250329M",
+    "title": "Meet the Stars of Professional Wrestling",
+    "city": null,
+    "publisher": "Scholastic",
+    "year": 2000,
+    "subject": "Sports & Recreation - Miscellaneous",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 48,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2011-06-13",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL56863A",
+        "last_name": "Preller",
+        "first_name": "James"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1025032M",
+    "title": "Apart",
+    "city": "Los Angeles",
+    "publisher": "Books Apart",
+    "year": 1996,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 335,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2007-06-01",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL551366A",
+        "last_name": "Jameswright",
+        "first_name": "Robert"
+      }
+    ]
+  }
+]

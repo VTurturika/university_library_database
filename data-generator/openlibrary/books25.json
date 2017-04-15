@@ -1,0 +1,4402 @@
+[
+  {
+    "openlibrary_id": "/books/OL14171212M",
+    "title": "(13)Thirteenth annual report for year ending 31st March 1963.",
+    "city": "Corby",
+    "publisher": "Corby Development Corporation",
+    "year": 1963,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2001-04-15",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4515028A",
+        "last_name": "Development Corporation.",
+        "first_name": "Corby"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171213M",
+    "title": "Associated Architectural Societies' reports and papers",
+    "city": "Lincoln",
+    "publisher": "The Lincolnshire Chronicle Ltd",
+    "year": 1914,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2003-07-27",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1058146A",
+        "last_name": "Batthyáneum.",
+        "first_name": "Biblioteca"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171214M",
+    "title": "Service manual for Morris 8 series 'E' 1939 to 1948 (and) Morris 10 series 'M' 1939 to 1948.",
+    "city": "Brighton",
+    "publisher": "Autobooks",
+    "year": 1956,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2002-05-05",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4519140A",
+        "last_name": "Magazine publishing Company.",
+        "first_name": "Scientific"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171215M",
+    "title": "Textbook of psychiatry",
+    "city": "New York",
+    "publisher": "The Macmillan Company",
+    "year": 1924,
+    "subject": "Psychiatry",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 635,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2014-12-19",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1111190A",
+        "last_name": "Bleuler",
+        "first_name": "Eugen"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171216M",
+    "title": "(14)Fourteenth annual report for year ending 31st March, 1964.",
+    "city": "Corby",
+    "publisher": "Corby Development Corporation",
+    "year": 1964,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2000-11-23",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4515028A",
+        "last_name": "Development Corporation.",
+        "first_name": "Corby"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171217M",
+    "title": "Annotated list of the plants growing naturally at the National Arboretum",
+    "city": "Washington",
+    "publisher": "National Arboretum, U. S. Dept. of Agriculture",
+    "year": 1953,
+    "subject": "Botany -- Washington (D.C.)",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 48,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2007-07-14",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4519141A",
+        "last_name": "M. Freeman",
+        "first_name": "O."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171218M",
+    "title": "Associated Architectural Societies' reports and papers",
+    "city": "Lincoln",
+    "publisher": "The Lincolnshire Chronicle Ltd",
+    "year": 1916,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2004-02-09",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1369782A",
+        "last_name": "J. Santiano",
+        "first_name": "W."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171219M",
+    "title": "The prodigals",
+    "city": "New York",
+    "publisher": "Dramatists Play Service",
+    "year": 1977,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 54,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2006-12-17",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4519142A",
+        "last_name": "Evans",
+        "first_name": "Don"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1417121M",
+    "title": "A guide to the historical geography of New Spain",
+    "city": "Norman",
+    "publisher": "University of Oklahoma Press",
+    "year": 1993,
+    "subject": "Mexico -- Historical geography.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 484,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2012-07-12",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL610892A",
+        "last_name": "Peter",
+        "first_name": "Gerhard,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171220M",
+    "title": "Service manual for Morris Minor 1000.",
+    "city": "Brighton",
+    "publisher": "Autobooks",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2008-11-17",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4519143A",
+        "last_name": "Magazines publishing company.",
+        "first_name": "Scientific"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171221M",
+    "title": "(15)Fifteenth annual report for year ending 31st March, 1965.",
+    "city": "Corby",
+    "publisher": "Corby Development Corporation",
+    "year": 1965,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2016-04-20",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4515028A",
+        "last_name": "Development Corporation.",
+        "first_name": "Corby"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171222M",
+    "title": "Khromosomnye chisla t Łsvetkovykh rastenii",
+    "city": "Leningrad",
+    "publisher": "\"Nauka,\" Leningr. otd-nie",
+    "year": 1969,
+    "subject": "Chromosome numbers -- Indexes.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 927,
+    "lang": "rus",
+    "days_keep_count": 10,
+    "adding_date": "2012-09-01",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1151672A",
+        "last_name": "Marta Nobile",
+        "first_name": "Bianca"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171223M",
+    "title": "(16)Sixteenth annual report for year ending 31st March, 1966.",
+    "city": "Corby",
+    "publisher": "Corby Development Corporation",
+    "year": 1967,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2008-12-24",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4515028A",
+        "last_name": "Development Corporation.",
+        "first_name": "Corby"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171224M",
+    "title": "Reports and papers read at the meetings of the Counties of Lincoln  and Nottingham, County of York, ",
+    "city": "Lincoln",
+    "publisher": "James Williamson",
+    "year": 1896,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2010-08-06",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1388502A",
+        "last_name": "Beth Temple",
+        "first_name": "Mary"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171225M",
+    "title": "Reproductive habits of Douglas-fir",
+    "city": "107 p",
+    "publisher": "ill.",
+    "year": 1943,
+    "subject": "Douglas fir.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2014-02-12",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1252331A",
+        "last_name": "A. Isaac",
+        "first_name": "Leo"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171226M",
+    "title": "Daf 44 Workshop Manual.",
+    "city": "Eindhoven",
+    "publisher": "Van Doorne's Automobielfabrieekn",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2009-01-03",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1290895A",
+        "last_name": "Tiruccelvam",
+        "first_name": "Mu"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171227M",
+    "title": "(17)Seventeenth Annual report for year ending 31st March, 1967.",
+    "city": "Corby",
+    "publisher": "Corby Development Corporation",
+    "year": 1967,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2003-07-05",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4515028A",
+        "last_name": "Development Corporation.",
+        "first_name": "Corby"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171228M",
+    "title": "(18)Eighteenth annual report for year ending 31st March, 1968.",
+    "city": "Corby",
+    "publisher": "Corby Development Corporation",
+    "year": 1968,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2011-08-02",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4515028A",
+        "last_name": "Development Corporation.",
+        "first_name": "Corby"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171229M",
+    "title": "( 20)Twentieth annual report for year ending 31st March, 1970.",
+    "city": "Corby",
+    "publisher": "Corby Development Corporation",
+    "year": 1970,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2001-03-01",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4515028A",
+        "last_name": "Development Corporation.",
+        "first_name": "Corby"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1417122M",
+    "title": "An introduction to spoken interaction",
+    "city": "London",
+    "publisher": "Longman",
+    "year": 1994,
+    "subject": "Oral communication.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 238,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2007-06-27",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL716995A",
+        "last_name": "Stenström",
+        "first_name": "Anna-Brita"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171230M",
+    "title": "Associated Architectural Societies' reports and papers",
+    "city": "Lincoln",
+    "publisher": "James Williamson",
+    "year": 1890,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2005-12-26",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1249287A",
+        "last_name": "Berger",
+        "first_name": "Donald"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171231M",
+    "title": "( 3)Three Dryad leaflets",
+    "city": "Leicester",
+    "publisher": "Dryad",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2014-08-25",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4519144A",
+        "last_name": "handicrafts.",
+        "first_name": "Dryad"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171232M",
+    "title": "(21)Twenty First annual report for year ending 31st March, 1971.",
+    "city": "Corby",
+    "publisher": "Corby Development Corporation",
+    "year": 1971,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2014-05-02",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4515028A",
+        "last_name": "Development Corporation.",
+        "first_name": "Corby"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171233M",
+    "title": "(22)Twenty Second annual report for year ending 31st March, 1972.",
+    "city": "Corby",
+    "publisher": "Corby Development Corporation",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2001-08-28",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4515028A",
+        "last_name": "Development Corporation.",
+        "first_name": "Corby"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171234M",
+    "title": "Meats, poultry and game",
+    "city": "New York",
+    "publisher": "E.P. Dutton & company",
+    "year": 1919,
+    "subject": "Meat",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 134,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2010-02-18",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2418213A",
+        "last_name": "Panchard",
+        "first_name": "Edouard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171235M",
+    "title": "The late Georgian period 1760-1810.",
+    "city": "London",
+    "publisher": "Connoisseur",
+    "year": 1956,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2014-07-22",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4519145A",
+        "last_name": "Connoisseur.",
+        "first_name": "Connoisseur."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171236M",
+    "title": "Geomorphology in arid regions",
+    "city": "[Binghamton, N.Y",
+    "publisher": "State University of New York]",
+    "year": 1977,
+    "subject": "Climatic geomorphology -- Congresses.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 272,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2004-12-03",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4499469A",
+        "last_name": "Symposium (8th 1977 Binghamton, N.Y.)",
+        "first_name": "Geomorphology"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171237M",
+    "title": "Rules and standing orders.",
+    "city": "(s.l)",
+    "publisher": "(s.n)",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2001-09-11",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4519146A",
+        "last_name": "Parliamentary Debating Society.",
+        "first_name": "Northampton"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171238M",
+    "title": "Excursion guidebook [for the] Eighteenth International Geographical Congress.",
+    "city": "Rio de Janeiro",
+    "publisher": null,
+    "year": 1956,
+    "subject": "Brazil -- Description and travel.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2006-12-18",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4519147A",
+        "last_name": "Geographical Union. Brazilian National Committee.",
+        "first_name": "International"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171239M",
+    "title": "The place of women in modern democracy.",
+    "city": "Northampton",
+    "publisher": "National Federation of Business and Professional Women's Clubs",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2009-02-27",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4519148A",
+        "last_name": "Federation of Business and Professional Women's Club. Northampton Branch.",
+        "first_name": "National"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1417123M",
+    "title": "Colloquial Bulgarian",
+    "city": "London",
+    "publisher": "Routledge",
+    "year": 1994,
+    "subject": "Bulgarian language -- Textbooks for foreign speakers -- English.",
+    "genre": "Textbooks for foreign speakers",
+    "periodic_release": null,
+    "page_count": 282,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2001-12-26",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL716996A",
+        "last_name": "D. Papantchev",
+        "first_name": "George"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171240M",
+    "title": "Lessons in cooking through preparation of meals",
+    "city": "Chicago",
+    "publisher": "American school of home economics",
+    "year": 1922,
+    "subject": "Cookery.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 467,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2010-06-04",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4519149A",
+        "last_name": "Roberta Robinson",
+        "first_name": "Eva"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171241M",
+    "title": "Our heritage of land and water resources",
+    "city": "Madison, Wis",
+    "publisher": "The Society",
+    "year": 1966,
+    "subject": "Natural resources -- United States.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 44,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2009-09-27",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1279208A",
+        "last_name": "X. Talbot",
+        "first_name": "Francis"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171242M",
+    "title": "European Conservation year 1970",
+    "city": "Northampton",
+    "publisher": "Northamptonshire Naturalists' Trust",
+    "year": 1970,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2010-08-16",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4519150A",
+        "last_name": "Naturalists' Trust.",
+        "first_name": "Northamptonshire"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171243M",
+    "title": "Innsbruck Montreal 76",
+    "city": "Munich",
+    "publisher": "Pro Sports Verlag",
+    "year": 1976,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 248,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2007-04-07",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1242868A",
+        "last_name": "Tölle",
+        "first_name": "Klaus"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171244M",
+    "title": "The Northamptonshire Farmers' Journal.",
+    "city": "Northampton",
+    "publisher": "Northamptonshire County Farmers' Union",
+    "year": 1949,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2008-10-27",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1266197A",
+        "last_name": "Forge",
+        "first_name": "Sandrine"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171245M",
+    "title": "Poll books and election pamphlets.",
+    "city": "(s.l.)",
+    "publisher": "(s.n)",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2015-03-07",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1072629A",
+        "last_name": "Wellemeyer",
+        "first_name": "Marilyn"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171246M",
+    "title": "Architecture et de cor des jardins.",
+    "city": "Paris",
+    "publisher": "Massin",
+    "year": 1928,
+    "subject": "Gardens.",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 12,
+    "lang": "fre",
+    "days_keep_count": 100,
+    "adding_date": "2001-05-27",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4519151A",
+        "last_name": "Hector pseud.",
+        "first_name": "Saint-Sauveur,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171247M",
+    "title": "The Northamptonshire Farmers' Journal.",
+    "city": "Northampton",
+    "publisher": "Northamptonshire County Farmers' Union",
+    "year": 1948,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2002-08-17",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1148542A",
+        "last_name": "Brünger",
+        "first_name": "Helmut"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171248M",
+    "title": "Architectural Society of the Archdeaconry of Northampton",
+    "city": "(s.n)",
+    "publisher": "(s.l)",
+    "year": 1862,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2016-12-05",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1310726A",
+        "last_name": "Lorenzen",
+        "first_name": "Johannes"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171249M",
+    "title": "Northamptonshire Farmers' Journal.",
+    "city": "Northampton",
+    "publisher": "Northamptonshire County Farmers' Union",
+    "year": 1952,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2007-08-28",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1100189A",
+        "last_name": "R. McBride",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1417124M",
+    "title": "Marjory Stoneman Douglas, friend of the Everglades",
+    "city": "Brookfield, Conn",
+    "publisher": "Millbrook Press",
+    "year": 1994,
+    "subject": "Douglas, Marjory Stoneman -- Juvenile literature.",
+    "genre": "Juvenile literature.",
+    "periodic_release": 1,
+    "page_count": 48,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2005-03-22",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL25508A",
+        "last_name": "Andryszewski",
+        "first_name": "Tricia"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171250M",
+    "title": "The renowned history of Little Goody Two Shoes, otherwise called Mrs. Margery Two Shoes",
+    "city": "Boston",
+    "publisher": "Heath",
+    "year": 1930,
+    "subject": "Conduct of life -- Juvenile fiction.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 51,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2004-02-12",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1404786A",
+        "last_name": "Scapagnini",
+        "first_name": "Sergio"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171251M",
+    "title": "The Northamptonshire Farmers' Journal.",
+    "city": "Northampton",
+    "publisher": "Northamptonshire County Farmers' Union",
+    "year": 1951,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2006-12-13",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1420529A",
+        "last_name": "Llewellyn Charles",
+        "first_name": "Edwin"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171252M",
+    "title": "Cock Robin",
+    "city": "New York",
+    "publisher": "French",
+    "year": 1929,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 181,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2000-01-02",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL161288A",
+        "last_name": "Rice",
+        "first_name": "Elmer"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171253M",
+    "title": "Vorlesungen über Fouriersche Integrale",
+    "city": "Leipzig",
+    "publisher": "Akademische Verlagsgesellschaft",
+    "year": 1932,
+    "subject": "Fourier series.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 229,
+    "lang": "ger",
+    "days_keep_count": 50,
+    "adding_date": "2012-05-20",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL769997A",
+        "last_name": "Bochner",
+        "first_name": "S."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171254M",
+    "title": "Corby new town",
+    "city": "Corby",
+    "publisher": "Corby Development orporation",
+    "year": 1965,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2015-06-05",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4515028A",
+        "last_name": "Development Corporation.",
+        "first_name": "Corby"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171255M",
+    "title": "Review of Australia's water resources 1975",
+    "city": "Canberra",
+    "publisher": "Australian Government Publishing Service",
+    "year": 1976,
+    "subject": "Hydrology -- Australia.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 170,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2012-02-19",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1380810A",
+        "last_name": "Water Resources Council.",
+        "first_name": "Australian"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171256M",
+    "title": "Milton's prosody",
+    "city": "Oxford",
+    "publisher": null,
+    "year": 1901,
+    "subject": "Milton, John, -- 1608-1674 -- Versification",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 174,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2000-08-22",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL117501A",
+        "last_name": "Seymour Bridges",
+        "first_name": "Robert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171257M",
+    "title": "Pulgarcito.",
+    "city": "Spain",
+    "publisher": "Coleccion RUBL",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "spa",
+    "days_keep_count": 50,
+    "adding_date": "2011-09-10",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1016278A",
+        "last_name": "Boissieu",
+        "first_name": "Jean"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171258M",
+    "title": "Brassey's infantry weapons of the world, 1950-1975",
+    "city": "New York",
+    "publisher": "Bonanza Books",
+    "year": 1978,
+    "subject": "Infantry -- Equipment.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 323,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2002-11-21",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL136644A",
+        "last_name": "Minot Guertler",
+        "first_name": "William"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171259M",
+    "title": "Wordsworth and the vocabulary of emotion",
+    "city": "Berkeley and Los Angeles",
+    "publisher": "University of California Press",
+    "year": 1942,
+    "subject": "Wordsworth, William, -- 1770-1850.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 181,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2009-07-05",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL130507A",
+        "last_name": "Miles",
+        "first_name": "Josephine"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1417125M",
+    "title": "The global conflict",
+    "city": "London",
+    "publisher": "Longman",
+    "year": 1994,
+    "subject": "World politics -- 19th century.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 433,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2003-09-05",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL528770A",
+        "last_name": "J. Bartlett",
+        "first_name": "C."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171260M",
+    "title": "Lec ʹons de me canique ce leste",
+    "city": "Paris",
+    "publisher": "Gauthier-Villars",
+    "year": 1905,
+    "subject": "Celestial mechanics",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "fre",
+    "days_keep_count": 30,
+    "adding_date": "2014-11-12",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4281084A",
+        "last_name": "Poincaré",
+        "first_name": "Henri"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171261M",
+    "title": "Symposium on Man Made Forests in India",
+    "city": "Dehra Dun",
+    "publisher": "Society of Indian Foresters",
+    "year": 1972,
+    "subject": "Forests and forestry -- India -- Congresses.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2006-03-21",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4519152A",
+        "last_name": "on Man Made Forests in India (1972 Dehra Dun)",
+        "first_name": "Symposium"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171262M",
+    "title": "Elementary statistical analysis",
+    "city": "Dubuque, Iowa",
+    "publisher": "W. C. Brown",
+    "year": 1952,
+    "subject": "Statistics.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 484,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2006-05-31",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2121981A",
+        "last_name": "P. Hartkemeier",
+        "first_name": "Harry"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171263M",
+    "title": "Paperbacks for children and young people.",
+    "city": "London",
+    "publisher": "National Book League",
+    "year": 1970,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2001-05-16",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1407970A",
+        "last_name": "Hewitt",
+        "first_name": "Duane"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171264M",
+    "title": "Maxwell's illustrated colour dictionary",
+    "city": "London",
+    "publisher": "International Learning Systems Corporation",
+    "year": 1969,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2001-09-09",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1025905A",
+        "last_name": "Sampaio Filho",
+        "first_name": "Dorian"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171265M",
+    "title": "The ABC of the NRA",
+    "city": "Washington, D. C",
+    "publisher": "The Brookings institution",
+    "year": 1934,
+    "subject": "United States. -- National Recovery Administration.",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 185,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2000-03-29",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL106283A",
+        "last_name": "P. Chaudhary",
+        "first_name": "Ram"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171266M",
+    "title": "Mary's miscellany",
+    "city": "Accrington",
+    "publisher": "The author",
+    "year": 1966,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2004-12-06",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1100088A",
+        "last_name": "States. Army. Pennsylvania Infantry Regiment, 52nd (1861-1865)",
+        "first_name": "United"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171267M",
+    "title": "Curriculum guide for vocational cabinetmaking, grades eleven and twelve.",
+    "city": "Chicago",
+    "publisher": "Board of Education, City of Chicago",
+    "year": 1970,
+    "subject": "Cabinetwork -- Study and teaching.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 189,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2003-11-26",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL982162A",
+        "last_name": "(Ill.). Board of Education.",
+        "first_name": "Chicago"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171268M",
+    "title": "Broadsides",
+    "city": "(Wales)",
+    "publisher": "privately printed",
+    "year": 1966,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 24,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2012-02-26",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1160639A",
+        "last_name": "Kh. B.",
+        "first_name": "Azhmukhambetov,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171269M",
+    "title": "Curriculum guide for vocational graphic arts, grades eleven and twelve",
+    "city": "Chicago",
+    "publisher": "Board of Education, City of Chicago",
+    "year": 1973,
+    "subject": "Offset printing -- Study and teaching.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 52,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2005-07-05",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL982162A",
+        "last_name": "(Ill.). Board of Education.",
+        "first_name": "Chicago"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1417126M",
+    "title": "A week with Zeke & Zach",
+    "city": "New York",
+    "publisher": "Dutton Children's Books",
+    "year": 1993,
+    "subject": "Aunts -- Fiction.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 62,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2014-01-30",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL542580A",
+        "last_name": "Lee Johnson",
+        "first_name": "Lindsay"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171270M",
+    "title": "The relation of wealth to welfare",
+    "city": "New York",
+    "publisher": "Macmillan",
+    "year": 1925,
+    "subject": "Wealth",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 175,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2007-07-30",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL18551A",
+        "last_name": "William Alexander",
+        "first_name": "Robson,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171271M",
+    "title": "Countryside story in proverb, verse and poetry",
+    "city": "Bognor Regis",
+    "publisher": "John Crowther",
+    "year": 1945,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2013-03-23",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1395269A",
+        "last_name": "Bird",
+        "first_name": "Sue"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171272M",
+    "title": "Curriculum guide for vocational machine shop, grade twelve.",
+    "city": "Chicago",
+    "publisher": "Board of Education, City of Chicago",
+    "year": 1971,
+    "subject": "Machine-shop practice -- Study and teaching.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 189,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2015-09-06",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL982162A",
+        "last_name": "(Ill.). Board of Education.",
+        "first_name": "Chicago"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171273M",
+    "title": "The Second trivet bedside book.",
+    "city": "London",
+    "publisher": "The Morning Post",
+    "year": 1930,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2010-03-07",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1414918A",
+        "last_name": "Internacional sobre Baltasar Gracián (2nd 2001 Berlin, Germany)",
+        "first_name": "Coloquio"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171274M",
+    "title": "The Bureau of Animal Industry",
+    "city": "Baltimore, Md",
+    "publisher": "The Johns Hopkins Press",
+    "year": 1927,
+    "subject": "United States. -- Bureau of Animal Industry.",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 190,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2001-02-05",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2029476A",
+        "last_name": "Wilbur Powell",
+        "first_name": "Fred"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171275M",
+    "title": "Curriculum guide for cast metals, grades nine, ten, and eleven.",
+    "city": "Chicago",
+    "publisher": "Board of Education, City of Chicago",
+    "year": 1971,
+    "subject": "Metal-work -- Study and teaching.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 112,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2001-07-31",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL982162A",
+        "last_name": "(Ill.). Board of Education.",
+        "first_name": "Chicago"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171276M",
+    "title": "The pick of Punch.",
+    "city": "London",
+    "publisher": "Chatto and Windus",
+    "year": 1952,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2004-08-01",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1227823A",
+        "last_name": "Bengal (India). Finance Dept. Audit Branch.",
+        "first_name": "West"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171277M",
+    "title": "Again, dangerous visions",
+    "city": "Garden City, N.Y",
+    "publisher": "Doubleday",
+    "year": 1972,
+    "subject": "Science fiction, American.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 830,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2007-06-07",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL200394A",
+        "last_name": "Ellison",
+        "first_name": "Harlan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171278M",
+    "title": "James Chalmers",
+    "city": "Dundee",
+    "publisher": "David Winter",
+    "year": 1970,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2016-01-25",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1190493A",
+        "last_name": "Hallett",
+        "first_name": "Michael"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171279M",
+    "title": "Growing point.",
+    "city": "Northampton",
+    "publisher": "Margery Fisher",
+    "year": 1968,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2006-05-29",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1115512A",
+        "last_name": "(India).",
+        "first_name": "Punjab"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1417127M",
+    "title": "Atalanta's race",
+    "city": "New York",
+    "publisher": "Clarion Books",
+    "year": 1995,
+    "subject": "Atalanta (Greek mythology) -- Juvenile literature.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 31,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2013-12-18",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL234110A",
+        "last_name": "Climo",
+        "first_name": "Shirley"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171280M",
+    "title": "Australian poetry, 1966",
+    "city": "London",
+    "publisher": "Angus and Robertson",
+    "year": 1966,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2003-11-16",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1440278A",
+        "last_name": "Tēvataccan̲.",
+        "first_name": "Tēvataccan̲."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171281M",
+    "title": "Winter's tales for children",
+    "city": "London",
+    "publisher": "Macmillan",
+    "year": 1965,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2001-04-13",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1114911A",
+        "last_name": "William Drepperd",
+        "first_name": "Carl"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171282M",
+    "title": "Bank and shore protection in California highway practice.",
+    "city": "[Sacramento]",
+    "publisher": null,
+    "year": 1960,
+    "subject": "Shore protection.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 423,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2011-11-21",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1817561A",
+        "last_name": "Division of Highways.",
+        "first_name": "California."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171283M",
+    "title": "Twenty animal stories of dogs, horses, ponies and cats",
+    "city": "London",
+    "publisher": "A.and C.Black",
+    "year": 1940,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2012-10-30",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL140878A",
+        "last_name": "Hermann",
+        "first_name": "Schneider,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171284M",
+    "title": "Breads, rolls and sweet doughs",
+    "city": "Chicago",
+    "publisher": "Bakers' helper co.",
+    "year": 1923,
+    "subject": "Bread.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 249,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2011-03-07",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1172921A",
+        "last_name": "Richards",
+        "first_name": "Paul"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171285M",
+    "title": "Prancing pony",
+    "city": "New York",
+    "publisher": "Weatherhill",
+    "year": 1967,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2000-07-10",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1461020A",
+        "last_name": "M. Riviera",
+        "first_name": "Archie"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171286M",
+    "title": "The Romantics",
+    "city": "London",
+    "publisher": "Routledge",
+    "year": 1948,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2007-12-09",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1061635A",
+        "last_name": "Rabl",
+        "first_name": "Erich"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171287M",
+    "title": "Energy - a key resource.",
+    "city": "London",
+    "publisher": "H.M.S.O.",
+    "year": 1979,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2000-12-28",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4500289A",
+        "last_name": "Britain. Department of Energy.",
+        "first_name": "Great"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171288M",
+    "title": "Poems from Panmure House",
+    "city": "Cambridge",
+    "publisher": "Sebastian Carter",
+    "year": 1960,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2016-11-07",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1384290A",
+        "last_name": "Yuan.",
+        "first_name": "Wan,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171289M",
+    "title": "Scholastic composition.",
+    "city": "New York",
+    "publisher": "Scholastic Book Services",
+    "year": 1980,
+    "subject": "English language -- Composition and exercises.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2005-09-18",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1257518A",
+        "last_name": "H. Scott",
+        "first_name": "Alice"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1417128M",
+    "title": "Uwharrie",
+    "city": "Greensboro",
+    "publisher": "Tudor Publishers",
+    "year": 1993,
+    "subject": "Indians of North America -- Antiquities -- Fiction.",
+    "genre": "Fiction.",
+    "periodic_release": 3,
+    "page_count": 243,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2007-01-30",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL716997A",
+        "last_name": "E. Pfaff",
+        "first_name": "Eugene"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171290M",
+    "title": "Composition skills",
+    "city": "Chicago",
+    "publisher": "Science Research Associates",
+    "year": 1980,
+    "subject": "English language -- Composition and exercises.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2013-06-24",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1408217A",
+        "last_name": "William Schiavitti",
+        "first_name": "Vincent"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171291M",
+    "title": "Around the world adventure stories for boys",
+    "city": "London",
+    "publisher": "Odhams",
+    "year": 1968,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2002-01-24",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1192405A",
+        "last_name": "Conference on the Computer as a Design Tool (7th 1986 London, England)",
+        "first_name": "International"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171292M",
+    "title": "Red Story book for boys",
+    "city": "London",
+    "publisher": "Odhams",
+    "year": 1966,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2011-12-08",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1134844A",
+        "last_name": "G. Kohl",
+        "first_name": "G."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171293M",
+    "title": "English village greens.",
+    "city": "(s.l.)",
+    "publisher": "Colourmaster Publications",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2004-08-06",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1439885A",
+        "last_name": "Poddar",
+        "first_name": "Indranil"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171294M",
+    "title": "Evans' Recent advances in physiology.",
+    "city": "Philadelphia",
+    "publisher": "P. Blakiston's Son & Co.",
+    "year": 1939,
+    "subject": "Physiology.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 490,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2011-03-28",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4519153A",
+        "last_name": "C. Lovatt Sir",
+        "first_name": "Evans,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171295M",
+    "title": "Development of a two-dimensional hydrodynamic numerical model for a shallow, well-mixed estuary",
+    "city": "Baton Rouge",
+    "publisher": "Center for Wetland Resources, Louisiana State University",
+    "year": 1976,
+    "subject": "Estuaries -- Mathematical models.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 167,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2014-09-28",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4519154A",
+        "last_name": "F. McHugh",
+        "first_name": "Gerald"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171296M",
+    "title": "Calypso crochet designs.",
+    "city": "Glasgow",
+    "publisher": "Coats Sewing Group",
+    "year": 1961,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2013-03-14",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL117683A",
+        "last_name": "Finer",
+        "first_name": "Herman"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171297M",
+    "title": "Look wide",
+    "city": "London",
+    "publisher": "Boy Scout Association",
+    "year": 1961,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2005-04-30",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1706624A",
+        "last_name": "Association.",
+        "first_name": "Scout"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171298M",
+    "title": "Introductory probability and statistical inference",
+    "city": "New York",
+    "publisher": null,
+    "year": 1959,
+    "subject": "Probabilities.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 243,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2004-02-05",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2303754A",
+        "last_name": "Entrance Examination Board. Commission on Mathematics.",
+        "first_name": "College"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171299M",
+    "title": "A curriculum for English",
+    "city": "Lincoln, Neb",
+    "publisher": "University of Nebraska Press",
+    "year": 1966,
+    "subject": "Poetry -- Study and teaching (Elementary)",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 206,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2003-03-26",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1144359A",
+        "last_name": "Teresinha Capeli Gomes",
+        "first_name": "Ester"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1417129M",
+    "title": "American history",
+    "city": "New York",
+    "publisher": "Simon & Schuster",
+    "year": 1993,
+    "subject": "United States -- History -- Miscellanea.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 240,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2011-09-07",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL589787A",
+        "last_name": "Corey",
+        "first_name": "Melinda"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL141712M",
+    "title": "Os automóveis de Cuiabá",
+    "city": "Cuiabá",
+    "publisher": "IHGMT",
+    "year": 1999,
+    "subject": "Automobiles -- Brazil -- Cuiabá (Mato Grosso) -- History.",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 172,
+    "lang": "por",
+    "days_keep_count": 100,
+    "adding_date": "2016-12-23",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL93406A",
+        "last_name": "Estevão Corrêa",
+        "first_name": "Afranio"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171300M",
+    "title": "Launching away: or, Roger Larksway's strange mission.",
+    "city": "London",
+    "publisher": "Hodder & Stoughton",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2010-12-23",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1102560A",
+        "last_name": "Mitro",
+        "first_name": "A."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171301M",
+    "title": "Conference on Industrial Applications of Dynamic Modelling",
+    "city": "London",
+    "publisher": "Institution of Electrical Engineers",
+    "year": 1969,
+    "subject": "Process control -- Mathematical models -- Congresses.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 227,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2000-04-22",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4519155A",
+        "last_name": "on Industrial Applications of Dynamic Modelling (1969 University of Durham)",
+        "first_name": "Conference"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171302M",
+    "title": "Wonderful playthings.",
+    "city": "London",
+    "publisher": "Jarrold",
+    "year": 1924,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2015-02-16",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1304391A",
+        "last_name": "(Ship)",
+        "first_name": "Chandeleur"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171303M",
+    "title": "Modern Curriculum Press phonics program.",
+    "city": "Cleveland, Ohio",
+    "publisher": "Modern Curriculum Press",
+    "year": 1988,
+    "subject": "Reading -- Phonetic method.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2004-06-18",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1154911A",
+        "last_name": "L. Jackson",
+        "first_name": "D."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171304M",
+    "title": "Easy, easier, easiest tailoring",
+    "city": "Portland, Or",
+    "publisher": "Palmer/Pletsch Associates; distributed by Sincere Press, Phoenix, Ariz.",
+    "year": 1977,
+    "subject": "Tailoring.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 128,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2004-10-31",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL266152A",
+        "last_name": "Palmer",
+        "first_name": "Pati"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171305M",
+    "title": "Statius",
+    "city": "London",
+    "publisher": "Heinemann",
+    "year": 1955,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2003-07-23",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL88231A",
+        "last_name": "Papinius Statius",
+        "first_name": "P."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171306M",
+    "title": "AIDS prevention program for youth.",
+    "city": "[Washington, D. C.]",
+    "publisher": "American Red Cross",
+    "year": 1987,
+    "subject": "AIDS (Disease) -- Study and teaching.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2005-12-18",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1297805A",
+        "last_name": "Fang zhi gong ye bu.",
+        "first_name": "China."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171307M",
+    "title": "The spirit of research",
+    "city": "Adelaide",
+    "publisher": "F. W. Preece",
+    "year": 1931,
+    "subject": "Loeb, Jacques, -- 1859-1924.",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 210,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2006-05-05",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL113103A",
+        "last_name": "Brailsford Robertson",
+        "first_name": "T."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171308M",
+    "title": "The nutritional value of milk.",
+    "city": "London",
+    "publisher": "National Dairy Council",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2012-11-29",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL342432A",
+        "last_name": "Dairy Council.",
+        "first_name": "National"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171309M",
+    "title": "Sea tales from Blackwoods.",
+    "city": "Edinburgh",
+    "publisher": "Blackwood",
+    "year": 1960,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2009-06-02",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4519156A",
+        "last_name": "Magazine.",
+        "first_name": "Blackwood's"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1417130M",
+    "title": "Gasless laparoscopy with conventional instruments",
+    "city": "San Francisco",
+    "publisher": "Norman Pub.",
+    "year": 1993,
+    "subject": "Laparoscopic surgery.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 153,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2004-01-02",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL716998A",
+        "last_name": "Stephen Smith",
+        "first_name": "R."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171310M",
+    "title": "Sankt Georgs Stellvertreter",
+    "city": "Frankfurt am Main",
+    "publisher": "Ru tten & Loening",
+    "year": 1934,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 69,
+    "lang": "ger",
+    "days_keep_count": 200,
+    "adding_date": "2012-06-18",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL149583A",
+        "last_name": "Georg Binding",
+        "first_name": "Rudolf"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171311M",
+    "title": "Photography in colour with Kodak films",
+    "city": "London",
+    "publisher": "Fountain Press",
+    "year": 1957,
+    "subject": "Color photography.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 112,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2000-09-10",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1777509A",
+        "last_name": "S. Bomback",
+        "first_name": "Edward"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171312M",
+    "title": "Best hunting stories",
+    "city": "ondon",
+    "publisher": "Faber",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2010-07-16",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1394924A",
+        "last_name": "A. Berkowitz",
+        "first_name": "Beth"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171313M",
+    "title": "Ruminant products",
+    "city": "Morrilton, Ark",
+    "publisher": "Winrock International Livestock Research and Training Center",
+    "year": 1977,
+    "subject": "Ruminants -- Economic aspects.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 28,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2003-05-11",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL677771A",
+        "last_name": "E. McDowell",
+        "first_name": "R."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171314M",
+    "title": "The Western rock lobster fishery.",
+    "city": "Perth",
+    "publisher": "Dept. of Fisheries and Wildlife",
+    "year": 1974,
+    "subject": "Lobster fisheries -- Australia.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2006-07-26",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1304679A",
+        "last_name": "Barbeau",
+        "first_name": "Robert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171315M",
+    "title": "Russian short stories.",
+    "city": "London",
+    "publisher": "Dent",
+    "year": 1967,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2000-12-31",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1044208A",
+        "last_name": "Tom.",
+        "first_name": "Osborne,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171316M",
+    "title": "Economic entomology for the farmer and the fruit grower, and for use as a text-book in agricultural ",
+    "city": "Philadelphia and London",
+    "publisher": "J.B. Lippincott co.",
+    "year": 1906,
+    "subject": "Insects.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 475,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2010-04-06",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL155010A",
+        "last_name": "Bernhard Smith",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171317M",
+    "title": "Wary Walker and the Careful Crosser's guide to child pedestrian safety.",
+    "city": "Seattle",
+    "publisher": "Harborview Injury Prevention and Research Center",
+    "year": 1989,
+    "subject": "Safety education -- Juvenile literature.",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 64,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2009-02-13",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1046603A",
+        "last_name": "Haestie",
+        "first_name": "Elizabeth"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171318M",
+    "title": "Black's children's encyclopaedia.",
+    "city": "London",
+    "publisher": "Black",
+    "year": 1971,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2001-04-05",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL118407A",
+        "last_name": "John Rath",
+        "first_name": "Reuben"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171319M",
+    "title": "Visual & performing arts curriculum guidelines for Washington schools.",
+    "city": "Olympia, Wash",
+    "publisher": "Curriculum, Instructional Support and Special Education Services, Office of Superintendent of Public Instruction",
+    "year": 1990,
+    "subject": "Performing arts -- Study and teaching -- Washington (State)",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 101,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2009-10-24",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1037238A",
+        "last_name": "Tapia Soko",
+        "first_name": "Gonzalo"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1417131M",
+    "title": "Principles of pharmacology for medical assisting",
+    "city": "Albany, NY",
+    "publisher": "Delmar Publishers",
+    "year": 1994,
+    "subject": "Pharmacology.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 548,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2001-12-06",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL223331A",
+        "last_name": "Rice",
+        "first_name": "Jane"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171320M",
+    "title": "Sub-station practice",
+    "city": "London",
+    "publisher": "Chapman & Hall",
+    "year": 1952,
+    "subject": "Electric substations.",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 467,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2007-12-22",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL118474A",
+        "last_name": "Henry Carr",
+        "first_name": "Thomas"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171321M",
+    "title": "The Royal letter book",
+    "city": "London",
+    "publisher": "Cressent Press",
+    "year": 1937,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2016-10-10",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1319195A",
+        "last_name": "Paulo (Brazil). Centro de Documentação e Informação sobre Arte Brasileira Contemporânea.",
+        "first_name": "São"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171322M",
+    "title": "The bribe",
+    "city": "London",
+    "publisher": "Harvill Press",
+    "year": 1960,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 318,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2011-09-07",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL362486A",
+        "last_name": "Palumbo",
+        "first_name": "Nino"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171323M",
+    "title": "Pianoforte examinations 1959",
+    "city": "London",
+    "publisher": "Associated Board",
+    "year": 1959,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2000-03-09",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4369724A",
+        "last_name": "Board of the Royal Schools of Music.",
+        "first_name": "Associated"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171324M",
+    "title": "Pianoforte examinations 1973 Grade VI.",
+    "city": "London",
+    "publisher": "Associated Board",
+    "year": 1973,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2000-02-09",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4369724A",
+        "last_name": "Board of the Royal Schools of Music.",
+        "first_name": "Associated"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171325M",
+    "title": "Success story",
+    "city": "London",
+    "publisher": "Songwriter's Guild of Great Britain",
+    "year": 1968,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2006-09-10",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4519157A",
+        "last_name": "Guild of Great Britain.",
+        "first_name": "Songwriter's"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171326M",
+    "title": "Cheese making",
+    "city": "Madison, Wis",
+    "publisher": "The Cheese maker book co.",
+    "year": 1930,
+    "subject": "Cheese.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 204,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2004-08-04",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL157369A",
+        "last_name": "Langley Sammis",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171327M",
+    "title": "Song Catalogue.",
+    "city": "London",
+    "publisher": "B.B.C.*C1966.",
+    "year": 1966,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2005-09-15",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4519158A",
+        "last_name": "Broadcasting Corporation. Music Library.",
+        "first_name": "British"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171328M",
+    "title": "Norwegian paintings in Nasjonalgalleriet",
+    "city": "Oslo",
+    "publisher": "Dreyers Forlag",
+    "year": 1963,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2002-12-28",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4519159A",
+        "last_name": "Nasjonalgalleriet.",
+        "first_name": "Nasjonalgalleriet."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171329M",
+    "title": "American graphic workshops: 1968...",
+    "city": "[Cincinnati?",
+    "publisher": "Cincinnati Art Museum?",
+    "year": 1968,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2007-02-16",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1038811A",
+        "last_name": "Royer",
+        "first_name": "Eugène"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1417132M",
+    "title": "'Twas the night before",
+    "city": "Colorado Springs, Colo",
+    "publisher": "Meriwether",
+    "year": 1993,
+    "subject": "Jesus Christ -- Nativity -- Juvenile literature.",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2001-02-09",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL716999A",
+        "last_name": "L. Zapel",
+        "first_name": "Arthur"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171330M",
+    "title": "Jean Dubuffet, Werke 1963-1976.",
+    "city": "Karlsruhe",
+    "publisher": "Badischer Kunstverein",
+    "year": 1977,
+    "subject": "Dubuffet, Jean, -- 1901-1985.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "ger",
+    "days_keep_count": 10,
+    "adding_date": "2000-08-22",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1292342A",
+        "last_name": "Venkata Krishna Sastri",
+        "first_name": "Devulaspalli"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171331M",
+    "title": "Warrior people",
+    "city": "[Washington, D.C.?",
+    "publisher": "National Institute of Education?",
+    "year": 1981,
+    "subject": "Indians of North America -- Juvenile literature.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 24,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2003-01-28",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1213849A",
+        "last_name": "Víctor Necco",
+        "first_name": "Gustavo"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171332M",
+    "title": "L' Essentialisme =",
+    "city": "Paris",
+    "publisher": "Centre d'art",
+    "year": 1978,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2015-06-09",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1096845A",
+        "last_name": "on Artificial Insemination and Embryo Transfer in Beef Cattle (1986 Denver, Colo.)",
+        "first_name": "Conference"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171333M",
+    "title": "The works of Richard Brinsley Sheridan",
+    "city": "London",
+    "publisher": "Chatto & Windus",
+    "year": 1899,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 656,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2013-12-16",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL107388A",
+        "last_name": "Brinsley Sheridan",
+        "first_name": "Richard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171334M",
+    "title": "Understanding your balance sheet.",
+    "city": "Manchester",
+    "publisher": "Cotton & Allied Textiles Industry Training Board",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2009-02-28",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1467293A",
+        "last_name": "Kim",
+        "first_name": "Yu-jong"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171335M",
+    "title": "Snail Woman at Sqp3sa'le",
+    "city": "[Washington, D.C.?",
+    "publisher": "National Institute of Education?",
+    "year": 1982,
+    "subject": "Indians of North America -- Folklore -- Juvenile literature.",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2002-01-12",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1170087A",
+        "last_name": "von Muehlen",
+        "first_name": "Arno"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171336M",
+    "title": "Kizilcas ʹar",
+    "city": "Ankara",
+    "publisher": "M.E.T.U. Faculty of Architecture",
+    "year": 1980,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2001-11-21",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1009685A",
+        "last_name": "Simon",
+        "first_name": "Merrill"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171337M",
+    "title": "Technology ...",
+    "city": "Cambridge",
+    "publisher": "Hobsons [for] CRAC.",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2015-09-06",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1104744A",
+        "last_name": "F. Kunt͡s︡",
+        "first_name": "A."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171338M",
+    "title": "Construction of parallel wire cables for suspension bridges",
+    "city": "Trenton, N.J",
+    "publisher": "John A. Roebling's sons company",
+    "year": 1925,
+    "subject": "Suspension bridges.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 23,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2000-09-23",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2522174A",
+        "last_name": "A. Roebling's Sons Company.",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171339M",
+    "title": "Internationale beeldententoonstelling Sonsbeek '66",
+    "city": "[Netherlands",
+    "publisher": "s.n.",
+    "year": 1966,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "ger",
+    "days_keep_count": 10,
+    "adding_date": "2007-10-30",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4519160A",
+        "last_name": "Beeldententoonstelling Sonsbeek",
+        "first_name": "Internationale"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1417133M",
+    "title": "Mega-teaching and learning",
+    "city": "Portland, OR",
+    "publisher": "Metamorphous Press",
+    "year": 1993,
+    "subject": "Learning.",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 177,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2016-11-05",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1094858A",
+        "last_name": "R. Dombret",
+        "first_name": "Andreas"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171340M",
+    "title": "Nucleart",
+    "city": "[Grenoble]",
+    "publisher": "Commissariat a   l'Energie Atomique",
+    "year": 1976,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2002-06-22",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1142446A",
+        "last_name": "Petroleum Canada (Firm)",
+        "first_name": "Esso"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171341M",
+    "title": "Umbrella.",
+    "city": "Glendale [Calif.]",
+    "publisher": "Umbrella",
+    "year": 1980,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2008-08-11",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1344948A",
+        "last_name": "Troppmann",
+        "first_name": "Robert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171342M",
+    "title": "Friedrich Hebbel",
+    "city": "Stuttgart",
+    "publisher": "Metzlersche",
+    "year": 1962,
+    "subject": "Hebbel, Friedrich, -- 1813-1863.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 101,
+    "lang": "ger",
+    "days_keep_count": 10,
+    "adding_date": "2011-01-30",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1986879A",
+        "last_name": "Meetz",
+        "first_name": "Anni"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171343M",
+    "title": "Agricultural woodworking",
+    "city": "Milwaukee, Wis",
+    "publisher": "The Bruce publishing company",
+    "year": 1916,
+    "subject": "Woodwork (Manual training)",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 137,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2004-10-29",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2411625A",
+        "last_name": "M. Roehl",
+        "first_name": "Louis"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171344M",
+    "title": "Fitting farm tools",
+    "city": "Milwaukee",
+    "publisher": "The Bruce publishing company",
+    "year": 1930,
+    "subject": "Agricultural machinery -- Maintenance and repair.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 102,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2013-08-14",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2411625A",
+        "last_name": "M. Roehl",
+        "first_name": "Louis"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171345M",
+    "title": "Essentials of fluid dynamics.",
+    "city": "London",
+    "publisher": "Blackie",
+    "year": 1952,
+    "subject": "Hydrodynamics.",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 452,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2015-08-20",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL928699A",
+        "last_name": "Prandtl",
+        "first_name": "Ludwig"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171346M",
+    "title": "Catalogue of the celebrated library of valuable printed books,fine bindings and manuscripts,the prop",
+    "city": "[London]",
+    "publisher": "Sotheby & Co.",
+    "year": 1956,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2007-05-31",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL105897A",
+        "last_name": "N. Bhargava",
+        "first_name": "O."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171347M",
+    "title": "Building design for radiation shielding and thermal efficiency.",
+    "city": "Baltimore, Md",
+    "publisher": "[Dept. of Defense], Defense Civil Preparedness Agency",
+    "year": 1978,
+    "subject": "Shielding (Radiation)",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 44,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2007-03-17",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1746320A",
+        "last_name": "States. Defense Civil Preparedness Agency.",
+        "first_name": "United"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171348M",
+    "title": "Management study of the roles and relationships of Bonneville Power Administration and Washington Pu",
+    "city": "[Los Angeles?]",
+    "publisher": "TB&A",
+    "year": 1979,
+    "subject": "Washington Public Power Supply System, Kennewick, Wash.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 298,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2011-08-24",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1671040A",
+        "last_name": "Barry & Associates.",
+        "first_name": "Theodore"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171349M",
+    "title": "Eames celebration.",
+    "city": "London",
+    "publisher": "Standard Catalogue Co.",
+    "year": 1966,
+    "subject": "Eames, Charles.",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2001-06-24",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1265172A",
+        "last_name": "Fu",
+        "first_name": "Ren'gan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1417134M",
+    "title": "The second flowering",
+    "city": "Clinton, NJ",
+    "publisher": "New Win Pub.",
+    "year": 1993,
+    "subject": "Retirement -- United States.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 155,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2002-08-01",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL243284A",
+        "last_name": "Turk",
+        "first_name": "Ruth"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171350M",
+    "title": "British sporting prints",
+    "city": "London",
+    "publisher": "Ariel Press",
+    "year": 1963,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2014-01-23",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1016626A",
+        "last_name": "Veruschka.",
+        "first_name": "Veruschka."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171351M",
+    "title": "Washington State exporter's guide.",
+    "city": "Seattle, Wash",
+    "publisher": "Domestic and International Trade Division, Department of Trade and Economic Development",
+    "year": 1988,
+    "subject": "Export sales contracts -- Washington (State) -- Handbooks, manuals, etc.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 60,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2007-10-27",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1417828A",
+        "last_name": "Kowalczyk",
+        "first_name": "Olga"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171352M",
+    "title": "Aids to the analysis of food and drugs",
+    "city": "London",
+    "publisher": "Baillie  re, Tindall and Cox",
+    "year": 1952,
+    "subject": "Food -- Analysis.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 516,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2002-08-24",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1780971A",
+        "last_name": "Ralph Nicholls",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171353M",
+    "title": "Four temporary works situated in West Penwith, Cornwall, England.",
+    "city": "[St. Ives?]",
+    "publisher": "[s.n.]",
+    "year": 1980,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2000-12-12",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1208572A",
+        "last_name": "V. Chaklin",
+        "first_name": "A."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171354M",
+    "title": "Changing commercial bank structure in New England",
+    "city": "Boston, Ma",
+    "publisher": "Federal Reserve Bank of Boston",
+    "year": 1978,
+    "subject": "Banks and banking -- New England.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 293,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2012-03-20",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4519161A",
+        "last_name": "Gibson",
+        "first_name": "Katharine"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171355M",
+    "title": "100 Zeichnungen aus der Nationalgalerie Berlin.",
+    "city": "Berlin",
+    "publisher": "Nationalgalerie",
+    "year": 1979,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "ger",
+    "days_keep_count": 200,
+    "adding_date": "2004-01-08",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4519162A",
+        "last_name": "(Berlin)",
+        "first_name": "Nationalgalerie"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171356M",
+    "title": "Available amino acid content of fish meals",
+    "city": "Rome",
+    "publisher": "Food and Agriculture Organization of the United Nations",
+    "year": 1970,
+    "subject": "Fish meal as feed",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 66,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2005-11-09",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL11989A",
+        "last_name": "and Agriculture Organization of the United Nations.",
+        "first_name": "Food"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171357M",
+    "title": "Understanding your cash control.",
+    "city": "Manchester",
+    "publisher": "Cotton & Allied Textiles Industry Training Board",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2014-08-14",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1366817A",
+        "last_name": "Tipton Rings",
+        "first_name": "Blanche"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171358M",
+    "title": "France",
+    "city": "London",
+    "publisher": "Architectural Design",
+    "year": 1978,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2004-11-02",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1343806A",
+        "last_name": "Kathīr, Ismāʻīl ibn ʻUmar",
+        "first_name": "Ibn"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171359M",
+    "title": "Estimating - into the 80s",
+    "city": "[Ascot]",
+    "publisher": "Institute of Building",
+    "year": 1980,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2000-12-08",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL131022A",
+        "last_name": "Garino Canina",
+        "first_name": "Attilio"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1417135M",
+    "title": "The ballroom dance pack",
+    "city": "London",
+    "publisher": "Dorling Kindersley",
+    "year": 1994,
+    "subject": "Ballroom dancing.",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 80,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2001-04-03",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL717000A",
+        "last_name": "Laird",
+        "first_name": "Walter"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171360M",
+    "title": "Critical evaluation of some equilibrium constants involving alkylammonium extractants",
+    "city": "Oxford",
+    "publisher": "Pergamon Press",
+    "year": 1977,
+    "subject": "Extraction (Chemistry)",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 30,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2005-09-22",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3359203A",
+        "last_name": "S. Kertes",
+        "first_name": "A."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171361M",
+    "title": "Douglas Huebler.",
+    "city": "Eindhoven",
+    "publisher": "Van Abbemuseum",
+    "year": 1979,
+    "subject": "Huebler, Douglas.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2011-08-20",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL138821A",
+        "last_name": "Blenck",
+        "first_name": "Erna"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171362M",
+    "title": "Soil science dictionary",
+    "city": "[Bucharest",
+    "publisher": "The Organizing Committee of the VIIIth International Congress of Soil Science",
+    "year": 1964,
+    "subject": "Soils -- Dictionaries -- Polyglot.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 691,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2016-08-16",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1014458A",
+        "last_name": "Sisson",
+        "first_name": "Pat"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171363M",
+    "title": "Robert Rauschenberg, Werke 1950-1980",
+    "city": "Berlin",
+    "publisher": "Staatliche Kunsthalle Berlin",
+    "year": 1980,
+    "subject": "Rauschenberg, Robert.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 398,
+    "lang": "ger",
+    "days_keep_count": 30,
+    "adding_date": "2002-05-01",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1136224A",
+        "last_name": "Paredes Cruz",
+        "first_name": "Joaquín"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171364M",
+    "title": "Understanding cash flow budgeting.",
+    "city": "Manchester",
+    "publisher": "Cotton & Allied Textiles Industry Training Board",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2011-12-12",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL127026A",
+        "last_name": "da Paixão Cearense",
+        "first_name": "Catullo"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171365M",
+    "title": "I Nuovi arazzi di Missoni",
+    "city": "Milano",
+    "publisher": "Galleria del Naviglio",
+    "year": 1981,
+    "subject": "Missoni, Ottavio.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "ita",
+    "days_keep_count": 50,
+    "adding_date": "2012-09-05",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL113342A",
+        "last_name": "De Fonblanque",
+        "first_name": "Albany"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171366M",
+    "title": "Sinn und Form",
+    "city": "Berlin",
+    "publisher": "Ru tten & Loening",
+    "year": 1952,
+    "subject": "Zweig, Arnold, -- 1887-1968.",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 303,
+    "lang": "ger",
+    "days_keep_count": 200,
+    "adding_date": "2008-08-11",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL58212A",
+        "last_name": "Zweig",
+        "first_name": "Arnold"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171367M",
+    "title": "Leisure and social control",
+    "city": "[Eastbourne",
+    "publisher": "Brighton Polytechnic, Chelsea School of Human Movement]",
+    "year": 1981,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2011-11-09",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL143623A",
+        "last_name": "Raymond Tournoux",
+        "first_name": "Jean"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171368M",
+    "title": "Ergebnisse des Wettbewerbs Bundesgartenschau Kassel 1981.",
+    "city": "[Kassel",
+    "publisher": "s.n.",
+    "year": 1981,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "ger",
+    "days_keep_count": 30,
+    "adding_date": "2001-05-29",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1442795A",
+        "last_name": "Suknēt.",
+        "first_name": "Sīphūm"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171369M",
+    "title": "Research in illustration",
+    "city": "[Brighton",
+    "publisher": "Brighton Polytechnic",
+    "year": 1981,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 34,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2007-07-06",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4504563A",
+        "last_name": "in Illustration (Conference) (1981 Brighton Polytechnic)",
+        "first_name": "Research"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1417136M",
+    "title": "In search of understanding",
+    "city": "Alexandria, Va",
+    "publisher": "Association for Supervision and Curriculum Development",
+    "year": 1993,
+    "subject": "Constructivism (Education)",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 136,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2002-12-04",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL317709A",
+        "last_name": "Grennon Brooks",
+        "first_name": "Jacqueline"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171370M",
+    "title": "The Printmakers Council 1979.",
+    "city": "[Wales?",
+    "publisher": "s.n.",
+    "year": 1979,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2016-07-09",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1026047A",
+        "last_name": "Milne",
+        "first_name": "Simon"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171371M",
+    "title": "The passion play at Oberammergau",
+    "city": "Munich",
+    "publisher": "Su ddeutscher Verlag",
+    "year": 1950,
+    "subject": "Oberammergau passion-play.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 143,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2002-07-15",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1378172A",
+        "last_name": "Osamu",
+        "first_name": "Kitayama,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171372M",
+    "title": "Nationalgalerie Berlin",
+    "city": "Berlin",
+    "publisher": "Nationalgalerie",
+    "year": 1978,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "ger",
+    "days_keep_count": 10,
+    "adding_date": "2008-11-03",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1251356A",
+        "last_name": "Ming.",
+        "first_name": "Jiang,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171373M",
+    "title": "Try reducing building waste",
+    "city": "[Ascot]",
+    "publisher": "Institute of Building",
+    "year": 1979,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 54,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2000-12-25",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1232363A",
+        "last_name": "Hesaaraki",
+        "first_name": "Mahmud"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171374M",
+    "title": "Die Schastrommel",
+    "city": "Stuttgart",
+    "publisher": "Mayer",
+    "year": 1973,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "ger",
+    "days_keep_count": 100,
+    "adding_date": "2000-02-13",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1396019A",
+        "last_name": "Lugo Cerra",
+        "first_name": "Julie"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171375M",
+    "title": "Podzols and podzolization",
+    "city": "Copenhagen",
+    "publisher": "[Leif Petersen]",
+    "year": 1976,
+    "subject": "Podzol.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 293,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2008-07-10",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1900582A",
+        "last_name": "Leif.",
+        "first_name": "Petersen,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171376M",
+    "title": "New approaches to the figure.",
+    "city": "London",
+    "publisher": "Arthur Jeffress Gallery",
+    "year": 1962,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2002-06-19",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1203449A",
+        "last_name": "I͡U︡ Drizhenko",
+        "first_name": "A."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171377M",
+    "title": "Gerrit van Bakel",
+    "city": "Eindhoven",
+    "publisher": "Van Abbemuseum",
+    "year": 1981,
+    "subject": "Bakel, Gerrit van.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "dut",
+    "days_keep_count": 50,
+    "adding_date": "2003-03-08",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL137469A",
+        "last_name": "Bamatter",
+        "first_name": "F."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171378M",
+    "title": "Does America need a social democratic movement?",
+    "city": "Washington, DC",
+    "publisher": "Social Democrats, USA",
+    "year": 1993,
+    "subject": "Why America needs a social democratic movement",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 132,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2002-01-23",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL143603A",
+        "last_name": "Russier",
+        "first_name": "Jeanne"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171379M",
+    "title": "The Trace elements and nutrition",
+    "city": "London",
+    "publisher": "Faber and Faber",
+    "year": 1976,
+    "subject": "Trace Elements.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 151,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2014-11-10",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL575381A",
+        "last_name": "Henry Alfred",
+        "first_name": "Schroeder,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1417137M",
+    "title": "Care pooling",
+    "city": "San Francisco",
+    "publisher": "Berrett-Koehler Publishers",
+    "year": 1993,
+    "subject": "Older people -- Care -- United States.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 292,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2013-10-13",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL717001A",
+        "last_name": "C. Lowe",
+        "first_name": "Paula"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171380M",
+    "title": "Fasciculi Malayenses",
+    "city": "London",
+    "publisher": "Published for the University Press of Liverpool by Longmans, Green",
+    "year": 1903,
+    "subject": "Anthropology -- Malay Peninsula.",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2002-09-13",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1809298A",
+        "last_name": "Annandale",
+        "first_name": "Nelson"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171381M",
+    "title": "Recent work",
+    "city": "[Exeter",
+    "publisher": "Market Print Gallery",
+    "year": 1978,
+    "subject": "Cheverton, Mark.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2007-01-29",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1086924A",
+        "last_name": "\"Por la Lucha de la Mujer Latinoamericana\" (1st 1984 Malmö, Sweden)",
+        "first_name": "Seminario"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171382M",
+    "title": "Exhibition of British silverwork",
+    "city": "[London]",
+    "publisher": "Goldsmiths' Hall",
+    "year": 1951,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 20,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2003-05-24",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL871175A",
+        "last_name": "Company of Goldsmiths",
+        "first_name": "Worshipful"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171383M",
+    "title": "The geography of Chicago and its environs",
+    "city": "Chicago",
+    "publisher": "published for the Geographic Society of Chicago by the University of Chicago Press",
+    "year": 1899,
+    "subject": "Physical geography -- Illinois -- Chicago.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 64,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2014-07-02",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2391694A",
+        "last_name": "Rollin D.",
+        "first_name": "Salisbury,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171384M",
+    "title": "Latham's Noit",
+    "city": "London",
+    "publisher": "Kasmin Limited",
+    "year": 1963,
+    "subject": "Latham, John, -- 1921-",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2009-07-25",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL107045A",
+        "last_name": "Venkata Ramana Sastri",
+        "first_name": "Duvvuri"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171385M",
+    "title": "Ferrous metal jewellery",
+    "city": "Bristol",
+    "publisher": "Arnolfini",
+    "year": 1981,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2010-11-16",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1335592A",
+        "last_name": "Balão Júnior",
+        "first_name": "Jaime"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171386M",
+    "title": "John Bratby, catalogue",
+    "city": "[London]",
+    "publisher": "Beaux Arts Gallery",
+    "year": 1956,
+    "subject": "Bratby, John, -- 1928-",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2010-02-17",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1298771A",
+        "last_name": "Ruohu.",
+        "first_name": "Su,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171387M",
+    "title": "Painting exhibition by John Bratby, Brighton Art Gallery, July 23 to September 4 1966.",
+    "city": "[Brighton",
+    "publisher": "Brighton Art Gallery",
+    "year": 1966,
+    "subject": "Bratby, John, -- 1928-",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2016-12-19",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1364485A",
+        "last_name": "Ostojić",
+        "first_name": "Stevo"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171388M",
+    "title": "Ralph Erskine",
+    "city": "Tokyo",
+    "publisher": "A.D.A. Edita",
+    "year": 1980,
+    "subject": "Erskine, Ralph.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2011-04-07",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1358429A",
+        "last_name": "Ying",
+        "first_name": "Tong,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171389M",
+    "title": "Broadcasting House.",
+    "city": "London",
+    "publisher": "British Broadcasting Corporation",
+    "year": 1932,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2015-11-03",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1314482A",
+        "last_name": "Hasumi",
+        "first_name": "Kiichirō"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1417138M",
+    "title": "Seeking spiritual direction",
+    "city": "Ann Arbor, Mich",
+    "publisher": "Servant Publications",
+    "year": 1993,
+    "subject": "Catholic Church -- Doctrines.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 301,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2000-11-13",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL37742A",
+        "last_name": "Dubay",
+        "first_name": "Thomas"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171390M",
+    "title": "Images in clay",
+    "city": "Manchester",
+    "publisher": "Whitworth Art Gallery",
+    "year": 1976,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2012-03-03",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1175785A",
+        "last_name": "Félix Proaño",
+        "first_name": "Juan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171391M",
+    "title": "Fidelity",
+    "city": "Boston",
+    "publisher": "Small, Maynard",
+    "year": 1915,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 422,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2014-04-26",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2575724A",
+        "last_name": "Susan",
+        "first_name": "Glaspell,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14171392M",
+    "title": "20th century original prints",
+    "city": "[London]",
+    "publisher": "South London Art Gallery",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2006-05-03",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL136669A",
+        "last_name": "Almazov",
+        "first_name": "S."
+      }
+    ]
+  }
+]

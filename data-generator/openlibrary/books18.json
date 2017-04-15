@@ -1,0 +1,4402 @@
+[
+  {
+    "openlibrary_id": "/books/OL12487271M",
+    "title": "Minji chotei, wakai no kenkyu",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 3,
+    "lang": "jpn",
+    "days_keep_count": 50,
+    "adding_date": "2012-08-23",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1263085A",
+        "last_name": "Noboru",
+        "first_name": "Koyama,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487272M",
+    "title": "Kaji jiken no kenkyu",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 4,
+    "lang": "jpn",
+    "days_keep_count": 30,
+    "adding_date": "2004-07-20",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1263085A",
+        "last_name": "Noboru",
+        "first_name": "Koyama,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487273M",
+    "title": "Koyama Noboru chosakushu",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 401,
+    "lang": "jpn",
+    "days_keep_count": 200,
+    "adding_date": "2001-09-11",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1263085A",
+        "last_name": "Noboru",
+        "first_name": "Koyama,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487274M",
+    "title": "Hanketsu no kashi no kenkyu",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 8,
+    "lang": "jpn",
+    "days_keep_count": 10,
+    "adding_date": "2007-01-26",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1263085A",
+        "last_name": "Noboru",
+        "first_name": "Koyama,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487275M",
+    "title": "Minji saiban no honshitsu o sagashite",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1994,
+    "subject": "Japan",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 10,
+    "lang": "jpn",
+    "days_keep_count": 10,
+    "adding_date": "2004-07-21",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1263085A",
+        "last_name": "Noboru",
+        "first_name": "Koyama,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487276M",
+    "title": "Yoki shiho o motomete",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 420,
+    "lang": "jpn",
+    "days_keep_count": 100,
+    "adding_date": "2006-09-21",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1263085A",
+        "last_name": "Noboru",
+        "first_name": "Koyama,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487277M",
+    "title": "Ichiyo, 25-sai no shogai",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1989,
+    "subject": "Higuchi, Ichiyo",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 303,
+    "lang": "jpn",
+    "days_keep_count": 200,
+    "adding_date": "2007-05-30",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1263518A",
+        "last_name": "Yoshihito",
+        "first_name": "Nishio,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487278M",
+    "title": "Kenpo kowa",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 221,
+    "lang": "jpn",
+    "days_keep_count": 200,
+    "adding_date": "2007-05-28",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3918153A",
+        "last_name": "Takeuchi",
+        "first_name": "Shigetoshi"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487279M",
+    "title": "Keiji soshoho kogi",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1989,
+    "subject": "Japan",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 245,
+    "lang": "jpn",
+    "days_keep_count": 100,
+    "adding_date": "2012-04-03",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3919873A",
+        "last_name": "Tashiro",
+        "first_name": "Noriharu"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1248727M",
+    "title": "Goshorn & wife vs. Purcell",
+    "city": "Cincinnati",
+    "publisher": "Bradley & Webb",
+    "year": 1861,
+    "subject": "Conveyancing -- Ohio -- Cases.",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 22,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2014-06-03",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL647236A",
+        "last_name": "Goshorn",
+        "first_name": "Nicholas"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487280M",
+    "title": "Nihon chusho shogyo no kenkyu",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 199,
+    "lang": "jpn",
+    "days_keep_count": 10,
+    "adding_date": "2003-08-31",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1361142A",
+        "last_name": "Hideo",
+        "first_name": "Sakamoto,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487281M",
+    "title": "Nihon koshoninron",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 338,
+    "lang": "jpn",
+    "days_keep_count": 200,
+    "adding_date": "2002-10-11",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923388A",
+        "last_name": "Uemura",
+        "first_name": "Hidekazu"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487282M",
+    "title": "Keiho kakuron",
+    "city": null,
+    "publisher": "Hatsubaisho Daigaku Tosho",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 250,
+    "lang": "jpn",
+    "days_keep_count": 10,
+    "adding_date": "2007-11-17",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1356694A",
+        "last_name": "Shinobu",
+        "first_name": "Kuroki,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487283M",
+    "title": "Chushi misui no shomondai ([Kenkyu sosho])",
+    "city": null,
+    "publisher": "Hatsubai Daigaku Tosho",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 222,
+    "lang": "jpn",
+    "days_keep_count": 30,
+    "adding_date": "2004-06-24",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1356694A",
+        "last_name": "Shinobu",
+        "first_name": "Kuroki,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487284M",
+    "title": "Hanrei keiho",
+    "city": null,
+    "publisher": "Hatsubai Daigaku Tosho",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 247,
+    "lang": "jpn",
+    "days_keep_count": 100,
+    "adding_date": "2001-12-16",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1356694A",
+        "last_name": "Shinobu",
+        "first_name": "Kuroki,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487285M",
+    "title": "Seizobutsu sekinin no riron to hokaishaku =",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1990,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 10,
+    "lang": "jpn",
+    "days_keep_count": 10,
+    "adding_date": "2004-04-29",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL457844A",
+        "last_name": "Hirano",
+        "first_name": "Hiroyuki"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487286M",
+    "title": "Chikara no koshi to Kokusaiho",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 5,
+    "lang": "jpn",
+    "days_keep_count": 100,
+    "adding_date": "2016-11-02",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3882558A",
+        "last_name": "Hirose",
+        "first_name": "Yoshio"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487287M",
+    "title": "Shiberia shuppei shiyo (Fukkoku sosho)",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 196,
+    "lang": "jpn",
+    "days_keep_count": 100,
+    "adding_date": "2006-11-23",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923389A",
+        "last_name": "Sugawara",
+        "first_name": "Sagae"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487288M",
+    "title": "Marukusu shugi to minzoku jiketsuken",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 25,
+    "lang": "jpn",
+    "days_keep_count": 200,
+    "adding_date": "2015-04-21",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923390A",
+        "last_name": "Maruyama",
+        "first_name": "Keiichi"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487289M",
+    "title": "Hanzai gainen to hanzairon no taikei (Keiho kenkyu)",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1990,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 374,
+    "lang": "jpn",
+    "days_keep_count": 50,
+    "adding_date": "2015-03-01",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1330914A",
+        "last_name": "Fumiaki",
+        "first_name": "Uchida,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1248728M",
+    "title": "The common understanding of the reason why a state forfeits state rights by its hostility to the Uni",
+    "city": "[S.l",
+    "publisher": "s.n.",
+    "year": 1867,
+    "subject": "Secession.",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2015-11-08",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL19804A",
+        "last_name": "Lincoln",
+        "first_name": "Abraham"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487290M",
+    "title": "Keizai tokei nyumon",
+    "city": null,
+    "publisher": "Hatsubai Daigaku Tosho",
+    "year": 1990,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 214,
+    "lang": "jpn",
+    "days_keep_count": 10,
+    "adding_date": "2000-10-11",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1304634A",
+        "last_name": "Hideo",
+        "first_name": "Suzuki,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487291M",
+    "title": "Saishin keiji hanrei no riron to jikko (Riron to jitsumu sosho)",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1990,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 351,
+    "lang": "jpn",
+    "days_keep_count": 10,
+    "adding_date": "2008-05-19",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1253039A",
+        "last_name": "Kazuo.",
+        "first_name": "Kawakami,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487292M",
+    "title": "Kokuzei hansoku torishimariho",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 6,
+    "lang": "jpn",
+    "days_keep_count": 200,
+    "adding_date": "2014-01-20",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1246416A",
+        "last_name": "Shigeo.",
+        "first_name": "Usui,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487293M",
+    "title": "Kurejitto-ho no riron to jissai",
+    "city": null,
+    "publisher": "Hatsubai Daigaku Tosho",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 506,
+    "lang": "jpn",
+    "days_keep_count": 100,
+    "adding_date": "2005-02-04",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL119464A",
+        "last_name": "Lewis Bernstein Sir",
+        "first_name": "Namier,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487294M",
+    "title": "Nogyo kyoiku no kadai",
+    "city": null,
+    "publisher": "Hatsubai Daigaku Tosho",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 209,
+    "lang": "jpn",
+    "days_keep_count": 200,
+    "adding_date": "2008-09-30",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1392063A",
+        "last_name": "Epstein",
+        "first_name": "Dwayne"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487295M",
+    "title": "Nyumon kokusai jinkenho",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1990,
+    "subject": "Human rights",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 252,
+    "lang": "jpn",
+    "days_keep_count": 100,
+    "adding_date": "2012-12-06",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3901417A",
+        "last_name": "Kubota",
+        "first_name": "Yo"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487296M",
+    "title": "Gyoseiho no kaishaku",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1990,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 339,
+    "lang": "jpn",
+    "days_keep_count": 10,
+    "adding_date": "2011-04-07",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3897914A",
+        "last_name": "Abe",
+        "first_name": "Yasutaka"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487297M",
+    "title": "Masui jiko no horitsu mondai (Jitsumu sosho)",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 234,
+    "lang": "jpn",
+    "days_keep_count": 100,
+    "adding_date": "2009-11-10",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923391A",
+        "last_name": "Kumamoto",
+        "first_name": "Norimichi"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487298M",
+    "title": "Minji funso kaiketsu tetsuzukiron",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1990,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 296,
+    "lang": "jpn",
+    "days_keep_count": 10,
+    "adding_date": "2000-07-11",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3170611A",
+        "last_name": "Ota",
+        "first_name": "Shozo"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487299M",
+    "title": "Amerika iminho =",
+    "city": null,
+    "publisher": "Hatsubai Daigaku Tosho",
+    "year": 1990,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 500,
+    "lang": "jpn",
+    "days_keep_count": 200,
+    "adding_date": "2007-01-01",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923392A",
+        "last_name": "Kawahara",
+        "first_name": "Kenichi"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1248729M",
+    "title": "The state",
+    "city": "Boston",
+    "publisher": "Lee & Shepard",
+    "year": 1867,
+    "subject": "United States -- Politics and government.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 32,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2003-01-10",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL647237A",
+        "last_name": "Charles of Washington, D.C.",
+        "first_name": "Roeser,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL124872M",
+    "title": "Zur Ozonempfindlichkeit von Wildpflanzenarten",
+    "city": "Bern",
+    "publisher": "Verlag Agrarökologie",
+    "year": 1998,
+    "subject": "Plants, Effect of ozone on.",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 88,
+    "lang": "ger",
+    "days_keep_count": 10,
+    "adding_date": "2006-07-17",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL83137A",
+        "last_name": "Bergmann",
+        "first_name": "Elke"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487300M",
+    "title": "Hikaku sosho hogaku no seishin",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1996,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 306,
+    "lang": "jpn",
+    "days_keep_count": 100,
+    "adding_date": "2004-04-30",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3884161A",
+        "last_name": "Kaise",
+        "first_name": "Yukio"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487301M",
+    "title": "Gendai no gijutsu kakumei",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1990,
+    "subject": "Technological innovations",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 15,
+    "lang": "jpn",
+    "days_keep_count": 100,
+    "adding_date": "2004-01-16",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1262292A",
+        "last_name": "Seiji",
+        "first_name": "Nakamura,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487302M",
+    "title": "Nomin no kotoba, onna no kotoba",
+    "city": null,
+    "publisher": "Hatsubai Daigaku Tosho",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 173,
+    "lang": "jpn",
+    "days_keep_count": 10,
+    "adding_date": "2016-06-22",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923393A",
+        "last_name": "Uchiyama",
+        "first_name": "Masateru"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487303M",
+    "title": "Chiiki kaihatsu to mizu kankyo",
+    "city": null,
+    "publisher": "Hatsubaimoto Daigaku Tosho",
+    "year": 1990,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 159,
+    "lang": "jpn",
+    "days_keep_count": 50,
+    "adding_date": "2002-10-26",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1172045A",
+        "last_name": "Benjamin",
+        "first_name": "Allen,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487304M",
+    "title": "Keiho-dokuhon soron",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 279,
+    "lang": "jpn",
+    "days_keep_count": 30,
+    "adding_date": "2003-07-11",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3903232A",
+        "last_name": "Tsuchimoto",
+        "first_name": "Takeshi"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487305M",
+    "title": "Amerika no chusho kigyo seisaku",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1990,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 218,
+    "lang": "jpn",
+    "days_keep_count": 10,
+    "adding_date": "2013-11-21",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3903380A",
+        "last_name": "Teraoka",
+        "first_name": "Hiroshi"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487306M",
+    "title": "Futo rodo koi soshoho no kenkyu",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1990,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 4,
+    "lang": "jpn",
+    "days_keep_count": 200,
+    "adding_date": "2002-12-26",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923394A",
+        "last_name": "Yamakawa",
+        "first_name": "Ryuichi"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487307M",
+    "title": "Keiji seisaku kogi",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1990,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 274,
+    "lang": "jpn",
+    "days_keep_count": 30,
+    "adding_date": "2008-09-10",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1214027A",
+        "last_name": "Kazuyoshi",
+        "first_name": "Shigematsu,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487308M",
+    "title": "Han noshiron",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1990,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 214,
+    "lang": "jpn",
+    "days_keep_count": 50,
+    "adding_date": "2008-01-17",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1255408A",
+        "last_name": "Katsuhiko",
+        "first_name": "Nishimura,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487309M",
+    "title": "Keiho soron (kogian)",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1990,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 203,
+    "lang": "jpn",
+    "days_keep_count": 200,
+    "adding_date": "2004-08-25",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3903231A",
+        "last_name": "Machino",
+        "first_name": "Saku"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1248730M",
+    "title": "[Letter of instructions by General James Fry to his counsel, A.G. Riddle, on his charges against Ros",
+    "city": "[Washington, D.C",
+    "publisher": "s.n.",
+    "year": 1866,
+    "subject": "Conkling, Roscoe, 1829-1888",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 26,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2016-12-27",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL352066A",
+        "last_name": "B. Fry",
+        "first_name": "James"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487310M",
+    "title": "Hotenron (Nihon rippo shiryo zenshu)",
+    "city": null,
+    "publisher": "Shinzansha Shuppan",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 220,
+    "lang": "jpn",
+    "days_keep_count": 100,
+    "adding_date": "2002-09-30",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL117391A",
+        "last_name": "Nobushige",
+        "first_name": "Hozumi,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487311M",
+    "title": "Rangobarudo buzoku hoten (Hanawa Hiroshi chosakushu)",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1992,
+    "subject": "Law, Lombard",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 636,
+    "lang": "jpn",
+    "days_keep_count": 10,
+    "adding_date": "2007-10-15",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1445720A",
+        "last_name": "Martin",
+        "first_name": "Kevan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487312M",
+    "title": "Sakugo muko no kyogoron",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 327,
+    "lang": "jpn",
+    "days_keep_count": 100,
+    "adding_date": "2007-06-13",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923395A",
+        "last_name": "Takeishi",
+        "first_name": "So"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487313M",
+    "title": "Nihon no keizai seicho to sono hoteki kozo",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 58,
+    "lang": "jpn",
+    "days_keep_count": 30,
+    "adding_date": "2014-06-30",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923392A",
+        "last_name": "Kawahara",
+        "first_name": "Kenichi"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487314M",
+    "title": "Shohisha torihiki to keiji kisei",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 392,
+    "lang": "jpn",
+    "days_keep_count": 200,
+    "adding_date": "2013-10-23",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923396A",
+        "last_name": "Nagai",
+        "first_name": "Madoka"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487315M",
+    "title": "Nihon saiban seidoshi ronko",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 334,
+    "lang": "jpn",
+    "days_keep_count": 30,
+    "adding_date": "2015-04-30",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923397A",
+        "last_name": "Takikawa",
+        "first_name": "Eiichi"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487316M",
+    "title": "Tokkyo sosho tetsuzuki ronko",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 199,
+    "lang": "jpn",
+    "days_keep_count": 100,
+    "adding_date": "2010-11-19",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923397A",
+        "last_name": "Takikawa",
+        "first_name": "Eiichi"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487317M",
+    "title": "Bunmin tosei no kenpogakuteki kenkyu",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1990,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 4,
+    "lang": "jpn",
+    "days_keep_count": 100,
+    "adding_date": "2009-11-25",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923398A",
+        "last_name": "Kobari",
+        "first_name": "Tsukasa"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487318M",
+    "title": "Tsuka no horitsu genri",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 24,
+    "lang": "jpn",
+    "days_keep_count": 200,
+    "adding_date": "2014-04-06",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923399A",
+        "last_name": "Makise",
+        "first_name": "Yoshihiro"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487319M",
+    "title": "Kindai keiho no gensen",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1990,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 250,
+    "lang": "jpn",
+    "days_keep_count": 10,
+    "adding_date": "2013-10-17",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1255408A",
+        "last_name": "Katsuhiko",
+        "first_name": "Nishimura,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1248731M",
+    "title": "In the Supreme Court of the United States ... December 21st, 1866, the commissioners of taxes of the",
+    "city": "[Washington, D.C",
+    "publisher": "s.n.",
+    "year": 1866,
+    "subject": "Banks and banking -- Taxation -- Law and legislation -- New York (State)",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2008-12-13",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL158928A",
+        "last_name": "Maxwell Evarts",
+        "first_name": "William"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487320M",
+    "title": "Kyohan mondo",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1990,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 314,
+    "lang": "jpn",
+    "days_keep_count": 100,
+    "adding_date": "2012-03-27",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1255408A",
+        "last_name": "Katsuhiko",
+        "first_name": "Nishimura,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487321M",
+    "title": "Keijiho semina",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 215,
+    "lang": "jpn",
+    "days_keep_count": 30,
+    "adding_date": "2011-08-25",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1081620A",
+        "last_name": "P. Bituev",
+        "first_name": "V."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487322M",
+    "title": "Keiji shinhanrei kaisetsu",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 296,
+    "lang": "jpn",
+    "days_keep_count": 50,
+    "adding_date": "2008-07-28",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL128753A",
+        "last_name": "Louis.",
+        "first_name": "Katzoff,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487323M",
+    "title": "Torishimariyaku tosan sekininron",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 4,
+    "lang": "jpn",
+    "days_keep_count": 100,
+    "adding_date": "2007-11-11",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3886156A",
+        "last_name": "Sato",
+        "first_name": "Tetsuo"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487324M",
+    "title": "Nihon rippo shiryo zenshu",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1990,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 572,
+    "lang": "jpn",
+    "days_keep_count": 30,
+    "adding_date": "2000-07-16",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1438032A",
+        "last_name": "Doeren",
+        "first_name": "Jamie"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487325M",
+    "title": "Shintakuho, shintakugyoho (Nihon rippo shiryo zenshu)",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 615,
+    "lang": "jpn",
+    "days_keep_count": 10,
+    "adding_date": "2008-12-30",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1161647A",
+        "last_name": "Kaiser",
+        "first_name": "Addy"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487326M",
+    "title": "Giinho (Nihon rippo shiryo zenshu)",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 580,
+    "lang": "jpn",
+    "days_keep_count": 50,
+    "adding_date": "2000-05-30",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1171124A",
+        "last_name": "M. Shoffner",
+        "first_name": "Ralph"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487327M",
+    "title": "Kaikeiho (Nihon rippo shiryo zenshu)",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 696,
+    "lang": "jpn",
+    "days_keep_count": 30,
+    "adding_date": "2008-11-04",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1024178A",
+        "last_name": "Väänänen",
+        "first_name": "Kyösti"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487328M",
+    "title": "Taisho Shonenho (Nihon rippo shiryo zenshu)",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 16,
+    "lang": "jpn",
+    "days_keep_count": 200,
+    "adding_date": "2016-01-03",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1006188A",
+        "last_name": "D. Echeverria",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487329M",
+    "title": "Gyosei jiken soshoho (Nihon rippo shiryo zenshu)",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 744,
+    "lang": "jpn",
+    "days_keep_count": 200,
+    "adding_date": "2004-01-02",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1151383A",
+        "last_name": " F. I Shihata",
+        "first_name": "Ibrahim "
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1248732M",
+    "title": "In matter of petition of Galwey & Casado, and order of Judge Betts thereon",
+    "city": "New York",
+    "publisher": "Baptist & Taylor",
+    "year": 1867,
+    "subject": "Searches and seizures -- New York (State) -- Cases.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 58,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2000-06-24",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL647238A",
+        "last_name": "Webster",
+        "first_name": "Sidney"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487330M",
+    "title": "Meiji koshitsu tenpan (Meiji 22-nen) (Nihon rippo shiryo zenshu)",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1996,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 26,
+    "lang": "jpn",
+    "days_keep_count": 10,
+    "adding_date": "2006-03-02",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1066833A",
+        "last_name": "Purbani",
+        "first_name": "Arti"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487331M",
+    "title": "Koshitsu keizaiho (Nihon rippo shiryo zenshu)",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 684,
+    "lang": "jpn",
+    "days_keep_count": 10,
+    "adding_date": "2015-12-22",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1438267A",
+        "last_name": "Kenton",
+        "first_name": "Barbara"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487332M",
+    "title": "Keiho soan chukai (Nihon rippo shiryo zenshu)",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 550,
+    "lang": "jpn",
+    "days_keep_count": 200,
+    "adding_date": "2016-12-16",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1383026A",
+        "last_name": "Robinson",
+        "first_name": "Wayne"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487333M",
+    "title": "Minji soshoho (Nihon rippo shiryo zenshu)",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 699,
+    "lang": "jpn",
+    "days_keep_count": 200,
+    "adding_date": "2001-07-24",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1443804A",
+        "last_name": "Tetsuo.",
+        "first_name": "Shioguchi,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487334M",
+    "title": "Minji soshoho (Nihon rippo shiryo zenshu)",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1994,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 455,
+    "lang": "jpn",
+    "days_keep_count": 100,
+    "adding_date": "2016-09-23",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1112503A",
+        "last_name": "Pechenik",
+        "first_name": "Semen"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487335M",
+    "title": "Keiho",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 587,
+    "lang": "jpn",
+    "days_keep_count": 100,
+    "adding_date": "2016-07-31",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1254469A",
+        "last_name": "Conference (14th 1979 Helsinki, Finland)",
+        "first_name": "ICHCA"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487336M",
+    "title": "Kyu Keiho",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1994,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 422,
+    "lang": "jpn",
+    "days_keep_count": 100,
+    "adding_date": "2005-11-26",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1107334A",
+        "last_name": "Traxel",
+        "first_name": "Wolfgang"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487337M",
+    "title": "Kaisha koseiho",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1994,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 418,
+    "lang": "jpn",
+    "days_keep_count": 30,
+    "adding_date": "2013-01-21",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1096104A",
+        "last_name": "Paunić",
+        "first_name": "Dragutin"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487338M",
+    "title": "Minji soshoho (Nihon rippo shiryo zenshu)",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1997,
+    "subject": "Civil procedure",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 598,
+    "lang": "jpn",
+    "days_keep_count": 30,
+    "adding_date": "2011-05-24",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1400295A",
+        "last_name": "Eidhammer",
+        "first_name": "Ingvar"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487339M",
+    "title": "Rodo kijunho",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1996,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 645,
+    "lang": "jpn",
+    "days_keep_count": 10,
+    "adding_date": "2013-02-12",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1264522A",
+        "last_name": "Yimei.",
+        "first_name": "Xu,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1248733M",
+    "title": "Report of Select Committee to Whom Was Referred S.B. No. 211 to punish treason.",
+    "city": "[Columbus, Ohio?",
+    "publisher": "s.n.",
+    "year": 1861,
+    "subject": "Treason -- Ohio.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2010-09-05",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL647239A",
+        "last_name": "General Assembly. Senate. Select Committee to Whom Was Referred S.B. No. 211.",
+        "first_name": "Ohio."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487340M",
+    "title": "Nihon rippo shiryo zenshu",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 220,
+    "lang": "jpn",
+    "days_keep_count": 200,
+    "adding_date": "2015-08-17",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1399295A",
+        "last_name": "Panagēs",
+        "first_name": "Geōrgios"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487341M",
+    "title": "Code civil de l'empire du Japon: Accompagne d'un expose des motifs ",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": null,
+    "subject": "Translations into French",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 560,
+    "lang": "fre",
+    "days_keep_count": 50,
+    "adding_date": "2013-02-01",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL171503A",
+        "last_name": "Japan.",
+        "first_name": "Japan."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487342M",
+    "title": "Minpo shuseian riyusho",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1995,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 137,
+    "lang": "jpn",
+    "days_keep_count": 200,
+    "adding_date": "2013-08-15",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923400A",
+        "last_name": "Chosakai (Japan)",
+        "first_name": "Hoten"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487343M",
+    "title": "Meiji Minpo hensanshi kenkyu (Nihon rippo shiryo zenshu)",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 545,
+    "lang": "jpn",
+    "days_keep_count": 50,
+    "adding_date": "2007-08-19",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923401A",
+        "last_name": "Hoshino",
+        "first_name": "Toru"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487344M",
+    "title": "Kaisei Keiho shakugi (Nihon rippo shiryo zenshu)",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1994,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 1393,
+    "lang": "jpn",
+    "days_keep_count": 100,
+    "adding_date": "2011-08-05",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923402A",
+        "last_name": "Tanaka",
+        "first_name": "Masami"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487345M",
+    "title": "Futsuyaku Nihon Teikoku Minpoten (Nihon rippo shiryo zenshu)",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1997,
+    "subject": "Civil law",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 119,
+    "lang": "fre",
+    "days_keep_count": 30,
+    "adding_date": "2006-02-25",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL171503A",
+        "last_name": "Japan.",
+        "first_name": "Japan."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487346M",
+    "title": "Nihon zaisei seido no hikakuhoshiteki kenkyu",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 486,
+    "lang": "jpn",
+    "days_keep_count": 30,
+    "adding_date": "2004-06-19",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1358097A",
+        "last_name": "Kazushi",
+        "first_name": "Kojima,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487347M",
+    "title": "Shinzokuho ronshu (Gakujutsu sensho)",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 4,
+    "lang": "jpn",
+    "days_keep_count": 30,
+    "adding_date": "2015-03-21",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1372198A",
+        "last_name": "Hisao",
+        "first_name": "Izumi,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487348M",
+    "title": "Hanzairon no shosatsu",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 359,
+    "lang": "jpn",
+    "days_keep_count": 30,
+    "adding_date": "2007-10-15",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1255408A",
+        "last_name": "Katsuhiko",
+        "first_name": "Nishimura,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487349M",
+    "title": "Ho shinrigaku kojutsu",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 393,
+    "lang": "jpn",
+    "days_keep_count": 50,
+    "adding_date": "2009-12-07",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1255408A",
+        "last_name": "Katsuhiko",
+        "first_name": "Nishimura,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1248734M",
+    "title": "Opinion of Mr. Justice Wylie of the Supreme Court of the District of Columbia as to the rights of th",
+    "city": "Washington",
+    "publisher": "Gibson Bros.",
+    "year": 1866,
+    "subject": "Homestead law -- California -- Cases.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2015-01-12",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL647240A",
+        "last_name": "Andrew",
+        "first_name": "Wylie,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487350M",
+    "title": "Kyohan riron to kyohan rippo",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 281,
+    "lang": "jpn",
+    "days_keep_count": 100,
+    "adding_date": "2011-12-03",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1255408A",
+        "last_name": "Katsuhiko",
+        "first_name": "Nishimura,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487351M",
+    "title": "Gyosei futan choseiho",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 313,
+    "lang": "jpn",
+    "days_keep_count": 50,
+    "adding_date": "2011-05-03",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923403A",
+        "last_name": "Shoji",
+        "first_name": "Minoru"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487352M",
+    "title": "Ijiho no gendaiteki shoso",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 484,
+    "lang": "jpn",
+    "days_keep_count": 200,
+    "adding_date": "2015-07-29",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL143318A",
+        "last_name": "Jacques Poquin",
+        "first_name": "Jean"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487353M",
+    "title": "Kokuren no heiwa iji katsudo",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 8,
+    "lang": "jpn",
+    "days_keep_count": 100,
+    "adding_date": "2008-01-04",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3882558A",
+        "last_name": "Hirose",
+        "first_name": "Yoshio"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487354M",
+    "title": "Sekai no ijiho",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 489,
+    "lang": "jpn",
+    "days_keep_count": 10,
+    "adding_date": "2007-08-19",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1162659A",
+        "last_name": "E. Biderman",
+        "first_name": "A."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487355M",
+    "title": "Sengo Nihon no anzen hosho rongi: Kenpo 9-jo to Nichi-Bei anpo no genten ",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 292,
+    "lang": "jpn",
+    "days_keep_count": 100,
+    "adding_date": "2011-06-20",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923404A",
+        "last_name": "Kasuya",
+        "first_name": "Susumu"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487356M",
+    "title": "Shin Shakuchi shakuyaho no jitsumu (Shinzansha jitsumu sosho)",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 300,
+    "lang": "jpn",
+    "days_keep_count": 30,
+    "adding_date": "2000-01-12",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1394688A",
+        "last_name": "B. Gloman",
+        "first_name": "Chuck"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487357M",
+    "title": "Kashitsuhan no kihon kozo (Gakujutsu sensho)",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 283,
+    "lang": "jpn",
+    "days_keep_count": 50,
+    "adding_date": "2010-05-30",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923405A",
+        "last_name": "Hanai",
+        "first_name": "Tetsuya"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487358M",
+    "title": "Keiji saiban ronshu",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 376,
+    "lang": "jpn",
+    "days_keep_count": 30,
+    "adding_date": "2005-11-14",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923406A",
+        "last_name": "Kojima",
+        "first_name": "Takeo"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487359M",
+    "title": "Gendai kyodo fuho koi no kenkyu (Gakujutsu sensho)",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 3,
+    "lang": "jpn",
+    "days_keep_count": 30,
+    "adding_date": "2008-08-17",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923407A",
+        "last_name": "Hamagami",
+        "first_name": "Norio"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1248735M",
+    "title": "The constitutional amendment.",
+    "city": "[New York?",
+    "publisher": "s.n.",
+    "year": 1866,
+    "subject": "United States",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2010-06-24",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL647241A",
+        "last_name": "Cornelius Benedict",
+        "first_name": "Erastus"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487360M",
+    "title": "Kindai Nihon no gyosei kaikaku to saibansho (Gakujutsu sensho)",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1996,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 317,
+    "lang": "jpn",
+    "days_keep_count": 50,
+    "adding_date": "2001-02-05",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923408A",
+        "last_name": "Maeyama",
+        "first_name": "Ryokichi"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487361M",
+    "title": "Kazokuho kihon hanrei 32-sen (Kihon hanreisen shirizu)",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 3,
+    "lang": "jpn",
+    "days_keep_count": 200,
+    "adding_date": "2007-09-16",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1367644A",
+        "last_name": "Tileukulov",
+        "first_name": "S."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487362M",
+    "title": "Keiji soshoho",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 17,
+    "lang": "jpn",
+    "days_keep_count": 100,
+    "adding_date": "2001-07-27",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1246416A",
+        "last_name": "Shigeo.",
+        "first_name": "Usui,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487363M",
+    "title": "Kazokuho (Taniguchi Tomohei Sensei tsuito ronbunshu)",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1992,
+    "subject": "Domestic relations",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 418,
+    "lang": "jpn",
+    "days_keep_count": 50,
+    "adding_date": "2004-08-07",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL127367A",
+        "last_name": "Dresse",
+        "first_name": "Paul"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487364M",
+    "title": "Keiyakuho (Taniguchi Tomohei Sensei tsuito ronbunshu)",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": null,
+    "subject": "Contracts",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 547,
+    "lang": "jpn",
+    "days_keep_count": 30,
+    "adding_date": "2014-11-19",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1326989A",
+        "last_name": "McCarron",
+        "first_name": "Edward"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487365M",
+    "title": "Zaisanho, hoi (Taniguchi Tomohei Sensei tsuito ronbunshu)",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1993,
+    "subject": "Civil law",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 697,
+    "lang": "jpn",
+    "days_keep_count": 100,
+    "adding_date": "2000-05-12",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1026272A",
+        "last_name": "Bach Festival (1986)",
+        "first_name": "Carmel"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487366M",
+    "title": "Kazokuho no shomondai",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 362,
+    "lang": "jpn",
+    "days_keep_count": 30,
+    "adding_date": "2001-12-20",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3918546A",
+        "last_name": "Hanawa",
+        "first_name": "Yoko"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487367M",
+    "title": "Atarashii kokusai chitsujo o motomete: Heiwa, jinken, keizai ",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 243,
+    "lang": "jpn",
+    "days_keep_count": 10,
+    "adding_date": "2007-08-17",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1393911A",
+        "last_name": "Lawrence",
+        "first_name": "Jack"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487368M",
+    "title": "Chugoku kazokuho no kenkyu",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1994,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 256,
+    "lang": "jpn",
+    "days_keep_count": 200,
+    "adding_date": "2008-06-11",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923409A",
+        "last_name": "Chin",
+        "first_name": "Ucho"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487369M",
+    "title": "Takakuka senryaku to sangyo soshiki",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 241,
+    "lang": "jpn",
+    "days_keep_count": 100,
+    "adding_date": "2003-04-06",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923410A",
+        "last_name": "Hakoda",
+        "first_name": "Shohei"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1248736M",
+    "title": "Catalogue, &c.",
+    "city": "[United States",
+    "publisher": "s.n",
+    "year": 1830,
+    "subject": "Canova, Antonio, 1757-1822 -- Catalogs.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2016-05-23",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1242059A",
+        "last_name": "R. Kaye",
+        "first_name": "Edward"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487370M",
+    "title": "Kotsu yoron",
+    "city": null,
+    "publisher": "Hatsubajo Daigaku Tosho",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 135,
+    "lang": "jpn",
+    "days_keep_count": 100,
+    "adding_date": "2009-03-12",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923411A",
+        "last_name": "Chiba",
+        "first_name": "Yoshio"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487371M",
+    "title": "Keizai gakusha no ninmu",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1994,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 5,
+    "lang": "jpn",
+    "days_keep_count": 10,
+    "adding_date": "2002-07-30",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1262292A",
+        "last_name": "Seiji",
+        "first_name": "Nakamura,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487372M",
+    "title": "Seiho kogi",
+    "city": null,
+    "publisher": "Daigaku Tosho",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 305,
+    "lang": "jpn",
+    "days_keep_count": 10,
+    "adding_date": "2000-06-22",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1134848A",
+        "last_name": "Boissonade",
+        "first_name": "Gustave"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487373M",
+    "title": "Kaisei Keiho seikai (Nihon rippo shiryo zenshu)",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 506,
+    "lang": "jpn",
+    "days_keep_count": 30,
+    "adding_date": "2001-05-10",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3919812A",
+        "last_name": "Isobe",
+        "first_name": "Shiro"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487374M",
+    "title": "Nihon no shitchi hogo undo no sokuseki: Nihon saidai no higata ga shometsusuru? ",
+    "city": null,
+    "publisher": "Shinzansha Saitekku",
+    "year": 1994,
+    "subject": "Japan",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 148,
+    "lang": "jpn",
+    "days_keep_count": 10,
+    "adding_date": "2005-01-02",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3901549A",
+        "last_name": "Yamashita",
+        "first_name": "Hirofumi"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487375M",
+    "title": "Homu Eigo nyumon",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 301,
+    "lang": "jpn",
+    "days_keep_count": 30,
+    "adding_date": "2001-07-10",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3899140A",
+        "last_name": "Goto",
+        "first_name": "Hiroshi"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487376M",
+    "title": "Amerika shohin mite aruki",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 261,
+    "lang": "jpn",
+    "days_keep_count": 50,
+    "adding_date": "2013-10-15",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923412A",
+        "last_name": "Kakimi",
+        "first_name": "Tsuneo"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487377M",
+    "title": "Ramusaru joyaku to Nihon no shitchi",
+    "city": null,
+    "publisher": "Hatsubai Daigaku Tosho",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 203,
+    "lang": "jpn",
+    "days_keep_count": 50,
+    "adding_date": "2006-09-21",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3901549A",
+        "last_name": "Yamashita",
+        "first_name": "Hirofumi"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487378M",
+    "title": "Shakaiteki hochikoku no kosei",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 517,
+    "lang": "jpn",
+    "days_keep_count": 50,
+    "adding_date": "2001-07-08",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923413A",
+        "last_name": "Takada",
+        "first_name": "Bin"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487379M",
+    "title": "Minji funso kosho kateiron",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 5,
+    "lang": "jpn",
+    "days_keep_count": 200,
+    "adding_date": "2002-04-07",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3897945A",
+        "last_name": "Wada",
+        "first_name": "Yoshitaka"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1248737M",
+    "title": "Catalogue.",
+    "city": "[Boston, Mass.?",
+    "publisher": "s.n.",
+    "year": 1800,
+    "subject": "Canova, Antonio, 1757-1822.",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2001-01-23",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1410385A",
+        "last_name": "Moreno, Máximo",
+        "first_name": "Torres"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487380M",
+    "title": "Rodo kankeiho no kaishaku kijun",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 328,
+    "lang": "jpn",
+    "days_keep_count": 50,
+    "adding_date": "2009-05-29",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923414A",
+        "last_name": "Nakajima",
+        "first_name": "Shigeya"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487381M",
+    "title": "Eijusha no kenri",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 4,
+    "lang": "jpn",
+    "days_keep_count": 100,
+    "adding_date": "2010-07-10",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3903253A",
+        "last_name": "Serita",
+        "first_name": "Kentaro"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487382M",
+    "title": "Jinkenron no shinkosei (Kenpo ronshu)",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 358,
+    "lang": "jpn",
+    "days_keep_count": 100,
+    "adding_date": "2004-01-17",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923415A",
+        "last_name": "Munesue",
+        "first_name": "Toshiyuki"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487383M",
+    "title": "Shohisha hogoho no riron",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 308,
+    "lang": "jpn",
+    "days_keep_count": 100,
+    "adding_date": "2015-08-29",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1383933A",
+        "last_name": "Jisuke",
+        "first_name": "Nagao,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487384M",
+    "title": "Shakaiken no rekishiteki tenkai",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 10,
+    "lang": "jpn",
+    "days_keep_count": 30,
+    "adding_date": "2008-06-30",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3901389A",
+        "last_name": "Uchino",
+        "first_name": "Masayuki"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487385M",
+    "title": "Genronho kenkyu",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 440,
+    "lang": "jpn",
+    "days_keep_count": 30,
+    "adding_date": "2005-11-10",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923416A",
+        "last_name": "Ishimura",
+        "first_name": "Zenji"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487386M",
+    "title": "Shihoteki jinken kyusairon",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 5,
+    "lang": "jpn",
+    "days_keep_count": 30,
+    "adding_date": "2001-09-25",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923417A",
+        "last_name": "Inoue",
+        "first_name": "Noriyuki"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487387M",
+    "title": "Tasu tojisha no sosho",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 300,
+    "lang": "jpn",
+    "days_keep_count": 100,
+    "adding_date": "2009-08-13",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3903219A",
+        "last_name": "Inoue",
+        "first_name": "Harunori"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487388M",
+    "title": "Keiji bengo, sosa no riron",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 5,
+    "lang": "jpn",
+    "days_keep_count": 200,
+    "adding_date": "2012-06-19",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923418A",
+        "last_name": "Shiibashi",
+        "first_name": "Takayuki"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487389M",
+    "title": "Keiho kaishaku no tenkai",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 36,
+    "lang": "jpn",
+    "days_keep_count": 10,
+    "adding_date": "2010-10-27",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3919231A",
+        "last_name": "Okoshi",
+        "first_name": "Yoshihisa"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1248738M",
+    "title": "Prospectus of the American Monthly Magazine",
+    "city": "[Boston, Mass",
+    "publisher": "E.R. Broaders",
+    "year": 1835,
+    "subject": "American Monthly Magazine (Boston, Mass. : 1836)",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2004-10-28",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1293122A",
+        "last_name": "Bastian Tafal",
+        "first_name": "B."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487390M",
+    "title": "Giin rippo no kenkyu",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1993,
+    "subject": "Legislative histories",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 614,
+    "lang": "jpn",
+    "days_keep_count": 200,
+    "adding_date": "2010-01-21",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1309551A",
+        "last_name": "Rajab Maḥmasānī",
+        "first_name": "Ṣubḥī"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487391M",
+    "title": "Inoue Shozo dibeto-shu",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 330,
+    "lang": "jpn",
+    "days_keep_count": 200,
+    "adding_date": "2016-07-02",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1045881A",
+        "last_name": "B. Gart͡s︡man",
+        "first_name": "L."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487392M",
+    "title": "Ho no kokusaika e no michi",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1994,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 5,
+    "lang": "jpn",
+    "days_keep_count": 50,
+    "adding_date": "2005-06-10",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1172748A",
+        "last_name": "Montanari",
+        "first_name": "Augusto"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487393M",
+    "title": "Kinyuron",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 234,
+    "lang": "jpn",
+    "days_keep_count": 50,
+    "adding_date": "2005-03-28",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923419A",
+        "last_name": "Yoshio",
+        "first_name": "Kyozo"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487394M",
+    "title": "Haroddo no keizai dogaku taikei no hatten (Kagawa Daigaku keizai kenkyu sosho)",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1992,
+    "subject": "Harrod, Roy Forbes",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 214,
+    "lang": "jpn",
+    "days_keep_count": 30,
+    "adding_date": "2016-04-26",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923420A",
+        "last_name": "Shinozaki",
+        "first_name": "Toshio"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487395M",
+    "title": "Senryakuteki ningen shigen kanri no soshikironteki kenkyu (Kagawa Daigaku keizai kenkyu sosho)",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 304,
+    "lang": "jpn",
+    "days_keep_count": 50,
+    "adding_date": "2013-06-22",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923421A",
+        "last_name": "Yamaguchi",
+        "first_name": "Hiroyuki"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487396M",
+    "title": "Sengo Kagawa no nogyo to gyogyo (Kagawa Daigaku keizai kenkyu sosho)",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 180,
+    "lang": "jpn",
+    "days_keep_count": 30,
+    "adding_date": "2003-06-17",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923422A",
+        "last_name": "Tsuji",
+        "first_name": "Tadayuki"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487397M",
+    "title": "Minpogaku to hikaku hogaku no shoso",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1996,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 433,
+    "lang": "jpn",
+    "days_keep_count": 30,
+    "adding_date": "2005-06-30",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1392802A",
+        "last_name": "Hardin",
+        "first_name": "Clement"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487398M",
+    "title": "Kabunushi daihyo sosho seidoron",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1996,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 312,
+    "lang": "jpn",
+    "days_keep_count": 30,
+    "adding_date": "2004-09-12",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923423A",
+        "last_name": "Shu",
+        "first_name": "Kenryu"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487399M",
+    "title": "Torishimariyaku kansayaku ron",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 6,
+    "lang": "jpn",
+    "days_keep_count": 200,
+    "adding_date": "2014-11-14",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923424A",
+        "last_name": "Sugawara",
+        "first_name": "Kikushi"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1248739M",
+    "title": "Mount Auburn Cemetery.",
+    "city": "[Boston, Mass",
+    "publisher": "s.n.",
+    "year": 1830,
+    "subject": "Mount Auburn Cemetery.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2014-03-27",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1261120A",
+        "last_name": "A. Ilevbare",
+        "first_name": "J."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL124873M",
+    "title": "Bleu diamant",
+    "city": "Vevey",
+    "publisher": "Editions de l'Aire",
+    "year": 1998,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 252,
+    "lang": "fre",
+    "days_keep_count": 10,
+    "adding_date": "2016-12-08",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL83138A",
+        "last_name": "Desarzens",
+        "first_name": "Corinne"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487400M",
+    "title": "Shasai, tegata, unso, kuho (Shoho kenkyu)",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 4,
+    "lang": "jpn",
+    "days_keep_count": 200,
+    "adding_date": "2008-09-27",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923424A",
+        "last_name": "Sugawara",
+        "first_name": "Kikushi"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487401M",
+    "title": "Hanrei shoho (Shoho kenkyu)",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1994,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 405,
+    "lang": "jpn",
+    "days_keep_count": 100,
+    "adding_date": "2015-08-20",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923424A",
+        "last_name": "Sugawara",
+        "first_name": "Kikushi"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487402M",
+    "title": "Funso kaiketsugaku",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 405,
+    "lang": "jpn",
+    "days_keep_count": 200,
+    "adding_date": "2005-02-15",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3899328A",
+        "last_name": "Hirota",
+        "first_name": "Takahisa"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487403M",
+    "title": "Genronho kyozai",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 285,
+    "lang": "jpn",
+    "days_keep_count": 30,
+    "adding_date": "2009-04-17",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923416A",
+        "last_name": "Ishimura",
+        "first_name": "Zenji"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487404M",
+    "title": "Genronho kenkyu",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 294,
+    "lang": "jpn",
+    "days_keep_count": 100,
+    "adding_date": "2015-02-03",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923416A",
+        "last_name": "Ishimura",
+        "first_name": "Zenji"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487405M",
+    "title": "Saikensha daii sosho no kozo",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1995,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 230,
+    "lang": "jpn",
+    "days_keep_count": 50,
+    "adding_date": "2006-07-16",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3919790A",
+        "last_name": "Ikeda",
+        "first_name": "Tatsuo"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487406M",
+    "title": "Gendai Nihon no rippo katei",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1995,
+    "subject": "Japan",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 330,
+    "lang": "jpn",
+    "days_keep_count": 200,
+    "adding_date": "2007-04-03",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923425A",
+        "last_name": "Tani",
+        "first_name": "Katsuhiro"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487407M",
+    "title": "Gaikokujin rodoshaho",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 292,
+    "lang": "jpn",
+    "days_keep_count": 30,
+    "adding_date": "2001-05-27",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923426A",
+        "last_name": "Nogawa",
+        "first_name": "Shinobu"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487408M",
+    "title": "Sosaku sashiosae no riron",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1994,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 342,
+    "lang": "jpn",
+    "days_keep_count": 200,
+    "adding_date": "2002-12-08",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923427A",
+        "last_name": "Shima",
+        "first_name": "Shinichi"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487409M",
+    "title": "Seiji fuhai boshiho o kangaeru",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 221,
+    "lang": "jpn",
+    "days_keep_count": 30,
+    "adding_date": "2014-06-05",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3901766A",
+        "last_name": "Maeda",
+        "first_name": "Hideaki"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1248740M",
+    "title": "Thomas B. Wait and Son, Boston, propose to publish a periodical work to be entitled the Journal of E",
+    "city": "[Boston, Mass",
+    "publisher": "T.B. Wait and Son",
+    "year": 1825,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2000-03-10",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1104085A",
+        "last_name": "Zlatev",
+        "first_name": "Stoi͡a︡n"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487410M",
+    "title": "Saibanho no kangaekata",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1994,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 317,
+    "lang": "jpn",
+    "days_keep_count": 200,
+    "adding_date": "2013-10-05",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923428A",
+        "last_name": "Hagiwara",
+        "first_name": "Kaneyoshi"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487411M",
+    "title": "Minji sosho shinri kozoron",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1995,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 4,
+    "lang": "jpn",
+    "days_keep_count": 100,
+    "adding_date": "2012-05-01",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923429A",
+        "last_name": "Yamamoto",
+        "first_name": "Kazuhiko"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487412M",
+    "title": "Koyama Sadatomo to Manshukoku",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1996,
+    "subject": "Koyama, Sadatomo",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 555,
+    "lang": "jpn",
+    "days_keep_count": 10,
+    "adding_date": "2008-07-14",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923430A",
+        "last_name": "Koyama",
+        "first_name": "Sadatomo"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487413M",
+    "title": "Gyosei keikaku no hoteki tosei (Gakujutsu sensho)",
+    "city": null,
+    "publisher": "Shinzansha Shuppan",
+    "year": 1996,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 456,
+    "lang": "jpn",
+    "days_keep_count": 10,
+    "adding_date": "2005-06-09",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923431A",
+        "last_name": "Mikami",
+        "first_name": "Takahiro"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487414M",
+    "title": "Saimusha koseiho koso, soron",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1994,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 441,
+    "lang": "jpn",
+    "days_keep_count": 50,
+    "adding_date": "2000-11-29",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3919784A",
+        "last_name": "Miyakawa",
+        "first_name": "Tomonori"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487415M",
+    "title": "Meiji gunsei",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 461,
+    "lang": "jpn",
+    "days_keep_count": 200,
+    "adding_date": "2007-03-26",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1299384A",
+        "last_name": "Tsuguo",
+        "first_name": "Fujita,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487416M",
+    "title": "Kenpo daikyujo to jieiken",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 175,
+    "lang": "jpn",
+    "days_keep_count": 200,
+    "adding_date": "2008-10-06",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923404A",
+        "last_name": "Kasuya",
+        "first_name": "Susumu"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487417M",
+    "title": "Kindai kenpo no genryu o saguru",
+    "city": null,
+    "publisher": "Hatsubai Daigaku Tosho",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 161,
+    "lang": "jpn",
+    "days_keep_count": 100,
+    "adding_date": "2007-05-12",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923432A",
+        "last_name": "Ito",
+        "first_name": "Mitsuru"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487418M",
+    "title": "Atarashii Minpo",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 8,
+    "lang": "jpn",
+    "days_keep_count": 10,
+    "adding_date": "2009-05-09",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923399A",
+        "last_name": "Makise",
+        "first_name": "Yoshihiro"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487419M",
+    "title": "Rinchi tsukoken no riron to saiban (Gakujutsu sensho)",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 455,
+    "lang": "jpn",
+    "days_keep_count": 10,
+    "adding_date": "2016-04-06",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923433A",
+        "last_name": "Okamoto",
+        "first_name": "Shoji"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1248741M",
+    "title": "Order of exercises at the annual visitation of the Divinity School, Wednesday, July 18, 1832.",
+    "city": "Cambridge",
+    "publisher": "Printed by E.W. Metcalf and Co.",
+    "year": 1832,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2011-05-25",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL647242A",
+        "last_name": "Divinity School.",
+        "first_name": "Harvard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487420M",
+    "title": "Yoron Tegata kogitteho",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 14,
+    "lang": "jpn",
+    "days_keep_count": 50,
+    "adding_date": "2016-09-16",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923434A",
+        "last_name": "Goto",
+        "first_name": "Kiichi"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487421M",
+    "title": "Kokusaika shakai no minji sosho",
+    "city": null,
+    "publisher": "Hatsubaisho Daigaku Tosho",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 10,
+    "lang": "jpn",
+    "days_keep_count": 50,
+    "adding_date": "2009-03-27",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3884161A",
+        "last_name": "Kaise",
+        "first_name": "Yukio"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487422M",
+    "title": "Shinkenho no rekishi to kadai",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 7,
+    "lang": "jpn",
+    "days_keep_count": 30,
+    "adding_date": "2001-06-29",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923435A",
+        "last_name": "Tanaka",
+        "first_name": "Michihiro"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487423M",
+    "title": "Anzen hairyo gimu to keiyaku sekinin no kocho",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 371,
+    "lang": "jpn",
+    "days_keep_count": 100,
+    "adding_date": "2000-07-11",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923436A",
+        "last_name": "Miyamoto",
+        "first_name": "Kenzo"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487424M",
+    "title": "Seiganken no gendaiteki tenkai",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1993,
+    "subject": "Europe",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 370,
+    "lang": "jpn",
+    "days_keep_count": 10,
+    "adding_date": "2007-12-27",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923437A",
+        "last_name": "Watanabe",
+        "first_name": "Hisamaru"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487425M",
+    "title": "Kinyuho no riron to jissai (Gakujutsu sensho)",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 436,
+    "lang": "jpn",
+    "days_keep_count": 50,
+    "adding_date": "2007-09-17",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923438A",
+        "last_name": "Mimuro",
+        "first_name": "Tatsu"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487426M",
+    "title": "Shoho oyobi shingisoku no kenkyu",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 470,
+    "lang": "jpn",
+    "days_keep_count": 30,
+    "adding_date": "2015-08-15",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923439A",
+        "last_name": "Goto",
+        "first_name": "Seishi"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487427M",
+    "title": "Koninho ni okeru ishi to jijitsu no kosaku (Gakujutsu sensho)",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 15,
+    "lang": "jpn",
+    "days_keep_count": 10,
+    "adding_date": "2015-11-04",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923440A",
+        "last_name": "Takahashi",
+        "first_name": "Chujiro"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487428M",
+    "title": "Kenpo kogi (SBC horitsugaku kogi shirizu)",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1993,
+    "subject": "Japan",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 243,
+    "lang": "jpn",
+    "days_keep_count": 50,
+    "adding_date": "2005-03-23",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923398A",
+        "last_name": "Kobari",
+        "first_name": "Tsukasa"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487429M",
+    "title": "Ho no naka no danjo fubyoto",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 129,
+    "lang": "jpn",
+    "days_keep_count": 10,
+    "adding_date": "2012-09-21",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923441A",
+        "last_name": "Mutsuro",
+        "first_name": "Junko"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1248742M",
+    "title": "Address to the city council, at the organization of the city government in Salem, May 9, 1836",
+    "city": "Salem",
+    "publisher": "Printed by Palfray and Chapman",
+    "year": 1836,
+    "subject": "Salem (Mass.) -- Politics and government.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 32,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2002-10-18",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL647243A",
+        "last_name": "Mass. Mayor.",
+        "first_name": "Salem,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487430M",
+    "title": "Nihon horei yosanron (Kindai Nihon kenpogaku sosho)",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1996,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 329,
+    "lang": "jpn",
+    "days_keep_count": 50,
+    "adding_date": "2016-01-24",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923442A",
+        "last_name": "Ichiki",
+        "first_name": "Kitokuro"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487431M",
+    "title": "Minporon",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 322,
+    "lang": "jpn",
+    "days_keep_count": 10,
+    "adding_date": "2012-09-08",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3898430A",
+        "last_name": "Ito",
+        "first_name": "Susumu"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487432M",
+    "title": "Horitsu koi jikoron",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 252,
+    "lang": "jpn",
+    "days_keep_count": 10,
+    "adding_date": "2012-01-04",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3898430A",
+        "last_name": "Ito",
+        "first_name": "Susumu"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487433M",
+    "title": "Butteki tanporon",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1994,
+    "subject": "Japan",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 332,
+    "lang": "jpn",
+    "days_keep_count": 30,
+    "adding_date": "2000-02-27",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3898430A",
+        "last_name": "Ito",
+        "first_name": "Susumu"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487434M",
+    "title": "Kenri itengata tanporon",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 260,
+    "lang": "jpn",
+    "days_keep_count": 30,
+    "adding_date": "2001-01-28",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3898430A",
+        "last_name": "Ito",
+        "first_name": "Susumu"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487435M",
+    "title": "Saiken shometsuron",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1996,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 288,
+    "lang": "jpn",
+    "days_keep_count": 30,
+    "adding_date": "2003-03-13",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3898430A",
+        "last_name": "Ito",
+        "first_name": "Susumu"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487436M",
+    "title": "Risu taishaku keiyakuron",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 298,
+    "lang": "jpn",
+    "days_keep_count": 50,
+    "adding_date": "2009-06-08",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3898430A",
+        "last_name": "Ito",
+        "first_name": "Susumu"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487437M",
+    "title": "Shohisha shihoron",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 277,
+    "lang": "jpn",
+    "days_keep_count": 10,
+    "adding_date": "2007-05-08",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3898430A",
+        "last_name": "Ito",
+        "first_name": "Susumu"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487438M",
+    "title": "Komuin fuho koi sekinin no kenkyu",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1995,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 31,
+    "lang": "jpn",
+    "days_keep_count": 100,
+    "adding_date": "2010-09-20",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923443A",
+        "last_name": "Tamura",
+        "first_name": "Yasutoshi"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487439M",
+    "title": "Kenpo kogian (Kogian shirizu)",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1992,
+    "subject": "Japan",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 213,
+    "lang": "jpn",
+    "days_keep_count": 100,
+    "adding_date": "2012-01-14",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923415A",
+        "last_name": "Munesue",
+        "first_name": "Toshiyuki"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1248743M",
+    "title": "A solemn review of the custom of war",
+    "city": "Boston",
+    "publisher": "S.G. Simpkins",
+    "year": 1833,
+    "subject": "War -- Moral and ethical aspects.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 24,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2005-11-10",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL92745A",
+        "last_name": "Worcester",
+        "first_name": "Noah"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487440M",
+    "title": "Shinyo hosho kyokai hoshoho gairon",
+    "city": null,
+    "publisher": "Hatsubaisho Daigaku Tosho",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 287,
+    "lang": "jpn",
+    "days_keep_count": 200,
+    "adding_date": "2005-10-21",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3898430A",
+        "last_name": "Ito",
+        "first_name": "Susumu"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487441M",
+    "title": "Saiken soron (Kogian shirizu)",
+    "city": null,
+    "publisher": "Hatsubai Daigaku Tosho",
+    "year": 1994,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 450,
+    "lang": "jpn",
+    "days_keep_count": 10,
+    "adding_date": "2011-10-31",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL457844A",
+        "last_name": "Hirano",
+        "first_name": "Hiroyuki"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487442M",
+    "title": "Saiken soron (Horitsugaku no mori)",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1994,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 22,
+    "lang": "jpn",
+    "days_keep_count": 10,
+    "adding_date": "2008-03-23",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3903215A",
+        "last_name": "Shiomi",
+        "first_name": "Yoshio"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487443M",
+    "title": "Keiyakuho (Saikenho kogian)",
+    "city": null,
+    "publisher": "Hatsubai Daigaku Tosho",
+    "year": 1996,
+    "subject": "Japan",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 562,
+    "lang": "jpn",
+    "days_keep_count": 100,
+    "adding_date": "2015-02-15",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL457844A",
+        "last_name": "Hirano",
+        "first_name": "Hiroyuki"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487444M",
+    "title": "Keiji soshoho",
+    "city": null,
+    "publisher": "Hatsubai Daigaku Tosho",
+    "year": 1993,
+    "subject": "Criminal procedure",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 313,
+    "lang": "jpn",
+    "days_keep_count": 10,
+    "adding_date": "2003-05-15",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1305179A",
+        "last_name": "Kunstformidlingsutvalget.",
+        "first_name": "Norway."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487445M",
+    "title": "Keiho kogi",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 7,
+    "lang": "jpn",
+    "days_keep_count": 200,
+    "adding_date": "2013-08-29",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3886172A",
+        "last_name": "Sato",
+        "first_name": "Tsukasa"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487446M",
+    "title": "Gendai Minpo soron",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1994,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 386,
+    "lang": "jpn",
+    "days_keep_count": 30,
+    "adding_date": "2007-08-21",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3881869A",
+        "last_name": "Saito",
+        "first_name": "Osamu"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487447M",
+    "title": "Kyodo kenkyu no chie (Shinzan sosho)",
+    "city": null,
+    "publisher": "Hatsubaijo Daigaku Tosho",
+    "year": 1994,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 137,
+    "lang": "jpn",
+    "days_keep_count": 50,
+    "adding_date": "2016-02-17",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3074963A",
+        "last_name": "Tada",
+        "first_name": "Michitaro"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487448M",
+    "title": "Kokusai torihiki to kazei mondai",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1994,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 209,
+    "lang": "jpn",
+    "days_keep_count": 30,
+    "adding_date": "2016-04-13",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1316311A",
+        "last_name": "Yoshiakira",
+        "first_name": "Komatsu,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487449M",
+    "title": "Gendai kokusai kankeiho no shomondai",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1994,
+    "subject": "International relations",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 231,
+    "lang": "jpn",
+    "days_keep_count": 30,
+    "adding_date": "2003-08-06",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3903361A",
+        "last_name": "Takano",
+        "first_name": "Mikihisa"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1248744M",
+    "title": "Description of a view of the city of Jerusalem and the surrounding country",
+    "city": "Boston",
+    "publisher": "Perkins and Marvin",
+    "year": 1837,
+    "subject": "Jerusalem -- Description and travel.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 12,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2010-09-04",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL647244A",
+        "last_name": "Burford",
+        "first_name": "Robert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL12487450M",
+    "title": "Bengoshi karuteru",
+    "city": null,
+    "publisher": "Shinzansha",
+    "year": 1995,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 211,
+    "lang": "jpn",
+    "days_keep_count": 50,
+    "adding_date": "2016-02-10",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3923444A",
+        "last_name": "Miyake",
+        "first_name": "Shingo"
+      }
+    ]
+  }
+]

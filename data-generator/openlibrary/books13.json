@@ -1,0 +1,4497 @@
+[
+  {
+    "openlibrary_id": "/books/OL10929500M",
+    "title": "The Daily Meow",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 1999,
+    "subject": "Fiction",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 19,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2001-02-02",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2879967A",
+        "last_name": "Eggleton",
+        "first_name": "Jill"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929501M",
+    "title": "Mouse manual",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 1999,
+    "subject": "Fiction",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 19,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2014-03-07",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2879967A",
+        "last_name": "Eggleton",
+        "first_name": "Jill"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929502M",
+    "title": "Animals say",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 1999,
+    "subject": "Animals",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 19,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2000-02-11",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2879967A",
+        "last_name": "Eggleton",
+        "first_name": "Jill"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929503M",
+    "title": "Animal advertisements",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 1999,
+    "subject": "Animals",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 19,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2005-10-08",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2879967A",
+        "last_name": "Eggleton",
+        "first_name": "Jill"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929504M",
+    "title": "The red shoes",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 1999,
+    "subject": "Fiction",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 19,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2008-01-26",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2879967A",
+        "last_name": "Eggleton",
+        "first_name": "Jill"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929505M",
+    "title": "The Island of Wingo",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 1999,
+    "subject": "Fiction",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 19,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2003-03-20",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2879967A",
+        "last_name": "Eggleton",
+        "first_name": "Jill"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929506M",
+    "title": "McGinty's friend",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 1999,
+    "subject": "Cats",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 19,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2003-04-23",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL429183A",
+        "last_name": "Noonan",
+        "first_name": "Diana"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929507M",
+    "title": "Mr. Merton's vacation",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 1999,
+    "subject": "Fiction",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 19,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2007-03-17",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL429183A",
+        "last_name": "Noonan",
+        "first_name": "Diana"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929508M",
+    "title": "Space cat",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 1999,
+    "subject": "Cats",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 19,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2005-05-03",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL429215A",
+        "last_name": "Krueger",
+        "first_name": "Carol"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929509M",
+    "title": "Using a tail",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 1999,
+    "subject": "Animals",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 19,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2001-06-15",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3508994A",
+        "last_name": "Windsor",
+        "first_name": "Jo"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1092950M",
+    "title": "Losing control",
+    "city": "San Diego",
+    "publisher": "Academic Press",
+    "year": 1994,
+    "subject": "Self-control",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 307,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2015-03-22",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL541741A",
+        "last_name": "F. Baumeister",
+        "first_name": "Roy"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929510M",
+    "title": "Dad's pasta",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 1999,
+    "subject": "Fathers",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 19,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2012-05-18",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3514336A",
+        "last_name": "Gabolinscy",
+        "first_name": "Jack"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929511M",
+    "title": "Sail FL N/F Baboon Troops Is (Sails)",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 19,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2014-06-11",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2803307A",
+        "last_name": "Rigby",
+        "first_name": "Rigby"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929512M",
+    "title": "Using a Beak",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 1999,
+    "subject": "Behavior",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 19,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2010-05-27",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3508994A",
+        "last_name": "Windsor",
+        "first_name": "Jo"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929513M",
+    "title": "Dinga-lings and Flutterbys (Sails Literary Series)",
+    "city": null,
+    "publisher": "Rigby Press",
+    "year": 1999,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 24,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2007-12-04",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1153099A",
+        "last_name": "E. Akpan",
+        "first_name": "Fabian"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929514M",
+    "title": "The dinosaur boogie",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 1999,
+    "subject": "Children's poetry",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 24,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2013-01-22",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2879967A",
+        "last_name": "Eggleton",
+        "first_name": "Jill"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929515M",
+    "title": "Talk talk",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 1999,
+    "subject": "Children's poetry",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 24,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2002-05-16",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2879967A",
+        "last_name": "Eggleton",
+        "first_name": "Jill"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929516M",
+    "title": "PBS Two Eyes That See Is (Pebble Soup)",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 1999,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2006-08-16",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3514326A",
+        "last_name": "Dzamtovski",
+        "first_name": "Dzamtovski"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929517M",
+    "title": "PBS Three Little Pigs, the Is (Pebble Soup)",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 1999,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2015-11-03",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2635339A",
+        "last_name": "Sanderson",
+        "first_name": "Sanderson"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929518M",
+    "title": "PBS Follow the Paw Prints Is (Pebble Soup)",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2012-04-07",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3514337A",
+        "last_name": "Yotive",
+        "first_name": "Yotive"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929519M",
+    "title": "PBS King & the Firefighters Is (Pebble Soup)",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 1999,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2011-06-26",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2625511A",
+        "last_name": "Wagner",
+        "first_name": "Wagner"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1092951M",
+    "title": "Alcohol",
+    "city": "Waco, TX",
+    "publisher": "Health Edso",
+    "year": 1994,
+    "subject": "Alcoholism.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 48,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2010-01-18",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL580618A",
+        "last_name": "R. Scheel",
+        "first_name": "Kevin"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929520M",
+    "title": "The message in the stars (Pebble soup)",
+    "city": null,
+    "publisher": "Children's Television Network",
+    "year": 2000,
+    "subject": "Argentina",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2000-10-18",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL24477A",
+        "last_name": "Delacre",
+        "first_name": "Lulu"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929521M",
+    "title": "PBS Little Red Hen, the Is (Pebble Soup)",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 1999,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2005-08-29",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2624758A",
+        "last_name": "Carter",
+        "first_name": "Carter"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929522M",
+    "title": "The Singing Animals",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2008-04-03",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3514338A",
+        "last_name": "West",
+        "first_name": "Loretta"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929523M",
+    "title": "Getting Ready (Rigby Literacy)",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2004-07-31",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1135343A",
+        "last_name": "Buti",
+        "first_name": "Ignazio"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929524M",
+    "title": "Dinnertime",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2001-01-27",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL30686A",
+        "last_name": "Shipton",
+        "first_name": "Paul"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929525M",
+    "title": "Rlg2 Betsy's Big Pet Is",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2006-05-31",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2803307A",
+        "last_name": "Rigby",
+        "first_name": "Rigby"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929526M",
+    "title": "Rlg2 Bananas for Breakfast Is",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2012-07-02",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2803307A",
+        "last_name": "Rigby",
+        "first_name": "Rigby"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929527M",
+    "title": "Rlg2 Perfect Pizza, the Is",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2001-09-03",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2803307A",
+        "last_name": "Rigby",
+        "first_name": "Rigby"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929528M",
+    "title": "Rlg2 Birthday to Remember Is",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2007-08-01",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2803307A",
+        "last_name": "Rigby",
+        "first_name": "Rigby"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929529M",
+    "title": "Two Brothers",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2007-12-01",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1313254A",
+        "last_name": "Setsuko.",
+        "first_name": "Takemura,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1092952M",
+    "title": "A taste of Lucca",
+    "city": "Sacramento, CA",
+    "publisher": "Tzedakah Publications",
+    "year": 1994,
+    "subject": "Cookery, Italian -- Northern style",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2002-11-04",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL580619A",
+        "last_name": "Dinelli",
+        "first_name": "Deborah"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929530M",
+    "title": "The Missing Amulet",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2009-11-20",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2667352A",
+        "last_name": "Langford",
+        "first_name": "Jane"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929531M",
+    "title": "Rlg3 Marine Rescue Is",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2001-08-03",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2803307A",
+        "last_name": "Rigby",
+        "first_name": "Rigby"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929532M",
+    "title": "Rigby Literacy Grade 2 How to Make Masks",
+    "city": null,
+    "publisher": "Rigby A Division of Reed Elsevier Inc",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2001-10-09",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3508996A",
+        "last_name": "Literacy",
+        "first_name": "Rigby"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929533M",
+    "title": "Rigby Literacy Grade 2 Yeh Shen",
+    "city": null,
+    "publisher": "Rigby A Division of Reed Elsevier Inc",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2009-02-15",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3508996A",
+        "last_name": "Literacy",
+        "first_name": "Rigby"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929534M",
+    "title": "Dw-2 Rd from Here to There",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 1999,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 24,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2014-02-03",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2803307A",
+        "last_name": "Rigby",
+        "first_name": "Rigby"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929535M",
+    "title": "Pmbm Look at Me Is",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2014-06-09",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1205597A",
+        "last_name": "Smith",
+        "first_name": "Annette"
+      },
+      {
+        "openlibrary_id": "/authors/OL2623771A",
+        "last_name": "Various",
+        "first_name": "Various"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929536M",
+    "title": "Pmbm Balloons Is",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2008-12-01",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3514339A",
+        "last_name": "And Jenny Giles Smith",
+        "first_name": "Annette"
+      },
+      {
+        "openlibrary_id": "/authors/OL2623771A",
+        "last_name": "Various",
+        "first_name": "Various"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929537M",
+    "title": "Little Cat Is Hungry",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2003-09-05",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1205597A",
+        "last_name": "Smith",
+        "first_name": "Annette"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929538M",
+    "title": "Pmbm Sam and Little Bear Is",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2002-02-16",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1536723A",
+        "last_name": "Beverley",
+        "first_name": "Randell,"
+      },
+      {
+        "openlibrary_id": "/authors/OL2623771A",
+        "last_name": "Various",
+        "first_name": "Various"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929539M",
+    "title": "Little Rabbit's Party",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2014-09-24",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2661815A",
+        "last_name": "Giles",
+        "first_name": "Jenny"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1092953M",
+    "title": "Fritz Reiner",
+    "city": "Evanston, Ill",
+    "publisher": "Northwestern University Press",
+    "year": 1994,
+    "subject": "Reiner, Fritz, 1888-1963",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 330,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2009-03-06",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL580620A",
+        "last_name": "Hart",
+        "first_name": "Philip"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929540M",
+    "title": "Stuck in the Ditch",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2014-07-23",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1205597A",
+        "last_name": "Smith",
+        "first_name": "Annette"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929541M",
+    "title": "Pmbm Late for School Is",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2004-06-10",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2661815A",
+        "last_name": "Giles",
+        "first_name": "Jenny"
+      },
+      {
+        "openlibrary_id": "/authors/OL2623771A",
+        "last_name": "Various",
+        "first_name": "Various"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929542M",
+    "title": "Soccer at School",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2005-12-07",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2661815A",
+        "last_name": "Giles",
+        "first_name": "Jenny"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929543M",
+    "title": "Pmbm Little Steg Is",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2003-03-04",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1536723A",
+        "last_name": "Beverley",
+        "first_name": "Randell,"
+      },
+      {
+        "openlibrary_id": "/authors/OL2623771A",
+        "last_name": "Various",
+        "first_name": "Various"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929544M",
+    "title": "Harry the Tow Truck",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2000-10-24",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3514340A",
+        "last_name": "Amith",
+        "first_name": "Annette"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929545M",
+    "title": "The Skating Twins (Rigby PM Benchmark Collection Level 20)",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 15,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2007-12-31",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1205597A",
+        "last_name": "Smith",
+        "first_name": "Annette"
+      },
+      {
+        "openlibrary_id": "/authors/OL2661815A",
+        "last_name": "Giles",
+        "first_name": "Jenny"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929546M",
+    "title": "Pmbm Wind and the Sun, Card",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 2,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2005-07-14",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2661815A",
+        "last_name": "Giles",
+        "first_name": "Jenny"
+      },
+      {
+        "openlibrary_id": "/authors/OL2623771A",
+        "last_name": "Various",
+        "first_name": "Various"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929547M",
+    "title": "Pmbm Tricks with a Kite Card",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 2,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2001-08-03",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1205597A",
+        "last_name": "Smith",
+        "first_name": "Annette"
+      },
+      {
+        "openlibrary_id": "/authors/OL2623771A",
+        "last_name": "Various",
+        "first_name": "Various"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929548M",
+    "title": "Pmbm Cave Beside Waterfallcard",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 2,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2001-09-23",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2123401A",
+        "last_name": "Fitch Perkins",
+        "first_name": "Lucy"
+      },
+      {
+        "openlibrary_id": "/authors/OL2623771A",
+        "last_name": "Various",
+        "first_name": "Various"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929549M",
+    "title": "Pmbm Jack & the Beanstalk Card",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 2,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2007-09-01",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL112923A",
+        "last_name": "Lang",
+        "first_name": "Andrew"
+      },
+      {
+        "openlibrary_id": "/authors/OL2623771A",
+        "last_name": "Various",
+        "first_name": "Various"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1092954M",
+    "title": "The official Dick Van Dyke show book",
+    "city": "New York",
+    "publisher": "Hyperion",
+    "year": 1994,
+    "subject": "Dick Van Dyke show (Television program)",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 401,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2001-07-26",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL220504A",
+        "last_name": "Waldron",
+        "first_name": "Vince"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929550M",
+    "title": "Pmbm Game of Soccer, the Card",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 2,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2015-10-01",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2661815A",
+        "last_name": "Giles",
+        "first_name": "Jenny"
+      },
+      {
+        "openlibrary_id": "/authors/OL2623771A",
+        "last_name": "Various",
+        "first_name": "Various"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929551M",
+    "title": "Pmbm Mt. St.Helen Blows Card",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 2,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2001-01-11",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3514341A",
+        "last_name": "Werth",
+        "first_name": "Roger"
+      },
+      {
+        "openlibrary_id": "/authors/OL2623771A",
+        "last_name": "Various",
+        "first_name": "Various"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929552M",
+    "title": "Pmbm Fording the River Card",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 2,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2006-11-05",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2123401A",
+        "last_name": "Fitch Perkins",
+        "first_name": "Lucy"
+      },
+      {
+        "openlibrary_id": "/authors/OL2623771A",
+        "last_name": "Various",
+        "first_name": "Various"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929553M",
+    "title": "Pmbm 65 Million Yrs Ago Card",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 32,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2002-11-26",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1536723A",
+        "last_name": "Beverley",
+        "first_name": "Randell,"
+      },
+      {
+        "openlibrary_id": "/authors/OL2623771A",
+        "last_name": "Various",
+        "first_name": "Various"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929554M",
+    "title": "Pmbm Lost @ Shopping Mall Is",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2008-12-05",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1205597A",
+        "last_name": "Smith",
+        "first_name": "Annette"
+      },
+      {
+        "openlibrary_id": "/authors/OL2623771A",
+        "last_name": "Various",
+        "first_name": "Various"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929555M",
+    "title": "Pmbm Fox & Chicken-To-Go Is",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2000-01-09",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1536723A",
+        "last_name": "Beverley",
+        "first_name": "Randell,"
+      },
+      {
+        "openlibrary_id": "/authors/OL2623771A",
+        "last_name": "Various",
+        "first_name": "Various"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929556M",
+    "title": "Tom and the Sack (Rigby PM Benchmark Collection Level 19)",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2003-11-11",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL108131A",
+        "last_name": "Muʻīnuddīn",
+        "first_name": "K̲h̲vājah"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929557M",
+    "title": "Great Lion and Tiny Mouse (Rigby PM Benchmark Collection Level 16)",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2004-06-12",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1381283A",
+        "last_name": "Emanuel Strasser",
+        "first_name": "Emil"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929558M",
+    "title": "Pmbm Cat and the Mice Is",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2012-01-18",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1536723A",
+        "last_name": "Beverley",
+        "first_name": "Randell,"
+      },
+      {
+        "openlibrary_id": "/authors/OL2623771A",
+        "last_name": "Various",
+        "first_name": "Various"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929559M",
+    "title": "Pmbm Merry-Go-Round, the Is",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2004-10-22",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2661815A",
+        "last_name": "Giles",
+        "first_name": "Jenny"
+      },
+      {
+        "openlibrary_id": "/authors/OL2623771A",
+        "last_name": "Various",
+        "first_name": "Various"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1092955M",
+    "title": "Physical chemistry",
+    "city": "New York",
+    "publisher": "HarperCollins College Publishers",
+    "year": 1995,
+    "subject": "Chemistry, Physical and theoretical.",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 1159,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2015-03-23",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL580621A",
+        "last_name": "S. Winn",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929560M",
+    "title": "The Water Slide",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2008-05-13",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1205597A",
+        "last_name": "Smith",
+        "first_name": "Annette"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929561M",
+    "title": "Pmbm Vacation Surprise Is",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2002-12-24",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1205597A",
+        "last_name": "Smith",
+        "first_name": "Annette"
+      },
+      {
+        "openlibrary_id": "/authors/OL2623771A",
+        "last_name": "Various",
+        "first_name": "Various"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929562M",
+    "title": "Wake Up, Father Bear",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2003-09-10",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1536723A",
+        "last_name": "Beverley",
+        "first_name": "Randell,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929563M",
+    "title": "Little Chimp and the Bees",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2006-11-22",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2661815A",
+        "last_name": "Giles",
+        "first_name": "Jenny"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929564M",
+    "title": "The Fire on Toytown Hill",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2011-07-19",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2661815A",
+        "last_name": "Giles",
+        "first_name": "Jenny"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929565M",
+    "title": "Two Little Ducks Get Lost",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2010-06-29",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1205597A",
+        "last_name": "Smith",
+        "first_name": "Annette"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929566M",
+    "title": "Pmp Blu 10 Ltl/Baby Chimp Is",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2007-12-10",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2623771A",
+        "last_name": "Various",
+        "first_name": "Various"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929567M",
+    "title": "The House on the Hill",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2006-12-29",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3514342A",
+        "last_name": "Randall",
+        "first_name": "Beverley"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929568M",
+    "title": "Down by the Sea",
+    "city": null,
+    "publisher": "rigby",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2005-07-18",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3514343A",
+        "last_name": "Jarden",
+        "first_name": "Joan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929569M",
+    "title": "Mother Tiger and her cubs (Beverley Randell)",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2009-12-10",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1536723A",
+        "last_name": "Beverley",
+        "first_name": "Randell,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1092956M",
+    "title": "The new Cajun-Creole cookbook",
+    "city": "New York",
+    "publisher": "HPBooks",
+    "year": 1994,
+    "subject": "Cookery, American -- Louisiana style",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 175,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2004-04-19",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL580622A",
+        "last_name": "Thompson-Anderson",
+        "first_name": "Terry"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929570M",
+    "title": "Rbtp Fabulous Phonics Little Books (Rigby Best Teachers Press)",
+    "city": null,
+    "publisher": "Steck Vaughn",
+    "year": 2001,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2014-08-19",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2812577A",
+        "last_name": "Company",
+        "first_name": "Steck-Vaughn"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929571M",
+    "title": "Rbtp Teacher Parent Partnership Primary (Rigby Best Teachers Press)",
+    "city": null,
+    "publisher": "Steck Vaughn",
+    "year": 2001,
+    "subject": "Parent Participation",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2004-06-12",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2812577A",
+        "last_name": "Company",
+        "first_name": "Steck-Vaughn"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929572M",
+    "title": "Rbtp from the Page to the Stage (Rigby Best Teachers Press)",
+    "city": null,
+    "publisher": "Steck Vaughn",
+    "year": 2001,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2001-01-20",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2812577A",
+        "last_name": "Company",
+        "first_name": "Steck-Vaughn"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929573M",
+    "title": "Rbtp Tuned Into Shared Reading & Music (Rigby Best Teachers Press)",
+    "city": null,
+    "publisher": "Steck Vaughn",
+    "year": 2001,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2011-05-08",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2812577A",
+        "last_name": "Company",
+        "first_name": "Steck-Vaughn"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929574M",
+    "title": "Rbtp Spelling Puzzlers Grade 1 (Rigby Best Teachers Press)",
+    "city": null,
+    "publisher": "Steck Vaughn",
+    "year": 2001,
+    "subject": "Teaching Methods & Materials - Language Arts",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2002-06-19",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2812577A",
+        "last_name": "Company",
+        "first_name": "Steck-Vaughn"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929575M",
+    "title": "Rbtp Write on Wipe Off Handwriting",
+    "city": null,
+    "publisher": "Steck Vaughn",
+    "year": 2001,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2008-09-16",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2812577A",
+        "last_name": "Company",
+        "first_name": "Steck-Vaughn"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929576M",
+    "title": "Rbtp Fantasy Fun Story Cards",
+    "city": null,
+    "publisher": "Steck-Vaughn",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2001-11-10",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2812577A",
+        "last_name": "Company",
+        "first_name": "Steck-Vaughn"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929577M",
+    "title": "Rbtp 101 Activities for Eng Lang Learn (Rigby Best Teachers Press)",
+    "city": null,
+    "publisher": "Steck Vaughn",
+    "year": 2001,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2006-10-01",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2812577A",
+        "last_name": "Company",
+        "first_name": "Steck-Vaughn"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929578M",
+    "title": "The Complete Phonemic Awareness Handbook (Rigby Best Teachers Press)",
+    "city": null,
+    "publisher": "Steck Vaughn",
+    "year": 2001,
+    "subject": "Teaching Methods & Materials - Reading",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2006-05-09",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL200088A",
+        "last_name": "D. Fredericks",
+        "first_name": "Anthony"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929579M",
+    "title": "Sam's Haircut",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2000-04-03",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1205597A",
+        "last_name": "Smith",
+        "first_name": "Annette"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1092957M",
+    "title": "Basic mathematics",
+    "city": "Reading, Mass",
+    "publisher": "Addison-Wesley",
+    "year": 1995,
+    "subject": "Arithmetic",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2016-08-05",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2670124A",
+        "last_name": "A. Beecher",
+        "first_name": "Judith"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929580M",
+    "title": "The Clever Crow",
+    "city": null,
+    "publisher": "Rigby PM Plus",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2003-08-30",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1536723A",
+        "last_name": "Beverley",
+        "first_name": "Randell,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929581M",
+    "title": "New Glass for Max",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2011-05-30",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1205597A",
+        "last_name": "Smith",
+        "first_name": "Annette"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929582M",
+    "title": "Coco's bell",
+    "city": null,
+    "publisher": "rigby",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2002-02-17",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL275278A",
+        "last_name": "Kelly",
+        "first_name": "Andrew"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929583M",
+    "title": "The Wheelbarrow Garden",
+    "city": null,
+    "publisher": null,
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2001-09-16",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1205597A",
+        "last_name": "Smith",
+        "first_name": "Annette"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929584M",
+    "title": "Teasing Mom",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2006-02-22",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1205597A",
+        "last_name": "Smith",
+        "first_name": "Annette"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929585M",
+    "title": "Katie's Butterfly",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2003-08-06",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2661815A",
+        "last_name": "Giles",
+        "first_name": "Jenny"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929586M",
+    "title": "The Nest on the Beach",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2003-05-16",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1205597A",
+        "last_name": "Smith",
+        "first_name": "Annette"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929587M",
+    "title": "A Tree Horse",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2007-11-20",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3514344A",
+        "last_name": "Rathbone",
+        "first_name": "Mandi"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929588M",
+    "title": "Rigby PM Plus Green Teachers Guide:level 12-14",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 112,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2013-04-17",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3509004A",
+        "last_name": "Nelley",
+        "first_name": "Elsie"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929589M",
+    "title": "Pmp Blue Level Tg",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 112,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2012-09-12",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2623771A",
+        "last_name": "Various",
+        "first_name": "Various"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1092958M",
+    "title": "Intermediate algebra",
+    "city": "Reading, Mass",
+    "publisher": "Addison-Wesley",
+    "year": 1995,
+    "subject": "Algebra",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2016-12-15",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2670124A",
+        "last_name": "A. Beecher",
+        "first_name": "Judith"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929590M",
+    "title": "Our Bodies (Rigby PM Plus (Nonfiction Levels 16&17))",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2010-04-13",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2654600A",
+        "last_name": "Davis",
+        "first_name": "Sue"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929591M",
+    "title": "Rigby PM plus",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 112,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2009-04-18",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3509004A",
+        "last_name": "Nelley",
+        "first_name": "Elsie"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929592M",
+    "title": "Pmp Tur 17 Fox & the Crow Is",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2004-12-13",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2623771A",
+        "last_name": "Various",
+        "first_name": "Various"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929593M",
+    "title": "Danger in the Parking Lot",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2014-02-14",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1205597A",
+        "last_name": "Smith",
+        "first_name": "Annette"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929594M",
+    "title": "Pmp Turquoise Level Tg",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 112,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2011-11-09",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2623771A",
+        "last_name": "Various",
+        "first_name": "Various"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929595M",
+    "title": "RPM Em 26 Trble W/Oatmeal Is",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 32,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2010-07-16",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2623771A",
+        "last_name": "Various",
+        "first_name": "Various"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929596M",
+    "title": "The Junkyard Dog (PM Chapter Books, Level 26)",
+    "city": null,
+    "publisher": "Rigby PM Collection",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2006-11-19",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3514290A",
+        "last_name": "Macdonald",
+        "first_name": "Wendy"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929597M",
+    "title": "The Creature of Cassidy's Creek",
+    "city": null,
+    "publisher": "PM Chapter Books",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2012-01-28",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2838036A",
+        "last_name": "Graham",
+        "first_name": "Wendy"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929598M",
+    "title": "Snowboarding Diary (Emerald Nonfiction: PM Collection, Level 25)",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 24,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2002-05-13",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL122083A",
+        "last_name": "Robert Willmann",
+        "first_name": "Rudolf"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929599M",
+    "title": "Rbtp Above Chalkboard Alpha",
+    "city": null,
+    "publisher": "Steck-Vaughn",
+    "year": 2003,
+    "subject": "Textbooks",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2005-06-18",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2812577A",
+        "last_name": "Company",
+        "first_name": "Steck-Vaughn"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1092959M",
+    "title": "Transforming vision",
+    "city": "[Chicago, Ill.]",
+    "publisher": "Art Institute of Chicago",
+    "year": 1994,
+    "subject": "American poetry -- 20th century",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 143,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2002-11-08",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1355883A",
+        "last_name": "Delannoy",
+        "first_name": "Aristide"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL109295M",
+    "title": "Structural aspects of the East Asian crisis",
+    "city": "Paris",
+    "publisher": "Organisation for Economic Co-operation and Development",
+    "year": 1999,
+    "subject": "East Asia -- Economic conditions -- Congresses.",
+    "genre": "Congresses.",
+    "periodic_release": 1,
+    "page_count": 284,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2014-01-01",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL109592A",
+        "last_name": "ʻAbduljabbār K̲h̲ān̲",
+        "first_name": "Muḥammad"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929600M",
+    "title": "Rbtp Power of Poetry (Rigby Best Teachers Press)",
+    "city": null,
+    "publisher": "Steck Vaughn",
+    "year": 2001,
+    "subject": "Teaching Methods & Materials - General",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2005-10-16",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2812577A",
+        "last_name": "Company",
+        "first_name": "Steck-Vaughn"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929601M",
+    "title": "A Garden",
+    "city": null,
+    "publisher": "Rigby First Wave",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2006-05-10",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3514345A",
+        "last_name": "Web",
+        "first_name": "Philip"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929602M",
+    "title": "Sail FW Monster House, A is (Sails)",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2006-11-16",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2623771A",
+        "last_name": "Various",
+        "first_name": "Various"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929603M",
+    "title": "A Ride",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2011-07-15",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2879967A",
+        "last_name": "Eggleton",
+        "first_name": "Jill"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929604M",
+    "title": "The Jungle",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": "Eduction, preschool",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2015-05-02",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3514346A",
+        "last_name": "Hawley",
+        "first_name": "Kelvin"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929605M",
+    "title": "The Farm",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2007-07-20",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1121189A",
+        "last_name": "V. Kostrov",
+        "first_name": "B."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929606M",
+    "title": "The monster's clothes",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": "Eduction, preschool",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2008-05-14",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1433664A",
+        "last_name": "Cochrane",
+        "first_name": "Alan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929607M",
+    "title": "My clothes",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": "Education, preschool",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2006-01-09",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3514347A",
+        "last_name": "Williamson",
+        "first_name": "Fraser"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929608M",
+    "title": "My family",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": "Eduction, preschool",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2011-11-07",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3514348A",
+        "last_name": "Yang",
+        "first_name": "Stella"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929609M",
+    "title": "My alien",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": "Eduction, preschool",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2010-08-17",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1226355A",
+        "last_name": "McGrath",
+        "first_name": "Raymond"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1092960M",
+    "title": "Introductory algebra",
+    "city": "Reading, Mass",
+    "publisher": "Addison-Wesley",
+    "year": 1995,
+    "subject": "Algebra",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2004-07-31",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2670124A",
+        "last_name": "A. Beecher",
+        "first_name": "Judith"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929610M",
+    "title": "My Things",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2010-10-03",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1084061A",
+        "last_name": "I. Kupt͡s︡ov",
+        "first_name": "I."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929611M",
+    "title": "I Can",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2011-03-03",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1242907A",
+        "last_name": "Christen",
+        "first_name": "Thomas"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929612M",
+    "title": "I can laugh",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": "Eduction, preschool",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2009-01-17",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3514349A",
+        "last_name": "Denton",
+        "first_name": "Ireen"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929613M",
+    "title": "The animals",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": "Animals",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2006-06-25",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2932934A",
+        "last_name": "Webb",
+        "first_name": "Philip"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929614M",
+    "title": "I like riding",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": "Eduction, preschool",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2002-04-01",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2645459A",
+        "last_name": "Bennett",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929615M",
+    "title": "I Like Red",
+    "city": null,
+    "publisher": null,
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2012-06-29",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1463381A",
+        "last_name": "Getlein",
+        "first_name": "Frank"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929616M",
+    "title": "I am jumping",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": "Eduction, preschool",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2011-10-30",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3486845A",
+        "last_name": "Taylor",
+        "first_name": "Clive"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929617M",
+    "title": "Monkeys",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": "Fiction",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 16,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2007-10-12",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3514350A",
+        "last_name": "Storey",
+        "first_name": "Jim"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929618M",
+    "title": "Sailors",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": "Fiction",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2008-12-20",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3514350A",
+        "last_name": "Storey",
+        "first_name": "Jim"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929619M",
+    "title": "I am working",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": "Eduction, preschool",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2004-03-17",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3514348A",
+        "last_name": "Yang",
+        "first_name": "Stella"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1092961M",
+    "title": "The martini",
+    "city": "San Francisco",
+    "publisher": "Chronicle Books",
+    "year": 1995,
+    "subject": "Martinis -- History",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 132,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2015-05-30",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL242945A",
+        "last_name": "Barnaby",
+        "first_name": "Conrad,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929620M",
+    "title": "The Goats",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2013-02-26",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2844055A",
+        "last_name": "Hoit",
+        "first_name": "Richard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929621M",
+    "title": "The family",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": "Education, preschool",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2010-02-28",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3514351A",
+        "last_name": "Dobson",
+        "first_name": "Josh"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929622M",
+    "title": "I am a painter",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": "Eduction, preschool",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2004-06-13",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2645459A",
+        "last_name": "Bennett",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929623M",
+    "title": "I Am a Bee",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2001-05-23",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL124104A",
+        "last_name": "Banine.",
+        "first_name": "Banine."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929624M",
+    "title": "Here is a bird",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": "Eduction, preschool",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 16,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2012-09-26",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3514350A",
+        "last_name": "Storey",
+        "first_name": "Jim"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929625M",
+    "title": "The Show",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": "Education, preschool",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2007-02-23",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3514346A",
+        "last_name": "Hawley",
+        "first_name": "Kelvin"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929626M",
+    "title": "The Water park",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": "Eduction, preschool",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2001-07-26",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL200135A",
+        "last_name": "Pye",
+        "first_name": "Trevor"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929627M",
+    "title": "In the garden",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": "Fiction",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2006-01-20",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL749936A",
+        "last_name": "Gunson",
+        "first_name": "Dave"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929628M",
+    "title": "A Shoe",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2016-11-20",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL140946A",
+        "last_name": "on Experimental Research on Ageing (1956 Basel)",
+        "first_name": "Symposion"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929629M",
+    "title": "The hole",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": "Education, preschool",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2001-08-31",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3514348A",
+        "last_name": "Yang",
+        "first_name": "Stella"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1092962M",
+    "title": "All smiles",
+    "city": "San Francisco",
+    "publisher": "Chronicle Books",
+    "year": 1995,
+    "subject": "Portrait photography",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 71,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2007-04-21",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1351714A",
+        "last_name": "Freeman",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929630M",
+    "title": "The Monster town",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": "Eduction, preschool",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2012-01-26",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2932934A",
+        "last_name": "Webb",
+        "first_name": "Philip"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929631M",
+    "title": "Look at the robot",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": "Eduction, preschool",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2010-10-19",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL749936A",
+        "last_name": "Gunson",
+        "first_name": "Dave"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929632M",
+    "title": "Shopping",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": "Eduction, preschool",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2009-07-22",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3450002A",
+        "last_name": "Hodder",
+        "first_name": "Wendy"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929633M",
+    "title": "Look at the animals",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": "Education, preschool",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2009-04-24",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3514346A",
+        "last_name": "Hawley",
+        "first_name": "Kelvin"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929634M",
+    "title": "The Boat (Sails Literacy Series-First Wave)",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2016-06-22",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1321281A",
+        "last_name": "Zheleznov",
+        "first_name": "P."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929635M",
+    "title": "A house",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": "Fiction",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2002-07-25",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL749936A",
+        "last_name": "Gunson",
+        "first_name": "Dave"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929636M",
+    "title": "The Moon",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2000-08-26",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL146009A",
+        "last_name": "Legislature. Legislative Council. Committee on Governmental Organization.",
+        "first_name": "Florida."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929637M",
+    "title": "The balloon ride",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": "Ballooning",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2001-09-24",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL200135A",
+        "last_name": "Pye",
+        "first_name": "Trevor"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929638M",
+    "title": "In the mud",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": "Eduction, preschool",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2016-02-28",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3514352A",
+        "last_name": "Matijasevic",
+        "first_name": "Astrid"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929639M",
+    "title": "The Snake",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2010-03-27",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1238434A",
+        "last_name": "Barbara.",
+        "first_name": "Fried,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1092963M",
+    "title": "Henri de Toulouse-Lautrec, artist",
+    "city": "New York",
+    "publisher": "Chelsea House Publishers",
+    "year": 1994,
+    "subject": "Toulouse-Lautrec, Henri de, 1864-1901 -- Juvenile literature",
+    "genre": "Juvenile literature.",
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2005-07-18",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL452346A",
+        "last_name": "Bryant",
+        "first_name": "Jennifer"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929640M",
+    "title": "My Trip",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2012-01-16",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1148249A",
+        "last_name": "Wright Sweetland Jerome",
+        "first_name": "Lucy"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929641M",
+    "title": "The bird",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": "Education, preschool",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2002-02-27",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL200135A",
+        "last_name": "Pye",
+        "first_name": "Trevor"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929642M",
+    "title": "The Mice",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": "Education, preschool",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2006-03-05",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2645459A",
+        "last_name": "Bennett",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929643M",
+    "title": "Sail FW Bears, the Is (Sails)",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2012-04-06",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2803307A",
+        "last_name": "Rigby",
+        "first_name": "Rigby"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929644M",
+    "title": "The vacation",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": "Education, preschool",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2012-07-28",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3514346A",
+        "last_name": "Hawley",
+        "first_name": "Kelvin"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929645M",
+    "title": "Our day",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": "Education, preschool",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2013-01-12",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3514348A",
+        "last_name": "Yang",
+        "first_name": "Stella"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929646M",
+    "title": "My hat",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": "Education, preschool",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2002-08-27",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3514350A",
+        "last_name": "Storey",
+        "first_name": "Jim"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929647M",
+    "title": "The Spy",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": "Education, preschool",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2009-01-16",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL200135A",
+        "last_name": "Pye",
+        "first_name": "Trevor"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929648M",
+    "title": "The Race Car",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2015-11-26",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1222763A",
+        "last_name": "Shibanov",
+        "first_name": "P."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929649M",
+    "title": "The snowman",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": "Education, preschool",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2003-09-12",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3514348A",
+        "last_name": "Yang",
+        "first_name": "Stella"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1092964M",
+    "title": "John Wayne",
+    "city": "New York",
+    "publisher": "Chelsea House Publishers",
+    "year": 1995,
+    "subject": "Wayne, John, 1907-1979 -- Juvenile literature.",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 127,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2002-08-15",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL580623A",
+        "last_name": "Nardo",
+        "first_name": "Don"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929650M",
+    "title": "I Like Jam",
+    "city": null,
+    "publisher": null,
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2004-02-08",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1133330A",
+        "last_name": "Gábor.",
+        "first_name": "Papp,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929651M",
+    "title": "Rainbow town",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": "Eduction, preschool",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2003-08-21",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3486845A",
+        "last_name": "Taylor",
+        "first_name": "Clive"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929652M",
+    "title": "I like boxes",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": "Education, preschool",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2012-02-15",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3514348A",
+        "last_name": "Yang",
+        "first_name": "Stella"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929653M",
+    "title": "Hats",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": "Eduction, preschool",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2012-07-14",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL772734A",
+        "last_name": "Ross",
+        "first_name": "Christine"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929654M",
+    "title": "The Presents",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": "Eduction, preschool",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2009-06-08",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3514350A",
+        "last_name": "Storey",
+        "first_name": "Jim"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929655M",
+    "title": "Dinner",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": "Eduction, preschool",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2004-02-28",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL200135A",
+        "last_name": "Pye",
+        "first_name": "Trevor"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929656M",
+    "title": "The New house",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": "Education, preschool",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2013-03-26",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2645459A",
+        "last_name": "Bennett",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929657M",
+    "title": "Rbtp Above Chalkboard Alpha",
+    "city": null,
+    "publisher": "Steck-Vaughn",
+    "year": 2003,
+    "subject": "Textbooks",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2015-05-02",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2812577A",
+        "last_name": "Company",
+        "first_name": "Steck-Vaughn"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929658M",
+    "title": "Rbtp Write on Wipe Off Handwriting",
+    "city": null,
+    "publisher": "Steck Vaughn",
+    "year": 2001,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2014-01-17",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2812577A",
+        "last_name": "Company",
+        "first_name": "Steck-Vaughn"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929659M",
+    "title": "Rbtp Extra Extra Read All about It (Rigby Best Teachers Press)",
+    "city": null,
+    "publisher": "Steck Vaughn",
+    "year": 2001,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2016-06-17",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2812577A",
+        "last_name": "Company",
+        "first_name": "Steck-Vaughn"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1092965M",
+    "title": "Drawing",
+    "city": "Chicago",
+    "publisher": "Childrens Press",
+    "year": 1994,
+    "subject": "Drawing -- Technique -- Juvenile literature.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 24,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2009-05-07",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL448051A",
+        "last_name": "Ruth",
+        "first_name": "Thomson,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929660M",
+    "title": "Rbtp Thematic Research Projects (Rigby Best Teachers Press)",
+    "city": null,
+    "publisher": "Steck Vaughn",
+    "year": 2002,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2008-03-06",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2812577A",
+        "last_name": "Company",
+        "first_name": "Steck-Vaughn"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929661M",
+    "title": "Rbtp Spelling Puzzlers Grade 2 (Rigby Best Teachers Press)",
+    "city": null,
+    "publisher": "Steck Vaughn",
+    "year": 2001,
+    "subject": "Teaching Methods & Materials - Language Arts",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2011-01-17",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2812577A",
+        "last_name": "Company",
+        "first_name": "Steck-Vaughn"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929662M",
+    "title": "Bw 3 Star Struck! Is (Bookweb)",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 32,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2015-02-18",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2803307A",
+        "last_name": "Rigby",
+        "first_name": "Rigby"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929663M",
+    "title": "Bw 3 Ace Reporter Is (Bookweb)",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 32,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2003-01-10",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2803307A",
+        "last_name": "Rigby",
+        "first_name": "Rigby"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929664M",
+    "title": "Bw 3 J-Files, the Is (Bookweb)",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 32,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2005-08-08",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2803307A",
+        "last_name": "Rigby",
+        "first_name": "Rigby"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929665M",
+    "title": "Bw 3 N/F at the Movies Is (Bookweb)",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 32,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2001-01-15",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2803307A",
+        "last_name": "Rigby",
+        "first_name": "Rigby"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929666M",
+    "title": "Bw 3 N/F Sensational! Is (Bookweb)",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 32,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2001-04-20",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2803307A",
+        "last_name": "Rigby",
+        "first_name": "Rigby"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929667M",
+    "title": "The bear collection",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": "Fiction",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 32,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2009-03-18",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2477501A",
+        "last_name": "Caddy",
+        "first_name": "David"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929668M",
+    "title": "Beginnings of Sports",
+    "city": null,
+    "publisher": null,
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2015-10-20",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1405175A",
+        "last_name": "Dasgupta",
+        "first_name": "Uma"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929669M",
+    "title": "Sports Heroes PM Nonfiction Level 27 (Rigby PM Collection)",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2015-11-07",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1215620A",
+        "last_name": "Short",
+        "first_name": "Casey"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1092966M",
+    "title": "Country breakfasts",
+    "city": "New York",
+    "publisher": "Bantam Books",
+    "year": 1994,
+    "subject": "Breakfasts",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 258,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2015-02-19",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL397163A",
+        "last_name": "Haedrich",
+        "first_name": "Ken"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929670M",
+    "title": "Sports Technology (Rigby PM Collection: PM Nonfiction, Level 28)",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2002-11-04",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1163147A",
+        "last_name": "Hejnová",
+        "first_name": "Marie"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929671M",
+    "title": "Rigby PM",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": "Reading (Elementary)",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 130,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2004-04-13",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3509004A",
+        "last_name": "Nelley",
+        "first_name": "Elsie"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929672M",
+    "title": "Rbtp Creative Writing Prompts (Rigby Best Teachers Press)",
+    "city": null,
+    "publisher": "Steck Vaughn",
+    "year": 2001,
+    "subject": "Teaching Methods & Materials - Language Arts",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2016-04-15",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2812577A",
+        "last_name": "Company",
+        "first_name": "Steck-Vaughn"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929673M",
+    "title": "Mia Hamm : Soccer Superstar (On Deck Reading Libraries : Sports Biographies)",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 24,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2010-11-27",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL231968A",
+        "last_name": "Feldman",
+        "first_name": "Heather"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929674M",
+    "title": "Wayne Gretzky Hockey Star (Sports Biographies)",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2008-11-23",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL231968A",
+        "last_name": "Feldman",
+        "first_name": "Heather"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929675M",
+    "title": "Odr2 Track (St) Is (On Deck Reading Libraries)",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 24,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2015-02-23",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2803307A",
+        "last_name": "Rigby",
+        "first_name": "Rigby"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929676M",
+    "title": "Tennis",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 24,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2007-08-11",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2803307A",
+        "last_name": "Rigby",
+        "first_name": "Rigby"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929677M",
+    "title": "Odr2 Ice Hockey (St) Is (On Deck Reading Libraries)",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 24,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2005-07-22",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2803307A",
+        "last_name": "Rigby",
+        "first_name": "Rigby"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929678M",
+    "title": "Drama Club (On Deck Reading Libraries)",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2013-02-02",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1423756A",
+        "last_name": "Emmer",
+        "first_name": "Rae"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929679M",
+    "title": "Extreme MacHines",
+    "city": null,
+    "publisher": "RIGBY",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2013-04-12",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1423757A",
+        "last_name": "P. Werther",
+        "first_name": "Scott"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1092967M",
+    "title": "Pulmonary pathology--tumors",
+    "city": "New York",
+    "publisher": "Springer-Verlag",
+    "year": 1995,
+    "subject": "Lungs -- Tumors -- Histopathology.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 530,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2015-11-27",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL580624A",
+        "last_name": "H. Dail",
+        "first_name": "David"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10929680M",
+    "title": "Odr2 Motrcycles of the Past Is (On Deck Reading Libraries)",
+    "city": null,
+    "publisher": "Rigby",
+    "year": 2001,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 24,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2006-11-11",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2803307A",
+        "last_name": "Rigby",
+        "first_name": "Rigby"
+      }
+    ]
+  }
+]

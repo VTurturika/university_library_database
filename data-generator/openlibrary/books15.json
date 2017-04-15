@@ -1,0 +1,4402 @@
+[
+  {
+    "openlibrary_id": "/books/OL13062189M",
+    "title": "Ying yin Song ben zuan tu hu zhu Mao shi / c[bian ji zhe Guo li gu gong bo wu yuan bian ji wei yuan ",
+    "city": null,
+    "publisher": "Guo li gu gong bo wu yuan",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "cmn",
+    "days_keep_count": 50,
+    "adding_date": "2004-04-28",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1453860A",
+        "last_name": "J. Jahn",
+        "first_name": "Elke"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1306218M",
+    "title": "Bibliography of civil engineering computer applications 1984-1990",
+    "city": "Dublin",
+    "publisher": "CITIS",
+    "year": 1991,
+    "subject": "Civil engineering -- Data processing -- Bibliography.",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2001-12-14",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL671614A",
+        "last_name": "P. Murphy",
+        "first_name": "Donal"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062190M",
+    "title": "collectors' exhibition of archaic chinese jades",
+    "city": null,
+    "publisher": "National Palace Museum",
+    "year": 1995,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 249,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2005-09-12",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168363A",
+        "last_name": "Hsiao-0",
+        "first_name": "Ch'in"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062191M",
+    "title": "Fu shou kang ning ji xiang tu an ci qi te zhan tu lu=: Good fortune, long life, health and peace ",
+    "city": null,
+    "publisher": "Guo li gu gong bo wu yuan",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 227,
+    "lang": "cmn",
+    "days_keep_count": 50,
+    "adding_date": "2012-11-17",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL51011A",
+        "last_name": "li gu gong bo wu yuan.",
+        "first_name": "Guo"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062192M",
+    "title": "Jin tong fo jiao gong ju te zhan=",
+    "city": null,
+    "publisher": "Guo li gu gong bo wu yuan",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 193,
+    "lang": "cmn",
+    "days_keep_count": 100,
+    "adding_date": "2004-07-16",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL51011A",
+        "last_name": "li gu gong bo wu yuan.",
+        "first_name": "Guo"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062193M",
+    "title": "Li dai jin tong fo zao xiang te zhan tu lu=",
+    "city": null,
+    "publisher": "Guo li gu gong bo wu yuan",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 137,
+    "lang": "cmn",
+    "days_keep_count": 200,
+    "adding_date": "2012-01-17",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL51011A",
+        "last_name": "li gu gong bo wu yuan.",
+        "first_name": "Guo"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062194M",
+    "title": "Cheng sheng di shi jie",
+    "city": null,
+    "publisher": "Guo li gu gong bo wu yuan",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 89,
+    "lang": "cmn",
+    "days_keep_count": 10,
+    "adding_date": "2015-10-06",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL51011A",
+        "last_name": "li gu gong bo wu yuan.",
+        "first_name": "Guo"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062195M",
+    "title": "Qing gong yu zhi dang Taiwan shi liao (Guo li gu gong bo wu yuan yuan cang Qing dai Taiwan wen xian ",
+    "city": null,
+    "publisher": "Guo li gu gong bo wu yuan",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 5293,
+    "lang": "cmn",
+    "days_keep_count": 100,
+    "adding_date": "2013-04-29",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1138245A",
+        "last_name": "Hasbrouck Sahler",
+        "first_name": "Louis"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062196M",
+    "title": "Diao su bie cang: Zong jiao bian te zhan tu lu = The art of contemplation ",
+    "city": null,
+    "publisher": "Guo li gu gong bo wu yuan",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 275,
+    "lang": "cmn",
+    "days_keep_count": 50,
+    "adding_date": "2007-04-20",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4159645A",
+        "last_name": "Li",
+        "first_name": "Yumin"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062197M",
+    "title": "Huang Jie xian sheng yi zeng wen wu mu lu",
+    "city": null,
+    "publisher": "Guo li gu gong bo wu yuan",
+    "year": null,
+    "subject": "Catalogs",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 180,
+    "lang": "cmn",
+    "days_keep_count": 100,
+    "adding_date": "2003-11-06",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL51011A",
+        "last_name": "li gu gong bo wu yuan.",
+        "first_name": "Guo"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062198M",
+    "title": "Yu ding ning guan juan zeng ya gu zhu mu diao qi mu lu =",
+    "city": null,
+    "publisher": "Guo li gu gong bo wu yuan",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 365,
+    "lang": "cmn",
+    "days_keep_count": 30,
+    "adding_date": "2012-04-21",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL51011A",
+        "last_name": "li gu gong bo wu yuan.",
+        "first_name": "Guo"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062199M",
+    "title": "Ming dai Xuande guan yao jing hua te zhan tu lu =",
+    "city": null,
+    "publisher": "Guo li gu gong bo wu yuan",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 458,
+    "lang": "cmn",
+    "days_keep_count": 200,
+    "adding_date": "2000-07-19",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL51011A",
+        "last_name": "li gu gong bo wu yuan.",
+        "first_name": "Guo"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1306219M",
+    "title": "Empire and cold war",
+    "city": "Houndmills, Basingstoke, Hampshire",
+    "publisher": "Macmillan",
+    "year": 1990,
+    "subject": "Cold War.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 280,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2012-02-29",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL586079A",
+        "last_name": "L. Bills",
+        "first_name": "Scott"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL130621M",
+    "title": "Alimentation en eau des populations menacées",
+    "city": "Paris",
+    "publisher": "Hermann",
+    "year": 1999,
+    "subject": "Drinking water -- Health aspects.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 565,
+    "lang": "fre",
+    "days_keep_count": 200,
+    "adding_date": "2001-03-01",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL86102A",
+        "last_name": "Drouart",
+        "first_name": "Eric"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062200M",
+    "title": "Wu Changshuo zhuan (Gu gong wen wu yue kan cong shu)",
+    "city": null,
+    "publisher": "Guo li gu gong bo wu yuan",
+    "year": null,
+    "subject": "Wu, Changshuo",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 201,
+    "lang": "cmn",
+    "days_keep_count": 30,
+    "adding_date": "2012-09-01",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1216869A",
+        "last_name": "Jiacheng.",
+        "first_name": "Wang,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062201M",
+    "title": "Qing gong ting ji dang Taiwan shi liao (Guo li gu gong bo wu yuan yuan cang Qing dai Taiwan wen xian",
+    "city": null,
+    "publisher": "Guo li gu gong bo wu yuan",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 2025,
+    "lang": "cmn",
+    "days_keep_count": 30,
+    "adding_date": "2016-12-11",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1454636A",
+        "last_name": "Stovall",
+        "first_name": "Dene"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062202M",
+    "title": "Gu gong zhi mei xie zhen ji =: The beauty of the National palace museum ",
+    "city": null,
+    "publisher": "Guo li gu gong bo wu yuan",
+    "year": 1999,
+    "subject": "Pictorial works",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 111,
+    "lang": "cmn",
+    "days_keep_count": 50,
+    "adding_date": "2014-04-21",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1383938A",
+        "last_name": "Etsujirō",
+        "first_name": "Miyagi,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062203M",
+    "title": "Qun yu bie cang xu ji",
+    "city": null,
+    "publisher": "Guo li gu gong bo wu yuan",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 372,
+    "lang": "cmn",
+    "days_keep_count": 50,
+    "adding_date": "2014-03-19",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168364A",
+        "last_name": "Deng",
+        "first_name": "Shupin"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062204M",
+    "title": "A Panorama of Ceramics in the Collection of the National Palace Museum ",
+    "city": null,
+    "publisher": "National Palace Museum",
+    "year": 1999,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "chi",
+    "days_keep_count": 10,
+    "adding_date": "2008-10-27",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1462633A",
+        "last_name": "Martens",
+        "first_name": "Larry"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062205M",
+    "title": "Qing gong yang wu shi mo Taiwan shi liao (Guo li gu gong bo wu yuan yuan cang Qing dai Taiwan wen xi",
+    "city": null,
+    "publisher": "Guo li gu gong bo wu yuan",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 2847,
+    "lang": "cmn",
+    "days_keep_count": 30,
+    "adding_date": "2009-03-25",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1348295A",
+        "last_name": "Dreskin",
+        "first_name": "William"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062206M",
+    "title": "Emperor Ch'ien-Lung's Grand Cultural Enterprise",
+    "city": null,
+    "publisher": "National Palace Museum",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2000-09-04",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168365A",
+        "last_name": "Palace Museum",
+        "first_name": "National"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062207M",
+    "title": "Wen wu he yi jiao yu ji gong neng",
+    "city": null,
+    "publisher": "Taiwan shudian",
+    "year": 1990,
+    "subject": "Taiwan",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 184,
+    "lang": "cmn",
+    "days_keep_count": 30,
+    "adding_date": "2005-07-13",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168366A",
+        "last_name": "Xie",
+        "first_name": "Yuanxi"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062208M",
+    "title": "She hui bian qian yu jiao yu fa zhan",
+    "city": null,
+    "publisher": "Taiwan shu dian",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 554,
+    "lang": "cmn",
+    "days_keep_count": 100,
+    "adding_date": "2000-11-18",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1086907A",
+        "last_name": "P. Cuello",
+        "first_name": "Juan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062209M",
+    "title": "Er shi yi shi ji di gao ji zhong deng jiao yu",
+    "city": null,
+    "publisher": "Taiwan shudian",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 516,
+    "lang": "cmn",
+    "days_keep_count": 10,
+    "adding_date": "2000-09-22",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1379650A",
+        "last_name": "Stucke",
+        "first_name": "Ulrich"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1306220M",
+    "title": "Arthur Aeschbacher",
+    "city": "Corbeil-Essonnes",
+    "publisher": "Centre d'art contemporain de Corbeil-Essonnes",
+    "year": 1991,
+    "subject": "Aeschbacher, Arthur -- Exhibitions.",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 82,
+    "lang": "fre",
+    "days_keep_count": 50,
+    "adding_date": "2000-11-08",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL671615A",
+        "last_name": "Aeschbacher",
+        "first_name": "Arthur"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062210M",
+    "title": "Ti jian di fang jiao yu",
+    "city": null,
+    "publisher": "Taiwan shu dian",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 254,
+    "lang": "cmn",
+    "days_keep_count": 200,
+    "adding_date": "2004-05-11",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168367A",
+        "last_name": "Dai",
+        "first_name": "Mingguo"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062211M",
+    "title": "Zhongshan si xiang yao yi (Zhongshan xue shu wen hua ji jin hui cong shu)",
+    "city": null,
+    "publisher": "Yin xing zhe Taiwan shu dian",
+    "year": null,
+    "subject": "San min zhu yi",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 414,
+    "lang": "cmn",
+    "days_keep_count": 30,
+    "adding_date": "2016-11-03",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1224014A",
+        "last_name": "Cardoso Nunes",
+        "first_name": "Rui"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062212M",
+    "title": "Zhuangzi chuang zao xing di xue shuo yu si xiang =",
+    "city": null,
+    "publisher": "Taiwan shu dian",
+    "year": null,
+    "subject": "Zhuangzi",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 304,
+    "lang": "cmn",
+    "days_keep_count": 100,
+    "adding_date": "2004-03-09",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168368A",
+        "last_name": "Cai",
+        "first_name": "Linbi"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062213M",
+    "title": "Zhongshan si xiang yu liang an de xian dai hua",
+    "city": null,
+    "publisher": "Taiwan shu dian",
+    "year": null,
+    "subject": "San min zhu yi",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 254,
+    "lang": "cmn",
+    "days_keep_count": 50,
+    "adding_date": "2009-03-30",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168369A",
+        "last_name": "Mai",
+        "first_name": "Ruitai"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062214M",
+    "title": "Zhongshan si xiang yu Taiwan jing yan (Zhongshan xue shu wen hua ji jin hui cong shu)",
+    "city": null,
+    "publisher": "Taiwan shu dian",
+    "year": null,
+    "subject": "San min zhu yi",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 949,
+    "lang": "cmn",
+    "days_keep_count": 30,
+    "adding_date": "2003-06-08",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1125219A",
+        "last_name": "H. Saunders",
+        "first_name": "William"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062215M",
+    "title": "Zhongshan xian sheng xing yi (Zhongshan xue shu wen hua ji jin hui cong shu)",
+    "city": null,
+    "publisher": "Taiwan shu dian",
+    "year": 1995,
+    "subject": "Sun, Yat-sen",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "cmn",
+    "days_keep_count": 10,
+    "adding_date": "2012-06-28",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1437016A",
+        "last_name": "MacDonald",
+        "first_name": "James"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062216M",
+    "title": "Zhongshan xian sheng yan jiu shu mu (Zhongshan xue shu wen hua ji jin hui cong shu)",
+    "city": null,
+    "publisher": "Yin xing zhe Taiwan shu dian",
+    "year": 1995,
+    "subject": "Bibliography",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 305,
+    "lang": "cmn",
+    "days_keep_count": 10,
+    "adding_date": "2012-05-30",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1031180A",
+        "last_name": "Administrations- og personaledepartementet.",
+        "first_name": "Denmark."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062217M",
+    "title": "Xue xiao xing zheng yu jiao yu ge xin",
+    "city": null,
+    "publisher": "Taiwan shu dian",
+    "year": 1997,
+    "subject": "Taiwan",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 406,
+    "lang": "cmn",
+    "days_keep_count": 30,
+    "adding_date": "2009-06-06",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168370A",
+        "last_name": "Zhang",
+        "first_name": "Qingbin"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062218M",
+    "title": "Jiao yu wen ti yan jiu",
+    "city": null,
+    "publisher": "Taiwan shu dian",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 258,
+    "lang": "cmn",
+    "days_keep_count": 200,
+    "adding_date": "2005-03-29",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168371A",
+        "last_name": "Xie",
+        "first_name": "Jianquan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062219M",
+    "title": "Xian dai jiao yu xue shuo",
+    "city": null,
+    "publisher": "Taiwan shu ju",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 296,
+    "lang": "cmn",
+    "days_keep_count": 100,
+    "adding_date": "2010-01-23",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2306202A",
+        "last_name": "Stiven Ross",
+        "first_name": "James"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1306221M",
+    "title": "Filiations et filatures",
+    "city": "Genève",
+    "publisher": "Editions Zoé",
+    "year": 1991,
+    "subject": "Swiss literature (French) -- History and criticism -- Theory, etc.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 261,
+    "lang": "fre",
+    "days_keep_count": 30,
+    "adding_date": "2004-12-19",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL671616A",
+        "last_name": "Francillon",
+        "first_name": "Roger"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062220M",
+    "title": "Zhongshan xian sheng ping jun di quan si xiang zai Taiwan shi jian zhi jian tao (Zhongshan xue shu w",
+    "city": null,
+    "publisher": "Taiwan shu dian",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 331,
+    "lang": "cmn",
+    "days_keep_count": 100,
+    "adding_date": "2005-06-23",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168372A",
+        "last_name": "Zhang",
+        "first_name": "Jin'e"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062221M",
+    "title": "Jin dai wen xue di shi jie hua",
+    "city": null,
+    "publisher": "Taiwan shu dian",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 307,
+    "lang": "cmn",
+    "days_keep_count": 50,
+    "adding_date": "2015-07-09",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168373A",
+        "last_name": "Jiang",
+        "first_name": "Yinghao"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062222M",
+    "title": "Zhongguo di yu yan he wen zi (Zhongshan wen ku)",
+    "city": null,
+    "publisher": "Taiwan shu dian",
+    "year": 1998,
+    "subject": "Etymology",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 244,
+    "lang": "cmn",
+    "days_keep_count": 10,
+    "adding_date": "2002-10-12",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4167766A",
+        "last_name": "Zhu",
+        "first_name": "Jianing"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062223M",
+    "title": "Ke yu zi yin ci dian",
+    "city": null,
+    "publisher": "Taiwan shu dian",
+    "year": 1998,
+    "subject": "Dictionaries",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 324,
+    "lang": "cmn",
+    "days_keep_count": 100,
+    "adding_date": "2016-01-21",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1227214A",
+        "last_name": "Kumar",
+        "first_name": "Krishna"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062224M",
+    "title": "Zhongshan xian sheng min zu zhu yi zheng jie (Zhongshan xue shu wen hua ji jin hui cong shu)",
+    "city": null,
+    "publisher": "Taiwan shu dian",
+    "year": null,
+    "subject": "Sun, Yat-sen",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 281,
+    "lang": "cmn",
+    "days_keep_count": 30,
+    "adding_date": "2008-04-04",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1356003A",
+        "last_name": "Yunhan",
+        "first_name": "Li,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062225M",
+    "title": "Ke ju kao shi wen ti lun gao",
+    "city": null,
+    "publisher": "Taiwan shu dian",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 267,
+    "lang": "cmn",
+    "days_keep_count": 50,
+    "adding_date": "2008-01-12",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL5437662A",
+        "last_name": "Kuang",
+        "first_name": "Jianxing"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062226M",
+    "title": "Dang zong jiao yu dao de xiang yu (Zhongshan wen ku. She hui xi lie)",
+    "city": null,
+    "publisher": "Taiwan shu dian",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 284,
+    "lang": "cmn",
+    "days_keep_count": 50,
+    "adding_date": "2007-09-06",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL499834A",
+        "last_name": "Hsiao-chih Sun",
+        "first_name": "Johannes"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062227M",
+    "title": "Taiwan yu chuan tong wen hua (Zhongshan wen ku. Ren wen xi lie)",
+    "city": null,
+    "publisher": "Taiwan shu dian",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 262,
+    "lang": "cmn",
+    "days_keep_count": 100,
+    "adding_date": "2016-10-08",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1674098A",
+        "last_name": "Zhaoying.",
+        "first_name": "Chen,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062228M",
+    "title": "Zhong wai wen xue jiao liu (Zhongshan wen ku. Ren wen xi lie)",
+    "city": null,
+    "publisher": "Taiwan shu dian",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 200,
+    "lang": "cmn",
+    "days_keep_count": 30,
+    "adding_date": "2005-10-18",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1100432A",
+        "last_name": "Apalategi Begiristain",
+        "first_name": "Joxemartin"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062229M",
+    "title": "Sheng qi yu shi luo",
+    "city": null,
+    "publisher": "Feng yun shi dai chu ban gong si",
+    "year": 2000,
+    "subject": "Hu, Shi",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 519,
+    "lang": "cmn",
+    "days_keep_count": 30,
+    "adding_date": "2004-03-06",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4152449A",
+        "last_name": "Shen",
+        "first_name": "Weiwei"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1306222M",
+    "title": "Maryland footings, German roots",
+    "city": "[United States]",
+    "publisher": "P.W. Mowbray",
+    "year": 1991,
+    "subject": "Forthuber family.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 177,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2015-11-23",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL671617A",
+        "last_name": "Wagner Mowbray",
+        "first_name": "Phyllis"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062230M",
+    "title": "Wei si li chuan qi zhi",
+    "city": null,
+    "publisher": "Tsai Fong Books, Inc",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2003-02-12",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1210183A",
+        "last_name": "Kuang.",
+        "first_name": "Ni,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062231M",
+    "title": "Lang man zhi lu",
+    "city": null,
+    "publisher": "Zong jing xiao cheng xin wen hua shi ye gu fen you xian gong si",
+    "year": 2001,
+    "subject": "Criticism and Interpretation",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "cmn",
+    "days_keep_count": 100,
+    "adding_date": "2007-07-09",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4153531A",
+        "last_name": "Chen",
+        "first_name": "Mo"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062232M",
+    "title": "Chiang Kai-shek and Madam Chiang at Lu Mountain, Vol. 1 ('Jiang jie shi song mei ling xia du bei ge ",
+    "city": null,
+    "publisher": "Feng Yun",
+    "year": 2002,
+    "subject": "History Politics",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "chi",
+    "days_keep_count": 10,
+    "adding_date": "2009-11-29",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4160460A",
+        "last_name": "Luo",
+        "first_name": "Shixu"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062233M",
+    "title": "Chiang Kai-shek and Madam Chiang at Lu Mountain, Vol. 2 ('Jiang jie shi song mei ling xia du bei ge ",
+    "city": null,
+    "publisher": "Feng Yun",
+    "year": 2002,
+    "subject": "History Politics",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "chi",
+    "days_keep_count": 10,
+    "adding_date": "2003-09-23",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4160460A",
+        "last_name": "Luo",
+        "first_name": "Shixu"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062234M",
+    "title": "Atmosphere :CHINESE",
+    "city": null,
+    "publisher": null,
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2010-07-11",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168375A",
+        "last_name": "Disc Library",
+        "first_name": "Young"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062235M",
+    "title": "Story of Birth :CHINESE",
+    "city": null,
+    "publisher": null,
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2009-01-01",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168375A",
+        "last_name": "Disc Library",
+        "first_name": "Young"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062236M",
+    "title": "What Are the Five Senses :CHINESE",
+    "city": null,
+    "publisher": null,
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2000-08-11",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168375A",
+        "last_name": "Disc Library",
+        "first_name": "Young"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062237M",
+    "title": "Zhongguo xian dai wen xue pi ping shi lun (Xue shu cong shu)",
+    "city": null,
+    "publisher": "Zhonghua fa zhan ji jin guan li wei yuan hui, You shi wen hua shi ye gu fen you xian gong si lian he chu ban",
+    "year": 1997,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 355,
+    "lang": "cmn",
+    "days_keep_count": 200,
+    "adding_date": "2004-12-09",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4160045A",
+        "last_name": "Ding",
+        "first_name": "Yaping"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062238M",
+    "title": "Min Tai jia zu she hui (Series of sweet potato rattan)",
+    "city": null,
+    "publisher": "You shi wen hua gong si",
+    "year": 1998,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 238,
+    "lang": "cmn",
+    "days_keep_count": 10,
+    "adding_date": "2002-08-15",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168376A",
+        "last_name": "Peng",
+        "first_name": "Wenyu"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062239M",
+    "title": "Baiyue zu yu Taiwan yuan zhu min (Fan shu teng wen hua cong shu)",
+    "city": null,
+    "publisher": "You shi wen hua shi ye gu fen you xian gong si",
+    "year": 1999,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 200,
+    "lang": "cmn",
+    "days_keep_count": 200,
+    "adding_date": "2004-07-28",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1210524A",
+        "last_name": "Guoqiang",
+        "first_name": "Chen,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1306223M",
+    "title": "Prevention of HIV transmission",
+    "city": "Washington",
+    "publisher": "U.S. G.P.O.",
+    "year": 1992,
+    "subject": "HIV (Viruses) -- United States.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 384,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2000-06-25",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL465418A",
+        "last_name": "States. Congress. House. Committee on Energy and Commerce. Subcommittee on Health and the Environmen",
+        "first_name": "United"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062240M",
+    "title": "Ji bian zhong de Taiwan",
+    "city": null,
+    "publisher": "You shi wen hua shi ye gu fen you xian gong si",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 359,
+    "lang": "cmn",
+    "days_keep_count": 100,
+    "adding_date": "2012-11-19",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168377A",
+        "last_name": "Sun",
+        "first_name": "Hong"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062241M",
+    "title": "Taiwan chuan tong min zhai ji qi di fang xing shi liao zhi yan jiu",
+    "city": null,
+    "publisher": "Hu shi tu shu gong si",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 180,
+    "lang": "cmn",
+    "days_keep_count": 200,
+    "adding_date": "2005-04-20",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168378A",
+        "last_name": "Xu",
+        "first_name": "Mingfu"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062242M",
+    "title": "Taiwan di qu jian zhu zi liao wen xian mu lu =",
+    "city": null,
+    "publisher": "Jian zhu qing bao za zhi she",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 656,
+    "lang": "cmn",
+    "days_keep_count": 30,
+    "adding_date": "2011-05-30",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1295509A",
+        "last_name": "Peter M.A.",
+        "first_name": "King,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062243M",
+    "title": "Hai an ju luo yan jiu Taiwan hai an ju luo fa zhan zhi yan jiu =",
+    "city": null,
+    "publisher": "Hu shi tu shu chu ban she",
+    "year": 1993,
+    "subject": "Taiwan",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 325,
+    "lang": "cmn",
+    "days_keep_count": 50,
+    "adding_date": "2007-10-01",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168379A",
+        "last_name": "Chen",
+        "first_name": "Rongcun"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062244M",
+    "title": "Taipei City Map",
+    "city": null,
+    "publisher": "Shan Ju Publishing Co",
+    "year": 2006,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2004-04-01",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168380A",
+        "last_name": "Ju Staff",
+        "first_name": "Shan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062245M",
+    "title": "Tang Song ba da jia san wen xuan zhu",
+    "city": null,
+    "publisher": "Hua zheng shu ju",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 324,
+    "lang": "cmn",
+    "days_keep_count": 30,
+    "adding_date": "2004-05-18",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1280166A",
+        "last_name": "Shengshan.",
+        "first_name": "Zhang,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062246M",
+    "title": "Liu Shipei ji qi wen xue li lun",
+    "city": null,
+    "publisher": "Hua zheng shu ju",
+    "year": null,
+    "subject": "Criticism and interpretation",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 5,
+    "lang": "cmn",
+    "days_keep_count": 200,
+    "adding_date": "2000-09-13",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4155505A",
+        "last_name": "Chen",
+        "first_name": "Yan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062247M",
+    "title": "Yao ji jie ti ji qi du fa",
+    "city": null,
+    "publisher": "Hua zheng shu ju",
+    "year": 1989,
+    "subject": "Study and teaching",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "cmn",
+    "days_keep_count": 200,
+    "adding_date": "2015-05-13",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL507568A",
+        "last_name": "Qichao",
+        "first_name": "Liang,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062248M",
+    "title": "Liu Zongyuan ji",
+    "city": null,
+    "publisher": "Hua zheng shu ju",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 1510,
+    "lang": "cmn",
+    "days_keep_count": 30,
+    "adding_date": "2002-03-24",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1556357A",
+        "last_name": "Zongyuan",
+        "first_name": "Liu,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062249M",
+    "title": "Li Taibai quan ji",
+    "city": null,
+    "publisher": "Hua zheng shu ju",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 22,
+    "lang": "cmn",
+    "days_keep_count": 10,
+    "adding_date": "2009-12-23",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3230210A",
+        "last_name": "Li",
+        "first_name": "Bo"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1306224M",
+    "title": "3 keramikere",
+    "city": "[Copenhagen",
+    "publisher": "Kunstforeningen",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 47,
+    "lang": "dan",
+    "days_keep_count": 200,
+    "adding_date": "2006-09-22",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL671618A",
+        "last_name": "Munck Andersen",
+        "first_name": "Hans"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062250M",
+    "title": "Mei'an qin pu",
+    "city": null,
+    "publisher": "Hua zheng shu ju",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 186,
+    "lang": "cmn",
+    "days_keep_count": 30,
+    "adding_date": "2012-04-27",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1455626A",
+        "last_name": "Wang",
+        "first_name": "Binlu"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062251M",
+    "title": "Ji qing yin",
+    "city": null,
+    "publisher": "Hua zheng shu ju",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 142,
+    "lang": "cmn",
+    "days_keep_count": 10,
+    "adding_date": "2015-03-02",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4153136A",
+        "last_name": "Wang",
+        "first_name": "Shumin"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062252M",
+    "title": "Zhongguo li dai wen xue lun zhu jing xuan",
+    "city": null,
+    "publisher": "Hua zheng shu ju",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "cmn",
+    "days_keep_count": 50,
+    "adding_date": "2011-03-28",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1109003A",
+        "last_name": "C. Burton",
+        "first_name": "Robert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062253M",
+    "title": "Jie zi yuan hua bu",
+    "city": null,
+    "publisher": "Hua zheng shu ju",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "cmn",
+    "days_keep_count": 50,
+    "adding_date": "2001-02-06",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1103694A",
+        "last_name": "Bardsley",
+        "first_name": "Jane"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062254M",
+    "title": "Cai Junmo zhi xue shu",
+    "city": null,
+    "publisher": "Hua zheng shu ju",
+    "year": null,
+    "subject": "Cai, Xiang",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 649,
+    "lang": "cmn",
+    "days_keep_count": 50,
+    "adding_date": "2005-03-24",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1309110A",
+        "last_name": "Chongming.",
+        "first_name": "Cai,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062255M",
+    "title": "Laozi xue shuo yan jiu",
+    "city": null,
+    "publisher": "Hua zheng shu ju",
+    "year": 1992,
+    "subject": "Dao de jing",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 355,
+    "lang": "cmn",
+    "days_keep_count": 200,
+    "adding_date": "2016-10-17",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168381A",
+        "last_name": "Zheng",
+        "first_name": "Chenghai"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062256M",
+    "title": "Guo Moruo zhi jin shi wen zi xue yan jiu",
+    "city": null,
+    "publisher": "Hua zheng shu ju you xian gong si",
+    "year": null,
+    "subject": "Guo, Moruo",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 460,
+    "lang": "cmn",
+    "days_keep_count": 100,
+    "adding_date": "2013-08-07",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168382A",
+        "last_name": "Jiang",
+        "first_name": "Shuhui"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062257M",
+    "title": "Ti hua shi san lun",
+    "city": null,
+    "publisher": "Hua zheng shu ju",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 273,
+    "lang": "cmn",
+    "days_keep_count": 50,
+    "adding_date": "2016-11-21",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1873272A",
+        "last_name": "Li",
+        "first_name": "Qi"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062258M",
+    "title": "Shi xue lun cong",
+    "city": null,
+    "publisher": "Hua zheng shu ju",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 135,
+    "lang": "cmn",
+    "days_keep_count": 100,
+    "adding_date": "2008-09-11",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1306250A",
+        "last_name": "Mengji.",
+        "first_name": "Zhang,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062259M",
+    "title": "Ming Qing chuan qi kao lun",
+    "city": null,
+    "publisher": "Hua zheng shu ju",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 471,
+    "lang": "cmn",
+    "days_keep_count": 30,
+    "adding_date": "2015-11-24",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4158201A",
+        "last_name": "Yu",
+        "first_name": "Weimin"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1306225M",
+    "title": "La educación pre-escolar",
+    "city": "[Santo Domingo",
+    "publisher": "Centro de Investigaciones Pedagógicas y Educativas (CIPE)",
+    "year": 1987,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 41,
+    "lang": "spa",
+    "days_keep_count": 100,
+    "adding_date": "2004-09-15",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1322484A",
+        "last_name": "Xinnan.",
+        "first_name": "Hu,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062260M",
+    "title": "Mu lu yi wang",
+    "city": null,
+    "publisher": "Hua zheng shu ju",
+    "year": null,
+    "subject": "Wang, Shumin",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 42,
+    "lang": "cmn",
+    "days_keep_count": 50,
+    "adding_date": "2004-07-05",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4153136A",
+        "last_name": "Wang",
+        "first_name": "Shumin"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062261M",
+    "title": "Pi pa ji",
+    "city": null,
+    "publisher": "Hua zheng shu ju",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 51,
+    "lang": "cmn",
+    "days_keep_count": 200,
+    "adding_date": "2011-08-04",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4153014A",
+        "last_name": "Gao",
+        "first_name": "Ming"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062262M",
+    "title": "Zhongguo gu dai xi qu li lun shi tong lun",
+    "city": null,
+    "publisher": "Hua zheng shu ju",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 1,
+    "lang": "cmn",
+    "days_keep_count": 30,
+    "adding_date": "2003-11-07",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4158201A",
+        "last_name": "Yu",
+        "first_name": "Weimin"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062263M",
+    "title": "Yuan jia shan di lang (Yuan zhu min xi lie)",
+    "city": null,
+    "publisher": "Chen xing chu ban she",
+    "year": 1992,
+    "subject": "20th century",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 321,
+    "lang": "cmn",
+    "days_keep_count": 50,
+    "adding_date": "2005-08-26",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1007620A",
+        "last_name": "Mangelsdorf",
+        "first_name": "Joachim"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062264M",
+    "title": "Bei qing de shan lin",
+    "city": null,
+    "publisher": "Chen xing chu ban she",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 346,
+    "lang": "cmn",
+    "days_keep_count": 100,
+    "adding_date": "2013-10-20",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1311398A",
+        "last_name": "Seppänen",
+        "first_name": "Markku"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062265M",
+    "title": "Zui hou di lie ren (Taiwan yuan zhu min xi lie)",
+    "city": null,
+    "publisher": "Chen xing chu ban she",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 200,
+    "lang": "cmn",
+    "days_keep_count": 100,
+    "adding_date": "2006-05-18",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168383A",
+        "last_name": "Tian",
+        "first_name": "Yage"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062266M",
+    "title": "Mei li di dao sui (Taiwan yuan zhu min wen xue)",
+    "city": null,
+    "publisher": "Zong jing xiao Zhi ji tu shu you xian gong si",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 208,
+    "lang": "cmn",
+    "days_keep_count": 100,
+    "adding_date": "2001-09-17",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168384A",
+        "last_name": "Mo",
+        "first_name": "Naneng"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062267M",
+    "title": "Xin huo xiang chuan (Qing chun lie che)",
+    "city": null,
+    "publisher": "Chen xing chu ban she",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 233,
+    "lang": "cmn",
+    "days_keep_count": 100,
+    "adding_date": "2006-11-28",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1302852A",
+        "last_name": "Oceans Research and Development Corporation.",
+        "first_name": "Newfoundland"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062268M",
+    "title": "Xin feng zuo lang (qing chun lie che)",
+    "city": null,
+    "publisher": "Chen xing chu ban she",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 260,
+    "lang": "cmn",
+    "days_keep_count": 100,
+    "adding_date": "2008-08-06",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1293439A",
+        "last_name": "Alumni Sekolah Staf dan Pimpinan Administrasi (Jakarta, Indonesia)",
+        "first_name": "Ikatan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062269M",
+    "title": "Xiao zhang shuo (Xiao yuan dang an)",
+    "city": null,
+    "publisher": "Chen xing chu ban she",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 238,
+    "lang": "cmn",
+    "days_keep_count": 200,
+    "adding_date": "2011-04-21",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1247579A",
+        "last_name": "Kuling",
+        "first_name": "Kuling"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1306226M",
+    "title": "Les mots des régions de France",
+    "city": "Paris",
+    "publisher": "Belin",
+    "year": 1992,
+    "subject": "French language -- Provincialisms -- France -- Glossaries, vocabularies, etc.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 447,
+    "lang": "fre",
+    "days_keep_count": 30,
+    "adding_date": "2005-04-08",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL506428A",
+        "last_name": "Depecker",
+        "first_name": "Loïc"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062270M",
+    "title": "Wen ming huang ye (Zi ran gong yuan)",
+    "city": null,
+    "publisher": "Chen xing chu ban she",
+    "year": 1990,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 171,
+    "lang": "cmn",
+    "days_keep_count": 10,
+    "adding_date": "2016-06-19",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4134159A",
+        "last_name": "Wang",
+        "first_name": "Jiaxiang"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062271M",
+    "title": "Yong yuan di bu luo",
+    "city": null,
+    "publisher": "Chen xing chu ban she",
+    "year": 1990,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 200,
+    "lang": "cmn",
+    "days_keep_count": 30,
+    "adding_date": "2015-07-10",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168385A",
+        "last_name": "Walisi",
+        "first_name": "Yougan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062272M",
+    "title": "Taiya jiao zong",
+    "city": null,
+    "publisher": "Chen xing chu ban she",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 138,
+    "lang": "cmn",
+    "days_keep_count": 50,
+    "adding_date": "2016-11-16",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168386A",
+        "last_name": "Walisi",
+        "first_name": "Luogan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062273M",
+    "title": "Shou wang de yu (Zi ran gong yuan)",
+    "city": null,
+    "publisher": "Chen xing chu ban she",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 177,
+    "lang": "cmn",
+    "days_keep_count": 100,
+    "adding_date": "2001-10-29",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1298979A",
+        "last_name": "Suli.",
+        "first_name": "Hong,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062274M",
+    "title": "Badai wan di shen hua (Taiwan yuan zhu min wen xue)",
+    "city": null,
+    "publisher": "Zong jing xiao Zhi ji tu shu you xian gong si",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 173,
+    "lang": "cmn",
+    "days_keep_count": 10,
+    "adding_date": "2000-02-15",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168387A",
+        "last_name": "Xiaman",
+        "first_name": "Lanbo'an"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062275M",
+    "title": "Diao dao yu xie di Yamei ren (Taiwan yuan zhu min wen xue)",
+    "city": null,
+    "publisher": "Zong jing xiao Zhi ji tu shu you xian gong si",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 239,
+    "lang": "cmn",
+    "days_keep_count": 50,
+    "adding_date": "2005-10-09",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168388A",
+        "last_name": "Zhou",
+        "first_name": "Zongjing"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062276M",
+    "title": "Xu duo nian yi hou (Qing chun lie che)",
+    "city": null,
+    "publisher": "Zong jing xiao Zhi ji tu shu you xian gong si",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 259,
+    "lang": "cmn",
+    "days_keep_count": 10,
+    "adding_date": "2009-05-10",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168389A",
+        "last_name": "Jiang",
+        "first_name": "Er"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062277M",
+    "title": "Huang ye de hu huan",
+    "city": null,
+    "publisher": "Chen xing chu ban she",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 190,
+    "lang": "cmn",
+    "days_keep_count": 30,
+    "adding_date": "2015-03-07",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168385A",
+        "last_name": "Walisi",
+        "first_name": "Yougan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062278M",
+    "title": "Zi ran dao gao zhe (Zi ran gong yuan)",
+    "city": null,
+    "publisher": "Zong jing xiao Zhi ji you xian gong si",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "cmn",
+    "days_keep_count": 50,
+    "adding_date": "2012-11-08",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4134159A",
+        "last_name": "Wang",
+        "first_name": "Jiaxiang"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062279M",
+    "title": "Taiwan de yuan zhu min zu (Taiwan yuan zhu min xi lie)",
+    "city": null,
+    "publisher": "Chen xing chu ban she",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 224,
+    "lang": "cmn",
+    "days_keep_count": 200,
+    "adding_date": "2016-04-12",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3920209A",
+        "last_name": "Miyamoto",
+        "first_name": "Nobuto"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1306227M",
+    "title": "Interjurisdictional fisheries management and the Weakfish Conservation Act of 1991",
+    "city": "Washington",
+    "publisher": "U.S. G.P.O.",
+    "year": 1992,
+    "subject": "Cynoscion regalis -- Law and legislation -- United States.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 129,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2014-03-15",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL671604A",
+        "last_name": "States. Congress. House. Committee on Merchant Marine and Fisheries. Subcommittee on Fisheries and W",
+        "first_name": "United"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062280M",
+    "title": "Tou mu chu xun (Taiwan yuan zhu min xi lie)",
+    "city": null,
+    "publisher": "Zong jing xiao Zhi ji you xian gong si",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 205,
+    "lang": "cmn",
+    "days_keep_count": 50,
+    "adding_date": "2009-09-03",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168390A",
+        "last_name": "Lin",
+        "first_name": "Jiancheng"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062281M",
+    "title": "Zi ran lu qing (Zi ran gong yuan)",
+    "city": null,
+    "publisher": "Zong jing xiao Zhi ji you xian gong si",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "cmn",
+    "days_keep_count": 30,
+    "adding_date": "2009-08-03",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1248461A",
+        "last_name": "Kexiang",
+        "first_name": "Liu,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062282M",
+    "title": "Qing ren yu ji nu (Taiwan yuan zhu min xi lie)",
+    "city": null,
+    "publisher": "Chen xing chu ban she",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 193,
+    "lang": "cmn",
+    "days_keep_count": 30,
+    "adding_date": "2014-01-24",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168383A",
+        "last_name": "Tian",
+        "first_name": "Yage"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062283M",
+    "title": "Xun zhao yi zhi niao de ming zi (Zi ran gong yuan)",
+    "city": null,
+    "publisher": "Chen xing chu ban she",
+    "year": 1994,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 206,
+    "lang": "cmn",
+    "days_keep_count": 10,
+    "adding_date": "2014-04-07",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1298979A",
+        "last_name": "Suli.",
+        "first_name": "Hong,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062284M",
+    "title": "Rang wo di tong bao zhi dao (Taiwan yuan zhu min xi lie)",
+    "city": null,
+    "publisher": null,
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 224,
+    "lang": "cmn",
+    "days_keep_count": 30,
+    "adding_date": "2004-12-12",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168391A",
+        "last_name": "Kong",
+        "first_name": "Wenji"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062285M",
+    "title": "Yuan wu zhe (Taiwan yuan zhu min xi lie)",
+    "city": null,
+    "publisher": "Zong jing xiao Zhi ji you xian gong si",
+    "year": 1993,
+    "subject": "Folk dancing",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 231,
+    "lang": "cmn",
+    "days_keep_count": 200,
+    "adding_date": "2002-05-16",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1113984A",
+        "last_name": "Rosenthal",
+        "first_name": "Friedrich"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062286M",
+    "title": "Yong yuan di si ren bang",
+    "city": null,
+    "publisher": "Zong jing xiao Zhi ji you xian gong si",
+    "year": 1994,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 185,
+    "lang": "cmn",
+    "days_keep_count": 50,
+    "adding_date": "2012-08-03",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1247579A",
+        "last_name": "Kuling",
+        "first_name": "Kuling"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062287M",
+    "title": "Xiao mi jiu di gu xiang (Taiwan yuan zhu min xi lie)",
+    "city": null,
+    "publisher": "Zong jing xiao Zhi ji you xian gong si",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 187,
+    "lang": "cmn",
+    "days_keep_count": 200,
+    "adding_date": "2000-02-01",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168390A",
+        "last_name": "Lin",
+        "first_name": "Jiancheng"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062288M",
+    "title": "Xiang nian zu ren (Taiwan yuan zhu min xi lie)",
+    "city": null,
+    "publisher": "Zong jing xiao Zhi ji you xian gong si",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 241,
+    "lang": "cmn",
+    "days_keep_count": 10,
+    "adding_date": "2004-04-17",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168385A",
+        "last_name": "Walisi",
+        "first_name": "Yougan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062289M",
+    "title": "Tu di de ku lian (Zi ran gong yuan)",
+    "city": null,
+    "publisher": "Zong jing xiao Zhi ji you xian gong si",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 271,
+    "lang": "cmn",
+    "days_keep_count": 50,
+    "adding_date": "2016-10-03",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168392A",
+        "last_name": "Chen",
+        "first_name": "Yufeng"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1306228M",
+    "title": "Misverstanden tussen politie en allochtonen",
+    "city": "Amsterdam",
+    "publisher": "VU Uitgeverij",
+    "year": 1991,
+    "subject": "Police-community relations -- Netherlands.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 189,
+    "lang": "dut",
+    "days_keep_count": 50,
+    "adding_date": "2013-11-05",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL303099A",
+        "last_name": "Vrij",
+        "first_name": "Aldert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062290M",
+    "title": "Chong fan Meinong",
+    "city": null,
+    "publisher": "Zong jing xiao Zhi ji you xian gong si",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "cmn",
+    "days_keep_count": 30,
+    "adding_date": "2003-11-19",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1102741A",
+        "last_name": "Štrajn",
+        "first_name": "Darko"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062291M",
+    "title": "Shou zhe Lanyang shou zhe niao (Zi ran gong yuan)",
+    "city": null,
+    "publisher": "Zong jing xiao Zhi ji you xian gong si",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "cmn",
+    "days_keep_count": 100,
+    "adding_date": "2006-10-26",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168393A",
+        "last_name": "Wu",
+        "first_name": "Yonghua"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062292M",
+    "title": "12 open letters to young people ('Gei qing nian de 12 feng xin', in traditional Chinese, NOT in Engl",
+    "city": null,
+    "publisher": "Chen Xing",
+    "year": 1995,
+    "subject": "Self Help",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "chi",
+    "days_keep_count": 50,
+    "adding_date": "2011-03-20",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1217538A",
+        "last_name": "Guangqian",
+        "first_name": "Zhu,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062293M",
+    "title": "Shan huang ma jia shu (Zi ran gong yuan)",
+    "city": null,
+    "publisher": "Chen xing chu ban she",
+    "year": 1994,
+    "subject": "Description and travel",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "cmn",
+    "days_keep_count": 10,
+    "adding_date": "2014-11-13",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1248461A",
+        "last_name": "Kexiang",
+        "first_name": "Liu,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062294M",
+    "title": "Tian gou bu luo zhi ge (Taiwan yuan zhu min xi lie)",
+    "city": null,
+    "publisher": "Zong jing xiao Zhi ji tu shu you xian gong si",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 281,
+    "lang": "cmn",
+    "days_keep_count": 30,
+    "adding_date": "2013-02-22",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168394A",
+        "last_name": "Youbashi",
+        "first_name": "Naogeihe"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062295M",
+    "title": "Yan liao jing tu (Zi ran gong yuan)",
+    "city": null,
+    "publisher": "Chen xing chu ban she",
+    "year": 1995,
+    "subject": "Taiwan",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 384,
+    "lang": "cmn",
+    "days_keep_count": 10,
+    "adding_date": "2007-05-14",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168395A",
+        "last_name": "Ou",
+        "first_name": "Jifu"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062296M",
+    "title": "Chicken Soup for the Soul (1) ('Xin ling ji tang (1)', in traditional Chinese, NOT in English)",
+    "city": null,
+    "publisher": "Chen Xing",
+    "year": 1995,
+    "subject": "Self Help",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "chi",
+    "days_keep_count": 30,
+    "adding_date": "2009-05-05",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL509912A",
+        "last_name": "Canfield",
+        "first_name": "Jack"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062297M",
+    "title": "Jiufen zhi mei (Zi ran gong yuan)",
+    "city": null,
+    "publisher": "Chen xing chu ban she",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 297,
+    "lang": "cmn",
+    "days_keep_count": 100,
+    "adding_date": "2002-03-14",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1366906A",
+        "last_name": "Shiyi.",
+        "first_name": "Chen,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062298M",
+    "title": "Rang wo men shuo mu yu (Taiwan yuan zhu min wen xue)",
+    "city": null,
+    "publisher": "Chen xing chu ban she",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 215,
+    "lang": "cmn",
+    "days_keep_count": 30,
+    "adding_date": "2003-05-28",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168396A",
+        "last_name": "Wang",
+        "first_name": "Shugui"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062299M",
+    "title": "Shi luo zu guo de ren (Taiwan li shi guan)",
+    "city": null,
+    "publisher": "Chen xing chu ban she",
+    "year": null,
+    "subject": "Isomura, Seitoku",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 268,
+    "lang": "cmn",
+    "days_keep_count": 200,
+    "adding_date": "2010-01-29",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168397A",
+        "last_name": "Isomura",
+        "first_name": "Seitoku"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1306229M",
+    "title": "Review of the Rural Electrification Administration",
+    "city": "Washington",
+    "publisher": "U.S. G.P.O.",
+    "year": 1991,
+    "subject": "United States. Rural Electrification Administration.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 351,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2013-11-22",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL671619A",
+        "last_name": "States. Congress. House. Committee on Agriculture. Subcommittee on Conservation, Credit, and Rural D",
+        "first_name": "United"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL130622M",
+    "title": "Phares Ouest",
+    "city": "Paris",
+    "publisher": "Chêne",
+    "year": 1999,
+    "subject": "Lighthouses -- Atlantic Coast (Europe)",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 239,
+    "lang": "fre",
+    "days_keep_count": 200,
+    "adding_date": "2011-08-22",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL86103A",
+        "last_name": "Plisson",
+        "first_name": "Philip"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062300M",
+    "title": "Hang hai ri ji (Zi ran gong yuan)",
+    "city": null,
+    "publisher": "Chen xing chu ban she",
+    "year": 1996,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 408,
+    "lang": "cmn",
+    "days_keep_count": 50,
+    "adding_date": "2001-04-27",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168398A",
+        "last_name": "Liang",
+        "first_name": "Qinxia"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062301M",
+    "title": "Tao hai ren (Zi ran gong yuan)",
+    "city": null,
+    "publisher": "Chen xing chu ban she",
+    "year": 1996,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 256,
+    "lang": "cmn",
+    "days_keep_count": 100,
+    "adding_date": "2012-01-09",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168399A",
+        "last_name": "Liao",
+        "first_name": "Hongji"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062302M",
+    "title": "Xun fang yue liang de jiao yin (Zi ran gong yuan)",
+    "city": null,
+    "publisher": "Chen xing chu ban she",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 162,
+    "lang": "cmn",
+    "days_keep_count": 50,
+    "adding_date": "2015-01-08",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168400A",
+        "last_name": "Yang",
+        "first_name": "Nanjun"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062303M",
+    "title": "Sheng tai Taiwan (Zi ran gong yuan)",
+    "city": null,
+    "publisher": "Chen xing chu ban she",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 267,
+    "lang": "cmn",
+    "days_keep_count": 200,
+    "adding_date": "2005-06-01",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168392A",
+        "last_name": "Chen",
+        "first_name": "Yufeng"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062304M",
+    "title": "Chicken Soup for the Soul (2) ('Xin ling ji tang (2)', in traditional Chinese, NOT in English)",
+    "city": null,
+    "publisher": "Chen Xing",
+    "year": 1996,
+    "subject": "Self Help",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "chi",
+    "days_keep_count": 100,
+    "adding_date": "2009-10-09",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL509912A",
+        "last_name": "Canfield",
+        "first_name": "Jack"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062305M",
+    "title": "Ren shi Taiwan (Taiwan li shi guan)",
+    "city": null,
+    "publisher": "Zong jing xiao Zhi ji you xian gong si",
+    "year": 1996,
+    "subject": "History",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 285,
+    "lang": "cmn",
+    "days_keep_count": 30,
+    "adding_date": "2000-03-16",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168392A",
+        "last_name": "Chen",
+        "first_name": "Yufeng"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062306M",
+    "title": "Nan Taiwan lu se ge ming (Zi ran gong yuan)",
+    "city": null,
+    "publisher": "Chen xing chu ban she",
+    "year": 1996,
+    "subject": "Wildlife conservation",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 226,
+    "lang": "cmn",
+    "days_keep_count": 10,
+    "adding_date": "2013-06-12",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1135673A",
+        "last_name": "Ragno",
+        "first_name": "Benito"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062307M",
+    "title": "Chicken Soup for the Soul (3) ('Xin ling ji tang (3)', in traditional Chinese, NOT in English)",
+    "city": null,
+    "publisher": "Chen Xing",
+    "year": 1996,
+    "subject": "Self Help",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "chi",
+    "days_keep_count": 50,
+    "adding_date": "2016-11-01",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL509912A",
+        "last_name": "Canfield",
+        "first_name": "Jack"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062308M",
+    "title": "Xiao xiao zi ran guan cha jia (Zi ran gong yuan)",
+    "city": null,
+    "publisher": "Zong jing xiao Zhi ji you xian gong si",
+    "year": 1996,
+    "subject": "Nature",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 253,
+    "lang": "cmn",
+    "days_keep_count": 200,
+    "adding_date": "2012-12-29",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168401A",
+        "last_name": "Hong",
+        "first_name": "Lisan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062309M",
+    "title": "Ren niao zhi jian (Zi ran gong yuan)",
+    "city": null,
+    "publisher": "Chen xing chu ban she",
+    "year": 1997,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 468,
+    "lang": "cmn",
+    "days_keep_count": 200,
+    "adding_date": "2014-07-31",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1355038A",
+        "last_name": "Huang.",
+        "first_name": "Chen,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1306230M",
+    "title": "Sub-desarrollo--por qué?",
+    "city": "Monterrey, N.L",
+    "publisher": "Ediciones Castillo",
+    "year": 1985,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 93,
+    "lang": "spa",
+    "days_keep_count": 30,
+    "adding_date": "2007-03-10",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL671620A",
+        "last_name": "Cárcano C.",
+        "first_name": "Dario"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062310M",
+    "title": "Na nian wo men ji bai zu ling (Taiwan yuan zhu min xi lie)",
+    "city": null,
+    "publisher": "Chen xing chu ban she",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 289,
+    "lang": "cmn",
+    "days_keep_count": 100,
+    "adding_date": "2015-05-19",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168402A",
+        "last_name": "Huosiluman",
+        "first_name": "Fafa"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062311M",
+    "title": "Bei yi wang de Ri ji Taiwan zhi wu xue zhe (Taiwan li shi guan)",
+    "city": null,
+    "publisher": "Chen xing chu ban she",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 474,
+    "lang": "cmn",
+    "days_keep_count": 200,
+    "adding_date": "2001-02-18",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168393A",
+        "last_name": "Wu",
+        "first_name": "Yonghua"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062312M",
+    "title": "Chicken Soup for Woman's Soul ('Xin ling ji tang (nu xing)', in traditional Chinese, NOT in English)",
+    "city": null,
+    "publisher": "Chen Xing",
+    "year": 1997,
+    "subject": "Self Help",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "chi",
+    "days_keep_count": 200,
+    "adding_date": "2009-08-24",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL509912A",
+        "last_name": "Canfield",
+        "first_name": "Jack"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062313M",
+    "title": "Kuba zhi huo",
+    "city": null,
+    "publisher": "Chen xing chu ban she",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 254,
+    "lang": "cmn",
+    "days_keep_count": 50,
+    "adding_date": "2009-04-14",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168403A",
+        "last_name": "Pu",
+        "first_name": "Zhongcheng"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062314M",
+    "title": "Lanyang hai an zhi ge",
+    "city": null,
+    "publisher": "Zong jing xiao Zhi ji you xian gong si",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "cmn",
+    "days_keep_count": 10,
+    "adding_date": "2013-06-04",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168393A",
+        "last_name": "Wu",
+        "first_name": "Yonghua"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062315M",
+    "title": "Pingbu zu ji",
+    "city": null,
+    "publisher": "Chen xing chu ban she",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 264,
+    "lang": "cmn",
+    "days_keep_count": 10,
+    "adding_date": "2002-04-02",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168404A",
+        "last_name": "Bai",
+        "first_name": "Dongliang"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062316M",
+    "title": "Taiwan deng shan xiao shi (Taiwan li shi guan)",
+    "city": null,
+    "publisher": "Chen xing chu ban she",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 303,
+    "lang": "cmn",
+    "days_keep_count": 100,
+    "adding_date": "2001-06-27",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168405A",
+        "last_name": "Numai",
+        "first_name": "Tetsutaro"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062317M",
+    "title": "Jing sheng jing shi (Zi ran gong yuan)",
+    "city": null,
+    "publisher": "Chen xing chu ban she",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 139,
+    "lang": "cmn",
+    "days_keep_count": 30,
+    "adding_date": "2015-08-15",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168399A",
+        "last_name": "Liao",
+        "first_name": "Hongji"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062318M",
+    "title": "Chicken Soup for the Soul at Work ('Xin ling ji tang (gong zuo)', in traditional Chinese, NOT in Eng",
+    "city": null,
+    "publisher": "Chen Xing",
+    "year": 1997,
+    "subject": "Self Help",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "chi",
+    "days_keep_count": 10,
+    "adding_date": "2014-02-15",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL509912A",
+        "last_name": "Canfield",
+        "first_name": "Jack"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062319M",
+    "title": "Letters From Dad - Lessons and Love ('Fu qin de xin', in traditional Chinese, NOT in English)",
+    "city": null,
+    "publisher": "Chen Xing",
+    "year": null,
+    "subject": "Self Help",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "chi",
+    "days_keep_count": 100,
+    "adding_date": "2008-09-20",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168406A",
+        "last_name": "Liao",
+        "first_name": "Ruiwen"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1306231M",
+    "title": "Caducidad de instancia",
+    "city": "Buenos Aires",
+    "publisher": "Ediciones Depalma",
+    "year": 1991,
+    "subject": "Limitation of actions -- Argentina.",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 429,
+    "lang": "spa",
+    "days_keep_count": 30,
+    "adding_date": "2013-06-30",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL122193A",
+        "last_name": "John Thompson",
+        "first_name": "Alexander"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062320M",
+    "title": "Niaoju Longcang",
+    "city": null,
+    "publisher": "Chen xing chu ban she",
+    "year": null,
+    "subject": "Torii, Ryuzo",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 554,
+    "lang": "cmn",
+    "days_keep_count": 200,
+    "adding_date": "2011-08-01",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3881601A",
+        "last_name": "Nakazono",
+        "first_name": "Eisuke"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062321M",
+    "title": "Chicken Soup for the Teenager's Soul ('Xin ling ji tang (qing shao nian)', in traditional Chinese, N",
+    "city": null,
+    "publisher": "Chen Xing",
+    "year": 1998,
+    "subject": "Self Help",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "chi",
+    "days_keep_count": 200,
+    "adding_date": "2007-06-07",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL509912A",
+        "last_name": "Canfield",
+        "first_name": "Jack"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062322M",
+    "title": "Letters to Our Daughters - Mothers' Words of Love ('Gei nu er de xin', in traditional Chinese, NOT i",
+    "city": null,
+    "publisher": "Chen Xing",
+    "year": 1998,
+    "subject": "Self Help",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "chi",
+    "days_keep_count": 30,
+    "adding_date": "2000-10-15",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168407A",
+        "last_name": "Fan",
+        "first_name": "Leideng"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062323M",
+    "title": "Chicken Soup for the Mother's Soul ('Xin ling ji tang (xian ge ma ma )', in traditional Chinese, NOT",
+    "city": null,
+    "publisher": "Chen Xing",
+    "year": 1998,
+    "subject": "Self Help",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "chi",
+    "days_keep_count": 50,
+    "adding_date": "2006-12-06",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL509912A",
+        "last_name": "Canfield",
+        "first_name": "Jack"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062324M",
+    "title": "Wen rou shuang cheng ji",
+    "city": null,
+    "publisher": "Da tian chu ban you xian gong si",
+    "year": 1998,
+    "subject": "Romance Fiction",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 240,
+    "lang": "cmn",
+    "days_keep_count": 50,
+    "adding_date": "2005-12-01",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4167942A",
+        "last_name": "Zhang",
+        "first_name": "Manjuan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062325M",
+    "title": "Lanyu xing yi ji (Taiwan yuan zhu min xi lie)",
+    "city": null,
+    "publisher": "Chen xing chu ban she",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 243,
+    "lang": "cmn",
+    "days_keep_count": 10,
+    "adding_date": "2009-07-23",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168383A",
+        "last_name": "Tian",
+        "first_name": "Yage"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062326M",
+    "title": "Chicken Soup for the Soul, Vol. 4 ('Xin ling ji tang (4)', in traditional Chinese, NOT in English)",
+    "city": null,
+    "publisher": "Chen Xing",
+    "year": 1998,
+    "subject": "Self Help",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "chi",
+    "days_keep_count": 50,
+    "adding_date": "2001-01-16",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL509912A",
+        "last_name": "Canfield",
+        "first_name": "Jack"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062327M",
+    "title": "Shi ji mo shu qing (Zhi hui tian)",
+    "city": null,
+    "publisher": "Da tian chu ban you xian gong si",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 248,
+    "lang": "cmn",
+    "days_keep_count": 50,
+    "adding_date": "2002-07-24",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1249916A",
+        "last_name": "Fangshuo.",
+        "first_name": "Nan,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062328M",
+    "title": "Xiao shi de shi di (Zi ran gong yuan)",
+    "city": null,
+    "publisher": "Chen xing chu ban she",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 231,
+    "lang": "cmn",
+    "days_keep_count": 10,
+    "adding_date": "2016-12-03",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168408A",
+        "last_name": "Cha",
+        "first_name": "Fuheng"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062329M",
+    "title": "Taiwan nong cun yi bai nian",
+    "city": null,
+    "publisher": "Chen xing chu ban she",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "cmn",
+    "days_keep_count": 10,
+    "adding_date": "2008-05-02",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168409A",
+        "last_name": "Kang",
+        "first_name": "Yuan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1306232M",
+    "title": "Bankruptcy law and practice in Ireland",
+    "city": "Dublin",
+    "publisher": "Round Hall Press",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 292,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2000-02-18",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL671621A",
+        "last_name": "Sanfey",
+        "first_name": "Mark"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062330M",
+    "title": "Huo zhu hui lai",
+    "city": null,
+    "publisher": "Chen xing chu ban",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 394,
+    "lang": "cmn",
+    "days_keep_count": 50,
+    "adding_date": "2005-02-22",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4152396A",
+        "last_name": "Chen",
+        "first_name": "Qianwu"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062331M",
+    "title": "Ri Mei Tai san guo tong meng (Big tomorrow)",
+    "city": null,
+    "publisher": "Zong jing xiao Zhi ji you xian gong si",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 220,
+    "lang": "cmn",
+    "days_keep_count": 100,
+    "adding_date": "2010-09-08",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3030223A",
+        "last_name": "Izumi",
+        "first_name": "Taro"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062332M",
+    "title": "Da zi ran xi you ji (Zi ran gong yuan)",
+    "city": null,
+    "publisher": "Chen xin chu ban",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "cmn",
+    "days_keep_count": 200,
+    "adding_date": "2009-05-02",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168410A",
+        "last_name": "Hong",
+        "first_name": "Qiongjun"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062333M",
+    "title": "Shi ji zhi shu =",
+    "city": null,
+    "publisher": "Zong jing xiao Zhi ji you xian gong si",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "cmn",
+    "days_keep_count": 100,
+    "adding_date": "2011-03-11",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1014422A",
+        "last_name": "Jeffers",
+        "first_name": "Ron"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062334M",
+    "title": "Taiwan zhi zi",
+    "city": null,
+    "publisher": "Chen xing chu ban you xian gong si",
+    "year": null,
+    "subject": "Chen, Shuibian",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 246,
+    "lang": "cmn",
+    "days_keep_count": 30,
+    "adding_date": "2007-11-30",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4167598A",
+        "last_name": "Chen",
+        "first_name": "Shuibian"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062335M",
+    "title": "Taiwan li shi ji nian wu",
+    "city": null,
+    "publisher": "Chen xing chu ban you xian gong si",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 317,
+    "lang": "cmn",
+    "days_keep_count": 100,
+    "adding_date": "2015-02-06",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168393A",
+        "last_name": "Wu",
+        "first_name": "Yonghua"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062336M",
+    "title": "Zong heng Zhongguo (Jing cao cong shu)",
+    "city": null,
+    "publisher": "Chen xing chu ban you xian gong si",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 494,
+    "lang": "cmn",
+    "days_keep_count": 100,
+    "adding_date": "2001-01-13",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL122649A",
+        "last_name": "Josephson",
+        "first_name": "Ragnar"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062337M",
+    "title": "Taiwan li shi de gui ji =",
+    "city": null,
+    "publisher": "Zong jing xiao Zhi ji you xian gong si",
+    "year": 2000,
+    "subject": "History",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 838,
+    "lang": "cmn",
+    "days_keep_count": 50,
+    "adding_date": "2005-04-21",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168411A",
+        "last_name": "Chen",
+        "first_name": "Shuiyuan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062338M",
+    "title": "Jie chu hang hai jia Zheng He",
+    "city": null,
+    "publisher": "Chen xing chu ban she",
+    "year": 2000,
+    "subject": "Zheng, He",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 202,
+    "lang": "cmn",
+    "days_keep_count": 100,
+    "adding_date": "2007-07-24",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168411A",
+        "last_name": "Chen",
+        "first_name": "Shuiyuan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062339M",
+    "title": "A Second Chicken Soup for the Woman's Soul ('Xin ling ji tang--nu xing hua ti', in traditional Chine",
+    "city": null,
+    "publisher": "Chen Xing",
+    "year": 2001,
+    "subject": "Self Help",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "chi",
+    "days_keep_count": 200,
+    "adding_date": "2015-02-24",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL509912A",
+        "last_name": "Canfield",
+        "first_name": "Jack"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1306233M",
+    "title": "Easy Japanese",
+    "city": "Lincolnwood, Ill",
+    "publisher": "Passport Books",
+    "year": 1992,
+    "subject": "Japanese language -- Textbooks for foreign speakers -- English",
+    "genre": "Textbooks for foreign speakers",
+    "periodic_release": 2,
+    "page_count": 210,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2006-12-13",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL479424A",
+        "last_name": "Seward",
+        "first_name": "Jack"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062340M",
+    "title": "Xun qiu fu qiang",
+    "city": null,
+    "publisher": "Gao li tu shu gong si",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 309,
+    "lang": "cmn",
+    "days_keep_count": 100,
+    "adding_date": "2004-03-13",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1263191A",
+        "last_name": "Hui'er.",
+        "first_name": "Lei,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062341M",
+    "title": "Ren sheng qi da wei ji (Wen jing cong shu sheng huo xi lie)",
+    "city": null,
+    "publisher": "Zong jing xiao Xu sheng tu shu you xian gong si",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 230,
+    "lang": "cmn",
+    "days_keep_count": 10,
+    "adding_date": "2001-07-03",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168412A",
+        "last_name": "Chen",
+        "first_name": "Yi'an"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062342M",
+    "title": "Ren wo jiao rong",
+    "city": null,
+    "publisher": "Zong jing xiao Xu sheng tu shu you xian gong si",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 155,
+    "lang": "cmn",
+    "days_keep_count": 100,
+    "adding_date": "2010-12-19",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL508903A",
+        "last_name": "Shen",
+        "first_name": "Qingsong"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062343M",
+    "title": "Dan chun zhi le (Wen jing cong shu sheng huo xi lie)",
+    "city": null,
+    "publisher": "Zong jing xiao Xu sheng tu shu you xian gong si",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 275,
+    "lang": "cmn",
+    "days_keep_count": 200,
+    "adding_date": "2015-09-10",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4167281A",
+        "last_name": "Jian",
+        "first_name": "Wan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062344M",
+    "title": "Sheng xin an dun (Wen jing cong shu ren sheng dui hua xi lie)",
+    "city": null,
+    "publisher": "Zong jing xiao Xu sheng tu shu you xian gong si",
+    "year": 1991,
+    "subject": "Buddhism",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 303,
+    "lang": "cmn",
+    "days_keep_count": 200,
+    "adding_date": "2006-01-23",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1247590A",
+        "last_name": "Qingxuan.",
+        "first_name": "Lin,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062345M",
+    "title": "Ai, gou tong, cheng zhang (Wen jing ren wen xi lie cong shu ren sheng dui hua)",
+    "city": null,
+    "publisher": "Zong jing xiao Yu sheng tu shu you xian gong si",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 221,
+    "lang": "cmn",
+    "days_keep_count": 30,
+    "adding_date": "2002-12-31",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168412A",
+        "last_name": "Chen",
+        "first_name": "Yi'an"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062346M",
+    "title": "Dian ying, sheng ya, qi shi lu (Wen jing cong shu sheng yai xi lie)",
+    "city": null,
+    "publisher": "Zong jing xiao Xu sheng tu shu you xian gong si",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 210,
+    "lang": "cmn",
+    "days_keep_count": 30,
+    "adding_date": "2003-05-30",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168413A",
+        "last_name": "Lu",
+        "first_name": "Zhengda"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062347M",
+    "title": "Que li sheng ming di yuan dian (Wen jing cong shu ren sheng dui hua xi lie)",
+    "city": null,
+    "publisher": "Zong jing xiao Xu sheng tu shu you xian gong si",
+    "year": 1991,
+    "subject": "Interpersonal relations",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 203,
+    "lang": "cmn",
+    "days_keep_count": 50,
+    "adding_date": "2000-08-09",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4167846A",
+        "last_name": "Fu",
+        "first_name": "Peirong"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062348M",
+    "title": "Sheng huo xiang du (Wen jing cong shu sheng huo xi lie)",
+    "city": null,
+    "publisher": "Zong jing xiao Xu sheng tu shu you xian gong si",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 209,
+    "lang": "cmn",
+    "days_keep_count": 30,
+    "adding_date": "2001-03-19",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1244636A",
+        "last_name": "Mulan",
+        "first_name": "Xu,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062349M",
+    "title": "Cong zi wo chu fa (Wen jing cong shu ren sheng dui hua xi lie)",
+    "city": null,
+    "publisher": "Xu sheng tu shu you xian gong si",
+    "year": 1992,
+    "subject": "Conduct of life",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 262,
+    "lang": "cmn",
+    "days_keep_count": 10,
+    "adding_date": "2014-09-20",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4167846A",
+        "last_name": "Fu",
+        "first_name": "Peirong"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1306234M",
+    "title": "My Riverside Cemetery tombstone inscriptions scrapbook",
+    "city": "[Jackson, Tenn.]",
+    "publisher": "J.K.T. Smith",
+    "year": 1992,
+    "subject": "Riverside Cemetery (Jackson, Tenn.)",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2005-06-17",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL66830A",
+        "last_name": "Kennon Smith",
+        "first_name": "Jonathan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062350M",
+    "title": "Huan xi zi zai",
+    "city": null,
+    "publisher": "Xu sheng tu shu you xian gong si",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 250,
+    "lang": "cmn",
+    "days_keep_count": 200,
+    "adding_date": "2009-08-28",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1247590A",
+        "last_name": "Qingxuan.",
+        "first_name": "Lin,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062351M",
+    "title": "Cong li shi kan ling dao (Wen jing cong shu qian zhan ling dao xi lie)",
+    "city": null,
+    "publisher": "Zong jing xiao Xu sheng tu shu you xian gong si",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 213,
+    "lang": "cmn",
+    "days_keep_count": 200,
+    "adding_date": "2003-01-18",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1070621A",
+        "last_name": "Zhuoyun",
+        "first_name": "Xu,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062352M",
+    "title": "[ Engendering ]",
+    "city": null,
+    "publisher": "Cosmos Culture",
+    "year": 2002,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2000-10-22",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1028788A",
+        "last_name": "N. Geluso",
+        "first_name": "Kenneth"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062353M",
+    "title": "World Talk, Common Errors in English From a to Z",
+    "city": null,
+    "publisher": "Cosmos Culture Ltd",
+    "year": 2002,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2003-11-21",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1295325A",
+        "last_name": "Garbaczewski",
+        "first_name": "P."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062354M",
+    "title": "Zai hou xian dai zhu yi di za yin zhong",
+    "city": null,
+    "publisher": "Shu lin chu ban you xian gong si",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 237,
+    "lang": "cmn",
+    "days_keep_count": 10,
+    "adding_date": "2002-02-15",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168414A",
+        "last_name": "Zhong",
+        "first_name": "Mingde"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062355M",
+    "title": "Xie zai ren sheng bian shang-ren, shou, gui (in traditional Chinese, NOT in English)",
+    "city": null,
+    "publisher": "Shu Lin",
+    "year": 1999,
+    "subject": "Classic Literature",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "chi",
+    "days_keep_count": 10,
+    "adding_date": "2002-11-17",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1257979A",
+        "last_name": "Zhongshu",
+        "first_name": "Qian,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062356M",
+    "title": "Qi zhui ji (in traditional Chinese, NOT in English)",
+    "city": null,
+    "publisher": "Shu Lin",
+    "year": 1990,
+    "subject": "Classic Literature",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "chi",
+    "days_keep_count": 100,
+    "adding_date": "2016-04-29",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1257979A",
+        "last_name": "Zhongshu",
+        "first_name": "Qian,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062357M",
+    "title": "Guan zhui bian (1) (in traditional Chinese, NOT in English)",
+    "city": null,
+    "publisher": "Shu Lin",
+    "year": 1996,
+    "subject": "Classic Literature",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "chi",
+    "days_keep_count": 100,
+    "adding_date": "2012-08-23",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1257979A",
+        "last_name": "Zhongshu",
+        "first_name": "Qian,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062358M",
+    "title": "Guan zhui bian (2) (in traditional Chinese, NOT in English)",
+    "city": null,
+    "publisher": "Shu Lin",
+    "year": 1990,
+    "subject": "Classic Literature",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "chi",
+    "days_keep_count": 10,
+    "adding_date": "2003-09-24",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1257979A",
+        "last_name": "Zhongshu",
+        "first_name": "Qian,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062359M",
+    "title": "Guan zhui bian (3) (in traditional Chinese, NOT in English)",
+    "city": null,
+    "publisher": "Shu Lin",
+    "year": 1990,
+    "subject": "Classic Literature",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "chi",
+    "days_keep_count": 100,
+    "adding_date": "2013-07-01",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1257979A",
+        "last_name": "Zhongshu",
+        "first_name": "Qian,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1306235M",
+    "title": "Née demain",
+    "city": "Saint-Alphonse-de-Granby, Québec",
+    "publisher": "Editons de la Paix",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 272,
+    "lang": "fre",
+    "days_keep_count": 30,
+    "adding_date": "2010-05-27",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL671622A",
+        "last_name": "Fortier",
+        "first_name": "Colette"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062360M",
+    "title": "Guan zhui bian (4) (in traditional Chinese, NOT in English)",
+    "city": null,
+    "publisher": "Shu Lin",
+    "year": 1990,
+    "subject": "Classic Literature",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "chi",
+    "days_keep_count": 50,
+    "adding_date": "2002-12-20",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1257979A",
+        "last_name": "Zhongshu",
+        "first_name": "Qian,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062361M",
+    "title": "Song shi xuan zhu (in traditional Chinese, NOT in English)",
+    "city": null,
+    "publisher": "Shu Lin",
+    "year": 1990,
+    "subject": "Classic Literature",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "chi",
+    "days_keep_count": 50,
+    "adding_date": "2001-10-31",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1257979A",
+        "last_name": "Zhongshu",
+        "first_name": "Qian,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062362M",
+    "title": "UNDER THE PHOENIX TREE",
+    "city": null,
+    "publisher": "Bookman Books",
+    "year": 1990,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 330,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2002-09-14",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168415A",
+        "last_name": "DAI",
+        "first_name": "Catherine"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062363M",
+    "title": "How I Learned English",
+    "city": null,
+    "publisher": "Bookman Book, LTD",
+    "year": 1990,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2011-07-13",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1140751A",
+        "last_name": "Arcus",
+        "first_name": "Gary"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062364M",
+    "title": "300 Tang Poems",
+    "city": null,
+    "publisher": "Bookman Books Ltd.",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 411,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2001-07-28",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1152708A",
+        "last_name": "Adréa",
+        "first_name": "Albert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062365M",
+    "title": "Tan yi lu (in traditional Chinese, NOT in English)",
+    "city": null,
+    "publisher": "Shu Lin",
+    "year": 1999,
+    "subject": "Classic Literature",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "chi",
+    "days_keep_count": 10,
+    "adding_date": "2006-06-04",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1257979A",
+        "last_name": "Zhongshu",
+        "first_name": "Qian,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062366M",
+    "title": "Zhongguo xue shu si xiang shi",
+    "city": null,
+    "publisher": "Shu lin chu ban you xian gong si",
+    "year": 1994,
+    "subject": "Learning and scholarship",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2006-07-03",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168416A",
+        "last_name": "Lin",
+        "first_name": "Qiyan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062367M",
+    "title": "Zhongguo wen xue san lun",
+    "city": null,
+    "publisher": "Shu lin chu ban you xian gong si",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 171,
+    "lang": "cmn",
+    "days_keep_count": 30,
+    "adding_date": "2009-03-24",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168417A",
+        "last_name": "Chen",
+        "first_name": "Yongming"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13062368M",
+    "title": "Brief History of the United States ('Mei guo jian shi', in traditional Chinese, NOT in English)",
+    "city": null,
+    "publisher": "Shu Lin",
+    "year": 1996,
+    "subject": "Life Guide",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "chi",
+    "days_keep_count": 50,
+    "adding_date": "2004-10-18",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4168418A",
+        "last_name": "Hong",
+        "first_name": "Yousheng"
+      }
+    ]
+  }
+]

@@ -1,0 +1,4822 @@
+[
+  {
+    "openlibrary_id": "/books/OL10461927M",
+    "title": "Psychiatric Mental Health Nursing Im",
+    "city": null,
+    "publisher": "Mosby International",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2001-04-20",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL230828A",
+        "last_name": "M. Fortinash",
+        "first_name": "Katherine"
+      },
+      {
+        "openlibrary_id": "/authors/OL3437991A",
+        "last_name": "A. Holoday-Worret",
+        "first_name": "Patricia"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461928M",
+    "title": "Physical Therapy Management",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2007,
+    "subject": "Physiotherapy",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 230,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2015-12-04",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL33370A",
+        "last_name": "W. Scott",
+        "first_name": "Ronald"
+      },
+      {
+        "openlibrary_id": "/authors/OL3438049A",
+        "last_name": "L Petrosino",
+        "first_name": "Christopher"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461929M",
+    "title": "Basic EMT",
+    "city": null,
+    "publisher": "Mosby International",
+    "year": 2001,
+    "subject": "First aid & paramedical services",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2014-06-17",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3438050A",
+        "last_name": "Mcswain",
+        "first_name": "Norman"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1046192M",
+    "title": "Tasse scolastiche e livello dell'istruzione in Italia",
+    "city": "Napoli",
+    "publisher": "Liguori",
+    "year": 1992,
+    "subject": "Public schools -- Italy.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 174,
+    "lang": "ita",
+    "days_keep_count": 200,
+    "adding_date": "2016-04-27",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL561169A",
+        "last_name": "Vassillo",
+        "first_name": "Antonio"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461930M",
+    "title": "Slide Set to Accompany Basic EMT Comprehensive Prehospital Patient Care",
+    "city": null,
+    "publisher": "C.V. Mosby",
+    "year": 2001,
+    "subject": "Allied Health Services - Emergency Medical Services",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 784,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2001-05-22",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3438051A",
+        "last_name": "McSwain",
+        "first_name": "Norman"
+      },
+      {
+        "openlibrary_id": "/authors/OL3438052A",
+        "last_name": "Parvensky Barwell",
+        "first_name": "Catherine"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461931M",
+    "title": "Powerpoint Slide Set to Accompany the Basic Emt",
+    "city": null,
+    "publisher": "Mosby-Year Book",
+    "year": 2001,
+    "subject": "Accident & emergency medicine",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2015-08-17",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3050372A",
+        "last_name": "McSwain",
+        "first_name": "McSwain"
+      },
+      {
+        "openlibrary_id": "/authors/OL3438053A",
+        "last_name": "Paturas",
+        "first_name": "Paturas"
+      },
+      {
+        "openlibrary_id": "/authors/OL3438054A",
+        "last_name": "Parvensky",
+        "first_name": "Parvensky"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461932M",
+    "title": "Community and Public Health Nursing",
+    "city": null,
+    "publisher": "C.V. Mosby",
+    "year": 1999,
+    "subject": "Community nursing",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2006-03-10",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL366161A",
+        "last_name": "Stanhope",
+        "first_name": "Marcia"
+      },
+      {
+        "openlibrary_id": "/authors/OL1761475A",
+        "last_name": "Lancaster",
+        "first_name": "Jeanette"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461933M",
+    "title": "Mosby's Drug Guide for Nurses",
+    "city": null,
+    "publisher": "Mosby-Year Book",
+    "year": 1999,
+    "subject": "Drug Guides",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2014-05-11",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1190127A",
+        "last_name": "Skidmore-Roth",
+        "first_name": "Linda"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461934M",
+    "title": "Critical Thinking",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2001,
+    "subject": "Nursing",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2000-08-08",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3438002A",
+        "last_name": "Winningham",
+        "first_name": "Maryl"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461935M",
+    "title": "Adult and Pediatric Urology",
+    "city": null,
+    "publisher": "C.V. Mosby",
+    "year": 2002,
+    "subject": "Urology",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 3008,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2014-03-23",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3607306A",
+        "last_name": "Gillenwater",
+        "first_name": "Jay"
+      },
+      {
+        "openlibrary_id": "/authors/OL3438055A",
+        "last_name": "T. Grayhack",
+        "first_name": "John"
+      },
+      {
+        "openlibrary_id": "/authors/OL515023A",
+        "last_name": "S. Howards",
+        "first_name": "Stuart"
+      },
+      {
+        "openlibrary_id": "/authors/OL3438056A",
+        "last_name": "E. Michell",
+        "first_name": "Michael"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461936M",
+    "title": "Craniofacial Distraction Osteogenesis",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2001,
+    "subject": "Dentistry / oral & maxillofacial medicine",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 634,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2014-02-18",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3438057A",
+        "last_name": "L. Samchukov",
+        "first_name": "Mikhail"
+      },
+      {
+        "openlibrary_id": "/authors/OL3438058A",
+        "last_name": "B. Cope",
+        "first_name": "Jason"
+      },
+      {
+        "openlibrary_id": "/authors/OL3438059A",
+        "last_name": "M. Cherkashin",
+        "first_name": "Alexander"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461937M",
+    "title": "Fundamentals of Nursing",
+    "city": null,
+    "publisher": "Mosby International",
+    "year": 2000,
+    "subject": "Nursing",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2016-12-03",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2752426A",
+        "last_name": "Potter",
+        "first_name": "Potter"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461938M",
+    "title": "Yearbook Of Urology 2000",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2000,
+    "subject": "Urology & urogenital medicine",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 360,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2015-05-01",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3438117A",
+        "last_name": "L. Andriole",
+        "first_name": "Gerald"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461939M",
+    "title": "2000 Year Book of Neonatal and Perinatal Medicine",
+    "city": null,
+    "publisher": "Mosby International",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2006-01-06",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3438061A",
+        "last_name": "Fanaroff",
+        "first_name": "Fanaroff"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1046193M",
+    "title": "Mórágy",
+    "city": "Mórágy",
+    "publisher": "[Önkormányzat]",
+    "year": 1992,
+    "subject": "Mórágy (Hungary) -- History.",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 104,
+    "lang": "hun",
+    "days_keep_count": 100,
+    "adding_date": "2001-02-01",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL561170A",
+        "last_name": "Mihály.",
+        "first_name": "Szilágyi,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461940M",
+    "title": "Principles of Aesthetic Nasal Reconstruction",
+    "city": null,
+    "publisher": "C.V. Mosby",
+    "year": 2002,
+    "subject": "Plastic & reconstructive surgery",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 288,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2006-08-28",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1184523A",
+        "last_name": "and Nicobar Islands (India). Pradesh Council.",
+        "first_name": "Andaman"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461941M",
+    "title": "Foundations of Community and Public Health Nursing Practice (CD-ROM Package)",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2001,
+    "subject": "Nursing - Home & Community Care",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2007-10-11",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL366161A",
+        "last_name": "Stanhope",
+        "first_name": "Marcia"
+      },
+      {
+        "openlibrary_id": "/authors/OL2752426A",
+        "last_name": "Potter",
+        "first_name": "Potter"
+      },
+      {
+        "openlibrary_id": "/authors/OL2689055A",
+        "last_name": "Reynolds",
+        "first_name": "Reynolds"
+      },
+      {
+        "openlibrary_id": "/authors/OL3438062A",
+        "last_name": "M. Buchholz",
+        "first_name": "William"
+      },
+      {
+        "openlibrary_id": "/authors/OL3287251A",
+        "last_name": "Ashla",
+        "first_name": "Ashla"
+      },
+      {
+        "openlibrary_id": "/authors/OL3375879A",
+        "last_name": "Hamilton",
+        "first_name": "W.D."
+      },
+      {
+        "openlibrary_id": "/authors/OL2755058A",
+        "last_name": "Patterson",
+        "first_name": "Patterson"
+      },
+      {
+        "openlibrary_id": "/authors/OL2663910A",
+        "last_name": "Freed",
+        "first_name": "Mark"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461942M",
+    "title": "Basic Field Care",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2001,
+    "subject": "Health systems & services",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 64,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2005-02-22",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2848081A",
+        "last_name": "A. Parvensky Barwell",
+        "first_name": "Catherine"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461943M",
+    "title": "Pediatric Skills for Occupational Therapy Assistants",
+    "city": null,
+    "publisher": "Mosby International",
+    "year": 2000,
+    "subject": "Occupational therapy",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2007-08-22",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3350670A",
+        "last_name": "Soloman",
+        "first_name": "Soloman"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461944M",
+    "title": "Critical Thinking in Medical-Surgical Settings",
+    "city": null,
+    "publisher": "C.V. Mosby",
+    "year": 2000,
+    "subject": "Intensive Care Medicine",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 573,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2002-04-23",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3438063A",
+        "last_name": "L. Winningham",
+        "first_name": "Mary"
+      },
+      {
+        "openlibrary_id": "/authors/OL3341509A",
+        "last_name": "A. Preusser",
+        "first_name": "Barbara"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461945M",
+    "title": "Decisions and Evidence in Medical Practice",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2001,
+    "subject": "Clinical & Internal Medicine",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 225,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2016-02-13",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL230532A",
+        "last_name": "Gross",
+        "first_name": "Richard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461946M",
+    "title": "Mosby's Drug Guide for Nurses (Book with Mini CD-ROM for Windows)",
+    "city": null,
+    "publisher": "Mosby Elsevier Health Science",
+    "year": 2001,
+    "subject": "Nursing",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 1506,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2008-07-04",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1190127A",
+        "last_name": "Skidmore-Roth",
+        "first_name": "Linda"
+      },
+      {
+        "openlibrary_id": "/authors/OL1411362A",
+        "last_name": "Blake",
+        "first_name": "Steve"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461947M",
+    "title": "Manual of Nursing Diagnosis",
+    "city": null,
+    "publisher": "Mosby-Year Book",
+    "year": 2000,
+    "subject": "Nursing - Assessment & Diagnosis",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 562,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2001-03-03",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL718396A",
+        "last_name": "Gordon",
+        "first_name": "Marjory"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461948M",
+    "title": "Ferri's Clinical Advisor 2000 CD-ROM",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2000,
+    "subject": "Clinical & Internal Medicine",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2008-07-28",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3294159A",
+        "last_name": "Ferri",
+        "first_name": "Fred"
+      },
+      {
+        "openlibrary_id": "/authors/OL3438064A",
+        "last_name": "Ferri MD",
+        "first_name": "Fred"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461949M",
+    "title": "Imaging of the Nervous System",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2004,
+    "subject": "Neurology & clinical neurophysiology",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 1720,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2013-10-08",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3438065A",
+        "last_name": "Latchaw",
+        "first_name": "Richard"
+      },
+      {
+        "openlibrary_id": "/authors/OL2909642A",
+        "last_name": "Kucharczyk",
+        "first_name": "John"
+      },
+      {
+        "openlibrary_id": "/authors/OL2828181A",
+        "last_name": "Moseley",
+        "first_name": "Michael"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1046194M",
+    "title": "Arte breve de la lengua quechua",
+    "city": "Quito",
+    "publisher": "Proyecto Educación Bilingüe Intercultural",
+    "year": 1993,
+    "subject": "Quechua language -- Grammar -- Early works to 1800.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 81,
+    "lang": "spa",
+    "days_keep_count": 100,
+    "adding_date": "2004-10-03",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL561171A",
+        "last_name": "de Huerta",
+        "first_name": "Alonso"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461950M",
+    "title": "Mosby's Comprehensive Review of Radiography",
+    "city": null,
+    "publisher": "C.V. Mosby",
+    "year": 2000,
+    "subject": "Radiologic Diagnosis",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 315,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2003-10-29",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL400262A",
+        "last_name": "J. Callaway",
+        "first_name": "William"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461951M",
+    "title": "Fundamentals of Complementary and Alternative Medicine",
+    "city": null,
+    "publisher": "C.V. Mosby",
+    "year": 2000,
+    "subject": "Alternative Medicine",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2016-08-16",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3438066A",
+        "last_name": "Micozzi",
+        "first_name": "Micozzi"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461952M",
+    "title": "Mosby's Dental Drug Reference",
+    "city": null,
+    "publisher": "C.V. Mosby",
+    "year": 2001,
+    "subject": "Dentistry / oral & maxillofacial medicine",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 815,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2006-10-27",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3307284A",
+        "last_name": "W. Gage",
+        "first_name": "Tommy"
+      },
+      {
+        "openlibrary_id": "/authors/OL1431567A",
+        "last_name": "Atherton Pickett",
+        "first_name": "Frieda"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461953M",
+    "title": "Genetics in the Clinic",
+    "city": null,
+    "publisher": "C.V. Mosby",
+    "year": 2001,
+    "subject": "General practice",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 315,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2004-06-28",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL831414A",
+        "last_name": "Briody Mahowald",
+        "first_name": "Mary"
+      },
+      {
+        "openlibrary_id": "/authors/OL3438067A",
+        "last_name": "S., M.D. Scheuerle",
+        "first_name": "Angela"
+      },
+      {
+        "openlibrary_id": "/authors/OL393260A",
+        "last_name": "Victor A.",
+        "first_name": "McKusick,"
+      },
+      {
+        "openlibrary_id": "/authors/OL3438068A",
+        "last_name": "J. Aspinwall",
+        "first_name": "Timothy"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461954M",
+    "title": "Veterinary Diagnostic Imaging - The Dog and Cat (Veterinary Diagnostic Imaging)",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2003,
+    "subject": "Veterinary radiology",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 800,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2002-09-15",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1080482A",
+        "last_name": "S. Farrow",
+        "first_name": "Charles"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461955M",
+    "title": "Veterinary Diagnostic Imaging - The Horse (Veterinary Diagnostic Imaging)",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2005,
+    "subject": "Veterinary Science",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 592,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2005-11-30",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1080482A",
+        "last_name": "S. Farrow",
+        "first_name": "Charles"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461956M",
+    "title": "Nursing Diagnoses, Outcomes, and Interventions",
+    "city": null,
+    "publisher": "C.V. Mosby",
+    "year": 2001,
+    "subject": "Medical diagnosis",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 532,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2010-11-22",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1144419A",
+        "last_name": "Neville B.",
+        "first_name": "Craig,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461957M",
+    "title": "Workbook and Laboratory Manual to accompany Radiographic Positioning and Related Anatomy",
+    "city": null,
+    "publisher": "C.V. Mosby",
+    "year": 2001,
+    "subject": "Radiography",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 560,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2002-01-02",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL429425A",
+        "last_name": "L. Bontrager",
+        "first_name": "Kenneth"
+      },
+      {
+        "openlibrary_id": "/authors/OL3329600A",
+        "last_name": "P. Lampignano",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461958M",
+    "title": "Nursing Interventions Classification Single Site, Multi-user License",
+    "city": null,
+    "publisher": "Mosby-Year Book",
+    "year": 2000,
+    "subject": "Nursing",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2006-05-24",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3438069A",
+        "last_name": "Comi McCloskey",
+        "first_name": "Joanne"
+      },
+      {
+        "openlibrary_id": "/authors/OL2796457A",
+        "last_name": "M. Bulechek",
+        "first_name": "Gloria"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461959M",
+    "title": "Nursing Outcomes Classification (Noc) (Cd-rom, Single Site, Multi-user License)",
+    "city": null,
+    "publisher": "Mosby-Year Book",
+    "year": 2000,
+    "subject": "Nursing",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2005-09-15",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2627715A",
+        "last_name": "Johnson",
+        "first_name": "Marion"
+      },
+      {
+        "openlibrary_id": "/authors/OL1804438A",
+        "last_name": "Maas",
+        "first_name": "Meridean"
+      },
+      {
+        "openlibrary_id": "/authors/OL3245953A",
+        "last_name": "Moorhead",
+        "first_name": "Sue"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1046195M",
+    "title": "Dorothea Tanning",
+    "city": "[New York, N.Y.]",
+    "publisher": "Miriam and Ira D. Wallach Division of Art, Prints and Photographs, New York Public Library",
+    "year": 1992,
+    "subject": "Tanning, Dorothea, 1910- -- Catalogues raisonnés.",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 108,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2008-06-27",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL236376A",
+        "last_name": "Tanning",
+        "first_name": "Dorothea"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461960M",
+    "title": "Health And Physical Assessment Student Workbook (on Web)",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2002,
+    "subject": "Personal & public health",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2012-08-28",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3438070A",
+        "last_name": "Barkauskas",
+        "first_name": "Barkauskas"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461961M",
+    "title": "Mosby's CEN Examination Review",
+    "city": null,
+    "publisher": "C.V. Mosby",
+    "year": 2000,
+    "subject": "Accident & emergency nursing",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 293,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2001-10-02",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3438071A",
+        "last_name": "Semonin Holleran",
+        "first_name": "Renee"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461962M",
+    "title": "Practical Allergy",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2003,
+    "subject": "General practice",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 320,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2013-10-23",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3438072A",
+        "last_name": "Milgrom",
+        "first_name": "Etan"
+      },
+      {
+        "openlibrary_id": "/authors/OL2853090A",
+        "last_name": "Usatine",
+        "first_name": "Richard"
+      },
+      {
+        "openlibrary_id": "/authors/OL3438073A",
+        "last_name": "Tan",
+        "first_name": "Ricardo"
+      },
+      {
+        "openlibrary_id": "/authors/OL2880456A",
+        "last_name": "Spector",
+        "first_name": "Sheldon"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461963M",
+    "title": "Textbook of Radiographic Positioning and Related Anatomy",
+    "city": null,
+    "publisher": "Mosby International",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2014-02-24",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3266642A",
+        "last_name": "Bontrager",
+        "first_name": "Kenneth"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461964M",
+    "title": "Genetic Diseases of Dogs",
+    "city": null,
+    "publisher": "Mosby-Year Book",
+    "year": 2002,
+    "subject": "Veterinary science: small animals (pets)",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 280,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2006-06-14",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL265598A",
+        "last_name": "F. Patterson",
+        "first_name": "Donald"
+      },
+      {
+        "openlibrary_id": "/authors/OL3285206A",
+        "last_name": "Lobiondo-Wood",
+        "first_name": "Geri"
+      },
+      {
+        "openlibrary_id": "/authors/OL3438074A",
+        "last_name": "Englebardt",
+        "first_name": "Englebardt"
+      },
+      {
+        "openlibrary_id": "/authors/OL2755058A",
+        "last_name": "Patterson",
+        "first_name": "Patterson"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461965M",
+    "title": "Pocket Guide to Basic Dysrhythmias",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2001,
+    "subject": "Cardiovascular medicine",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 125,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2013-08-03",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3257731A",
+        "last_name": "J. Huszar MD",
+        "first_name": "Robert"
+      },
+      {
+        "openlibrary_id": "/authors/OL509227A",
+        "last_name": "J. Huszar",
+        "first_name": "Robert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461966M",
+    "title": "Principles and Practice of Psychiatric Nursing Instructors Electronic Resource",
+    "city": null,
+    "publisher": "Mosby International",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2013-01-09",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3438075A",
+        "last_name": "W. Stuart PhD RN CS FAAN",
+        "first_name": "Gail"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461967M",
+    "title": "Mosby's Assess Test Secured 2002",
+    "city": null,
+    "publisher": "Mosby International",
+    "year": 2002,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2011-07-12",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL401333A",
+        "last_name": "F. Saxton",
+        "first_name": "Dolores"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461968M",
+    "title": "Nursing Care of Older Adults",
+    "city": null,
+    "publisher": "C.V. Mosby",
+    "year": 2001,
+    "subject": "Geriatric Nursing",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 834,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2011-06-30",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3438076A",
+        "last_name": "Ph.D. Tripp-Reimer",
+        "first_name": "Toni,"
+      },
+      {
+        "openlibrary_id": "/authors/OL3438077A",
+        "last_name": "C. Buckwalter",
+        "first_name": "Kathleen"
+      },
+      {
+        "openlibrary_id": "/authors/OL3438078A",
+        "last_name": "G. Titler",
+        "first_name": "Marita"
+      },
+      {
+        "openlibrary_id": "/authors/OL3438079A",
+        "last_name": "D. Hardy",
+        "first_name": "Mary"
+      },
+      {
+        "openlibrary_id": "/authors/OL3438080A",
+        "last_name": "P. Specht",
+        "first_name": "Janet"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461969M",
+    "title": "Mosby's Paramedic",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2005-05-29",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2625063A",
+        "last_name": "Sanders",
+        "first_name": "Sanders"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1046196M",
+    "title": "Stato, mercato, mezzogiorno",
+    "city": "Napoli",
+    "publisher": "Liguori",
+    "year": 1993,
+    "subject": "Economic assistance, Domestic -- Italy, Southern.",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 240,
+    "lang": "ita",
+    "days_keep_count": 200,
+    "adding_date": "2012-11-30",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1081201A",
+        "last_name": "Brundage",
+        "first_name": "Kip"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461970M",
+    "title": "Pharmacology and the Nursing Process & Student Learning Guide Package",
+    "city": null,
+    "publisher": "C.V. Mosby",
+    "year": 2001,
+    "subject": "Nursing Pharmacology",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 860,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2001-08-06",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL228916A",
+        "last_name": "Lane Lilley",
+        "first_name": "Linda"
+      },
+      {
+        "openlibrary_id": "/authors/OL3438081A",
+        "last_name": "S. Aucker",
+        "first_name": "Robert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461971M",
+    "title": "IER to Accompany Pharmacology and the Nursing Process Study Guide",
+    "city": null,
+    "publisher": "Mosby International",
+    "year": 2001,
+    "subject": "Pharmacology",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2016-05-03",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3438082A",
+        "last_name": "Lilley",
+        "first_name": "Lilley"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461972M",
+    "title": "Study Guide for Pharmacology and the Nursing Process",
+    "city": null,
+    "publisher": "C.V. Mosby",
+    "year": 2002,
+    "subject": "Study Guides",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 191,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2006-10-04",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL228916A",
+        "last_name": "Lane Lilley",
+        "first_name": "Linda"
+      },
+      {
+        "openlibrary_id": "/authors/OL3438081A",
+        "last_name": "S. Aucker",
+        "first_name": "Robert"
+      },
+      {
+        "openlibrary_id": "/authors/OL2796414A",
+        "last_name": "S. Snyder",
+        "first_name": "Julie"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461973M",
+    "title": "Mosby's 2002 AssessTest",
+    "city": null,
+    "publisher": "Mosby-Year Book",
+    "year": 2002,
+    "subject": "Nursing Practice",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 68,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2005-02-02",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL401333A",
+        "last_name": "F. Saxton",
+        "first_name": "Dolores"
+      },
+      {
+        "openlibrary_id": "/authors/OL35660A",
+        "last_name": "Jan Pelikan",
+        "first_name": "Jaroslav"
+      },
+      {
+        "openlibrary_id": "/authors/OL2743053A",
+        "last_name": "Green",
+        "first_name": "Green"
+      },
+      {
+        "openlibrary_id": "/authors/OL3260786A",
+        "last_name": "K. Pelikan",
+        "first_name": "Phyllis"
+      },
+      {
+        "openlibrary_id": "/authors/OL1860450A",
+        "last_name": "S. Green",
+        "first_name": "Judith"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461974M",
+    "title": "Mosby's 2001 Assesstest",
+    "city": null,
+    "publisher": "C.V. Mosby",
+    "year": 2000,
+    "subject": "Nursing - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 72,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2009-08-27",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1308070A",
+        "last_name": "Porter Sheldon",
+        "first_name": "Richard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461975M",
+    "title": "Critical Care Medicine",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2001,
+    "subject": "Intensive Care Medicine",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 1670,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2004-09-16",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2798915A",
+        "last_name": "E. Parrillo",
+        "first_name": "Joseph"
+      },
+      {
+        "openlibrary_id": "/authors/OL3438083A",
+        "last_name": "Phillip Dellinger",
+        "first_name": "R."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461976M",
+    "title": "Fundamentals of Nursing, 5e (Book ) + Miller-Keane",
+    "city": null,
+    "publisher": "Mosby-Year Book",
+    "year": 2002,
+    "subject": "Nursing - Fundamentals & Skills",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2015-02-14",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2798975A",
+        "last_name": "A. Potter",
+        "first_name": "Patricia"
+      },
+      {
+        "openlibrary_id": "/authors/OL2979785A",
+        "last_name": "Miller-Keane",
+        "first_name": "Miller-Keane"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461977M",
+    "title": "Medical-Surgical Nursing & Miller-Keane Encyclopedia & Dictionary of Medicine, Nursing & Allied Heal",
+    "city": null,
+    "publisher": "C.V. Mosby",
+    "year": 1999,
+    "subject": "Nursing - LPN  &  LVN",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2012-08-24",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL471208A",
+        "last_name": "A. Harkness",
+        "first_name": "Gail"
+      },
+      {
+        "openlibrary_id": "/authors/OL2979785A",
+        "last_name": "Miller-Keane",
+        "first_name": "Miller-Keane"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461978M",
+    "title": "EMT Intermediate",
+    "city": null,
+    "publisher": "Mosby International",
+    "year": 2002,
+    "subject": "First aid & paramedical services",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2004-05-04",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2640454A",
+        "last_name": "Shade",
+        "first_name": "Bruce"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461979M",
+    "title": "The Human Brain, Photos Collection",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2001,
+    "subject": "Neurology & clinical neurophysiology",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 6,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2002-07-21",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL223976A",
+        "last_name": "Nolte",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1046197M",
+    "title": "Ecriture",
+    "city": "Paris",
+    "publisher": "Albin Michel",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 123,
+    "lang": "fre",
+    "days_keep_count": 30,
+    "adding_date": "2002-10-22",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL56078A",
+        "last_name": "Sabatier",
+        "first_name": "Robert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461980M",
+    "title": "Clinical Advisor 2002",
+    "city": null,
+    "publisher": "C.V. Mosby",
+    "year": 2001,
+    "subject": "General practice",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 1568,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2003-01-02",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3438037A",
+        "last_name": "F., MD Ferri",
+        "first_name": "Fred"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461981M",
+    "title": "Ferri's Clinical Advisor",
+    "city": null,
+    "publisher": "C.V. Mosby",
+    "year": 2002,
+    "subject": "Family Medicine",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 1548,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2016-02-23",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3438084A",
+        "last_name": "Md. Ferri",
+        "first_name": "Fred,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461982M",
+    "title": "Clinical Advisor 2002",
+    "city": null,
+    "publisher": "C.V. Mosby",
+    "year": 2001,
+    "subject": "Diagnosis",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2010-04-13",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL413048A",
+        "last_name": "F. Ferri",
+        "first_name": "Fred"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461983M",
+    "title": "Ferri's Clinical Advisor",
+    "city": null,
+    "publisher": "W.B. Saunders Company",
+    "year": 2002,
+    "subject": "Internal Medicine (General)",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 1713,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2001-04-17",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL413048A",
+        "last_name": "F. Ferri",
+        "first_name": "Fred"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461984M",
+    "title": "Ferri's Clinical Advisor",
+    "city": null,
+    "publisher": "Mosby-Year Book",
+    "year": 2002,
+    "subject": "General practice",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 1744,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2003-09-29",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL413048A",
+        "last_name": "F. Ferri",
+        "first_name": "Fred"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461985M",
+    "title": "Mosby's Comprehensive Review of Dental Hygiene (5th Edition)",
+    "city": null,
+    "publisher": "C.V. Mosby",
+    "year": 2002,
+    "subject": "Dentistry / oral & maxillofacial medicine",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 1104,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2010-10-02",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1759403A",
+        "last_name": "Leonardi Darby",
+        "first_name": "Michele"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461986M",
+    "title": "Diagnostic Cytology & Hematology of the Horse",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2007,
+    "subject": "Veterinary science: large animals (domestic / farm)",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 260,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2006-06-18",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3042634A",
+        "last_name": "L. Cowell",
+        "first_name": "Rick"
+      },
+      {
+        "openlibrary_id": "/authors/OL3323445A",
+        "last_name": "D. Tyler",
+        "first_name": "Ronald"
+      },
+      {
+        "openlibrary_id": "/authors/OL2752426A",
+        "last_name": "Potter",
+        "first_name": "Potter"
+      },
+      {
+        "openlibrary_id": "/authors/OL2797882A",
+        "last_name": "Mosby",
+        "first_name": "Mosby"
+      },
+      {
+        "openlibrary_id": "/authors/OL3259038A",
+        "last_name": "McCance",
+        "first_name": "Kathryn"
+      },
+      {
+        "openlibrary_id": "/authors/OL27349A",
+        "last_name": "Scott Fitzgerald",
+        "first_name": "F."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461987M",
+    "title": "EZ ECG Video and Booklet",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2001,
+    "subject": "Cardiovascular medicine",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 108,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2015-06-13",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2797882A",
+        "last_name": "Mosby",
+        "first_name": "Mosby"
+      },
+      {
+        "openlibrary_id": "/authors/OL3357545A",
+        "last_name": "Tait",
+        "first_name": "Cindy"
+      },
+      {
+        "openlibrary_id": "/authors/OL2629426A",
+        "last_name": "Goldman",
+        "first_name": "Goldman"
+      },
+      {
+        "openlibrary_id": "/authors/OL509227A",
+        "last_name": "J. Huszar",
+        "first_name": "Robert"
+      },
+      {
+        "openlibrary_id": "/authors/OL3438085A",
+        "last_name": "N. Chale",
+        "first_name": "Stuart"
+      },
+      {
+        "openlibrary_id": "/authors/OL2796456A",
+        "last_name": "R. Stapleton",
+        "first_name": "Edward"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461988M",
+    "title": "Masters in Arthroscopy",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2001,
+    "subject": "Orthopaedics & fractures",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2013-03-24",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3438086A",
+        "last_name": "G. Poehling",
+        "first_name": "Gary"
+      },
+      {
+        "openlibrary_id": "/authors/OL587165A",
+        "last_name": "S. Burkhart",
+        "first_name": "Stephen"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461989M",
+    "title": "Electronic Slide Set for Principles of Physiology",
+    "city": null,
+    "publisher": "C.V. Mosby",
+    "year": 2001,
+    "subject": "Physiology",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2012-07-11",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2793214A",
+        "last_name": "N. Levy",
+        "first_name": "Matthew"
+      },
+      {
+        "openlibrary_id": "/authors/OL536933A",
+        "last_name": "M. Berne",
+        "first_name": "Robert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1046198M",
+    "title": "Biographische Unsicherheit",
+    "city": "Opladen",
+    "publisher": "Leske + Budrich",
+    "year": 1993,
+    "subject": "Women -- Psychology.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 362,
+    "lang": "ger",
+    "days_keep_count": 10,
+    "adding_date": "2012-09-30",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL561172A",
+        "last_name": "Wohlrab-Sahr",
+        "first_name": "Monika"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461990M",
+    "title": "Foundations of Mental Health Care",
+    "city": null,
+    "publisher": "Mosby International",
+    "year": 2001,
+    "subject": "Psychiatric nursing",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2012-08-07",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2757306A",
+        "last_name": "Morrison",
+        "first_name": "Morrison"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461991M",
+    "title": "Study Guide to Accompany The Human Body in Health & Disease",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2001,
+    "subject": "Anatomy",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 396,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2007-12-18",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL52020A",
+        "last_name": "A. Thibodeau",
+        "first_name": "Gary"
+      },
+      {
+        "openlibrary_id": "/authors/OL2848137A",
+        "last_name": "Swisher",
+        "first_name": "Linda"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461992M",
+    "title": "Cancer Prevention and Early Diagnosis in Women (Cancer Prevention & Early Diagnosis in Women)",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2003,
+    "subject": "Medical",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 620,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2006-12-23",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3438087A",
+        "last_name": "Manetta",
+        "first_name": "Alberto"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461993M",
+    "title": "Mosby's Nursing Skills",
+    "city": null,
+    "publisher": "C.V. Mosby",
+    "year": 2001,
+    "subject": "Nursing",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2011-10-24",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2798975A",
+        "last_name": "A. Potter",
+        "first_name": "Patricia"
+      },
+      {
+        "openlibrary_id": "/authors/OL54961A",
+        "last_name": "Griffin Perry",
+        "first_name": "Anne"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461994M",
+    "title": "Mosby's Nursing Skills",
+    "city": null,
+    "publisher": "C.V. Mosby",
+    "year": 2001,
+    "subject": "Nursing",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2012-01-07",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2798975A",
+        "last_name": "A. Potter",
+        "first_name": "Patricia"
+      },
+      {
+        "openlibrary_id": "/authors/OL54961A",
+        "last_name": "Griffin Perry",
+        "first_name": "Anne"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461995M",
+    "title": "Mosby's Nursing Skills",
+    "city": null,
+    "publisher": "C.V. Mosby",
+    "year": 2001,
+    "subject": "Nursing",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2009-06-01",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2798975A",
+        "last_name": "A. Potter",
+        "first_name": "Patricia"
+      },
+      {
+        "openlibrary_id": "/authors/OL54961A",
+        "last_name": "Griffin Perry",
+        "first_name": "Anne"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461996M",
+    "title": "Bathing (Mosby's Nursing Skills Videos)",
+    "city": null,
+    "publisher": "C.V. Mosby",
+    "year": 2001,
+    "subject": "Nursing",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2006-03-03",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2798975A",
+        "last_name": "A. Potter",
+        "first_name": "Patricia"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461997M",
+    "title": "Personal Hygiene And Grooming (Mosby's Nursing Skills Videos)",
+    "city": null,
+    "publisher": "C.V. Mosby",
+    "year": 2001,
+    "subject": "Hygiene",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2008-12-29",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2798975A",
+        "last_name": "A. Potter",
+        "first_name": "Patricia"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461998M",
+    "title": "Preventing And Treating Pressure Ulcers (Mosby's Nursing Skills Videos)",
+    "city": null,
+    "publisher": "C.V. Mosby",
+    "year": 2001,
+    "subject": "Nursing",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2002-04-25",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2798975A",
+        "last_name": "A. Potter",
+        "first_name": "Patricia"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461999M",
+    "title": "Mosby's Nursing Assistant Skills :basic Principles",
+    "city": null,
+    "publisher": "C.V. Mosby",
+    "year": 2001,
+    "subject": "Nursing Home Care",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2012-03-09",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL78791A",
+        "last_name": "A. Sorrentino",
+        "first_name": "Sheila"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1046199M",
+    "title": "Proza polska w kręgu religijnych inspiracji",
+    "city": "Lublin",
+    "publisher": "Tow. Nauk. Katolickiego Uniwersytetu Lubelskiego",
+    "year": 1993,
+    "subject": "Polish prose literature -- History and criticism.",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 422,
+    "lang": "pol",
+    "days_keep_count": 100,
+    "adding_date": "2003-12-08",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1329326A",
+        "last_name": "L. Dentakēs",
+        "first_name": "Vasileios"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL104619M",
+    "title": "Hoi, ġilġos daġrublulo cʻao",
+    "city": "Tʻbilisi",
+    "publisher": "Mceraltʻa damoukidebeli asocʻiacʻia \"Gulanis\" gamomcʻemloba",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 125,
+    "lang": "geo",
+    "days_keep_count": 50,
+    "adding_date": "2003-03-27",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL70175A",
+        "last_name": "Gabriel.",
+        "first_name": "Jabušanuri"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10461M",
+    "title": "Si  Didi anak petani.",
+    "city": "[Djakarta]",
+    "publisher": "Jajasan Kebudajaan Sadar",
+    "year": 1964,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 40,
+    "lang": "ind",
+    "days_keep_count": 200,
+    "adding_date": "2016-04-04",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL7356A",
+        "last_name": "Budiman",
+        "first_name": "Kuslan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462000M",
+    "title": "Mosby's Nursing Assistant Skills",
+    "city": null,
+    "publisher": "C.V. Mosby",
+    "year": 2001,
+    "subject": "Nursing Home Care",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2004-12-01",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL78791A",
+        "last_name": "A. Sorrentino",
+        "first_name": "Sheila"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462001M",
+    "title": "Mosby's Nursing Assistant Skills",
+    "city": null,
+    "publisher": "C.V. Mosby",
+    "year": 2001,
+    "subject": "Nursing Home Care",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2009-08-23",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL78791A",
+        "last_name": "A. Sorrentino",
+        "first_name": "Sheila"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462002M",
+    "title": "Mosby's Nursing Assistant Skills",
+    "city": null,
+    "publisher": "C.V. Mosby",
+    "year": 2001,
+    "subject": "Nursing Home Care",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2009-06-19",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL78791A",
+        "last_name": "A. Sorrentino",
+        "first_name": "Sheila"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462003M",
+    "title": "Mosby's Nursing Assistant Skills",
+    "city": null,
+    "publisher": "C.V. Mosby",
+    "year": 2001,
+    "subject": "Nursing Home Care",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2002-04-25",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL78791A",
+        "last_name": "A. Sorrentino",
+        "first_name": "Sheila"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462004M",
+    "title": "Mosby's Nursing Skills Videos, Intermediate Skills Set (Mosby's Nursing Skills Video)",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2002,
+    "subject": "Nursing",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2011-03-20",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2798975A",
+        "last_name": "A. Potter",
+        "first_name": "Patricia"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462005M",
+    "title": "Vascular Access",
+    "city": null,
+    "publisher": "C.V. Mosby",
+    "year": 2002,
+    "subject": "Nursing",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2006-08-10",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2798975A",
+        "last_name": "A. Potter",
+        "first_name": "Patricia"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462006M",
+    "title": "Mosby's Curriculum Guide for Massage Therapy",
+    "city": null,
+    "publisher": "Mosby-Year Book",
+    "year": 2000,
+    "subject": "Complementary Medicine",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 75,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2002-01-30",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL222621A",
+        "last_name": "Fritz",
+        "first_name": "Sandy"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462007M",
+    "title": "Survival Strategies For Nurses in Managed Care",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2002,
+    "subject": "Nursing Practice",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 512,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2014-02-09",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL64625A",
+        "last_name": "G. Cesta",
+        "first_name": "Toni"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462008M",
+    "title": "Ocular Pathology",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2002,
+    "subject": "Reference works",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 761,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2002-07-23",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL949053A",
+        "last_name": "Yanoff",
+        "first_name": "Myron"
+      },
+      {
+        "openlibrary_id": "/authors/OL1861228A",
+        "last_name": "S. Fine",
+        "first_name": "Ben"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462009M",
+    "title": "Ocular Patholog (CD-ROM)",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2002,
+    "subject": "Pathology",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2004-05-24",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL949053A",
+        "last_name": "Yanoff",
+        "first_name": "Myron"
+      },
+      {
+        "openlibrary_id": "/authors/OL1861228A",
+        "last_name": "S. Fine",
+        "first_name": "Ben"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1046200M",
+    "title": "The clausal theory of types",
+    "city": "Cambridge",
+    "publisher": "Cambridge University Press",
+    "year": 1993,
+    "subject": "Logic programming.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 124,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2012-05-09",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL561173A",
+        "last_name": "A. Wolfram",
+        "first_name": "D."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462010M",
+    "title": "Ocular Pathology - Text and CD-ROM Package",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2002,
+    "subject": "Pathology",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 768,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2016-01-13",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL949053A",
+        "last_name": "Yanoff",
+        "first_name": "Myron"
+      },
+      {
+        "openlibrary_id": "/authors/OL1861228A",
+        "last_name": "S. Fine",
+        "first_name": "Ben"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462011M",
+    "title": "Perry: Clinical Skills and Techniques",
+    "city": null,
+    "publisher": "Mosby International",
+    "year": 2001,
+    "subject": "Midwifery",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2006-03-24",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3438088A",
+        "last_name": "A. Castaldi Castaldi",
+        "first_name": "Patricia"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462012M",
+    "title": "Electronic Slide Set To Accompany Mosby's Paramedic Textbook",
+    "city": null,
+    "publisher": "Mosby-Year Book",
+    "year": 2004,
+    "subject": "Accident & emergency medicine",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2004-04-26",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL576689A",
+        "last_name": "J. Sanders",
+        "first_name": "Mick"
+      },
+      {
+        "openlibrary_id": "/authors/OL2640592A",
+        "last_name": "McKenna",
+        "first_name": "Kim"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462013M",
+    "title": "Cardiac Surgery",
+    "city": null,
+    "publisher": "C.V. Mosby",
+    "year": 2002,
+    "subject": "Cardiothoracic surgery",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 608,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2008-10-17",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL721567A",
+        "last_name": "C. Seifert",
+        "first_name": "Patricia"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462014M",
+    "title": "Workbook & Lab Manual T/A Radiographic Positioning & Related Anatomy Workbook and Laboratory Manual ",
+    "city": null,
+    "publisher": "C.V. Mosby",
+    "year": 2001,
+    "subject": "Anatomy",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 272,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2013-08-12",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3438089A",
+        "last_name": "L., Ma, Rt(R) Bontrager",
+        "first_name": "Kenneth"
+      },
+      {
+        "openlibrary_id": "/authors/OL3438090A",
+        "last_name": "P., M.Ed., Rt(R)(Ct) Lampignano",
+        "first_name": "John"
+      },
+      {
+        "openlibrary_id": "/authors/OL3266642A",
+        "last_name": "Bontrager",
+        "first_name": "Kenneth"
+      },
+      {
+        "openlibrary_id": "/authors/OL3266643A",
+        "last_name": "Lampignano",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462015M",
+    "title": "Workbook & Lab Manual T/A Radiographic Positioning & Related Anatomy Workbook and Laboratory Manual ",
+    "city": null,
+    "publisher": "C.V. Mosby",
+    "year": 2001,
+    "subject": "Anatomy",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 256,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2002-08-01",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3438091A",
+        "last_name": "L. Bontrager",
+        "first_name": "Kelleth"
+      },
+      {
+        "openlibrary_id": "/authors/OL3266642A",
+        "last_name": "Bontrager",
+        "first_name": "Kenneth"
+      },
+      {
+        "openlibrary_id": "/authors/OL3266643A",
+        "last_name": "Lampignano",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462016M",
+    "title": "Introduction to Radiologic Techecnology",
+    "city": null,
+    "publisher": "Mosby International",
+    "year": 2001,
+    "subject": "Radiography",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2012-10-11",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3438092A",
+        "last_name": "Gurley",
+        "first_name": "Gurley"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462017M",
+    "title": "Medical Terminology Online to Accompany Exploring Medical Language by Myrna LaFleur-Brooks (Book wit",
+    "city": null,
+    "publisher": "C.V. Mosby",
+    "year": 2002,
+    "subject": "Medicine",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 748,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2007-12-21",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2796248A",
+        "last_name": "LaFleur Brooks",
+        "first_name": "Myrna"
+      },
+      {
+        "openlibrary_id": "/authors/OL3438094A",
+        "last_name": "Health Sciences",
+        "first_name": "Harcourt"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462018M",
+    "title": "Mosby's 2002 Nursing Drug Cards",
+    "city": null,
+    "publisher": "C.V. Mosby",
+    "year": 2001,
+    "subject": "Nursing Pharmacology",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 480,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2012-12-11",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1247860A",
+        "last_name": "A. Albanese",
+        "first_name": "Joseph"
+      },
+      {
+        "openlibrary_id": "/authors/OL3265293A",
+        "last_name": "A. Nutz",
+        "first_name": "Patricia"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462019M",
+    "title": "Maternal Newborn Nursing Care Plans",
+    "city": null,
+    "publisher": "C.V. Mosby",
+    "year": 2003,
+    "subject": "Midwifery",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 640,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2001-09-13",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3255503A",
+        "last_name": "J. Green",
+        "first_name": "Carol"
+      },
+      {
+        "openlibrary_id": "/authors/OL451483A",
+        "last_name": "M. Wilkinson",
+        "first_name": "Judith"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1046201M",
+    "title": "Peculiar zoo",
+    "city": "Silver Spring, MD",
+    "publisher": "Rainbow Morning Music",
+    "year": 1993,
+    "subject": "Animals -- Juvenile poetry",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2012-11-27",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL552666A",
+        "last_name": "Louis Polisar",
+        "first_name": "Barry"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462020M",
+    "title": "PHTLS",
+    "city": null,
+    "publisher": "Elsevier Health Sciences",
+    "year": 2002,
+    "subject": "First aid & paramedical services",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 424,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2006-12-10",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3336877A",
+        "last_name": "Naemt",
+        "first_name": "Naemt"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462021M",
+    "title": "Mosby's Drug Guide for Nurses",
+    "city": null,
+    "publisher": "Mosby Publication",
+    "year": 2002,
+    "subject": "Nursing Pharmacology",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 1472,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2002-12-22",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1190127A",
+        "last_name": "Skidmore-Roth",
+        "first_name": "Linda"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462022M",
+    "title": "Clinical Nursing Skills & Techniques",
+    "city": null,
+    "publisher": "W.B. Saunders Company",
+    "year": 2001,
+    "subject": "Nursing - Fundamentals & Skills",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 1790,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2016-07-26",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL54961A",
+        "last_name": "Griffin Perry",
+        "first_name": "Anne"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462023M",
+    "title": "Textbook of Diagnostic Ultrasonography",
+    "city": null,
+    "publisher": "Mosby International",
+    "year": 2001,
+    "subject": "Radiography",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2012-07-12",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3438095A",
+        "last_name": "Hagen-Ansert",
+        "first_name": "Hagen-Ansert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462024M",
+    "title": "2000 Yearbook of Critical Care Medicine",
+    "city": null,
+    "publisher": "Mosby International",
+    "year": 2000,
+    "subject": "Yearbooks, annuals, almanacs",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 500,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2002-05-09",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3438096A",
+        "last_name": "Parillo",
+        "first_name": "Parillo"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462025M",
+    "title": "Yearbook of Dentistry 2000",
+    "city": null,
+    "publisher": "Year Book Medical Pub",
+    "year": 2000,
+    "subject": "Dentistry / oral & maxillofacial medicine",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2009-04-26",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3438097A",
+        "last_name": "H. Meskin",
+        "first_name": "Lawrence"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462026M",
+    "title": "Yearbook of Endocrinology 2000",
+    "city": null,
+    "publisher": "Mosby-Year Book",
+    "year": 2001,
+    "subject": "Yearbooks, annuals, almanacs",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 450,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2005-12-05",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2848165A",
+        "last_name": "D. Bagdade",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462027M",
+    "title": "2000 Yearbook of Gastroenterology",
+    "city": null,
+    "publisher": "Mosby International",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 330,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2009-03-10",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3438098A",
+        "last_name": "Aliperti",
+        "first_name": "Aliperti"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462028M",
+    "title": "Yearbook of Nuclear Medicine 2000",
+    "city": null,
+    "publisher": "Mosby-Year Book",
+    "year": 2001,
+    "subject": "Nuclear Medicine",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2003-11-09",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2001673A",
+        "last_name": "Gottschalk",
+        "first_name": "Alexander"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462029M",
+    "title": "The Yearbook of Oncology 2000",
+    "city": null,
+    "publisher": "Mosby-Year Book",
+    "year": 2001,
+    "subject": "Yearbooks, annuals, almanacs",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 450,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2002-12-16",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1046673A",
+        "last_name": "F. Ozols",
+        "first_name": "Robert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1046202M",
+    "title": "La contraportada del deseo",
+    "city": "[Ecuador?",
+    "publisher": "s.n.]",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 117,
+    "lang": "spa",
+    "days_keep_count": 50,
+    "adding_date": "2000-05-05",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL280377A",
+        "last_name": "Argentina Chiriboga",
+        "first_name": "Luz"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462030M",
+    "title": "2000 Yearbook of Nephrology",
+    "city": null,
+    "publisher": "Mosby International",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 400,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2001-03-04",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3438099A",
+        "last_name": "J. et al Schwab",
+        "first_name": "Steve"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462031M",
+    "title": "2000 Yearbook of Emergency Medicine",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2000,
+    "subject": "Accident & emergency medicine",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 500,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2004-02-25",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2625511A",
+        "last_name": "Wagner",
+        "first_name": "Wagner"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462032M",
+    "title": "The Yearbook of Oncology 2001",
+    "city": null,
+    "publisher": "Mosby-Year Book",
+    "year": 2001,
+    "subject": "Yearbooks, annuals, almanacs",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2013-06-11",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1046673A",
+        "last_name": "F. Ozols",
+        "first_name": "Robert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462033M",
+    "title": "The Yearbook of Oncology 2002",
+    "city": null,
+    "publisher": "Mosby-Year Book",
+    "year": 2002,
+    "subject": "Yearbooks, annuals, almanacs",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2014-09-15",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1046673A",
+        "last_name": "F. Ozols",
+        "first_name": "Robert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462034M",
+    "title": "Yearbook Of Endocrinology 2001",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2001,
+    "subject": "Yearbooks, annuals, almanacs",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 475,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2003-09-11",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1708038A",
+        "last_name": "L. Mazzaferri",
+        "first_name": "Ernest"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462035M",
+    "title": "Yearbook of Endocrinology 2002",
+    "city": null,
+    "publisher": "Mosby-Year Book",
+    "year": 2002,
+    "subject": "Endocrinology",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2015-05-06",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2848165A",
+        "last_name": "D. Bagdade",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462036M",
+    "title": "The Yearbook of Pulmonary Disease 2001",
+    "city": null,
+    "publisher": "Mosby-Year Book",
+    "year": 2001,
+    "subject": "Respiratory medicine",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2005-11-04",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3438101A",
+        "last_name": "R. Jett",
+        "first_name": "James"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462037M",
+    "title": "The Yearbook of Pulmonary Disease 2002",
+    "city": null,
+    "publisher": "Mosby-Year Book",
+    "year": 2002,
+    "subject": "Respiratory medicine",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2012-06-10",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3438101A",
+        "last_name": "R. Jett",
+        "first_name": "James"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462038M",
+    "title": "2001 Yearbook of Critical Care Medicine",
+    "city": null,
+    "publisher": "Mosby International",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2008-06-02",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2897716A",
+        "last_name": "Dellinger",
+        "first_name": "Dellinger"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462039M",
+    "title": "2002 Year Book of Critical Care Medicine",
+    "city": null,
+    "publisher": "Mosby International",
+    "year": 2002,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 350,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2000-05-08",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2897716A",
+        "last_name": "Dellinger",
+        "first_name": "Dellinger"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1046203M",
+    "title": "Ego",
+    "city": "[New York?",
+    "publisher": "Francisco Morales-Zamorano",
+    "year": 1991,
+    "subject": "Artist's books -- New York (State) -- New York.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 13,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2015-03-08",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL289468A",
+        "last_name": "Morales-Zamorano",
+        "first_name": "Francisco"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462040M",
+    "title": "2001 Year Book of Rheumatology, Arthritis and Musculoskeletal Disease",
+    "city": null,
+    "publisher": "Mosby International",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 440,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2001-09-18",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3438102A",
+        "last_name": "Panush",
+        "first_name": "Panush"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462041M",
+    "title": "2002 Year Book of Rheumatology, Arthritis, and Musculoskeletal Disease",
+    "city": null,
+    "publisher": "Mosby International",
+    "year": 2002,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 434,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2009-04-09",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3438103A",
+        "last_name": "S. Panush",
+        "first_name": "Richard"
+      },
+      {
+        "openlibrary_id": "/authors/OL241310A",
+        "last_name": "M. Hadler",
+        "first_name": "Nortin"
+      },
+      {
+        "openlibrary_id": "/authors/OL2637741A",
+        "last_name": "B. Hellmann",
+        "first_name": "David"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462042M",
+    "title": "Year Book of Rheumatology, Arthritis, and Musculoskeletal Disease (Year Books)",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2003,
+    "subject": "Yearbooks, annuals, almanacs",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2003-05-21",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3438103A",
+        "last_name": "S. Panush",
+        "first_name": "Richard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462043M",
+    "title": "Year Book of Rheumatology, Arthritis, and Musculoskeletal Disease (Year Books)",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2004,
+    "subject": "Yearbooks, annuals, almanacs",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 370,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2010-10-07",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3438103A",
+        "last_name": "S. Panush",
+        "first_name": "Richard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462044M",
+    "title": "Year Book of Family Practice, 2003",
+    "city": null,
+    "publisher": "Mosby-Year Book",
+    "year": 2003,
+    "subject": "General practice",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2013-12-24",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL885552A",
+        "last_name": "A. Bowman",
+        "first_name": "Marjorie"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462045M",
+    "title": "Year Book of Critical Medicine, 2003",
+    "city": null,
+    "publisher": "Mosby-Year Book",
+    "year": 2003,
+    "subject": "Accident & emergency medicine",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 350,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2001-05-23",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3438083A",
+        "last_name": "Phillip Dellinger",
+        "first_name": "R."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462046M",
+    "title": "Advances In Pediatrics, Volume 48 (Advances in Pediatrics)",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2001,
+    "subject": "Paediatric medicine",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 498,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2007-04-01",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1655352A",
+        "last_name": "A. Barness",
+        "first_name": "Lewis"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462047M",
+    "title": "Advances in Pediatrics. Volume 50",
+    "city": null,
+    "publisher": "Mosby-Year Book",
+    "year": 2003,
+    "subject": "Paediatric medicine",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 350,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2010-06-22",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1655352A",
+        "last_name": "A. Barness",
+        "first_name": "Lewis"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462048M",
+    "title": "Advances in Surgery",
+    "city": null,
+    "publisher": "Mosby-Year Book",
+    "year": 2001,
+    "subject": "General surgery",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 350,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2004-02-29",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL711906A",
+        "last_name": "L. Cameron",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462049M",
+    "title": "Advances in Surgery 2003",
+    "city": null,
+    "publisher": "Mosby-Year Book",
+    "year": 2003,
+    "subject": "Surgery",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2002-09-02",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL711906A",
+        "last_name": "L. Cameron",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1046204M",
+    "title": "Iz-pod glyb",
+    "city": "Moskva",
+    "publisher": "\"Russkai͡a︡ kniga\"",
+    "year": 1992,
+    "subject": "Civilization, Modern -- 1950-",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 287,
+    "lang": "rus",
+    "days_keep_count": 50,
+    "adding_date": "2003-09-17",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1213713A",
+        "last_name": "I͡A︡ Libson",
+        "first_name": "V."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462050M",
+    "title": "Yearbook of Gastroenterology 2001",
+    "city": null,
+    "publisher": "Mosby International",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2016-05-07",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2947290A",
+        "last_name": "Lichtenstein",
+        "first_name": "Lichtenstein"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462051M",
+    "title": "Advances in Anesthesia. Volume 21",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2003,
+    "subject": "Anesthesiology",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 428,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2012-11-14",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1057472A",
+        "last_name": "I. Bilʹko",
+        "first_name": "M."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462052M",
+    "title": "Advances in Dermatology",
+    "city": null,
+    "publisher": "Mosby-Year Book",
+    "year": 2001,
+    "subject": "Dermatology",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2003-09-22",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1436819A",
+        "last_name": "D. James",
+        "first_name": "William"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462053M",
+    "title": "Advances in Dermatology",
+    "city": null,
+    "publisher": "Mosby-Year Book",
+    "year": 2002,
+    "subject": "Dermatology",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2002-02-03",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3438106A",
+        "last_name": "Yadr",
+        "first_name": "Yadr"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462054M",
+    "title": "Advances in Dermatology, Vol. 19 (Advances in Dermatology)",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2003,
+    "subject": "Medical / Dermatology",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 291,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2006-03-19",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3438107A",
+        "last_name": "James",
+        "first_name": "William"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462055M",
+    "title": "Advances in Internal Medicine",
+    "city": null,
+    "publisher": "Mosby-Year Book",
+    "year": 2001,
+    "subject": "Clinical & Internal Medicine",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2003-05-10",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3247785A",
+        "last_name": "W. Schrier",
+        "first_name": "Robert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462056M",
+    "title": "Year Book of Gastroenterology",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2003,
+    "subject": "Yearbooks, annuals, almanacs",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2006-08-23",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3438108A",
+        "last_name": "R., Md. Lichtenstein",
+        "first_name": "Gary"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462057M",
+    "title": "2001 Yearbook of Cardiology",
+    "city": null,
+    "publisher": "Mosby International",
+    "year": 2001,
+    "subject": "Yearbooks, annuals, almanacs",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2010-05-19",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1868226A",
+        "last_name": "C. Schlant",
+        "first_name": "Robert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462058M",
+    "title": "Year Book of Dentistry, 2001",
+    "city": null,
+    "publisher": "Mosby-Year Book",
+    "year": 2002,
+    "subject": "Dentistry / oral & maxillofacial medicine",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2000-07-05",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3438097A",
+        "last_name": "H. Meskin",
+        "first_name": "Lawrence"
+      },
+      {
+        "openlibrary_id": "/authors/OL3438110A",
+        "last_name": "N. Dederich",
+        "first_name": "Douglas"
+      },
+      {
+        "openlibrary_id": "/authors/OL3438111A",
+        "last_name": "A. Boghosian",
+        "first_name": "Alan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462059M",
+    "title": "Yearbook of Hand Surgery 2001",
+    "city": null,
+    "publisher": "Mosby-Year Book",
+    "year": 2001,
+    "subject": "Orthopaedics & fractures",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2012-06-09",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3324309A",
+        "last_name": "C. Amadio",
+        "first_name": "Peter"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1046205M",
+    "title": "Dirigenza pubblica e innovazione amministrativa",
+    "city": "Rimini",
+    "publisher": "Maggioli",
+    "year": 1992,
+    "subject": "Public administration -- Italy -- Congresses.",
+    "genre": "Congresses.",
+    "periodic_release": 1,
+    "page_count": 236,
+    "lang": "ita",
+    "days_keep_count": 50,
+    "adding_date": "2013-10-21",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL126742A",
+        "last_name": "Olsen Cavin",
+        "first_name": "Gudrun"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462060M",
+    "title": "Yearbook of Medicine 2001",
+    "city": null,
+    "publisher": "Mosby-Year Book",
+    "year": 2001,
+    "subject": "Clinical & Internal Medicine",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 500,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2001-10-24",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1755960A",
+        "last_name": "J. Cline",
+        "first_name": "Martin"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462061M",
+    "title": "2001 Yearbook of Neonatal and Perinatal Medicine",
+    "city": null,
+    "publisher": "Mosby International",
+    "year": 2001,
+    "subject": "Yearbooks, annuals, almanacs",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 448,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2004-07-26",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3438061A",
+        "last_name": "Fanaroff",
+        "first_name": "Fanaroff"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462062M",
+    "title": "Yearbook of Nuclear Medicine 2001",
+    "city": null,
+    "publisher": "Mosby-Year Book",
+    "year": 2001,
+    "subject": "Yearbooks, annuals, almanacs",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2005-09-29",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2001673A",
+        "last_name": "Gottschalk",
+        "first_name": "Alexander"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462063M",
+    "title": "2001 Year Book of Pathology and Laboratory Medicine",
+    "city": null,
+    "publisher": "Mosby-Year Book",
+    "year": 2001,
+    "subject": "Yearbooks, annuals, almanacs",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 490,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2000-01-26",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1345071A",
+        "last_name": "Bouton",
+        "first_name": "Bobbie"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462064M",
+    "title": "The Yearbook of Surgery 2001",
+    "city": null,
+    "publisher": "Mosby-Year Book",
+    "year": 2001,
+    "subject": "General surgery",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 624,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2008-01-13",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1816746A",
+        "last_name": "M. Copeland",
+        "first_name": "Edward"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462065M",
+    "title": "The Yearbook of Urology 2001 (Year Book of Urology)",
+    "city": null,
+    "publisher": "Mosby-Year Book",
+    "year": 2001,
+    "subject": "Urology & urogenital medicine",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2007-04-30",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1323542A",
+        "last_name": "Halley",
+        "first_name": "Edmond"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462066M",
+    "title": "Year Book of Nuclear Medicine 2002 (YEARBOOK OF NUCLEAR MEDICINE)",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2002,
+    "subject": "Nuclear Medicine",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 397,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2006-01-26",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2001673A",
+        "last_name": "Gottschalk",
+        "first_name": "Alexander"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462067M",
+    "title": "The Yearbook of Surgery 2002",
+    "city": null,
+    "publisher": "Mosby-Year Book",
+    "year": 2002,
+    "subject": "General surgery",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2005-02-21",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1816746A",
+        "last_name": "M. Copeland",
+        "first_name": "Edward"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462068M",
+    "title": "Year Book of Surgery (Year Books)",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2003,
+    "subject": "General surgery",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2000-10-29",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1816746A",
+        "last_name": "M. Copeland",
+        "first_name": "Edward"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462069M",
+    "title": "The Yearbook of Dentistry 2002 (Year Book of Dentistry)",
+    "city": null,
+    "publisher": "Mosby-Year Book",
+    "year": 2002,
+    "subject": "Dentistry / oral & maxillofacial medicine",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2016-09-13",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1083866A",
+        "last_name": "Thomas M.",
+        "first_name": "Scott,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1046206M",
+    "title": "Elkallódni megkerülni",
+    "city": "Veszprém",
+    "publisher": "Országos Továbbkéző, Taneszközfejlesztő és Értékesítő Vállalat",
+    "year": 1992,
+    "subject": "Hungarian language -- Versification.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 372,
+    "lang": "hun",
+    "days_keep_count": 10,
+    "adding_date": "2003-12-25",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL561174A",
+        "last_name": "S. Petőfi",
+        "first_name": "János"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462070M",
+    "title": "The Yearbook of Hand Surgery 2002 (Year Book of Hand Surgery)",
+    "city": null,
+    "publisher": "Mosby-Year Book",
+    "year": 2002,
+    "subject": "Orthopaedics & fractures",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2001-09-30",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1304583A",
+        "last_name": "Kim",
+        "first_name": "Soun"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462071M",
+    "title": "Year Book of Cardiology, 2002",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2002,
+    "subject": "Cardiovascular medicine",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 405,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2007-06-10",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1868226A",
+        "last_name": "C. Schlant",
+        "first_name": "Robert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462072M",
+    "title": "Year Book of Cardiology (Year Books)",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2003,
+    "subject": "Cardiovascular medicine",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2011-03-18",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2692167A",
+        "last_name": "J. Gersh",
+        "first_name": "Bernard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462073M",
+    "title": "Year Book of Hand Surgery (Year Books)",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2003,
+    "subject": "Orthopaedics & fractures",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 324,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2010-06-05",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1022724A",
+        "last_name": "Casanovas Sainz",
+        "first_name": "Roberto"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462074M",
+    "title": "Yearbook of Plastic, Reconstructive, and Aesthetic Surgery 2002",
+    "city": null,
+    "publisher": "Mosby-Year Book",
+    "year": 2002,
+    "subject": "Plastic & reconstructive surgery",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 350,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2003-01-25",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1350048A",
+        "last_name": "H. Miller",
+        "first_name": "Stephen"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462075M",
+    "title": "The Yearbook of Orthopedics 2002",
+    "city": null,
+    "publisher": "Mosby-Year Book",
+    "year": 2002,
+    "subject": "Orthopaedics & fractures",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2007-05-29",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2848166A",
+        "last_name": "F., M.D. Morrey",
+        "first_name": "Bernard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462076M",
+    "title": "Year Book of Orthopedics",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2003,
+    "subject": "Orthopaedics & fractures",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2012-11-08",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3438114A",
+        "last_name": "F., MD Morrey",
+        "first_name": "Bernard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462077M",
+    "title": "Year Book of Allergy, Asthma & Clinical Immunology, 2002",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2003,
+    "subject": "Allergies",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2015-03-30",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2979927A",
+        "last_name": "J. Rosenwasser",
+        "first_name": "Lanny"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462078M",
+    "title": "The Yearbook of Anesthesiology and Pain Management",
+    "city": null,
+    "publisher": "Mosby-Year Book",
+    "year": 2002,
+    "subject": "Pain & pain management",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 340,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2009-05-23",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1103198A",
+        "last_name": "Tronquart",
+        "first_name": "Emmanuel"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462079M",
+    "title": "Yearbook of Diagnostic Radiology 2002",
+    "city": null,
+    "publisher": "Mosby-Year Book",
+    "year": 2002,
+    "subject": "Medical diagnosis",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2014-10-24",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL235369A",
+        "last_name": "G. Osborn",
+        "first_name": "Anne"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1046207M",
+    "title": "Don Quijote de la Mancha",
+    "city": "Nueva York",
+    "publisher": "Francisco Morales-Zamorano",
+    "year": 1993,
+    "subject": "Cervantes Saavedra, Miguel de, 1547-1616.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 31,
+    "lang": "spa",
+    "days_keep_count": 200,
+    "adding_date": "2002-03-01",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL289468A",
+        "last_name": "Morales-Zamorano",
+        "first_name": "Francisco"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462080M",
+    "title": "Year Book of Emergency Medicine 2002",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2002,
+    "subject": "Accident & emergency medicine",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 387,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2010-05-24",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3438116A",
+        "last_name": "P Burdick",
+        "first_name": "William"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462081M",
+    "title": "2002 Year Book of Neonatal and Perinatal Medicine",
+    "city": null,
+    "publisher": "Mosby International",
+    "year": 2002,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2006-01-03",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3326177A",
+        "last_name": "Fanaroff",
+        "first_name": "Avroy"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462082M",
+    "title": "The Yearbook of Ophthalmology 2002",
+    "city": null,
+    "publisher": "Mosby-Year Book",
+    "year": 2002,
+    "subject": "Yearbooks, annuals, almanacs",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 410,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2006-12-15",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL990105A",
+        "last_name": "P. Wilson",
+        "first_name": "Richard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462083M",
+    "title": "The Yearbook of Pathology and Laboratory Medicine 2002",
+    "city": null,
+    "publisher": "Mosby-Year Book",
+    "year": 2002,
+    "subject": "Yearbooks, annuals, almanacs",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 450,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2016-04-20",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2979924A",
+        "last_name": "S. Raab",
+        "first_name": "Stephen"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462084M",
+    "title": "The Yearbook of Pediatrics 2002",
+    "city": null,
+    "publisher": "Mosby-Year Book",
+    "year": 2002,
+    "subject": "Paediatric medicine",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 550,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2013-08-01",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL578532A",
+        "last_name": "A. Stockman",
+        "first_name": "James"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462085M",
+    "title": "Yearbook of Psychiatry and Applied Mental Health 2002 (Year Book of Psychiatry and Applied Mental He",
+    "city": null,
+    "publisher": "Mosby-Year Book",
+    "year": 2002,
+    "subject": "Psychiatry",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2011-11-22",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1809395A",
+        "last_name": "A. Talbott",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462086M",
+    "title": "Yearbook of Sports Medicine",
+    "city": null,
+    "publisher": "Not Avail",
+    "year": 2002,
+    "subject": "Sports injuries & medicine",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 368,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2000-03-07",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1197024A",
+        "last_name": "S. Brakhage",
+        "first_name": "Pamela"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462087M",
+    "title": "The Yearbook of Urology 2002",
+    "city": null,
+    "publisher": "Mosby-Year Book",
+    "year": 2002,
+    "subject": "Surgery",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2004-04-12",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3438117A",
+        "last_name": "L. Andriole",
+        "first_name": "Gerald"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462088M",
+    "title": "The Yearbook of Vascular Surgery, 2002",
+    "city": null,
+    "publisher": "Mosby-Year Book",
+    "year": 2002,
+    "subject": "Vascular Surgery",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2006-03-31",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2901995A",
+        "last_name": "M. Porter",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462089M",
+    "title": "Yearbook of Medicine 2002",
+    "city": null,
+    "publisher": "Mosby-Year Book",
+    "year": 2002,
+    "subject": "Medicine",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2011-01-07",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1755960A",
+        "last_name": "J. Cline",
+        "first_name": "Martin"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1046208M",
+    "title": "Le diable à quatre",
+    "city": "Paris",
+    "publisher": "Editions de Fallois",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 250,
+    "lang": "fre",
+    "days_keep_count": 30,
+    "adding_date": "2006-06-07",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL372965A",
+        "last_name": "Jakez Hélias",
+        "first_name": "Pierre"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462090M",
+    "title": "Year Book of Medicine (Year Books)",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2003,
+    "subject": "Medicine: General Issues",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2014-05-03",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1385179A",
+        "last_name": "Akademie der Künste (Berlin, Germany)",
+        "first_name": "Königliche"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462091M",
+    "title": "Year Book of Medicine (Year Books)",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2004,
+    "subject": "Medicine: General Issues",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 662,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2006-03-18",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1101177A",
+        "last_name": "Chavrŭkov",
+        "first_name": "Georgi"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462092M",
+    "title": "Year book of Anesthesiology and Pain Management 2003",
+    "city": null,
+    "publisher": "Mosby-Year Book",
+    "year": 2003,
+    "subject": "Cardiovascular medicine",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2004-10-10",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3438118A",
+        "last_name": "Chestnut",
+        "first_name": "D.H."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462093M",
+    "title": "Year Book of Ophthalmology (Year Books)",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2003,
+    "subject": "Yearbooks, annuals, almanacs",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2009-12-31",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2636198A",
+        "last_name": "J. Rapuano",
+        "first_name": "Christopher"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462094M",
+    "title": "Year Book Of Diagnostic Radiology 2003",
+    "city": null,
+    "publisher": "Mosby-Year Book",
+    "year": 2003,
+    "subject": "Yearbooks, annuals, almanacs",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2008-10-03",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL235369A",
+        "last_name": "G. Osborn",
+        "first_name": "Anne"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462095M",
+    "title": "Year Book of Pediatrics (Year Books)",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2003,
+    "subject": "Paediatric medicine",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 579,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2015-08-09",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL578532A",
+        "last_name": "A. Stockman",
+        "first_name": "James"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462096M",
+    "title": "Year Book of Pediatrics (Year Books)",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2003,
+    "subject": "Paediatric medicine",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 550,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2014-04-12",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL578532A",
+        "last_name": "A. Stockman",
+        "first_name": "James"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462097M",
+    "title": "Year Book of Obstetrics, Gynecology, and Women's Health (Year Books)",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2003,
+    "subject": "Gynaecology & obstetrics",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 622,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2006-07-27",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1260085A",
+        "last_name": "De Voe",
+        "first_name": "Ralph"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462098M",
+    "title": "Year Book of Psychiatry and Applied Mental Health (Year Books)",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2003,
+    "subject": "Mental health services",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2013-07-10",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1809395A",
+        "last_name": "A. Talbott",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462099M",
+    "title": "Year Book of Pathology and Laboratory Medicine (Year Books)",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2003,
+    "subject": "Yearbooks, annuals, almanacs",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2009-10-22",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1456976A",
+        "last_name": "Romo",
+        "first_name": "Ricardo"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1046209M",
+    "title": "Ich-Nicht-Gewicht",
+    "city": "Essen",
+    "publisher": "Verlag Die Blaue Eule",
+    "year": 1993,
+    "subject": "Values.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 199,
+    "lang": "ger",
+    "days_keep_count": 100,
+    "adding_date": "2011-01-26",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL438905A",
+        "last_name": "Muhr",
+        "first_name": "Dieter"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL104620M",
+    "title": "Qazaqtyn͡g︡ salt-dăstu̇lerī men ădet-ghūryptary",
+    "city": "Almaty",
+    "publisher": "\"Ana tīlī\"",
+    "year": 1994,
+    "subject": "Kazakhs -- Social life and customs.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 79,
+    "lang": "kaz",
+    "days_keep_count": 10,
+    "adding_date": "2014-01-15",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL70176A",
+        "last_name": "Kenzheakhmetov",
+        "first_name": "Seĭīt"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462100M",
+    "title": "Year Book of Critical Care Medicine (Year Books)",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2004,
+    "subject": "Intensive care medicine",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 390,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2000-09-12",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1282501A",
+        "last_name": "Hannus-Gullmets",
+        "first_name": "Britta"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462101M",
+    "title": "Year Book of Endocrinology",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2003,
+    "subject": "Endocrinology",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2004-09-28",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1708038A",
+        "last_name": "L. Mazzaferri",
+        "first_name": "Ernest"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462102M",
+    "title": "Year Book of Endocrinology (Year Books)",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2004,
+    "subject": "Endocrinology",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 430,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2004-11-16",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1708038A",
+        "last_name": "L. Mazzaferri",
+        "first_name": "Ernest"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462103M",
+    "title": "Year Book of Endocrinology",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2005,
+    "subject": "Endocrinology",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2009-12-25",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1708038A",
+        "last_name": "L. Mazzaferri",
+        "first_name": "Ernest"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462104M",
+    "title": "Year Book of Otolaryngology-Head and Neck Surgery (Year Books)",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2003,
+    "subject": "Otorhinolaryngology (ENT)",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2016-08-05",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1072961A",
+        "last_name": "Dowman",
+        "first_name": "Keith"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10462105M",
+    "title": "Year Book of Otolaryngology-Head and Neck Surgery",
+    "city": null,
+    "publisher": "Mosby",
+    "year": 2004,
+    "subject": "Otorhinolaryngology (ENT)",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 409,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2012-02-28",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1165334A",
+        "last_name": "Klein",
+        "first_name": "Hans-Herbert"
+      }
+    ]
+  }
+]

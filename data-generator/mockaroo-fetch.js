@@ -5,11 +5,14 @@ const Mockaroo = require('mockaroo');
 const data = require("./filling-data.json");
 const utils = require("./utils.js");
 
+const maxRowsCount = 1000;
+const defaultRowsCount = 10;
+
 const client = new Mockaroo.Client({
     apiKey: conf.MOCKAROO_API_KEY
 })
 
-module.exports = {
+const mockarooGenerator = {
 
     student: (rowsCount) => new Promise( resolve => {
 
@@ -35,7 +38,7 @@ module.exports = {
                     record.course = 4;
                 }
             })
-            console.log("Records processed");
+            console.log("Records processed\n");
             resolve(records);
         })
     }),
@@ -73,7 +76,7 @@ module.exports = {
                         break;
                 }
             });
-            console.log("Records processed");
+            console.log("Records processed\n");
             resolve(records);
         });
     }),
@@ -99,7 +102,7 @@ module.exports = {
                 record.graduation_date = record.graduation_date.replace(/^\d{4}/, endYear);
                 record.is_active = yearOffset < 4;
             });
-            console.log("Records processed");
+            console.log("Records processed\n");
             resolve(records);
         });
     }),
@@ -123,7 +126,7 @@ module.exports = {
                 record.end_studying = record.end_studying.replace(/^\d{4}/, year);
                 record.is_active = year == 0;
             });
-            console.log("Records processed");
+            console.log("Records processed\n");
             resolve(records);
         });
     }),
@@ -145,7 +148,7 @@ module.exports = {
                 record.entry_year = +record.entry_year.substr(0,4);
                 record.is_active = record.entry_year == 2017;
             });
-            console.log("Records processed");
+            console.log("Records processed\n");
             resolve(records);
         });
     }),
@@ -171,8 +174,40 @@ module.exports = {
                 record.end_training = record.end_training.replace(/^\d{4}/, year);
                 record.is_active = false;
             });
-            console.log("Records processed");
+            console.log("Records processed\n");
             resolve(records);
         });
+    })
+}
+
+module.exports = {
+
+    fetch: (table, rowsCount) => new Promise( resolve => {
+
+        rowsCount = +rowsCount || defaultRowsCount;
+
+        if(rowsCount <= maxRowsCount) {
+            mockarooGenerator[table](rowsCount).then( records => resolve(records) );
+        }
+        else {
+            let requestsPromises = [];
+            let requestsCount = Math.floor(rowsCount/maxRowsCount);
+
+            for (let i = 0; i < requestsCount; i++) {
+                requestsPromises.push(() => mockarooGenerator[table](maxRowsCount))
+            }
+
+            if(rowsCount%maxRowsCount != 0) {
+                requestsPromises.push(() => mockarooGenerator[table](rowsCount%maxRowsCount) );
+            }
+
+            utils.runSerial(requestsPromises)
+                .then(recordArrays => {
+                    let result = [];
+                    recordArrays.forEach(array => result = result.concat(array))
+                    resolve(result)
+                });
+        }
+
     })
 }

@@ -46,9 +46,9 @@ function main() {
                     })
                     .then(books => {
                         books.forEach( (book,i) => queryPromises.push(
-                            processBookSectionRelation(book, sections, i+1)
+                            () => processBookSectionRelation(book, sections, i+1)
                         ))
-                        return Promise.all(queryPromises);
+                        return utils.runSerial(queryPromises);
                     })
                     .then( () => pg.end() )
                     .catch(err => {

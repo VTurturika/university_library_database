@@ -1,0 +1,4402 @@
+[
+  {
+    "openlibrary_id": "/books/OL14035733M",
+    "title": "Proceedings at the dedication of the town hall, Wayland, December 24, 1878",
+    "city": "Wayland",
+    "publisher": "Prepared and pub. by the authority of the town",
+    "year": 1879,
+    "subject": "Wayland, Mass. Town hall. [from old catalog]",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 79,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2015-08-30",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4484500A",
+        "last_name": "(Mass.)",
+        "first_name": "Wayland"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035735M",
+    "title": "Proceedings at the mass meeting of loyal citizens, on Union square, New-York, 15th day of July, 1862",
+    "city": "New-York",
+    "publisher": "G. F. Nesbitt & co., printers",
+    "year": 1862,
+    "subject": "New York (N.Y.) -- History -- Civil War, 1861-1865.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 116,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2014-03-20",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2383853A",
+        "last_name": "York. Citizens.",
+        "first_name": "New"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035736M",
+    "title": "Proceedings at the one hundred and fiftieth anniversary of the organization of the First Congregatio",
+    "city": "Boston",
+    "publisher": "T. Todd, printer",
+    "year": 1881,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 150,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2015-11-14",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4484502A",
+        "last_name": "Mass.",
+        "first_name": "Randolph,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035737M",
+    "title": "Proceedings at a public dinner in Albermarle County, Virginia, given to Mr. William C. Rives, late a",
+    "city": "[n.p",
+    "publisher": null,
+    "year": 1834,
+    "subject": "Bank of the United States (1816-1836)",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2012-08-19",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1062211A",
+        "last_name": "Graf",
+        "first_name": "Peter"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035738M",
+    "title": "Proceedings at the two hundredth anniversary of the Second Church of Christ in Hartford",
+    "city": "Hartford",
+    "publisher": null,
+    "year": 1870,
+    "subject": "Hartford (Conn.) -- History.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 86,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2014-09-28",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4484503A",
+        "last_name": "(Conn.). Second Church of Christ.",
+        "first_name": "Hartford"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035739M",
+    "title": "Proceedings at the unveiling of the statute of John Sandfield Macdonald, first prime minister of Ont",
+    "city": "Toronto",
+    "publisher": "L.K. Cameron, printer to the King's most excellent majesty",
+    "year": 1909,
+    "subject": "Macdonald, John Sandfield, 1812-1872.",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 41,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2004-02-08",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1094514A",
+        "last_name": "I. I͡A︡nkelevich",
+        "first_name": "V."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1403573M",
+    "title": "Venus, the geological story",
+    "city": "Baltimore",
+    "publisher": "Johns Hopkins University Press",
+    "year": 1994,
+    "subject": "Venus (Planet) -- Geology.",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 250,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2016-10-03",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL233882A",
+        "last_name": "John Cattermole",
+        "first_name": "Peter"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035740M",
+    "title": "Proceedings: centennial anniversary, Miami Monthly Meeting",
+    "city": "[Waynesville, Ohio",
+    "publisher": "Press of Miami Gazette]",
+    "year": 1903,
+    "subject": "Society of Friends",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 174,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2016-11-06",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4484504A",
+        "last_name": "Monthly Meeting of Friends (Orthodox : 1828-1955 : Warren County, Ohio)",
+        "first_name": "Miami"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035741M",
+    "title": "Proceedings and collections.",
+    "city": "Wilkes-Barré, Pa",
+    "publisher": null,
+    "year": 1885,
+    "subject": "Geology -- Societies, etc",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2006-09-06",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4484505A",
+        "last_name": "Historical and Geological Society, Wilkes-Barre, Pa.",
+        "first_name": "Wyoming"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1403574M",
+    "title": "Deadly business",
+    "city": "New York",
+    "publisher": "Four Walls Eight Windows",
+    "year": 1993,
+    "subject": "Arms transfers -- Iran.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 307,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2011-12-28",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL712636A",
+        "last_name": "Krosney",
+        "first_name": "Herbert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035754M",
+    "title": "Proceedings, constitution, by-laws, list of members, &c. of the surveyors' association of west New J",
+    "city": "Camden, N.J",
+    "publisher": "S. Chew, printer",
+    "year": 1867,
+    "subject": "Surveying -- New Jersey.",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 40,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2008-09-24",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4484518A",
+        "last_name": "of practical surveyors of west New Jersey",
+        "first_name": "Association"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035755M",
+    "title": "Proceedings, constitution, by-laws, list of members, &c. of the Surveyors' association of West New J",
+    "city": "Camden, N.J",
+    "publisher": "S. Chew, steam-power printer",
+    "year": 1870,
+    "subject": "Surveying -- New Jersey.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 92,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2002-09-01",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4484518A",
+        "last_name": "of practical surveyors of west New Jersey",
+        "first_name": "Association"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035756M",
+    "title": "Proceedings... death Hon. Marshall Jewell.",
+    "city": "[n.p.]",
+    "publisher": null,
+    "year": 1883,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2000-10-01",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4484520A",
+        "last_name": "(Conn.). Court of Common Council.",
+        "first_name": "Hartford"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035757M",
+    "title": "Proceedings of the Democratic convention held at Harrisburg, Pennsylvania.",
+    "city": "Harrisburg",
+    "publisher": "Printed by H. Welsh",
+    "year": 1832,
+    "subject": "Campaign literature, 1832 -- Democratic. [from old catalog]",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 24,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2013-04-17",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4276405A",
+        "last_name": "party. Pennsylvania.",
+        "first_name": "Democratic"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035758M",
+    "title": "Proceedings in the case of the United States against Duncan G. McRae, William J. Tolar, David Watkin",
+    "city": "Raleigh, N.C",
+    "publisher": "Published for R. Avery",
+    "year": 1867,
+    "subject": "Beebee, Archibald, d. 1867.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 398,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2003-02-22",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4484521A",
+        "last_name": "J. Tolar",
+        "first_name": "William"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035759M",
+    "title": "Proceedings in commemoration of the organization in Pittsfield, February 7, 1764 of the First church",
+    "city": "Pittsfield, Mass",
+    "publisher": "Press of the Sun printing company",
+    "year": 1889,
+    "subject": "Pittsfield, Mass. -- History. [from old catalog]",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 135,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2016-08-20",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4484522A",
+        "last_name": "Church of Christ (Pittsfield, Mass.)",
+        "first_name": "First"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1403575M",
+    "title": "Multibody computer codes in vehicle system dynamics",
+    "city": "Amsterdam",
+    "publisher": "Swets & Zeitlinger",
+    "year": 1993,
+    "subject": "Motor vehicles -- Dynamics -- Computer simulation",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 267,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2015-03-21",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1406298A",
+        "last_name": "Torret Rocha",
+        "first_name": "Eládio"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035760M",
+    "title": "Proceedings in commemoration of the settlement of the town of New Haven, April 25, 1888.",
+    "city": "[New Haven",
+    "publisher": "Press of Tuttle, Morehouse & Taylor",
+    "year": 1888,
+    "subject": "New Haven -- History. [from old catalog]",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 68,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2014-12-31",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL177775A",
+        "last_name": "Haven (Conn.)",
+        "first_name": "New"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035761M",
+    "title": "Proceedings in commemoration of the organization in Pittsfield, February 7, 1764 of the First Church",
+    "city": "Pittsfield, Mass",
+    "publisher": "Press of the Sun Printing Co.",
+    "year": 1889,
+    "subject": "Pittsfield (Mass.) -- History",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 135,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2000-07-07",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4484523A",
+        "last_name": "Mass. First Church of Christ.",
+        "first_name": "Pittsfield,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035762M",
+    "title": "Proceedings in reference to the death of Hon. John A. King, July 11th, 1867.",
+    "city": "[New York]",
+    "publisher": "Club house",
+    "year": 1867,
+    "subject": "King, John Alsop, 1817-1900. [from old catalog]",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 26,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2015-08-18",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4484524A",
+        "last_name": "York. Union league club",
+        "first_name": "New"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035763M",
+    "title": "Proceedings.",
+    "city": "Washington",
+    "publisher": null,
+    "year": 1881,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 449,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2012-08-18",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4484525A",
+        "last_name": "Sanitary Conference Washington 1881",
+        "first_name": "International"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035764M",
+    "title": "Proceedings",
+    "city": "Helena",
+    "publisher": "Montana Natural Resource Information System",
+    "year": 1986,
+    "subject": "Information storage and retrieval systems -- Water-supply.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 23,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2001-06-17",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4484526A",
+        "last_name": "Water Data User's Conference (1986 Butte, Mont.)",
+        "first_name": "Montana"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035765M",
+    "title": "Proceedings of the 250th anniversary of Old Bridgewater, Mass. at West Bridgewater, Massachusetts, J",
+    "city": "Bridgewater, Mass",
+    "publisher": "Arthur H. Willis, Printer",
+    "year": 1907,
+    "subject": "Brockton (Mass.) -- History.",
+    "genre": "Genealogy.",
+    "periodic_release": null,
+    "page_count": 149,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2014-11-17",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1111549A",
+        "last_name": "G. Ladrón de Guevara",
+        "first_name": "José"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035766M",
+    "title": "Proceedings of the 4th reunion of the Copeland Clan and [Assoc. of] The Descendants of Alfred and Ma",
+    "city": "Rockford, Ill",
+    "publisher": null,
+    "year": 1922,
+    "subject": "Copeland family.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2014-09-23",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1039853A",
+        "last_name": "Marienhagen",
+        "first_name": "Herbert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035767M",
+    "title": "Proceedings of the American Philosophical Society held at Philadelphia for promoting useful knowledg",
+    "city": "Philadelphia",
+    "publisher": "The Society",
+    "year": 1838,
+    "subject": "Science -- Periodicals",
+    "genre": "Periodicals.",
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2015-12-07",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1154684A",
+        "last_name": "Lanzoni",
+        "first_name": "Ermanno"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1403576M",
+    "title": "The fundamentals of grid generation",
+    "city": "Boca Raton",
+    "publisher": "CRC Press",
+    "year": 1993,
+    "subject": "Numerical grid generation (Numerical analysis)",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 286,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2004-07-23",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL712637A",
+        "last_name": "M. Knupp",
+        "first_name": "Patrick"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1403577M",
+    "title": "Introduction to occupational psychiatry",
+    "city": "Washington, DC",
+    "publisher": "American Psychiatric Press",
+    "year": 1994,
+    "subject": "Industrial psychiatry.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 91,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2013-10-23",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1216245A",
+        "last_name": "Ohlhaver",
+        "first_name": "H."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1403578M",
+    "title": "Liver diseases",
+    "city": "Amsterdam",
+    "publisher": "Elsevier",
+    "year": 1993,
+    "subject": "Liver -- Histopathology -- Atlases.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 223,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2011-03-25",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL712638A",
+        "last_name": "Kook Chung",
+        "first_name": "Whan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1403579M",
+    "title": "Antibodies to endothelial cells and vascular damage",
+    "city": "Boca Raton, Fla",
+    "publisher": "CRC Press",
+    "year": 1994,
+    "subject": "Vasculitis -- Immunological aspects.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 191,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2012-05-22",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1121097A",
+        "last_name": "Brown Travis",
+        "first_name": "Cheryl"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL140357M",
+    "title": "Estudios sobre la transición al feudalismo en Cantabria y la cuenca del Duero",
+    "city": "Burgos",
+    "publisher": "Librería Berceo",
+    "year": 1999,
+    "subject": "Feudalism -- Spain -- Cantabria.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 324,
+    "lang": "spa",
+    "days_keep_count": 30,
+    "adding_date": "2013-06-24",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL92531A",
+        "last_name": "José García González",
+        "first_name": "Juan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035809M",
+    "title": "Proceedings of the ... annual conclave of the Grand Commandery, Knights Templar, of the State of Ind",
+    "city": "Indianapolis, Ind",
+    "publisher": "[The Commandery]",
+    "year": null,
+    "subject": "Knights Templar (Masonic order). Grand Commandery (Ind.) -- Periodicals.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2009-12-22",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4484527A",
+        "last_name": "Templar (Masonic order). Grand Commandery (Ind.)",
+        "first_name": "Knights"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1403580M",
+    "title": "Psychological assessment and treatment of persons with severe mental disorders",
+    "city": "Washington, D.C",
+    "publisher": "Taylor & Francis",
+    "year": 1994,
+    "subject": "Mentally ill -- Rehabilitation.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 239,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2012-06-17",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1020190A",
+        "last_name": "Strømme Svendsen",
+        "first_name": "Arnljot"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035810M",
+    "title": "Proceedings of the annual convention.",
+    "city": "Chicago",
+    "publisher": "The Association",
+    "year": 1903,
+    "subject": "Religious education -- United States -- Societies, etc",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2015-07-02",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2304192A",
+        "last_name": "Education Association.",
+        "first_name": "Religious"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035813M",
+    "title": "Proceedings of the ... annual convention of the Evangelical Lutheran Synod of Northern Indiana.",
+    "city": "[Indiana",
+    "publisher": "The Synod",
+    "year": null,
+    "subject": "Evangelical Lutheran Synod of Northern Indiana",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2009-08-22",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4484528A",
+        "last_name": "Lutheran Synod of Northern Indiana. Convention.",
+        "first_name": "Evangelical"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035814M",
+    "title": "Proceedings of the ... annual session of the Grand Lodge of Kansas, I.O.O.F.",
+    "city": "Topeka",
+    "publisher": "The Grand Lodge",
+    "year": null,
+    "subject": "Independent Order of Odd Fellows. Grand Lodge of Kansas. -- Periodicals.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2004-01-28",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4484529A",
+        "last_name": "Order of Odd Fellows. Grand Lodge of Kansas.",
+        "first_name": "Independent"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035816M",
+    "title": "Proceedings of the Boston Society of Natural History.",
+    "city": "Boston",
+    "publisher": null,
+    "year": 1844,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2012-11-12",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4480730A",
+        "last_name": "Society of Natural History",
+        "first_name": "Boston"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1403581M",
+    "title": "Medical microbiology",
+    "city": "St. Louis",
+    "publisher": "Mosby",
+    "year": 1993,
+    "subject": "Medical microbiology.",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 755,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2015-10-17",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1289278A",
+        "last_name": "Carol Shaw",
+        "first_name": "L."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1403582M",
+    "title": "Neuropsychiatry of traumatic brain injury",
+    "city": "Washington, DC",
+    "publisher": "American Psychiatric Press",
+    "year": 1994,
+    "subject": "Brain damage.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 893,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2012-06-02",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1019221A",
+        "last_name": "A. Petrakov",
+        "first_name": "A."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1403583M",
+    "title": "How Judaism reads the Torah",
+    "city": "Frankfurt am Main",
+    "publisher": "P. Lang",
+    "year": 1993,
+    "subject": "Bible. O.T. Pentateuch -- Criticism, interpretation, etc., Jewish.",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2000-07-24",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1101131A",
+        "last_name": "J. Becton",
+        "first_name": "Charles"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1403584M",
+    "title": "Dual allegiance",
+    "city": "Albany, NY",
+    "publisher": "State University of New York Press",
+    "year": 1994,
+    "subject": "Freud, Sigmund, 1856-1939 -- Religion.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 337,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2016-01-21",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL712639A",
+        "last_name": "Gresser",
+        "first_name": "Moshe"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035853M",
+    "title": "Proceedings of the Bristol Naturalists' Society.",
+    "city": "Bristol",
+    "publisher": "The Society",
+    "year": 1863,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2011-10-24",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL136224A",
+        "last_name": "Stuart.",
+        "first_name": "Piggott,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035858M",
+    "title": "Proceedings of a called meeting of ministers of all religious denominations in the District of Colum",
+    "city": "Washington, D.C",
+    "publisher": "McGill & Witherow, printers",
+    "year": 1865,
+    "subject": "Lincoln, Abraham, 1809-1865 -- Death and burial",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 14,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2009-05-30",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1315762A",
+        "last_name": "Caffarel",
+        "first_name": "Henri"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035859M",
+    "title": "Proceedings of the centennial celebration of the one hundredth anniversary of the incorporation of t",
+    "city": "Winchendon [Mass.]",
+    "publisher": "F. W. Ward & co.",
+    "year": 1873,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 107,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2016-08-14",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4484530A",
+        "last_name": "N.H",
+        "first_name": "Jaffrey,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1403585M",
+    "title": "The great dragon's fleas",
+    "city": "Berkeley, Calif",
+    "publisher": "Celestial Arts",
+    "year": 1993,
+    "subject": "Ward, Tim, 1958- -- Travel -- Asia.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 252,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2001-11-21",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL712640A",
+        "last_name": "Ward",
+        "first_name": "Tim"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035860M",
+    "title": "Proceedings of the Chautauqua society of history and natural science ...",
+    "city": "Jamestown, N.Y",
+    "publisher": "The Chautauqua society of history and natural science",
+    "year": null,
+    "subject": "Science -- Societies. [from old catalog]",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2006-03-31",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4484531A",
+        "last_name": "society of history and natural science",
+        "first_name": "Chautauqua"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035861M",
+    "title": "Proceedings of the class of 1846 of Harvard college, August 12, 1863, on the death of Lieutenant Ezr",
+    "city": "Boston",
+    "publisher": "Printed for the class, by J. Wilson and son",
+    "year": 1863,
+    "subject": "Ripley, Ezra, 1826-1863. [from old catalog]",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2001-07-06",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4484532A",
+        "last_name": "university. Class of 1846",
+        "first_name": "Harvard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035863M",
+    "title": "Proceedings of the Convention of loyal league held at Mechanics' hall, Utica, Tuesday, October 20, 1",
+    "city": "New York",
+    "publisher": "Holman, printer",
+    "year": 1863,
+    "subject": "United States -- Politics and government -- 1861-1865.",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 39,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2005-09-12",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4273025A",
+        "last_name": "national league of the state of New York",
+        "first_name": "Loyal"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035864M",
+    "title": "Proceedings of the convention of the Republican Party of Louisiana held at Economy Hall, New Orleans",
+    "city": "New Orleans",
+    "publisher": "New Orleans Tribune Office",
+    "year": 1865,
+    "subject": "Suffrage.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 50,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2008-01-08",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4484534A",
+        "last_name": "Party (La.). Convention",
+        "first_name": "Republican"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035865M",
+    "title": "The proceedings of the dedication of the Soldiers' monument, Dover, Massachusetts, June 18, 1910",
+    "city": "[Dover]",
+    "publisher": "Printed by the Dover historical and natural history society",
+    "year": 1912,
+    "subject": "Dover, Mass.",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 83,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2004-06-21",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4475837A",
+        "last_name": "historical and natural history society, Dover, Mass",
+        "first_name": "Dover"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035866M",
+    "title": "Proceedings of the Democratic republican general committee of the city of New York relative to the d",
+    "city": "New York",
+    "publisher": null,
+    "year": 1861,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2001-07-24",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4484535A",
+        "last_name": "York (City). Democratic republican general committee",
+        "first_name": "New"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035867M",
+    "title": "Proceedings of the first all-India Sanitary Conference held at Bombay on 13th and 14th November 1911",
+    "city": "Calcutta",
+    "publisher": "Supt. Govt. Print.",
+    "year": 1912,
+    "subject": "Public health -- India.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 146,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2002-03-19",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4484536A",
+        "last_name": "Sanitary Conference (1911 Bombay)",
+        "first_name": "All-India"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035868M",
+    "title": "Proceedings of the first annual meeting of the Swetland family, held at Brocton, N.Y., September 15,",
+    "city": "[s.l",
+    "publisher": "s.n.",
+    "year": 1896,
+    "subject": "Swetland family.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 25,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2006-06-02",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1298571A",
+        "last_name": "S. Kharabuga",
+        "first_name": "V."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035869M",
+    "title": "Proceedings of the Fitchburg Historical Society and papers relating to the history of the town",
+    "city": "Fitchburg, Mass",
+    "publisher": "The Society",
+    "year": 1895,
+    "subject": "Local history -- Massachusetts -- Fitchburg -- Periodicals",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2009-08-08",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4484537A",
+        "last_name": "Historical Society.",
+        "first_name": "Fitchburg"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1403586M",
+    "title": "Hmong means free",
+    "city": "Philadelphia",
+    "publisher": "Temple University Press",
+    "year": 1994,
+    "subject": "Vietnamese Conflict, 1961-1975 -- Personal narratives, Hmong",
+    "genre": "Personal narratives, Hmong.",
+    "periodic_release": null,
+    "page_count": 267,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2008-11-29",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1178962A",
+        "last_name": "Wernli",
+        "first_name": "Fritz"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035870M",
+    "title": "Proceedings of the Fitchburg historical society and papers relating to the history of the town",
+    "city": "Fitchburg, Mass",
+    "publisher": "The Historical society",
+    "year": null,
+    "subject": "Fitchburg, Mass. -- History. [from old catalog]",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2010-09-19",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4484538A",
+        "last_name": "historical society, Fitchburg, Mass",
+        "first_name": "Fitchburg"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1403587M",
+    "title": "Anesthesia for facial plastic surgery",
+    "city": "New York",
+    "publisher": "Thieme Medical Publishers",
+    "year": 1993,
+    "subject": "Face -- Surgery.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 114,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2009-10-13",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1406397A",
+        "last_name": "Fronteiras do Literário (3rd 1999 Universidade Federal Fluminense)",
+        "first_name": "Seminário"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035880M",
+    "title": "Proceedings of the Free convention",
+    "city": "Boston",
+    "publisher": "J. B. Yerrinton and son",
+    "year": 1858,
+    "subject": "Social problems -- Congresses.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 185,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2006-11-26",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4484548A",
+        "last_name": "Convention (1858 Rutland, Vt.)",
+        "first_name": "Free"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035881M",
+    "title": "Proceedings of the friends of a rail-road to San Francisco",
+    "city": "Boston",
+    "publisher": "Dutton and Wentworth",
+    "year": 1849,
+    "subject": "Pacific railroads -- Early projects.",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 24,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2016-02-16",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1226327A",
+        "last_name": "W. Moore",
+        "first_name": "Robert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035882M",
+    "title": "Proceedings of the ... General Council ...",
+    "city": "Edinburgh [etc.]",
+    "publisher": "[The Alliance]",
+    "year": 1877,
+    "subject": "Presbyterian Church -- Congresses",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2004-02-24",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4484549A",
+        "last_name": "of the Reformed Churches Throughout the World Holding the Presbyterian Order.",
+        "first_name": "Alliance"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035885M",
+    "title": "Proceedings of the Grand Lodge of Illinois.",
+    "city": "Springfield",
+    "publisher": "Grand Lodge",
+    "year": null,
+    "subject": "Independent Order of Odd Fellows. Grand Lodge of Illinois -- Congresses",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2000-01-10",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2516201A",
+        "last_name": "Order of Odd Fellows. Grand Lodge of Illinois.",
+        "first_name": "Independent"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1403588M",
+    "title": "Conversations with survivors",
+    "city": "Athens",
+    "publisher": "University of Georgia Press",
+    "year": 1994,
+    "subject": "Jews -- Poetry.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 77,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2000-05-21",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL24448A",
+        "last_name": "Osherow",
+        "first_name": "Jacqueline"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1403589M",
+    "title": "The Romans",
+    "city": "New York",
+    "publisher": "Thomson Learning",
+    "year": 1994,
+    "subject": "Rome -- Civilization -- Juvenile literature.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 32,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2006-03-22",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL21417A",
+        "last_name": "Peter",
+        "first_name": "Hicks,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL140358M",
+    "title": "Cuerpo del delito",
+    "city": "Madrid",
+    "publisher": "Celeste",
+    "year": 1999,
+    "subject": "Popular music -- Spain -- Texts.",
+    "genre": "Texts.",
+    "periodic_release": null,
+    "page_count": 534,
+    "lang": "spa",
+    "days_keep_count": 200,
+    "adding_date": "2005-07-19",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL92532A",
+        "last_name": "Eduardo Aute",
+        "first_name": "Luis"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035903M",
+    "title": "Proceedings of the Grand Lodge of the State of Illinois Ancient Free and Accepted Masons.",
+    "city": "[S.l",
+    "publisher": "s.n.",
+    "year": null,
+    "subject": "Freemasons. Grand Lodge of Illinois -- Congresses.",
+    "genre": "Congresses.",
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2001-02-07",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1047716A",
+        "last_name": "Grand Lodge of Illinois.",
+        "first_name": "Freemasons."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035904M",
+    "title": "Proceedings of the Grand Lodge of the State of Illinois Ancient Free and Accepted Masons.",
+    "city": "[S.l",
+    "publisher": "s.n.",
+    "year": null,
+    "subject": "Freemasons. Grand Lodge of Illinois -- Congresses.",
+    "genre": "Congresses.",
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2009-06-23",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1047716A",
+        "last_name": "Grand Lodge of Illinois.",
+        "first_name": "Freemasons."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035905M",
+    "title": "Proceedings of the Grand Lodge of the State of Illinois Ancient Free and Accepted Masons.",
+    "city": "[S.l",
+    "publisher": "s.n.",
+    "year": null,
+    "subject": "Freemasons. Grand Lodge of Illinois -- Congresses.",
+    "genre": "Congresses.",
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2002-09-10",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1047716A",
+        "last_name": "Grand Lodge of Illinois.",
+        "first_name": "Freemasons."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035906M",
+    "title": "Proceedings of the Grand Lodge of the State of Illinois Ancient Free and Accepted Masons.",
+    "city": "[S.l",
+    "publisher": "s.n.",
+    "year": null,
+    "subject": "Freemasons. Grand Lodge of Illinois -- Congresses.",
+    "genre": "Congresses.",
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2011-07-02",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1047716A",
+        "last_name": "Grand Lodge of Illinois.",
+        "first_name": "Freemasons."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035907M",
+    "title": "Proceedings of the Grand Lodge of the State of Illinois Ancient Free and Accepted Masons.",
+    "city": "[S.l",
+    "publisher": "s.n.",
+    "year": null,
+    "subject": "Freemasons. Grand Lodge of Illinois -- Congresses.",
+    "genre": "Congresses.",
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2013-02-21",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1047716A",
+        "last_name": "Grand Lodge of Illinois.",
+        "first_name": "Freemasons."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035908M",
+    "title": "Proceedings of the Grand Lodge of the State of Illinois Ancient Free and Accepted Masons.",
+    "city": "[S.l",
+    "publisher": "s.n.",
+    "year": null,
+    "subject": "Freemasons. Grand Lodge of Illinois -- Congresses.",
+    "genre": "Congresses.",
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2006-05-02",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1047716A",
+        "last_name": "Grand Lodge of Illinois.",
+        "first_name": "Freemasons."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035909M",
+    "title": "Proceedings of the Grand Lodge of the State of Illinois Ancient Free and Accepted Masons.",
+    "city": "[S.l",
+    "publisher": "s.n.",
+    "year": null,
+    "subject": "Freemasons. Grand Lodge of Illinois -- Congresses.",
+    "genre": "Congresses.",
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2002-10-11",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1047716A",
+        "last_name": "Grand Lodge of Illinois.",
+        "first_name": "Freemasons."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1403590M",
+    "title": "Excavating Schliemann",
+    "city": "Atlanta, Ga",
+    "publisher": "Scholars Press",
+    "year": 1993,
+    "subject": "Schliemann, Heinrich, 1822-1890.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 278,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2002-09-28",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL452931A",
+        "last_name": "A. Traill",
+        "first_name": "David"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035910M",
+    "title": "Proceedings of the Grand Lodge of the State of Illinois Ancient Free and Accepted Masons.",
+    "city": "[S.l",
+    "publisher": "s.n.",
+    "year": null,
+    "subject": "Freemasons. Grand Lodge of Illinois -- Congresses.",
+    "genre": "Congresses.",
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2011-03-10",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1047716A",
+        "last_name": "Grand Lodge of Illinois.",
+        "first_name": "Freemasons."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035911M",
+    "title": "Proceedings of the Grand Lodge of the State of Illinois Ancient Free and Accepted Masons.",
+    "city": "[S.l",
+    "publisher": "s.n.",
+    "year": null,
+    "subject": "Freemasons. Grand Lodge of Illinois -- Congresses.",
+    "genre": "Congresses.",
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2016-02-29",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1047716A",
+        "last_name": "Grand Lodge of Illinois.",
+        "first_name": "Freemasons."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035912M",
+    "title": "Proceedings of the Grand Lodge of the State of Illinois Ancient Free and Accepted Masons.",
+    "city": "[S.l",
+    "publisher": "s.n.",
+    "year": null,
+    "subject": "Freemasons. Grand Lodge of Illinois -- Congresses.",
+    "genre": "Congresses.",
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2009-06-15",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1047716A",
+        "last_name": "Grand Lodge of Illinois.",
+        "first_name": "Freemasons."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035913M",
+    "title": "Proceedings of the Grand Lodge of the State of Illinois Ancient Free and Accepted Masons.",
+    "city": "[S.l",
+    "publisher": "s.n.",
+    "year": null,
+    "subject": "Freemasons. Grand Lodge of Illinois -- Congresses.",
+    "genre": "Congresses.",
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2010-01-14",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1047716A",
+        "last_name": "Grand Lodge of Illinois.",
+        "first_name": "Freemasons."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035914M",
+    "title": "Proceedings of the Grand Lodge of the State of Illinois Ancient Free and Accepted Masons.",
+    "city": "[S.l",
+    "publisher": "s.n.",
+    "year": null,
+    "subject": "Freemasons. Grand Lodge of Illinois -- Congresses.",
+    "genre": "Congresses.",
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2002-10-13",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1047716A",
+        "last_name": "Grand Lodge of Illinois.",
+        "first_name": "Freemasons."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035915M",
+    "title": "Proceedings of the Grand Lodge of the State of Illinois Ancient Free and Accepted Masons.",
+    "city": "[S.l",
+    "publisher": "s.n.",
+    "year": null,
+    "subject": "Freemasons. Grand Lodge of Illinois -- Congresses.",
+    "genre": "Congresses.",
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2014-02-09",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1047716A",
+        "last_name": "Grand Lodge of Illinois.",
+        "first_name": "Freemasons."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035916M",
+    "title": "Proceedings of the Grand Lodge of the State of Illinois Ancient Free and Accepted Masons.",
+    "city": "[S.l",
+    "publisher": "s.n.",
+    "year": null,
+    "subject": "Freemasons. Grand Lodge of Illinois -- Congresses.",
+    "genre": "Congresses.",
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2010-10-20",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1047716A",
+        "last_name": "Grand Lodge of Illinois.",
+        "first_name": "Freemasons."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035917M",
+    "title": "Proceedings of the Grand Lodge of the State of Illinois Ancient Free and Accepted Masons.",
+    "city": "[S.l",
+    "publisher": "s.n.",
+    "year": null,
+    "subject": "Freemasons. Grand Lodge of Illinois -- Congresses.",
+    "genre": "Congresses.",
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2001-10-30",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1047716A",
+        "last_name": "Grand Lodge of Illinois.",
+        "first_name": "Freemasons."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035918M",
+    "title": "Proceedings of the Grand Lodge of the State of Illinois Ancient Free and Accepted Masons.",
+    "city": "[S.l",
+    "publisher": "s.n.",
+    "year": null,
+    "subject": "Freemasons. Grand Lodge of Illinois -- Congresses.",
+    "genre": "Congresses.",
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2006-09-02",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1047716A",
+        "last_name": "Grand Lodge of Illinois.",
+        "first_name": "Freemasons."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035919M",
+    "title": "Proceedings of the Grand Lodge of the State of Illinois Ancient Free and Accepted Masons.",
+    "city": "[S.l",
+    "publisher": "s.n.",
+    "year": null,
+    "subject": "Freemasons. Grand Lodge of Illinois -- Congresses.",
+    "genre": "Congresses.",
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2002-06-15",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1047716A",
+        "last_name": "Grand Lodge of Illinois.",
+        "first_name": "Freemasons."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1403591M",
+    "title": "Alexander I",
+    "city": "London",
+    "publisher": "Longman",
+    "year": 1994,
+    "subject": "Alexander I, Emperor of Russia, 1777-1825.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 256,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2016-04-23",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL219032A",
+        "last_name": "M. Hartley",
+        "first_name": "Janet"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035920M",
+    "title": "Proceedings of the Grand Lodge of the State of Illinois Ancient Free and Accepted Masons.",
+    "city": "[S.l",
+    "publisher": "s.n.",
+    "year": null,
+    "subject": "Freemasons. Grand Lodge of Illinois -- Congresses.",
+    "genre": "Congresses.",
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2015-12-08",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1047716A",
+        "last_name": "Grand Lodge of Illinois.",
+        "first_name": "Freemasons."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035921M",
+    "title": "Proceedings of the Grand Lodge of the State of Illinois Ancient Free and Accepted Masons.",
+    "city": "[S.l",
+    "publisher": "s.n.",
+    "year": null,
+    "subject": "Freemasons. Grand Lodge of Illinois -- Congresses.",
+    "genre": "Congresses.",
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2015-02-05",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1047716A",
+        "last_name": "Grand Lodge of Illinois.",
+        "first_name": "Freemasons."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035922M",
+    "title": "Proceedings of the Grand Lodge of the State of Illinois Ancient Free and Accepted Masons.",
+    "city": "[S.l",
+    "publisher": "s.n.",
+    "year": null,
+    "subject": "Freemasons. Grand Lodge of Illinois -- Congresses.",
+    "genre": "Congresses.",
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2012-01-06",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1047716A",
+        "last_name": "Grand Lodge of Illinois.",
+        "first_name": "Freemasons."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035923M",
+    "title": "Proceedings of the Grand Lodge of the State of Illinois Ancient Free and Accepted Masons.",
+    "city": "[S.l",
+    "publisher": "s.n.",
+    "year": null,
+    "subject": "Freemasons. Grand Lodge of Illinois -- Congresses.",
+    "genre": "Congresses.",
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2002-01-01",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1047716A",
+        "last_name": "Grand Lodge of Illinois.",
+        "first_name": "Freemasons."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035924M",
+    "title": "Proceedings of the Grand Lodge of the State of Illinois Ancient Free and Accepted Masons.",
+    "city": "[S.l",
+    "publisher": "s.n.",
+    "year": null,
+    "subject": "Freemasons. Grand Lodge of Illinois -- Congresses.",
+    "genre": "Congresses.",
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2014-10-12",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1047716A",
+        "last_name": "Grand Lodge of Illinois.",
+        "first_name": "Freemasons."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035925M",
+    "title": "Proceedings of the Grand Lodge of the State of Illinois Ancient Free and Accepted Masons.",
+    "city": "[S.l",
+    "publisher": "s.n.",
+    "year": null,
+    "subject": "Freemasons. Grand Lodge of Illinois -- Congresses.",
+    "genre": "Congresses.",
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2011-04-02",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1047716A",
+        "last_name": "Grand Lodge of Illinois.",
+        "first_name": "Freemasons."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035926M",
+    "title": "Proceedings of the Grand Lodge of the State of Illinois Ancient Free and Accepted Masons.",
+    "city": "[S.l",
+    "publisher": "s.n.",
+    "year": null,
+    "subject": "Freemasons. Grand Lodge of Illinois -- Congresses.",
+    "genre": "Congresses.",
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2005-02-06",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1047716A",
+        "last_name": "Grand Lodge of Illinois.",
+        "first_name": "Freemasons."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035927M",
+    "title": "Proceedings of the Grand Lodge of the State of Illinois Ancient Free and Accepted Masons.",
+    "city": "[S.l",
+    "publisher": "s.n.",
+    "year": null,
+    "subject": "Freemasons. Grand Lodge of Illinois -- Congresses.",
+    "genre": "Congresses.",
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2014-05-23",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1047716A",
+        "last_name": "Grand Lodge of Illinois.",
+        "first_name": "Freemasons."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035928M",
+    "title": "Proceedings of the Grand Lodge of the State of Illinois Ancient Free and Accepted Masons.",
+    "city": "[S.l",
+    "publisher": "s.n.",
+    "year": null,
+    "subject": "Freemasons. Grand Lodge of Illinois -- Congresses.",
+    "genre": "Congresses.",
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2000-11-30",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1047716A",
+        "last_name": "Grand Lodge of Illinois.",
+        "first_name": "Freemasons."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035929M",
+    "title": "Proceedings of the Grand Lodge of the State of Illinois Ancient Free and Accepted Masons.",
+    "city": "[S.l",
+    "publisher": "s.n.",
+    "year": null,
+    "subject": "Freemasons. Grand Lodge of Illinois -- Congresses.",
+    "genre": "Congresses.",
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2012-10-17",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1047716A",
+        "last_name": "Grand Lodge of Illinois.",
+        "first_name": "Freemasons."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1403592M",
+    "title": "Too busy",
+    "city": "Colorado Springs, Colo",
+    "publisher": "Meriwether",
+    "year": 1993,
+    "subject": "Goldfish -- Fiction.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2002-12-28",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL712641A",
+        "last_name": "Miller",
+        "first_name": "Marianne"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035930M",
+    "title": "Proceedings of the Grand Lodge of the State of Illinois Ancient Free and Accepted Masons.",
+    "city": "[S.l",
+    "publisher": "s.n.",
+    "year": null,
+    "subject": "Freemasons. Grand Lodge of Illinois -- Congresses.",
+    "genre": "Congresses.",
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2007-07-18",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1047716A",
+        "last_name": "Grand Lodge of Illinois.",
+        "first_name": "Freemasons."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035931M",
+    "title": "Proceedings of the Grand Lodge of the State of Illinois Ancient Free and Accepted Masons.",
+    "city": "[S.l",
+    "publisher": "s.n.",
+    "year": null,
+    "subject": "Freemasons. Grand Lodge of Illinois -- Congresses.",
+    "genre": "Congresses.",
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2012-04-19",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1047716A",
+        "last_name": "Grand Lodge of Illinois.",
+        "first_name": "Freemasons."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035932M",
+    "title": "Proceedings of the Grand Lodge of the State of Illinois Ancient Free and Accepted Masons.",
+    "city": "[S.l",
+    "publisher": "s.n.",
+    "year": null,
+    "subject": "Freemasons. Grand Lodge of Illinois -- Congresses.",
+    "genre": "Congresses.",
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2001-06-06",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1047716A",
+        "last_name": "Grand Lodge of Illinois.",
+        "first_name": "Freemasons."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035933M",
+    "title": "Proceedings of the Grand Lodge of the State of Illinois Ancient Free and Accepted Masons.",
+    "city": "[S.l",
+    "publisher": "s.n.",
+    "year": null,
+    "subject": "Freemasons. Grand Lodge of Illinois -- Congresses.",
+    "genre": "Congresses.",
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2000-07-23",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1047716A",
+        "last_name": "Grand Lodge of Illinois.",
+        "first_name": "Freemasons."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035934M",
+    "title": "Proceedings of the Grand Lodge of the State of Illinois Ancient Free and Accepted Masons.",
+    "city": "[S.l",
+    "publisher": "s.n.",
+    "year": null,
+    "subject": "Freemasons. Grand Lodge of Illinois -- Congresses.",
+    "genre": "Congresses.",
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2006-10-08",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1047716A",
+        "last_name": "Grand Lodge of Illinois.",
+        "first_name": "Freemasons."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035935M",
+    "title": "Proceedings of the Grand Lodge of the State of Illinois Ancient Free and Accepted Masons.",
+    "city": "[S.l",
+    "publisher": "s.n.",
+    "year": null,
+    "subject": "Freemasons. Grand Lodge of Illinois -- Congresses.",
+    "genre": "Congresses.",
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2001-11-18",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1047716A",
+        "last_name": "Grand Lodge of Illinois.",
+        "first_name": "Freemasons."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035936M",
+    "title": "Proceedings of the Grand Lodge of the State of Illinois Ancient Free and Accepted Masons.",
+    "city": "[S.l",
+    "publisher": "s.n.",
+    "year": null,
+    "subject": "Freemasons. Grand Lodge of Illinois -- Congresses.",
+    "genre": "Congresses.",
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2003-05-10",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1047716A",
+        "last_name": "Grand Lodge of Illinois.",
+        "first_name": "Freemasons."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035937M",
+    "title": "Proceedings of the Grand Lodge of the State of Illinois Ancient Free and Accepted Masons.",
+    "city": "[S.l",
+    "publisher": "s.n.",
+    "year": null,
+    "subject": "Freemasons. Grand Lodge of Illinois -- Congresses.",
+    "genre": "Congresses.",
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2013-08-02",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1047716A",
+        "last_name": "Grand Lodge of Illinois.",
+        "first_name": "Freemasons."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035938M",
+    "title": "Proceedings of the Grand Lodge of the State of Illinois Ancient Free and Accepted Masons.",
+    "city": "[S.l",
+    "publisher": "s.n.",
+    "year": null,
+    "subject": "Freemasons. Grand Lodge of Illinois -- Congresses.",
+    "genre": "Congresses.",
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2010-09-03",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1047716A",
+        "last_name": "Grand Lodge of Illinois.",
+        "first_name": "Freemasons."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035939M",
+    "title": "Proceedings of the Grand Lodge of the State of Illinois Ancient Free and Accepted Masons.",
+    "city": "[S.l",
+    "publisher": "s.n.",
+    "year": null,
+    "subject": "Freemasons. Grand Lodge of Illinois -- Congresses.",
+    "genre": "Congresses.",
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2012-06-28",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1047716A",
+        "last_name": "Grand Lodge of Illinois.",
+        "first_name": "Freemasons."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1403593M",
+    "title": "T. H. White's The once and future king",
+    "city": "Cambridge [England]",
+    "publisher": "D.S. Brewer",
+    "year": 1993,
+    "subject": "White, T. H. 1906-1964.",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 236,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2004-04-10",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL712642A",
+        "last_name": "Brewer",
+        "first_name": "Elisabeth"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035940M",
+    "title": "Proceedings of the Grand Lodge of the State of Illinois Ancient Free and Accepted Masons.",
+    "city": "[S.l",
+    "publisher": "s.n.",
+    "year": null,
+    "subject": "Freemasons. Grand Lodge of Illinois -- Congresses.",
+    "genre": "Congresses.",
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2008-04-18",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1047716A",
+        "last_name": "Grand Lodge of Illinois.",
+        "first_name": "Freemasons."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035941M",
+    "title": "Proceedings of the Grand Lodge of the State of Illinois Ancient Free and Accepted Masons.",
+    "city": "[S.l",
+    "publisher": "s.n.",
+    "year": null,
+    "subject": "Freemasons. Grand Lodge of Illinois -- Congresses.",
+    "genre": "Congresses.",
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2012-02-21",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1047716A",
+        "last_name": "Grand Lodge of Illinois.",
+        "first_name": "Freemasons."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035942M",
+    "title": "Proceedings of the Grand Lodge of the State of Illinois Ancient Free and Accepted Masons.",
+    "city": "[S.l",
+    "publisher": "s.n.",
+    "year": null,
+    "subject": "Freemasons. Grand Lodge of Illinois -- Congresses.",
+    "genre": "Congresses.",
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2001-10-15",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1047716A",
+        "last_name": "Grand Lodge of Illinois.",
+        "first_name": "Freemasons."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035943M",
+    "title": "Proceedings of the Grand Lodge of the State of Illinois Ancient Free and Accepted Masons.",
+    "city": "[S.l",
+    "publisher": "s.n.",
+    "year": null,
+    "subject": "Freemasons. Grand Lodge of Illinois -- Congresses.",
+    "genre": "Congresses.",
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2004-02-14",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1047716A",
+        "last_name": "Grand Lodge of Illinois.",
+        "first_name": "Freemasons."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035944M",
+    "title": "Proceedings of the Grand Lodge of the State of Illinois Ancient Free and Accepted Masons.",
+    "city": "[S.l",
+    "publisher": "s.n.",
+    "year": null,
+    "subject": "Freemasons. Grand Lodge of Illinois -- Congresses.",
+    "genre": "Congresses.",
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2010-04-05",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1047716A",
+        "last_name": "Grand Lodge of Illinois.",
+        "first_name": "Freemasons."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035945M",
+    "title": "Proceedings of the Grand Lodge of the State of Illinois Ancient Free and Accepted Masons.",
+    "city": "[S.l",
+    "publisher": "s.n.",
+    "year": null,
+    "subject": "Freemasons. Grand Lodge of Illinois -- Congresses.",
+    "genre": "Congresses.",
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2009-07-01",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1047716A",
+        "last_name": "Grand Lodge of Illinois.",
+        "first_name": "Freemasons."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035946M",
+    "title": "Proceedings of the Grand Lodge of the State of Illinois Ancient Free and Accepted Masons.",
+    "city": "[S.l",
+    "publisher": "s.n.",
+    "year": null,
+    "subject": "Freemasons. Grand Lodge of Illinois -- Congresses.",
+    "genre": "Congresses.",
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2014-06-23",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1047716A",
+        "last_name": "Grand Lodge of Illinois.",
+        "first_name": "Freemasons."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035947M",
+    "title": "Proceedings of the Grand Lodge of the State of Illinois Ancient Free and Accepted Masons.",
+    "city": "[S.l",
+    "publisher": "s.n.",
+    "year": null,
+    "subject": "Freemasons. Grand Lodge of Illinois -- Congresses.",
+    "genre": "Congresses.",
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2014-07-16",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1047716A",
+        "last_name": "Grand Lodge of Illinois.",
+        "first_name": "Freemasons."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035948M",
+    "title": "Proceedings of the Grand Lodge of the State of Illinois Ancient Free and Accepted Masons.",
+    "city": "[S.l",
+    "publisher": "s.n.",
+    "year": null,
+    "subject": "Freemasons. Grand Lodge of Illinois -- Congresses.",
+    "genre": "Congresses.",
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2000-07-31",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1047716A",
+        "last_name": "Grand Lodge of Illinois.",
+        "first_name": "Freemasons."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035949M",
+    "title": "Proceedings of the Grand Lodge of the State of Illinois Ancient Free and Accepted Masons.",
+    "city": "[S.l",
+    "publisher": "s.n.",
+    "year": null,
+    "subject": "Freemasons. Grand Lodge of Illinois -- Congresses.",
+    "genre": "Congresses.",
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2007-05-27",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1047716A",
+        "last_name": "Grand Lodge of Illinois.",
+        "first_name": "Freemasons."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1403594M",
+    "title": "Language and learning",
+    "city": "Albany",
+    "publisher": "State University of New York Press",
+    "year": 1994,
+    "subject": "Language and education -- United States",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 311,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2012-03-07",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1428943A",
+        "last_name": "Landsman",
+        "first_name": "Donna"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035950M",
+    "title": "Proceedings of the Grand Lodge of the State of Illinois Ancient Free and Accepted Masons.",
+    "city": "[S.l",
+    "publisher": "s.n.",
+    "year": null,
+    "subject": "Freemasons. Grand Lodge of Illinois -- Congresses.",
+    "genre": "Congresses.",
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2003-10-20",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1047716A",
+        "last_name": "Grand Lodge of Illinois.",
+        "first_name": "Freemasons."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035951M",
+    "title": "Proceedings of the great Democratic Republican meeting in the city of New York, January 2, 1838.",
+    "city": "Washington",
+    "publisher": "Printed at the Madisonian office",
+    "year": 1838,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 15,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2000-01-24",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4484552A",
+        "last_name": "York Democratic Republican meeting, 1838",
+        "first_name": "New"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035952M",
+    "title": "Proceedings of the Indiana republican state convention, held in Indianapolis, Thursday, February 20,",
+    "city": "Indianapolis",
+    "publisher": "Douglass & Conner, Journal Office, Printers",
+    "year": 1868,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 32,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2005-11-22",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4484553A",
+        "last_name": "party (Indiana) Convention",
+        "first_name": "Republican"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035953M",
+    "title": "Proceedings of Lexington Historical Society and papers relating to the history of the town.",
+    "city": "Lexington, Mass",
+    "publisher": "The Society",
+    "year": 1886,
+    "subject": "Lexington (Mass.) -- History -- Periodicals",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2014-10-03",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1800626A",
+        "last_name": "Historical Society (Mass.)",
+        "first_name": "Lexington"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1403595M",
+    "title": "Sources of world civilization",
+    "city": "Englewood Cliffs, N.J",
+    "publisher": "Prentice Hall",
+    "year": 1900,
+    "subject": "Civilization -- History -- Sources.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2013-07-03",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1299115A",
+        "last_name": "Urwick",
+        "first_name": "Edward"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035961M",
+    "title": "Proceedings of the Littleton Historical Society.",
+    "city": "Littleton, Mass",
+    "publisher": "The Society",
+    "year": 1895,
+    "subject": "Epitaphs -- Massachusetts -- Littleton -- Periodicals.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2014-07-17",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4484554A",
+        "last_name": "Historical Society (Mass.)",
+        "first_name": "Littleton"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035962M",
+    "title": "Proceedings of the Maine Historical Society.",
+    "city": "Portland, Me",
+    "publisher": "The Society",
+    "year": 1899,
+    "subject": "Maine Historical Society -- Periodicals",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2013-02-16",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4277204A",
+        "last_name": "Historical Society",
+        "first_name": "Maine"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1403596M",
+    "title": "Classic foreign films",
+    "city": "New York",
+    "publisher": "Carol Pub. Group",
+    "year": 1993,
+    "subject": "Foreign films -- United States -- Reviews.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 253,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2011-12-29",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL712643A",
+        "last_name": "Reid Paris",
+        "first_name": "James"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035974M",
+    "title": "Proceedings of the Massachusetts historical society, 1855-1858 ...",
+    "city": "[n.p.]",
+    "publisher": null,
+    "year": 1859,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2007-09-15",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL819938A",
+        "last_name": "Ward Dean",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035975M",
+    "title": "Proceedings of Montana's Governor's Conference on Libraries",
+    "city": "Helena, Mont",
+    "publisher": "Montana State Library",
+    "year": 1971,
+    "subject": "Libraries -- Montana.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 29,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2007-12-27",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4484555A",
+        "last_name": "Governor's Conference on Libraries (1971 Helena, Mont.)",
+        "first_name": "Montana"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035976M",
+    "title": "Proceedings of the New Jersey Historical Society.",
+    "city": "[Edison, N.J., etc",
+    "publisher": "New Jersey Historical Society, etc.]",
+    "year": 1846,
+    "subject": "New Jersey Historical Society -- Periodicals",
+    "genre": "Periodicals.",
+    "periodic_release": 2,
+    "page_count": 84,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2006-10-23",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1672800A",
+        "last_name": "Jersey Historical Society.",
+        "first_name": "New"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1403597M",
+    "title": "Cult horror films",
+    "city": "Secaucus, N.J",
+    "publisher": "Carol Pub. Group",
+    "year": 1993,
+    "subject": "Horror films -- History and criticism.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 227,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2016-02-23",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL590549A",
+        "last_name": "D. Everman",
+        "first_name": "Welch"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035986M",
+    "title": "Proceedings of the New York State Conference of Religion.",
+    "city": "New York",
+    "publisher": "The Conference",
+    "year": 1900,
+    "subject": "Religion -- Congresses.",
+    "genre": "Congresses.",
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2000-11-09",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4484556A",
+        "last_name": "York State Conference of Religion.",
+        "first_name": "New"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035987M",
+    "title": "Proceedings of the Old Home Week celebration in Belchertown, Mass., July 26-29, 1902.",
+    "city": "Amherst, Mass",
+    "publisher": "Carpenter & Morehouse",
+    "year": 1902,
+    "subject": "Belchertown (Mass.)",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 59,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2001-11-02",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4484557A",
+        "last_name": "Mass. Old Home Week Association.",
+        "first_name": "Belchertown,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035988M",
+    "title": "Proceedings of the Republican and Union convention for the sixth congressional district, held at Ble",
+    "city": "New-York",
+    "publisher": "Chatterton & Parker, printers",
+    "year": 1862,
+    "subject": "Campaign literature, 1862 -- Republican -- New York (State) [from old catalog]",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2001-08-23",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4484558A",
+        "last_name": "party. New York (State) 6th congressional district.",
+        "first_name": "Republican"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035989M",
+    "title": "Proceedings of the Rhode Island Historical Society.",
+    "city": "Providence",
+    "publisher": "Rhode Island Historical Society.",
+    "year": 1872,
+    "subject": "Rhode Island Historical Society -- Periodicals",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 34,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2010-09-13",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL696656A",
+        "last_name": "Island Historical Society.",
+        "first_name": "Rhode"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1403598M",
+    "title": "The independent home",
+    "city": "Post Mills, VT",
+    "publisher": "Chelsea Green Pub. Co.",
+    "year": 1993,
+    "subject": "Dwellings -- Energy conservation.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 300,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2007-09-28",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL712644A",
+        "last_name": "Michael",
+        "first_name": "Potts,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1403599M",
+    "title": "Computer communications security",
+    "city": "Englewood Cliffs, N.J",
+    "publisher": "PTR Prentice Hall",
+    "year": 1994,
+    "subject": "Computer security.",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 494,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2005-06-12",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL384732A",
+        "last_name": "Ford",
+        "first_name": "Warwick"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL140359M",
+    "title": "Tuñón de Lara y la historiografía española",
+    "city": "Madrid",
+    "publisher": "Siglo Veintiuno de España Editores",
+    "year": 1999,
+    "subject": "Tuñón de Lara, Manuel -- Congresses",
+    "genre": "Congresses.",
+    "periodic_release": 3,
+    "page_count": 375,
+    "lang": "spa",
+    "days_keep_count": 50,
+    "adding_date": "2007-01-26",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1067440A",
+        "last_name": "Khalīfah Kūwarī",
+        "first_name": "ʻAlī"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14035M",
+    "title": "Adala-badala.",
+    "city": null,
+    "publisher": null,
+    "year": 1963,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 108,
+    "lang": "hin",
+    "days_keep_count": 10,
+    "adding_date": "2009-04-07",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL5260A",
+        "last_name": "Acharya",
+        "first_name": "Caturasena"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1403600M",
+    "title": "Active perception",
+    "city": "Hillsdale, N.J",
+    "publisher": "Lawrence Erlbaum Associates, Publishers",
+    "year": 1993,
+    "subject": "Computer vision.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 292,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2008-04-07",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1057202A",
+        "last_name": "Sultanov",
+        "first_name": "Sh"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1403601M",
+    "title": "Party receipts from the Charleston Junior League",
+    "city": "Chapel Hill, N.C",
+    "publisher": "Algonquin Books of Chapel Hill",
+    "year": 1993,
+    "subject": "Appetizers.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 201,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2010-02-07",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1119427A",
+        "last_name": "al-Ṭayyib Ḥusayn Idrīs",
+        "first_name": "Muḥammad"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1403602M",
+    "title": "Understanding computers",
+    "city": "New York",
+    "publisher": "HarperPerennial",
+    "year": 1994,
+    "subject": "Computers.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 246,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2002-05-10",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL584532A",
+        "last_name": "A. Silver",
+        "first_name": "Gerald"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14036031M",
+    "title": "Proceedings of the R.W. Grand Encampment of the State of Indiana at its annual communication.",
+    "city": "[Indianapolis?]",
+    "publisher": "The Lodge",
+    "year": 1863,
+    "subject": "Independent Order of Odd Fellows. Grand Lodge of Indiana -- Congresses",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2008-09-06",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4484559A",
+        "last_name": "Order of Odd Fellows. Grand Lodge of Indiana.",
+        "first_name": "Independent"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14036033M",
+    "title": "Proceedings of the S-19 workshop in phytonematology, 1957.",
+    "city": "Auburn? Ala",
+    "publisher": null,
+    "year": 1958,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2009-12-14",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4484561A",
+        "last_name": "In Phytonematology, University of Tennessee (1957)",
+        "first_name": "Workshop"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14036034M",
+    "title": "Proceedings of the second National conference on vocational guidance.",
+    "city": "New York",
+    "publisher": "The Secretary",
+    "year": 1913,
+    "subject": "Vocational guidance -- Congresses",
+    "genre": "Congresses.",
+    "periodic_release": null,
+    "page_count": 206,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2007-08-20",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4484562A",
+        "last_name": "Conference on Vocational Guidance (2nd 1912 New York, N.Y.)",
+        "first_name": "National"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14036035M",
+    "title": "Proceedings of the second annual National mine tax conference at the twenty-fourth annual convention",
+    "city": "[Chicago",
+    "publisher": null,
+    "year": 1921,
+    "subject": "Mines and mineral resources -- United States -- Taxation.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 84,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2005-05-07",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4484563A",
+        "last_name": "mine tax conference (2d 1921 Chicago)",
+        "first_name": "National"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14036036M",
+    "title": "Proceedings of the Senate and Assembly of the state of New York, in relation to the death of ex-Sena",
+    "city": "Albany",
+    "publisher": "Weed, Parsons and company",
+    "year": 1889,
+    "subject": "Conkling, Roscoe, 1829-1888. [from old catalog]",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 53,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2015-04-02",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4484564A",
+        "last_name": "York (State) Legislature",
+        "first_name": "New"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14036039M",
+    "title": "Proceedings of the State rights celebration, S.C., July 1st, 1830.",
+    "city": "Charleston",
+    "publisher": "Printed by A. E. Miller",
+    "year": 1830,
+    "subject": "States' rights (American politics)",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 56,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2013-12-03",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4484567A",
+        "last_name": "S.C. State rights and celebration, 1830",
+        "first_name": "Charleston,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1403603M",
+    "title": "Learning can be fun",
+    "city": "Grand Rapids, Mich",
+    "publisher": "Precious Moments, Inc.",
+    "year": 1993,
+    "subject": "Alphabet.",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 239,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2003-01-29",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL581437A",
+        "last_name": "Butcher Wiersma",
+        "first_name": "Debbie"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14036040M",
+    "title": "Proceedings of the State rights & free trade convention, held in Charleston (S.C) on the 22d and 25t",
+    "city": "Charleston",
+    "publisher": "State rights and free trade association",
+    "year": 1832,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2010-09-02",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4484568A",
+        "last_name": "S.C. State rights and free trade convention, 1832",
+        "first_name": "Charleston,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14036041M",
+    "title": "Proceedings [of the] annual business meeting.",
+    "city": "Madison",
+    "publisher": null,
+    "year": 1887,
+    "subject": "Wisconsin -- History -- Periodicals.",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2015-06-28",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL279888A",
+        "last_name": "Historical Society of Wisconsin.",
+        "first_name": "State"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14036042M",
+    "title": "Proceedings of the United States National Museum.",
+    "city": "Washington",
+    "publisher": "Smithsonian Institution Press, [etc.],",
+    "year": 0.101,
+    "subject": "Science -- Periodicals",
+    "genre": "Periodicals",
+    "periodic_release": 1,
+    "page_count": 125,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2007-02-17",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4484569A",
+        "last_name": "States National Museum.",
+        "first_name": "United"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14036043M",
+    "title": "Proceedings of the United States National Museum.",
+    "city": "Washington",
+    "publisher": "Smithsonian Institution Press, [etc.]",
+    "year": null,
+    "subject": "Science -- Periodicals",
+    "genre": "Periodicals",
+    "periodic_release": null,
+    "page_count": 125,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2005-01-08",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4484569A",
+        "last_name": "States National Museum.",
+        "first_name": "United"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14036044M",
+    "title": "Proceedings of the United States National Museum.",
+    "city": "Washington",
+    "publisher": "Smithsonian Institution Press, [etc.]",
+    "year": 106,
+    "subject": "Science -- Periodicals",
+    "genre": "Periodicals",
+    "periodic_release": 1,
+    "page_count": 125,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2015-03-28",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4484569A",
+        "last_name": "States National Museum.",
+        "first_name": "United"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14036045M",
+    "title": "Proceedings of the United States National Museum.",
+    "city": "Washington",
+    "publisher": "Smithsonian Institution Press, [etc.]",
+    "year": 107,
+    "subject": "Science -- Periodicals",
+    "genre": "Periodicals",
+    "periodic_release": null,
+    "page_count": 125,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2015-06-09",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4484569A",
+        "last_name": "States National Museum.",
+        "first_name": "United"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14036046M",
+    "title": "Proceedings of the United States National Museum.",
+    "city": "Washington",
+    "publisher": "Smithsonian Institution Press, [etc.]",
+    "year": 1878,
+    "subject": "Science -- Periodicals",
+    "genre": "Periodicals",
+    "periodic_release": 1,
+    "page_count": 125,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2001-03-07",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4484569A",
+        "last_name": "States National Museum.",
+        "first_name": "United"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1403604M",
+    "title": "The Role of insulin-like growth factors in the nervous system",
+    "city": "New York, N.Y",
+    "publisher": "New York Academy of Sciences",
+    "year": 1993,
+    "subject": "Somatomedin -- Physiological effect -- Congresses",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 336,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2015-10-06",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1135964A",
+        "last_name": "Vignudelli",
+        "first_name": "Aljs"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1403605M",
+    "title": "Aging into the 21st century",
+    "city": "New York",
+    "publisher": "Brunner/Mazel",
+    "year": 1994,
+    "subject": "Older people -- Psychology.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 221,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2000-04-08",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL532238A",
+        "last_name": "A. Dorfman",
+        "first_name": "Rachelle"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1403606M",
+    "title": "Siete cuentos",
+    "city": "Manchester",
+    "publisher": "Manchester University Press",
+    "year": 1994,
+    "subject": "Spanish language -- Readers.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 137,
+    "lang": "spa",
+    "days_keep_count": 50,
+    "adding_date": "2016-09-02",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL20988A",
+        "last_name": "Cortázar",
+        "first_name": "Julio"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1403607M",
+    "title": "The rise and fall of the Grenvilles",
+    "city": "Manchester",
+    "publisher": "Manchester University Press",
+    "year": 1994,
+    "subject": "Temple, Richard Grenville-Temple, Earl, 1711-1779 -- Family.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 308,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2012-02-05",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL543302A",
+        "last_name": "V. Beckett",
+        "first_name": "J."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1403608M",
+    "title": "Riding the Internet highway",
+    "city": "Carmel, Ind",
+    "publisher": "New Riders Pub.",
+    "year": 1993,
+    "subject": "Internet.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 266,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2003-05-01",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL627790A",
+        "last_name": "Fisher",
+        "first_name": "Sharon"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1403609M",
+    "title": "Heat pipe technology",
+    "city": "New York",
+    "publisher": "Begell House",
+    "year": 1993,
+    "subject": "Heat pipes -- Congresses.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2011-11-23",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL712645A",
+        "last_name": "Heat Pipe Conference (7th 1990 Minsk, Belarus)",
+        "first_name": "International"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL140360M",
+    "title": "Los consumidores del siglo XXI",
+    "city": "Madrid",
+    "publisher": "ESIC Editorial",
+    "year": 1999,
+    "subject": "Consumers.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 172,
+    "lang": "spa",
+    "days_keep_count": 10,
+    "adding_date": "2009-06-13",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL92533A",
+        "last_name": "Luisa Solé Moro",
+        "first_name": "María"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1403610M",
+    "title": "The St. Martin's guide to sources in contemporary British history",
+    "city": "New York",
+    "publisher": "St. Martin's Press",
+    "year": 1993,
+    "subject": "Archives -- Great Britain -- Directories",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2010-08-14",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL23086A",
+        "last_name": "Chris",
+        "first_name": "Cook,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14036119M",
+    "title": "Proceedings of the Wiscasset fire society at its ...",
+    "city": "Wiscasset, Me",
+    "publisher": null,
+    "year": 1900,
+    "subject": "Fire prevention -- Maine -- Wiscasset",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2008-11-06",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4484646A",
+        "last_name": "Me.",
+        "first_name": "Wiscasset,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1403611M",
+    "title": "Aguirre",
+    "city": "New York",
+    "publisher": "H. Holt",
+    "year": 1994,
+    "subject": "Aguirre, Lope de, d. 1561.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 244,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2004-03-16",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL386510A",
+        "last_name": "Minta",
+        "first_name": "Stephen"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14036124M",
+    "title": "Proceedings of the Worcester Society of Antiquity.",
+    "city": "Worcester, Mass",
+    "publisher": "The Society",
+    "year": 1877,
+    "subject": "Worcester (Mass.) -- History -- Periodicals",
+    "genre": "Periodicals.",
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2012-08-29",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL144550A",
+        "last_name": "Boutruche",
+        "first_name": "Robert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1403612M",
+    "title": "The fish that wasn't",
+    "city": "New York",
+    "publisher": "Hyperion Books for Children",
+    "year": 1994,
+    "subject": "Fishes -- Fiction.",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2008-11-04",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL585942A",
+        "last_name": "Borovsky",
+        "first_name": "Paul"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14036138M",
+    "title": "Proceedings on the occasion of the presentation of the gold medal to the city of San Francisco by th",
+    "city": "San Francisco",
+    "publisher": "[printed by the Stanley-Taylor Company]",
+    "year": 1909,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 13,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2000-03-04",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1387032A",
+        "last_name": "I. Popova",
+        "first_name": "T."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14036139M",
+    "title": "Proceedings and papers read before the Lehigh County Historical Society.",
+    "city": "Allentown, Penn",
+    "publisher": null,
+    "year": 1908,
+    "subject": "Lehigh County (Pa.) -- History -- Periodicals, societies, etc.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2006-08-18",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2439783A",
+        "last_name": "County Historical Society.",
+        "first_name": "Lehigh"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1403613M",
+    "title": "Always in September",
+    "city": "Wheaton, Ill",
+    "publisher": "Crossway Books",
+    "year": 1994,
+    "subject": "Women journalists -- Fiction",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 286,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2012-05-20",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL23208A",
+        "last_name": "Elaine Fell",
+        "first_name": "Doris"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14036140M",
+    "title": "Proceedings and reports.",
+    "city": "Belfast",
+    "publisher": null,
+    "year": 1885,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2013-02-22",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4484651A",
+        "last_name": "Natural History and Philosophical Society",
+        "first_name": "Belfast"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14036143M",
+    "title": "Proceedings relating to the expulsion of Ezekiel Hart from the House of Assembly of Lower Canada.",
+    "city": "[n.p.]",
+    "publisher": null,
+    "year": 1915,
+    "subject": "Hart, Ezekiel",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 53,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2014-04-30",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2562353A",
+        "last_name": "J. Price",
+        "first_name": "Julius"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14036144M",
+    "title": "Proceedings and reports.",
+    "city": "[New York? etc.]",
+    "publisher": null,
+    "year": 1882,
+    "subject": "African Americans",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2015-11-07",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4475621A",
+        "last_name": "F. Slater Fund",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14036146M",
+    "title": "Proceedings upon the occasion of the presentation of a portrait of the late honorable J. Otis Humphr",
+    "city": "[Springfield, Ill",
+    "publisher": "Committee on Presentation",
+    "year": 1923,
+    "subject": "Humphrey, J. Otis.",
+    "genre": "Biography.",
+    "periodic_release": 2,
+    "page_count": 54,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2004-04-29",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1351582A",
+        "last_name": "Pratt",
+        "first_name": "Lee"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14036147M",
+    "title": "Memorial proceedings of the Senate upon the death of Hon. George A. Vare",
+    "city": "Harrisburg, Pa",
+    "publisher": "Harrisburg Pub. Co., state printer",
+    "year": 1909,
+    "subject": "Vare, George Augustus, 1859-1908",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 20,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2000-02-05",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL113185A",
+        "last_name": "General Assembly. Senate.",
+        "first_name": "Pennsylvania."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14036148M",
+    "title": "Proclamation of Andrew Jackson, President of the United States, to the people of South Carolina, Dec",
+    "city": "Harrisburg",
+    "publisher": "Singerly & Myers, state printers",
+    "year": 1864,
+    "subject": "Nullification (States' rights)",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2012-10-14",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL352963A",
+        "last_name": "States. President (1829-1837 : Jackson)",
+        "first_name": "United"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14036149M",
+    "title": "Proclamation of Andrew Jackson, president of the United States, to the people of South Carolina, Dec",
+    "city": "Harrisburg",
+    "publisher": "A. B. Hamilton, state printer",
+    "year": 1862,
+    "subject": "Nullification (States' rights)",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 17,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2003-10-25",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL352963A",
+        "last_name": "States. President (1829-1837 : Jackson)",
+        "first_name": "United"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1403614M",
+    "title": "Backyard rescue",
+    "city": "New York",
+    "publisher": "Tambourine Books",
+    "year": 1994,
+    "subject": "Friendship -- Fiction.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 128,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2012-06-15",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL403158A",
+        "last_name": "Ryden",
+        "first_name": "Hope"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14036150M",
+    "title": "Procès Bazaine",
+    "city": "Clichy",
+    "publisher": "Impr. P. Dupont",
+    "year": 1873,
+    "subject": "Metz -- Siege, 1870",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 498,
+    "lang": "fre",
+    "days_keep_count": 30,
+    "adding_date": "2001-04-23",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2330018A",
+        "last_name": "François Bazaine",
+        "first_name": "Achille"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14036151M",
+    "title": "Procès de condamnation de Jeanne d'Arc. Texte, traduction et notes [par] Pierre Champion.",
+    "city": "Paris",
+    "publisher": "E. Champion",
+    "year": 1920,
+    "subject": "Joan, of Arc, Saint, 1412-1431 -- Trial",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "fre",
+    "days_keep_count": 200,
+    "adding_date": "2015-10-26",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL124523A",
+        "last_name": "of Arc, Saint",
+        "first_name": "Joan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14036153M",
+    "title": "Procès de M. Gisquet, ancien préfet de police ... contre le Messager",
+    "city": "Paris",
+    "publisher": "Pagnerre",
+    "year": 1839,
+    "subject": "Gisquet, Joseph-Henri, 1792-1866",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 135,
+    "lang": "fre",
+    "days_keep_count": 50,
+    "adding_date": "2001-02-11",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1025092A",
+        "last_name": "Maria Vasconcellos",
+        "first_name": "Gláucia"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14036154M",
+    "title": "Procès-verbaux, 1671-1793",
+    "city": "Paris",
+    "publisher": "J. Schemit",
+    "year": 1911,
+    "subject": "Architecture -- Societies, etc",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "fre",
+    "days_keep_count": 10,
+    "adding_date": "2013-02-25",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4484655A",
+        "last_name": "royale d'architecture, Paris",
+        "first_name": "Académie"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1403615M",
+    "title": "Veronica's sisters",
+    "city": "[Bath, England]",
+    "publisher": "Chivers Press",
+    "year": 1993,
+    "subject": "Pink, Melinda (Fictitious character) -- Fiction",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 301,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2008-12-17",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL712646A",
+        "last_name": "Moffat",
+        "first_name": "Gwen"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14036161M",
+    "title": "Procès verbaux des séances de l'Assemblée provinciale ... et de sa Commission intermédiare, 1787-179",
+    "city": "Trévoux",
+    "publisher": "Impr. de J. Jeannin",
+    "year": 1898,
+    "subject": "Rhône (France : Dept.) -- History -- Sources",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 414,
+    "lang": "fre",
+    "days_keep_count": 30,
+    "adding_date": "2013-02-24",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4484662A",
+        "last_name": "(France). Généralité)  Assemblée provinciale",
+        "first_name": "Lyon (France). Généralité) "
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14036162M",
+    "title": "Procès-verbaux de la Commune de Paris, 10 août 1792-1er juin 1793",
+    "city": "Paris",
+    "publisher": "Au siège de la Société",
+    "year": 1894,
+    "subject": "Paris (France) -- History -- 1789-1799 -- Sources",
+    "genre": "Sources",
+    "periodic_release": null,
+    "page_count": 203,
+    "lang": "fre",
+    "days_keep_count": 10,
+    "adding_date": "2003-06-18",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1919553A",
+        "last_name": "Tourneux",
+        "first_name": "Maurice"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14036163M",
+    "title": "Procès-verbaux de l'Académie royale de peinture et de sculpture, 1648-1793.",
+    "city": "Paris",
+    "publisher": "J. Baur",
+    "year": 1875,
+    "subject": "Art -- France -- History -- Sources",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "fre",
+    "days_keep_count": 30,
+    "adding_date": "2014-04-12",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4475459A",
+        "last_name": "royale de peinture et de sculpture (France)",
+        "first_name": "Académie"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1403616M",
+    "title": "I've got chicken pox",
+    "city": "New York",
+    "publisher": "Dutton Children's Books",
+    "year": 1994,
+    "subject": "Chicken pox -- Fiction.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2004-07-27",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL459700A",
+        "last_name": "Kelley",
+        "first_name": "True"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14036174M",
+    "title": "Procès-verbaux des États généraux de 1593.",
+    "city": "Paris",
+    "publisher": "Impr. royale",
+    "year": 1842,
+    "subject": "France -- Politics and government -- 1589-1789",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 831,
+    "lang": "fre",
+    "days_keep_count": 50,
+    "adding_date": "2001-01-25",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4484663A",
+        "last_name": "États généraux, 1593",
+        "first_name": "France."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14036175M",
+    "title": "Procès-verbaux of the proceedings of the Committee",
+    "city": "The Hague",
+    "publisher": "Van Langenhuysen",
+    "year": 1920,
+    "subject": "Permanent Court of International Justice",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 779,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2010-01-03",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2547006A",
+        "last_name": "of Nations.  Advisory Committee of Jurists.",
+        "first_name": "League of Nations. "
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14036176M",
+    "title": "Proctor",
+    "city": "Brattleboro, Vermont",
+    "publisher": "Vermont printing co.",
+    "year": 1922,
+    "subject": "Proctor, Redfield, 1831-1908.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 261,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2014-04-02",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4484664A",
+        "last_name": "C. Gale",
+        "first_name": "David"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14036177M",
+    "title": "Proctor",
+    "city": "Brattleboro, Vt",
+    "publisher": "The Vermont Print. Co.",
+    "year": 1922,
+    "subject": "Proctor (Vt.) -- History",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 260,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2010-11-09",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4484665A",
+        "last_name": "C Gale",
+        "first_name": "David"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14036178M",
+    "title": "Prodromus florae Monasteriensis Westphalorum.",
+    "city": "Monasterii",
+    "publisher": "F. Regensberg",
+    "year": 1824,
+    "subject": "Plants -- Germany -- Mnster.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 332,
+    "lang": "lat",
+    "days_keep_count": 30,
+    "adding_date": "2004-09-20",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4484666A",
+        "last_name": "Maria Franz von Bnninghausen",
+        "first_name": "Clemens"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14036179M",
+    "title": "Profane istorie",
+    "city": "Roma",
+    "publisher": "Stab. del Fibreno",
+    "year": 1885,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 164,
+    "lang": "ita",
+    "days_keep_count": 50,
+    "adding_date": "2009-02-08",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4484667A",
+        "last_name": "Ugo 1857-1939.",
+        "first_name": "Fleres,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1403617M",
+    "title": "The promise of pragmatism",
+    "city": "Chicago",
+    "publisher": "University of Chicago Press",
+    "year": 1994,
+    "subject": "Pragmatism",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 515,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2013-01-08",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL241850A",
+        "last_name": "P. Diggins",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14036180M",
+    "title": "Professeur Knatschké",
+    "city": "Paris",
+    "publisher": "H. Floury",
+    "year": 1916,
+    "subject": "Caricatures and cartoons -- Germany",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 140,
+    "lang": "fre",
+    "days_keep_count": 100,
+    "adding_date": "2004-06-24",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL6554212A",
+        "last_name": "Jacques Waltz",
+        "first_name": "Jean"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14036181M",
+    "title": "The professional education of teachers in Cleveland.",
+    "city": "[Cleveland, Ohio",
+    "publisher": null,
+    "year": 1922,
+    "subject": "Teachers -- Training of -- Ohio -- Cleveland.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 92,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2012-07-23",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4484668A",
+        "last_name": "Foundation. Educational Commission.",
+        "first_name": "Cleveland"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14036182M",
+    "title": "The professor",
+    "city": "New York",
+    "publisher": "Harper & brothers",
+    "year": 1900,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 546,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2013-06-02",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4326635A",
+        "last_name": "Brontë",
+        "first_name": "Charlotte"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14036183M",
+    "title": "Professor Birt's edition of the Vergilian Catalepton",
+    "city": "London",
+    "publisher": "H. Frowde",
+    "year": 1910,
+    "subject": "Birt, Theodor, 1852-1933.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 17,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2007-07-18",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1806591A",
+        "last_name": "Ellis",
+        "first_name": "Robinson"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14036184M",
+    "title": "Prof. H. Kling's Modern orchestration and instrumentation, or, The art of instrumentation",
+    "city": "New York, N. Y",
+    "publisher": "C. Fischer",
+    "year": 1905,
+    "subject": "Instrumentation and orchestration",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 346,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2008-10-07",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL281068A",
+        "last_name": "Kling",
+        "first_name": "Henri"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14036185M",
+    "title": "A profitable book, treating of the laws of England",
+    "city": "London",
+    "publisher": "J. & W. T. Clarke",
+    "year": 1827,
+    "subject": "Conveyancing -- Great Britain.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 384,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2006-01-04",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL919011A",
+        "last_name": "John",
+        "first_name": "Perkins,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14036186M",
+    "title": "Prof. W.R. Smith's article on \"Hebrew language and literature\" in the eleventh volume of the Encyclo",
+    "city": "Edinburgh",
+    "publisher": "J. Maclaren",
+    "year": 1880,
+    "subject": "Smith, W. Robertson 1846-1894.",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 20,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2014-09-02",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1786116A",
+        "last_name": "White",
+        "first_name": "Malcolm"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14036187M",
+    "title": "Program, 250th anniversary of the founding of the Village of Bergen, 1660",
+    "city": "[Jersey City, N.J.]",
+    "publisher": "The Society",
+    "year": 1910,
+    "subject": "Bergen (N.J.) -- History.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 64,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2001-11-19",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2615033A",
+        "last_name": "Society of Hudson County (N.J.).",
+        "first_name": "Historical"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL14036188M",
+    "title": "Programme of the world revolution",
+    "city": "Glasgow",
+    "publisher": "Socialist Labour Press",
+    "year": 1920,
+    "subject": "Communism",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 94,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2010-02-24",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1742755A",
+        "last_name": "Ivanovich Bukharin",
+        "first_name": "Nikolai"
+      }
+    ]
+  }
+]

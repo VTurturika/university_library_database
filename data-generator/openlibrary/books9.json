@@ -1,0 +1,4402 @@
+[
+  {
+    "openlibrary_id": "/books/OL13900326M",
+    "title": "A critical and exegetical commentary on the Books of Samuel",
+    "city": "Edinburgh",
+    "publisher": null,
+    "year": 1969,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 421,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2013-08-09",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL316814A",
+        "last_name": "Preserved Smith",
+        "first_name": "Henry"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900327M",
+    "title": "Laneton parsonage",
+    "city": "London",
+    "publisher": null,
+    "year": 1846,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2016-07-12",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2000972A",
+        "last_name": "Missing Sewell",
+        "first_name": "Elizabeth"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900328M",
+    "title": "The heritage we defend",
+    "city": "Detroit",
+    "publisher": "LaborPublications",
+    "year": 1988,
+    "subject": "Fourth International.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 539,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2011-04-12",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2656381A",
+        "last_name": "North",
+        "first_name": "David"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900329M",
+    "title": "Oeuvres de Horace",
+    "city": "Paris",
+    "publisher": "Alphonse Lemerre",
+    "year": 1873,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 268,
+    "lang": "mul",
+    "days_keep_count": 100,
+    "adding_date": "2005-06-03",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL20088A",
+        "last_name": "Horace",
+        "first_name": "Horace"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1390032M",
+    "title": "Shifāʼ al-ṣudūr fī ziyārat al-mashāhid wa-al-qubūr",
+    "city": "al-Nuqrah [Kuwait]",
+    "publisher": "Maktabat al-Ṣaḥwah",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 192,
+    "lang": "ara",
+    "days_keep_count": 100,
+    "adding_date": "2016-07-25",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL707712A",
+        "last_name": "Marʻī ibn Yūsuf",
+        "first_name": "Karmī,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900330M",
+    "title": "The relation of theosophy to the Churches",
+    "city": "Harrogate",
+    "publisher": null,
+    "year": 1903,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 22,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2011-12-03",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437305A",
+        "last_name": "Smith",
+        "first_name": "Hodgson"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900331M",
+    "title": "Margaret Percival",
+    "city": "London",
+    "publisher": null,
+    "year": 1847,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2001-05-29",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2000972A",
+        "last_name": "Missing Sewell",
+        "first_name": "Elizabeth"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900332M",
+    "title": "An introduction to the study of geometrical conic sections.",
+    "city": "London",
+    "publisher": "Rivingtons",
+    "year": 1895,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 166,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2013-05-17",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2603858A",
+        "last_name": "James Hamblin.",
+        "first_name": "Smith,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900333M",
+    "title": "Christian politics.",
+    "city": "London",
+    "publisher": null,
+    "year": 1844,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 420,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2010-04-24",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4435994A",
+        "last_name": "Sewell",
+        "first_name": "William"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900334M",
+    "title": "UNICEF in the Middle East and North Africa",
+    "city": "[New York]",
+    "publisher": "UNICEF",
+    "year": 1989,
+    "subject": "UNICEF.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 79,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2010-04-24",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL783420A",
+        "last_name": "G. Iskander",
+        "first_name": "Michel"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900335M",
+    "title": "Robert Burns and his politics.",
+    "city": "Glasgow",
+    "publisher": "J.B. Payne for the Glasgow Labour College",
+    "year": 1925,
+    "subject": "Burns, Robert, -- 1759-1796.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 32,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2005-07-18",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2757295A",
+        "last_name": "S. Clarke",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900336M",
+    "title": "Genealogies of an Aberdeen family, 1540-1913",
+    "city": "Aberdeen",
+    "publisher": null,
+    "year": 1913,
+    "subject": "Smith family, -- of Aberdeen.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 148,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2003-03-26",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2348979A",
+        "last_name": "Smith",
+        "first_name": "James"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900337M",
+    "title": "Notre-Dame de Paris.",
+    "city": "Paris",
+    "publisher": "Hachette",
+    "year": 1882,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 400,
+    "lang": "fre",
+    "days_keep_count": 100,
+    "adding_date": "2007-05-27",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL107571A",
+        "last_name": "Hugo",
+        "first_name": "Victor"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900338M",
+    "title": "Account accompanying environmental geology maps of Glasgow (parts of National Grid sheets NS 55, 57 ",
+    "city": "Edinburgh",
+    "publisher": "British Geological Survey",
+    "year": 1985,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2012-05-30",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437307A",
+        "last_name": "H. Forsyth",
+        "first_name": "I."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900339M",
+    "title": "Gross domestic product in Scotland",
+    "city": "[Edinburgh]",
+    "publisher": "[Economicsand Statistics Unit, Industry Department for Scotland]",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 52,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2003-11-24",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437308A",
+        "last_name": "S. Henderson",
+        "first_name": "D."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1390033M",
+    "title": "Qaṣāʼid al-ghurbah",
+    "city": "[Kuwait",
+    "publisher": "s.n.]",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 53,
+    "lang": "ara",
+    "days_keep_count": 100,
+    "adding_date": "2003-10-02",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL707713A",
+        "last_name": "Quʻayyid al-Masʻūdī ʻUtaybī",
+        "first_name": "Marzūq"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900340M",
+    "title": "The bibliography of Dickens",
+    "city": "London",
+    "publisher": null,
+    "year": 1880,
+    "subject": "Dickens, Charles, -- 1812-1870.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 107,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2006-10-16",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1198616A",
+        "last_name": "Herne Shepherd",
+        "first_name": "Richard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900341M",
+    "title": "Les dames galantes",
+    "city": "Paris",
+    "publisher": "Librairie des Bibliophiles",
+    "year": 1876,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 416,
+    "lang": "fre",
+    "days_keep_count": 10,
+    "adding_date": "2006-01-23",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4354751A",
+        "last_name": "me, Pierre de Bourdeille Seigneur de.",
+        "first_name": "Branto"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900342M",
+    "title": "Origins of the Campbells of Inverneill",
+    "city": "Edinburgh",
+    "publisher": "[s.n.]",
+    "year": 1988,
+    "subject": "Campbell family, -- , of Inverneill.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 72,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2005-11-08",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL411760A",
+        "last_name": "Campbell",
+        "first_name": "Colin"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900343M",
+    "title": "David Hume",
+    "city": "Edinburgh",
+    "publisher": "the Paperback",
+    "year": 1961,
+    "subject": "Hume, David, -- 1711-1776.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 19,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2004-10-29",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437309A",
+        "last_name": "McDiarmid",
+        "first_name": "Hugh"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900344M",
+    "title": "Mayakovskii.",
+    "city": "London",
+    "publisher": "Barrie & Jenkins",
+    "year": 1972,
+    "subject": "Mayakovskii , V. V. -- 1893-1930.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2011-08-17",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL117944A",
+        "last_name": "Hugh",
+        "first_name": "MacDiarmid,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900345M",
+    "title": "The feeble-minded",
+    "city": "London",
+    "publisher": null,
+    "year": 1911,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 327,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2002-08-06",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2388097A",
+        "last_name": "Birchall Sherlock",
+        "first_name": "Edward"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900346M",
+    "title": "New climbs in Norway",
+    "city": "London",
+    "publisher": "T. Fisher Unwin",
+    "year": 1898,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 257,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2001-12-07",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2505348A",
+        "last_name": "C. Oppenheim",
+        "first_name": "E."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900347M",
+    "title": "Bacterial kidney disease.",
+    "city": "Aberdeen",
+    "publisher": "Department of Agriculture and Fisheries for Scotland, Marine Laboratory",
+    "year": 1988,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2007-03-22",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437310A",
+        "last_name": "W. Bruno",
+        "first_name": "David"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900348M",
+    "title": "Die hohe Felsenku ste",
+    "city": "[Berlin]",
+    "publisher": "[Total-Hirsch]",
+    "year": 1957,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 24,
+    "lang": "ger",
+    "days_keep_count": 10,
+    "adding_date": "2001-01-13",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL117944A",
+        "last_name": "Hugh",
+        "first_name": "MacDiarmid,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900349M",
+    "title": "The new fibers",
+    "city": "New York",
+    "publisher": null,
+    "year": 1946,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 537,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2010-11-14",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2379879A",
+        "last_name": "V. Sherman",
+        "first_name": "Joseph"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1390034M",
+    "title": "Urjūḥat al-ḥubb wa-al-zaman",
+    "city": "[Kuwait",
+    "publisher": "s.n.]",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 209,
+    "lang": "ara",
+    "days_keep_count": 30,
+    "adding_date": "2015-03-05",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL707709A",
+        "last_name": "Saʻd",
+        "first_name": "Khālid"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900350M",
+    "title": "Buddhists and glaciers of Western Tibet",
+    "city": "London",
+    "publisher": "Kegan Paul,Trench, Trubner",
+    "year": 1933,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 304,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2002-07-01",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437312A",
+        "last_name": "Dainelli",
+        "first_name": "Giotto"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900351M",
+    "title": "A Book of rooks",
+    "city": "Market Drayton",
+    "publisher": "Tern Press",
+    "year": 1988,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 103,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2010-10-06",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL118929A",
+        "last_name": "Jefferies",
+        "first_name": "Richard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900352M",
+    "title": "Meteorological and physical observations on the east coast of British America.",
+    "city": "Washington",
+    "publisher": null,
+    "year": 1883,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 202,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2004-12-22",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2509602A",
+        "last_name": "Taft Sherman",
+        "first_name": "Orray"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900353M",
+    "title": "Men, women and mountains",
+    "city": "London",
+    "publisher": "Ivor Nicholson & Watson",
+    "year": 1931,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 154,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2001-06-15",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437314A",
+        "last_name": "Schuster",
+        "first_name": "Claud"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900354M",
+    "title": "First impressions of Norway",
+    "city": "[S.l.]",
+    "publisher": "[s.n.]",
+    "year": 1934,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2007-01-11",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437315A",
+        "last_name": "P. Spilsbury",
+        "first_name": "H."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900355M",
+    "title": "Simple interest tables (. s. d.).",
+    "city": "[England?]",
+    "publisher": null,
+    "year": 1900,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 172,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2007-03-03",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437316A",
+        "last_name": "Schoooling",
+        "first_name": "William"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900356M",
+    "title": "The Naked mountain",
+    "city": "London",
+    "publisher": "G. P. Putnam's Sons",
+    "year": 1933,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 350,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2016-02-08",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2313728A",
+        "last_name": "Knowlton",
+        "first_name": "Elizabeth"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900357M",
+    "title": "Mario Schifano.",
+    "city": "Lyon",
+    "publisher": "Muse e Saint Pierre Art Contemporain",
+    "year": 1985,
+    "subject": "Schifano, Mario, -- 1934-",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 125,
+    "lang": "mul",
+    "days_keep_count": 30,
+    "adding_date": "2004-11-08",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437317A",
+        "last_name": "Schifano",
+        "first_name": "Mario"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900358M",
+    "title": "Diary of D Day dodger.",
+    "city": "[Alloa]",
+    "publisher": "Clackmannan District Libraries",
+    "year": 1989,
+    "subject": "McKenzie, William I.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 72,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2010-11-12",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437318A",
+        "last_name": "I. McKenzie",
+        "first_name": "William"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900359M",
+    "title": "Minor tactics for non-commissioned officers",
+    "city": "[Linlithgow]",
+    "publisher": "[the author]",
+    "year": 1897,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 54,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2008-09-26",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437319A",
+        "last_name": "Peterkin",
+        "first_name": "Edward"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1390035M",
+    "title": "Shaykh al-Islām Aḥmd Taqī al-Dīn ibn Taymīyah",
+    "city": "al-Kuwayt",
+    "publisher": "Maktabat al-Sundus",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 168,
+    "lang": "ara",
+    "days_keep_count": 10,
+    "adding_date": "2016-08-22",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL707714A",
+        "last_name": "Qaṭṭān",
+        "first_name": "Aḥmad"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900360M",
+    "title": "Le visage du vent d'est",
+    "city": "Paris",
+    "publisher": "Les Presses D'Aujourd'hui",
+    "year": 1980,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 281,
+    "lang": "fre",
+    "days_keep_count": 30,
+    "adding_date": "2001-08-22",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL77102A",
+        "last_name": "Kenneth",
+        "first_name": "White,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900361M",
+    "title": "Burns' centenary",
+    "city": "Glasgow",
+    "publisher": "printed for the author",
+    "year": 1859,
+    "subject": "Burns, Robert, -- 1759-1796.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 14,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2001-04-28",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437320A",
+        "last_name": "Lindores",
+        "first_name": "James"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900362M",
+    "title": "Stop forgetting",
+    "city": "Marple",
+    "publisher": "Psychology Publishing Company",
+    "year": 1962,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 267,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2013-02-27",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2677392A",
+        "last_name": "Furst",
+        "first_name": "Bruno"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900363M",
+    "title": "The Upanishads",
+    "city": "Madras",
+    "publisher": "Ganesh",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 272,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2010-12-03",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2907994A",
+        "last_name": "P. Pandit",
+        "first_name": "M."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900364M",
+    "title": "A search for the self",
+    "city": "Ganeshpuri",
+    "publisher": "Gurudev Siddha Peeth",
+    "year": 1979,
+    "subject": "Muktananda, -- Swami, -- 1908-",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 142,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2007-07-29",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437321A",
+        "last_name": "Swami.",
+        "first_name": "Prajnananda"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900365M",
+    "title": "Two diseases of red cedar, caused by polyporous juniperinus n. sp. and polyporus carneus nees",
+    "city": "Washington",
+    "publisher": null,
+    "year": 1900,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 22,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2013-04-17",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437322A",
+        "last_name": "Von Schrenk",
+        "first_name": "Hermann"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900366M",
+    "title": "The nectar of self-awareness",
+    "city": "New York",
+    "publisher": "SYDA Foundation",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 128,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2013-03-30",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437323A",
+        "last_name": "-anes var",
+        "first_name": "Jn"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900367M",
+    "title": "The supreme master",
+    "city": "Vidyanagar",
+    "publisher": "Shirdi Sai",
+    "year": 1979,
+    "subject": "Akkalakotaniva si , -- Swami.",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 88,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2011-01-12",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL995008A",
+        "last_name": "Bharadwaja",
+        "first_name": "E."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900368M",
+    "title": "Some diseases of New England conifers",
+    "city": "Washington",
+    "publisher": null,
+    "year": 1900,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 56,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2008-05-02",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437322A",
+        "last_name": "Von Schrenk",
+        "first_name": "Hermann"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900369M",
+    "title": "The one work",
+    "city": "London",
+    "publisher": "Vincent Stuart",
+    "year": 1961,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 147,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2014-05-17",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3458536A",
+        "last_name": "Gage",
+        "first_name": "Anne"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1390036M",
+    "title": "al- Ibānah fī tartīb aḥādīth wa-āthār Musnad Abī ʻAwānah",
+    "city": "[Kuwait",
+    "publisher": "s.n.]",
+    "year": 1987,
+    "subject": "Abū ʻAwānah, Yaʻqūb ibn Iṣḥāq, d. 928 or 9.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 140,
+    "lang": "ara",
+    "days_keep_count": 50,
+    "adding_date": "2002-11-30",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL707715A",
+        "last_name": "ibn Maḥmūd ʻArādah",
+        "first_name": "Ṭālib"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900370M",
+    "title": "Kula rnava Tantra.",
+    "city": "Madras",
+    "publisher": "Ganesh",
+    "year": 1973,
+    "subject": "Tantras. -- Kula rnavatantra.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 128,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2008-04-03",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2907994A",
+        "last_name": "P. Pandit",
+        "first_name": "M."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900371M",
+    "title": "Sandro Botticelli",
+    "city": "Florence",
+    "publisher": "Alinari Fre res",
+    "year": 1900,
+    "subject": "Botticelli, Sandro, -- 1444 or 5-1510.",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 169,
+    "lang": "fre",
+    "days_keep_count": 30,
+    "adding_date": "2006-02-11",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2397481A",
+        "last_name": "B. Supino",
+        "first_name": "I."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900372M",
+    "title": "Building bridges into work",
+    "city": "[Edinburgh]",
+    "publisher": "Moray House College",
+    "year": 1988,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 202,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2000-05-10",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437326A",
+        "last_name": "McMichael",
+        "first_name": "Paquita"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900373M",
+    "title": "Futuh al-Ghaib",
+    "city": "Lahore",
+    "publisher": "Muhammad Ashraf",
+    "year": 1967,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 213,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2002-04-16",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437327A",
+        "last_name": "al-Qa dir al-Ji la ni .",
+        "first_name": "Abd"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900374M",
+    "title": "Robert Burns",
+    "city": "London",
+    "publisher": "Elliot Stock",
+    "year": 1886,
+    "subject": "Burns, Robert, -- 1759-1796.",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 79,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2001-09-19",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437328A",
+        "last_name": "Scotchwoman.",
+        "first_name": "Scotchwoman."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900375M",
+    "title": "A weaver's shuttle",
+    "city": "London",
+    "publisher": "Gowans & Gray",
+    "year": 1910,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 135,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2005-09-01",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1055378A",
+        "last_name": "Rowley",
+        "first_name": "Anthony"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900376M",
+    "title": "Anglo-Catholicism and the Oxford Movement",
+    "city": "London",
+    "publisher": "Protestant Reformation Society and Harrison Trust",
+    "year": 1933,
+    "subject": "Oxford Movement.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 126,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2014-12-27",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3769849A",
+        "last_name": "Preston",
+        "first_name": "W."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900377M",
+    "title": "Essays on the moral and scientific aspects of the temperance question",
+    "city": "London",
+    "publisher": "W. Tweedie",
+    "year": 1854,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 135,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2001-05-12",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437329A",
+        "last_name": "Richard Lees",
+        "first_name": "Frederic"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900378M",
+    "title": "Burns in Ellisland",
+    "city": "[Scotland]",
+    "publisher": "Ellisland Trust",
+    "year": 1989,
+    "subject": "Burns, Robert, -- 1759-1796.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 32,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2002-08-06",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL24482A",
+        "last_name": "James A.",
+        "first_name": "Mackay,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900379M",
+    "title": "The Zulu",
+    "city": "London",
+    "publisher": "Canada House Cultural Centre",
+    "year": 1989,
+    "subject": "Collyer, Robin.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2002-09-30",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL620382A",
+        "last_name": "Collyer",
+        "first_name": "Robin"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1390037M",
+    "title": "al-ʻ Amal al-shaʻbī al-ʻArabī",
+    "city": "al-Kuwayt",
+    "publisher": "[s.n.]",
+    "year": 1990,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 194,
+    "lang": "ara",
+    "days_keep_count": 30,
+    "adding_date": "2006-06-03",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1233081A",
+        "last_name": "Bagley",
+        "first_name": "Mary"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900380M",
+    "title": "Half-hourlectures on the history and practice of the fine and ornamental arts",
+    "city": "London",
+    "publisher": "Longmans, Green",
+    "year": 1880,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 359,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2004-05-30",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2525012A",
+        "last_name": "B. Scott",
+        "first_name": "William"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900381M",
+    "title": "Sappho",
+    "city": "London",
+    "publisher": "T.N.Foulis",
+    "year": 1911,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 82,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2006-01-04",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4377697A",
+        "last_name": "Sappho",
+        "first_name": "Sappho"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900382M",
+    "title": "The Bodie book",
+    "city": "London",
+    "publisher": "Caxton Press",
+    "year": 1905,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 193,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2004-04-20",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437330A",
+        "last_name": "Bodie",
+        "first_name": "Walford"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900383M",
+    "title": "Wandering Willie",
+    "city": "Edinburgh",
+    "publisher": null,
+    "year": 1887,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 316,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2012-11-20",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL119719A",
+        "last_name": "Steward",
+        "first_name": "Andrew"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900384M",
+    "title": "Antike koptische textilien",
+    "city": "Wien",
+    "publisher": "NO  Landesregierung",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 86,
+    "lang": "ger",
+    "days_keep_count": 10,
+    "adding_date": "2011-10-17",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437331A",
+        "last_name": "Bichler",
+        "first_name": "Peter"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900385M",
+    "title": "The socialist want",
+    "city": "Glasgow",
+    "publisher": null,
+    "year": 1896,
+    "subject": "Eclectic Socialist Union.",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 15,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2006-04-15",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437332A",
+        "last_name": "E.A.S.",
+        "first_name": "E.A.S."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900386M",
+    "title": "Co-ops in Glasgow",
+    "city": "[Glasgow]",
+    "publisher": "[s.n.]",
+    "year": 1988,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 10,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2001-07-31",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437333A",
+        "last_name": "W. Kane",
+        "first_name": "Peter"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900387M",
+    "title": "Burns",
+    "city": "Rouen",
+    "publisher": "Cagniard",
+    "year": 1874,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 138,
+    "lang": "fre",
+    "days_keep_count": 100,
+    "adding_date": "2005-12-01",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL63008A",
+        "last_name": "Burns",
+        "first_name": "Robert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900388M",
+    "title": "For only a few.",
+    "city": "Harrisburg, Pa",
+    "publisher": "[The author?]",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 57,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2003-01-19",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437090A",
+        "last_name": "Smith Ashman",
+        "first_name": "Russell"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900389M",
+    "title": "Impotence",
+    "city": "London",
+    "publisher": "Channel 4 Television",
+    "year": 1990,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 24,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2009-12-03",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1710893A",
+        "last_name": "Gillie",
+        "first_name": "Oliver"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1390038M",
+    "title": "Baṭal al-Abṭāl al-Shahīd Aḥmad Qabāzard",
+    "city": "[Kuwait]",
+    "publisher": "N. al-Saddānī",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 168,
+    "lang": "ara",
+    "days_keep_count": 50,
+    "adding_date": "2006-08-08",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL707716A",
+        "last_name": "Saddānī",
+        "first_name": "Nūrīyah"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900390M",
+    "title": "Quest for law.",
+    "city": "New York",
+    "publisher": null,
+    "year": 1941,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2015-02-23",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437334A",
+        "last_name": "Seagie",
+        "first_name": "William"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900391M",
+    "title": "Passenger to Carradale.",
+    "city": "Glasgow",
+    "publisher": "Lyon",
+    "year": 1938,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 30,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2014-09-12",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1114167A",
+        "last_name": "Miller",
+        "first_name": "Alexander"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900392M",
+    "title": "War-time",
+    "city": "London",
+    "publisher": "Constable",
+    "year": 1915,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 56,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2013-11-29",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4341960A",
+        "last_name": "Seaman",
+        "first_name": "Owen"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900393M",
+    "title": "Great desserts",
+    "city": "London",
+    "publisher": "Hamlyn",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 192,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2013-07-07",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL36929A",
+        "last_name": "Teubner",
+        "first_name": "Christian"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900394M",
+    "title": "Verses.",
+    "city": "[Scotland]",
+    "publisher": "[s.n.]",
+    "year": 1909,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 28,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2004-05-27",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437335A",
+        "last_name": "Boyd",
+        "first_name": "Alexander"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900395M",
+    "title": "The electrical age",
+    "city": "London",
+    "publisher": null,
+    "year": 1932,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 229,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2002-06-27",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437336A",
+        "last_name": "Harold Legerton Searle",
+        "first_name": "Victor"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900396M",
+    "title": "Light reflections and mirror images",
+    "city": "[Glenrothes]",
+    "publisher": "The Author",
+    "year": 1988,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 29,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2002-06-20",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4436857A",
+        "last_name": "McGrory",
+        "first_name": "Eddie"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900397M",
+    "title": "The second coming",
+    "city": "London",
+    "publisher": "JamesNisbet",
+    "year": 1913,
+    "subject": "Jesus Christ.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 133,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2014-09-20",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL469748A",
+        "last_name": "Davidson",
+        "first_name": "James"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900398M",
+    "title": "Woodcraft.",
+    "city": "New York",
+    "publisher": null,
+    "year": 1891,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 149,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2014-07-02",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437337A",
+        "last_name": "Nessmuk.",
+        "first_name": "Nessmuk."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900399M",
+    "title": "The testament of Charlotte B",
+    "city": "Marlborough",
+    "publisher": "Libanus Press",
+    "year": 1988,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 70,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2010-01-11",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437338A",
+        "last_name": "B",
+        "first_name": "Charlotte"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1390039M",
+    "title": "Balāghat al-khiṭāb wa-ʻilm al-naṣṣ",
+    "city": "al-Kuwayt",
+    "publisher": "al-Majlis al-Waṭanī lil-Thaqāfah wa-al-Funūn wa-al-Ādāb",
+    "year": 1992,
+    "subject": "Arabic language -- Rhetoric",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 360,
+    "lang": "ara",
+    "days_keep_count": 50,
+    "adding_date": "2013-12-27",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL707717A",
+        "last_name": "Faḍl",
+        "first_name": "Ṣalāḥ"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL139003M",
+    "title": "Poemas venezolanos de todos los tiempos",
+    "city": "Caracas",
+    "publisher": "Consejo Nacional de la Cultura",
+    "year": 1998,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 409,
+    "lang": "spa",
+    "days_keep_count": 50,
+    "adding_date": "2016-08-29",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1416405A",
+        "last_name": "Sergeevich Nilogov",
+        "first_name": "Alekseĭ"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900400M",
+    "title": "Scottish further education development plans",
+    "city": "[Edinburgh?]",
+    "publisher": "[Scottish Education Department?]",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 52,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2006-06-16",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437339A",
+        "last_name": "Neil",
+        "first_name": "James"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900401M",
+    "title": "A shooting man's year.",
+    "city": "London",
+    "publisher": null,
+    "year": 1948,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 187,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2014-04-19",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4436949A",
+        "last_name": "M. Sedgwick",
+        "first_name": "Noel"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900402M",
+    "title": "Witley Court revisited",
+    "city": "Malvern",
+    "publisher": "Migrant Press",
+    "year": 1975,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2012-07-14",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1248901A",
+        "last_name": "Turnbull",
+        "first_name": "Gael"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900403M",
+    "title": "The meaning of the Old Testament",
+    "city": "London",
+    "publisher": "S.C.M.",
+    "year": 1946,
+    "subject": "Bible. -- O.T.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 100,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2015-04-08",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1811916A",
+        "last_name": "Hugh",
+        "first_name": "Martin,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900404M",
+    "title": "Summa theologiae moralis",
+    "city": "Oeniponte",
+    "publisher": "Typis et sumptibus Fel. Rauch",
+    "year": 1929,
+    "subject": "Catholic Church.",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "lat",
+    "days_keep_count": 50,
+    "adding_date": "2009-10-13",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437340A",
+        "last_name": "Noldin",
+        "first_name": "H."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900405M",
+    "title": "The book of St. Michael's Church, Dumfries",
+    "city": "Dumfries",
+    "publisher": "J. Maxwell",
+    "year": 1904,
+    "subject": "St. Michael's Church (Dumfries).",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 186,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2008-01-20",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437341A",
+        "last_name": "Paton",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900406M",
+    "title": "The gun on saltings and stubble.",
+    "city": "London",
+    "publisher": null,
+    "year": 1949,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 221,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2011-11-10",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4436949A",
+        "last_name": "M. Sedgwick",
+        "first_name": "Noel"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900407M",
+    "title": "The auld Scots fayre",
+    "city": "[St. Andrews?]",
+    "publisher": "The Author",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 50,
+    "lang": "sco",
+    "days_keep_count": 10,
+    "adding_date": "2013-08-13",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL59459A",
+        "last_name": "Peter.",
+        "first_name": "Brown,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900408M",
+    "title": "Metamorphosis",
+    "city": "[England",
+    "publisher": "[s.n.]]",
+    "year": 1976,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2004-07-20",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2763094A",
+        "last_name": "St. John",
+        "first_name": "Robert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900409M",
+    "title": "A book of sundial mottoes",
+    "city": "Edinburgh",
+    "publisher": "T.N. Foulis",
+    "year": 1907,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 141,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2012-09-28",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2502539A",
+        "last_name": "H. Hyatt",
+        "first_name": "Alfred"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1390040M",
+    "title": "Ayyām al-ṣumūd",
+    "city": "al-Kuwayt",
+    "publisher": "[s.n.]",
+    "year": 1991,
+    "subject": "Iraq-Kuwait Crisis, 1990-1991 -- Personal narratives.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 268,
+    "lang": "ara",
+    "days_keep_count": 50,
+    "adding_date": "2012-01-13",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL707718A",
+        "last_name": "Aḥmad Rāshid",
+        "first_name": "Ibrāhīm"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900410M",
+    "title": "The theory and practice of lunch",
+    "city": "London",
+    "publisher": "Joseph",
+    "year": 1986,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 120,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2006-05-20",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL341872A",
+        "last_name": "Keith.",
+        "first_name": "Waterhouse,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900411M",
+    "title": "The eighth dwarf.",
+    "city": "Gourock",
+    "publisher": "Itinerant",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 18,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2015-09-22",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437342A",
+        "last_name": "Fulton",
+        "first_name": "hGraham"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900412M",
+    "title": "\"Many infallible proofs\"",
+    "city": "Kilmarnock",
+    "publisher": "John Ritchie",
+    "year": 1889,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 317,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2004-10-28",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL33923A",
+        "last_name": "T. Pierson",
+        "first_name": "Arthur"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900413M",
+    "title": "Local variations in school-leaver employment within large cities",
+    "city": "Edinburgh",
+    "publisher": "University of Edinburgh, Centre for Educational Sociology",
+    "year": 1987,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 130,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2010-03-11",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437343A",
+        "last_name": "L. Garner",
+        "first_name": "Catherine"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900414M",
+    "title": "The dominion of dreams.",
+    "city": "London",
+    "publisher": "Constable",
+    "year": 1909,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 323,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2015-01-16",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2893422A",
+        "last_name": "MacLeod",
+        "first_name": "Fiona"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900415M",
+    "title": "Recent paintings",
+    "city": "New York",
+    "publisher": "Kennedy Galleries",
+    "year": 1989,
+    "subject": "Plochmann, Carolyn.",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2005-09-02",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437344A",
+        "last_name": "Plochmann",
+        "first_name": "Carolyn"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900416M",
+    "title": "Five pieces of Miller",
+    "city": "London",
+    "publisher": "published for the Author [at] 68 Red Lion Street, Holborn",
+    "year": 1934,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2001-06-18",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL117944A",
+        "last_name": "Hugh",
+        "first_name": "MacDiarmid,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900417M",
+    "title": "Briefe",
+    "city": "Berlin",
+    "publisher": "Aufbau-Verlag",
+    "year": 1981,
+    "subject": "Brecht, Bertolt, -- 1898-1956.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "ger",
+    "days_keep_count": 50,
+    "adding_date": "2012-04-06",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL673748A",
+        "last_name": "Brecht",
+        "first_name": "Bertolt"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900418M",
+    "title": "The games ethic, seductive ideology and the Second City",
+    "city": null,
+    "publisher": null,
+    "year": 1988,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 67,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2005-03-11",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437345A",
+        "last_name": "Loughlan",
+        "first_name": "Christopher"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900419M",
+    "title": "The washer of the ford, and other legendary mortalities.",
+    "city": "Edinburgh",
+    "publisher": null,
+    "year": 1896,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 320,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2016-06-23",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1156994A",
+        "last_name": "William",
+        "first_name": "Sharp,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1390041M",
+    "title": "Risālat ḥubb ilá waṭanī al-jarīḥ",
+    "city": "[Kuwait",
+    "publisher": "s.n.",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 62,
+    "lang": "ara",
+    "days_keep_count": 200,
+    "adding_date": "2001-02-06",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL707719A",
+        "last_name": "Mashʻal",
+        "first_name": "Nāsir"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900420M",
+    "title": "Scripture meteorology and modern science.",
+    "city": "Glasgow",
+    "publisher": "Gallie",
+    "year": 1867,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 328,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2011-03-17",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437346A",
+        "last_name": "McLeod",
+        "first_name": "Alexander"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900421M",
+    "title": "Condensed gospel of Sri Ramakrishna",
+    "city": "Madras",
+    "publisher": "Sri Ramakrishna Math",
+    "year": 1978,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 340,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2014-04-20",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL593A",
+        "last_name": "Ramakrishna",
+        "first_name": "Ramakrishna"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900422M",
+    "title": "Tales of the Scottish peasantry",
+    "city": "Edinburgh",
+    "publisher": "Oliphant",
+    "year": 1862,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 321,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2015-07-10",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437347A",
+        "last_name": "Duncan",
+        "first_name": "Henry"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900423M",
+    "title": "Thomas Carlyle and Hugh MacDiarmid",
+    "city": "Edinburgh",
+    "publisher": "Carlyle Society",
+    "year": 1973,
+    "subject": "Carlyle, Thomas, -- 1795-1881.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 22,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2009-02-27",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437348A",
+        "last_name": "J. Nicholson",
+        "first_name": "Frederick"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900424M",
+    "title": "Fires and fire brigades ....",
+    "city": "London",
+    "publisher": null,
+    "year": 1889,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 118,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2013-11-13",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437349A",
+        "last_name": "Eyre M. Sir.",
+        "first_name": "Shaw,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900425M",
+    "title": "Eastern art and literature",
+    "city": "London",
+    "publisher": "Benn",
+    "year": 1928,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 80,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2011-07-15",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437350A",
+        "last_name": "see Sir E. Denison Ross",
+        "first_name": "please"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900426M",
+    "title": "Dr. William Maxwell, 1760-1834",
+    "city": null,
+    "publisher": null,
+    "year": 1978,
+    "subject": "Maxwell, William, -- 1760-1834.",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 569,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2013-03-12",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437351A",
+        "last_name": "Aspinwall",
+        "first_name": "Bernard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900427M",
+    "title": "Ramayana",
+    "city": "Bombay",
+    "publisher": "Bharatiya Vidya Bhavan",
+    "year": 1976,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 320,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2014-06-10",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4356417A",
+        "last_name": "lmi ki.",
+        "first_name": "Va"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900428M",
+    "title": "Parents, careers and culture",
+    "city": "Glasgow",
+    "publisher": "Scottish EthnicMinorities Research Unit",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 24,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2001-09-21",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL720183A",
+        "last_name": "Siann",
+        "first_name": "Gerda"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900429M",
+    "title": "Modern religion",
+    "city": "London",
+    "publisher": null,
+    "year": 1912,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 11,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2005-10-01",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2742646A",
+        "last_name": "Bernard Shaw",
+        "first_name": "George"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1390042M",
+    "title": "Ṣayf al-ghadr",
+    "city": "[Kuwait]",
+    "publisher": "A. al-Saqqāf",
+    "year": 1992,
+    "subject": "Persian Gulf War, 1991.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 222,
+    "lang": "ara",
+    "days_keep_count": 10,
+    "adding_date": "2013-05-14",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL707720A",
+        "last_name": "Saqqāf",
+        "first_name": "Aḥmad"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900430M",
+    "title": "Foxe's book of martyrs.",
+    "city": "London",
+    "publisher": "Protestant Truth Society",
+    "year": 1954,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 96,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2010-01-15",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4335828A",
+        "last_name": "Fox",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900431M",
+    "title": "The smiling field.",
+    "city": "London",
+    "publisher": "Herbert Jenkins",
+    "year": 1949,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 246,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2012-04-27",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2920380A",
+        "last_name": "Veitch",
+        "first_name": "James"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900432M",
+    "title": "The future that awaits us",
+    "city": "Harrogate",
+    "publisher": null,
+    "year": 1903,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 19,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2014-12-14",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437352A",
+        "last_name": "Shaw",
+        "first_name": "Louisa"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900433M",
+    "title": "The boy who drew cats",
+    "city": "[Washington, D.C.]",
+    "publisher": "[Library of Congress]",
+    "year": 1987,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 18,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2013-04-24",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL5991559A",
+        "last_name": "Hearn",
+        "first_name": "Lafcadio"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900434M",
+    "title": "Red Cap tales",
+    "city": "New York",
+    "publisher": "MacMillan",
+    "year": 1904,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 411,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2012-09-09",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL316765A",
+        "last_name": "R. Crockett",
+        "first_name": "S."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900435M",
+    "title": "The inaugural Gladstone Day address delivered to the Young Scots' Society, at its centre in Edinburg",
+    "city": "Edinburgh",
+    "publisher": null,
+    "year": 1902,
+    "subject": "Gladstone, W. E. -- 1809-1898.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2002-10-28",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2724880A",
+        "last_name": "Shaw",
+        "first_name": "Thomas"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900436M",
+    "title": "Barriers to access: black applicants and housing association tenure [in Glasgow]",
+    "city": "Glasgow",
+    "publisher": "Scottish Ethnic Minorities Research Unit",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 58,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2013-06-30",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL445857A",
+        "last_name": "Dalton",
+        "first_name": "Mike"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900437M",
+    "title": "The Bard of Glazert",
+    "city": "[Scotland]",
+    "publisher": "[s.n.]",
+    "year": 1845,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 207,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2007-11-20",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437353A",
+        "last_name": "D. Brown",
+        "first_name": "J."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900438M",
+    "title": "Motherwell",
+    "city": "Glasgow",
+    "publisher": "Stenlake & McCourt",
+    "year": 1988,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 32,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2011-05-31",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3812128A",
+        "last_name": "Stenlake",
+        "first_name": "Richard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900439M",
+    "title": "Why should the working classes aid and suport the University extension movement?.",
+    "city": "Manchester",
+    "publisher": null,
+    "year": 1898,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2001-08-06",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437354A",
+        "last_name": "Hudson Shaw",
+        "first_name": "William"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1390043M",
+    "title": "Afkār siyāsīyah mamnūʻah",
+    "city": "Nābulus",
+    "publisher": "[s.n.",
+    "year": 1992,
+    "subject": "Middle East -- Politics and government -- 1945-  -- Miscellanea",
+    "genre": "Miscellanea.",
+    "periodic_release": null,
+    "page_count": 138,
+    "lang": "ara",
+    "days_keep_count": 100,
+    "adding_date": "2007-05-30",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL707721A",
+        "last_name": "Muṣṭafá Nāyif",
+        "first_name": "Khālid"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900440M",
+    "title": "An ootward thocht",
+    "city": "[Scotland]",
+    "publisher": "[s.n.]",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "sco",
+    "days_keep_count": 100,
+    "adding_date": "2015-02-15",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3122522A",
+        "last_name": "Wolfe",
+        "first_name": "William"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900441M",
+    "title": "Manuale theologiae dogmaticae.",
+    "city": "Parisiis",
+    "publisher": "Berche et Pagis",
+    "year": 1934,
+    "subject": "Catholic Church.",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "lat",
+    "days_keep_count": 30,
+    "adding_date": "2005-02-16",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437355A",
+        "last_name": "M. Herve ",
+        "first_name": "J. M. Herve "
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900442M",
+    "title": "As I recall",
+    "city": "Selkirk",
+    "publisher": "Weekender Graphics",
+    "year": 1974,
+    "subject": "Alchin, Willie.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 36,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2009-06-23",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437356A",
+        "last_name": "Alchin",
+        "first_name": "Willie"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900443M",
+    "title": "The busy pastor'guide",
+    "city": "Red Wing, Minn",
+    "publisher": "O. Dolphin",
+    "year": 1924,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 256,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2014-07-03",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2431751A",
+        "last_name": "Laurent",
+        "first_name": "Charles"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900444M",
+    "title": "Theologiae dogmaticae compendium in usum studiosorum theologiae",
+    "city": "Oeniponte",
+    "publisher": "Libraria academica Wagneriana",
+    "year": 1907,
+    "subject": "Catholic Church.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "lat",
+    "days_keep_count": 10,
+    "adding_date": "2008-04-02",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437358A",
+        "last_name": "Hurter",
+        "first_name": "H."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900445M",
+    "title": "The Neilston story",
+    "city": "[Neilston]",
+    "publisher": "Neilston Community Council",
+    "year": 1988,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 100,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2008-02-19",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437359A",
+        "last_name": "Laws",
+        "first_name": "Jack"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900446M",
+    "title": "The wandering Jew, a poem",
+    "city": "London",
+    "publisher": null,
+    "year": 1887,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 115,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2011-07-12",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL20743A",
+        "last_name": "Bysshe Shelley",
+        "first_name": "Percy"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900447M",
+    "title": "The sirens three",
+    "city": "[England]",
+    "publisher": "[s.n.]",
+    "year": 1880,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 49,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2003-10-11",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL18092A",
+        "last_name": "Crane",
+        "first_name": "Walter"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900448M",
+    "title": "The house in the hills",
+    "city": "London",
+    "publisher": "Collins",
+    "year": 1946,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 288,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2015-10-01",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2187079A",
+        "last_name": "Fitz Roy",
+        "first_name": "Olivia"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900449M",
+    "title": "The Queen's Wake, and other poems",
+    "city": "Edinburgh",
+    "publisher": "John Menzies",
+    "year": 1871,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 224,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2008-11-01",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL82823A",
+        "last_name": "James",
+        "first_name": "Hogg,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1390044M",
+    "title": "Wa-inqashaʻa al-ḍabāb",
+    "city": "al-Kuwayt",
+    "publisher": "Maktabat al-Manār",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 168,
+    "lang": "ara",
+    "days_keep_count": 30,
+    "adding_date": "2007-06-17",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL707722A",
+        "last_name": "Walayātī",
+        "first_name": "Suʻād"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900450M",
+    "title": "Questions and answers on electric motors",
+    "city": null,
+    "publisher": "Newnes",
+    "year": 1947,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 120,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2005-05-21",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL138428A",
+        "last_name": "Edward",
+        "first_name": "Molloy,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900451M",
+    "title": "Alastor, or, the spirit of solitude, and other poems",
+    "city": "London",
+    "publisher": "Reeves & Turner",
+    "year": 1886,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 101,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2000-08-31",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL20743A",
+        "last_name": "Bysshe Shelley",
+        "first_name": "Percy"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900452M",
+    "title": "A glossary of terms used in agriculture",
+    "city": "[Edinburgh]",
+    "publisher": "Department ofAgriculture and Fisheries for Scotland",
+    "year": 1988,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 51,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2007-11-13",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437360A",
+        "last_name": "T. MacKay",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900453M",
+    "title": "Fifty years of modern painting",
+    "city": "London",
+    "publisher": "Grant Richards",
+    "year": 1908,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 391,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2015-08-11",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437361A",
+        "last_name": "E. Phythian",
+        "first_name": "J."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900454M",
+    "title": "Patterns and pigments in English marbled papers",
+    "city": "Kidlington",
+    "publisher": "Plough Press",
+    "year": 1988,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 93,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2007-10-27",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437362A",
+        "last_name": "McKay",
+        "first_name": "Barry"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900455M",
+    "title": "A tramp abroad",
+    "city": "London",
+    "publisher": "Chatto & Windus",
+    "year": 1893,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 338,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2012-04-23",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL18319A",
+        "last_name": "Twain",
+        "first_name": "Mark"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900456M",
+    "title": "The poetical works of Samuel Whitelocke.",
+    "city": "Glasgow",
+    "publisher": "the author",
+    "year": 1851,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 154,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2012-09-13",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437363A",
+        "last_name": "Whitelocke",
+        "first_name": "Samuel"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900457M",
+    "title": "Familiar Scottish sketches.",
+    "city": null,
+    "publisher": null,
+    "year": 1910,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 179,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2009-06-22",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437364A",
+        "last_name": "Nicol Simpson",
+        "first_name": "A."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900458M",
+    "title": "Disappointment",
+    "city": "Edinburgh",
+    "publisher": "John Lothian",
+    "year": 1826,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 158,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2016-10-01",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2588081A",
+        "last_name": "Aikman",
+        "first_name": "James"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900459M",
+    "title": "Histoire populaire du Christianisme.",
+    "city": "Paris",
+    "publisher": "Alphonse Lemerre",
+    "year": 1871,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 140,
+    "lang": "fre",
+    "days_keep_count": 200,
+    "adding_date": "2016-05-01",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL6274030A",
+        "last_name": "Marie René Leconte de Lisle",
+        "first_name": "Charles"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1390045M",
+    "title": "Dīwān al-shāʻir ʻĀyish al-Juwaysirī",
+    "city": "[Kuwait",
+    "publisher": "s.n.]",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 279,
+    "lang": "ara",
+    "days_keep_count": 30,
+    "adding_date": "2003-10-04",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL707723A",
+        "last_name": "Juwaysirī",
+        "first_name": "ʻĀyish"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900460M",
+    "title": "Climbs in the New Zealand Alps",
+    "city": "London",
+    "publisher": "T. Fisher Unwin",
+    "year": 1896,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 363,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2007-04-03",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437365A",
+        "last_name": "A. Fitzgerald",
+        "first_name": "E."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900461M",
+    "title": "The 1989 guide to Government grants for business",
+    "city": "Swindon",
+    "publisher": "Associated Management Services",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 70,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2016-10-09",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4435025A",
+        "last_name": "Martin",
+        "first_name": "Michael"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900462M",
+    "title": "Rome's tactics",
+    "city": "London",
+    "publisher": "Hatchard",
+    "year": 1867,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 96,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2016-03-03",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2546364A",
+        "last_name": "Goode",
+        "first_name": "William"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900463M",
+    "title": "To Tom Metcalfe",
+    "city": "Nottingham",
+    "publisher": "The Author",
+    "year": 1982,
+    "subject": "Metcalfe, Tom.",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 12,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2013-12-23",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL74665A",
+        "last_name": "Glen",
+        "first_name": "Duncan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900464M",
+    "title": "The conquest of Mount McKinley",
+    "city": "New York",
+    "publisher": "G.P. Putnam's Sons",
+    "year": 1913,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 381,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2003-05-09",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2913695A",
+        "last_name": "Browne",
+        "first_name": "Belmore"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900465M",
+    "title": "Unfair arguments with existence",
+    "city": "New York",
+    "publisher": "New Directions",
+    "year": 1962,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 95,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2001-08-22",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL86982A",
+        "last_name": "Ferlinghetti",
+        "first_name": "Lawrence"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900466M",
+    "title": "Donald and his troubles",
+    "city": "Glasgow",
+    "publisher": null,
+    "year": 1936,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 45,
+    "lang": "gae",
+    "days_keep_count": 100,
+    "adding_date": "2005-02-14",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437366A",
+        "last_name": "Sinclair",
+        "first_name": "Donald"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900467M",
+    "title": "Northern elegies.",
+    "city": "[Edinburgh]",
+    "publisher": "Netherbow Arts Centre",
+    "year": 1986,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 21,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2003-12-23",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437367A",
+        "last_name": "Mackinnon",
+        "first_name": "Rayne"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900468M",
+    "title": "Carlyle's essay on Burns",
+    "city": "London",
+    "publisher": "Macmillan",
+    "year": 1900,
+    "subject": "Burns, Robert, -- 1759-1796.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 236,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2014-10-06",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL107593A",
+        "last_name": "Carlyle",
+        "first_name": "Thomas"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900469M",
+    "title": "Tenement communities",
+    "city": "1984",
+    "publisher": null,
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2005-10-05",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1361814A",
+        "last_name": "Gibb",
+        "first_name": "Andrew"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1390046M",
+    "title": "al- Bīʼah wa-al-tanmiyah al-mustadīmah",
+    "city": "al-Kuwayat",
+    "publisher": "[s.n]",
+    "year": 1992,
+    "subject": "Environmental policy -- Kuwait",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 439,
+    "lang": "ara",
+    "days_keep_count": 10,
+    "adding_date": "2004-02-20",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL707724A",
+        "last_name": "Allāh Ramaḍān Kundarī",
+        "first_name": "ʻAbd"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900470M",
+    "title": "Narrative of the Burmese War, detailing the operations of Major-General Sir Archibald Campbell's arm",
+    "city": "London",
+    "publisher": null,
+    "year": 1827,
+    "subject": "Campbell, Archibald, -- Sir.",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 319,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2011-01-23",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1162577A",
+        "last_name": "James Snodgrass",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900471M",
+    "title": "Portraits",
+    "city": "Nottingham",
+    "publisher": "Department of Visual Communication, Trent Polytechnic, Nottingham",
+    "year": 1983,
+    "subject": "Trent Polytechnic.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 24,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2012-12-01",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL74665A",
+        "last_name": "Glen",
+        "first_name": "Duncan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900472M",
+    "title": "Ministry.",
+    "city": "Kingston-on-Thames",
+    "publisher": "Bible and Gospel Trust",
+    "year": 1972,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 454,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2012-02-08",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL750992A",
+        "last_name": "Lyon",
+        "first_name": "P."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900473M",
+    "title": "The phonetics of the Gaelic language",
+    "city": "Paisley",
+    "publisher": "J. and R. Parlane",
+    "year": 1889,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 95,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2010-03-21",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2615601A",
+        "last_name": "MacFarlane",
+        "first_name": "Malcolm"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900474M",
+    "title": "The genesis of post-war housing in Glasgow",
+    "city": null,
+    "publisher": null,
+    "year": 1983,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2001-08-04",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1361814A",
+        "last_name": "Gibb",
+        "first_name": "Andrew"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900475M",
+    "title": "Patrick Heron",
+    "city": "London",
+    "publisher": "Waddington Galleries",
+    "year": 1989,
+    "subject": "Heron, Patrick, -- 1920-",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 40,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2015-12-01",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4335838A",
+        "last_name": "Heron",
+        "first_name": "Patrick"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900476M",
+    "title": "Some connections between the City of Glasgow and Robert Burns",
+    "city": "Glasgow",
+    "publisher": "Glasgowand District Burns Ass.",
+    "year": 1989,
+    "subject": "Burns, Robert, -- 1759-1796.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 18,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2009-09-11",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437369A",
+        "last_name": "McArthur",
+        "first_name": "Archie"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900477M",
+    "title": "Du 18 Brumaire a   Waterloo",
+    "city": "Paris",
+    "publisher": "Calmann-Le vy",
+    "year": 1898,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 382,
+    "lang": "fre",
+    "days_keep_count": 10,
+    "adding_date": "2000-09-02",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL127519A",
+        "last_name": "Michelet",
+        "first_name": "Jules"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900478M",
+    "title": "Degree courses in anatomy at British Universities",
+    "city": "Sheffield",
+    "publisher": "Sheffield University",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 17,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2016-07-01",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437370A",
+        "last_name": "N. Payne",
+        "first_name": "J."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900479M",
+    "title": "Socialism v. capitalism",
+    "city": "London",
+    "publisher": null,
+    "year": 1923,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 14,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2012-10-20",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4362697A",
+        "last_name": "Snowden",
+        "first_name": "Philip"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1390047M",
+    "title": "al-ʻ Alāqah bayna al-tasāqut wa-al-jarayān al-satḥī lil-miyāh",
+    "city": "[Kuwait]",
+    "publisher": "Qism al-Jughrāfiā bi-Jāmiʻat al-Kuwayt",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 75,
+    "lang": "ara",
+    "days_keep_count": 200,
+    "adding_date": "2001-02-14",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL380073A",
+        "last_name": "Diab Radi",
+        "first_name": "Mahmoud"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900480M",
+    "title": "Poems.",
+    "city": "[Edinburgh]",
+    "publisher": "School of Poets",
+    "year": 1986,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2016-09-24",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL667884A",
+        "last_name": "Elizabeth",
+        "first_name": "Burns,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900481M",
+    "title": "Glasgow Cathedral",
+    "city": "Glasgow",
+    "publisher": "Mackintosh School of Architecture",
+    "year": 1987,
+    "subject": "Glasgow Cathedral.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 18,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2009-08-13",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1388540A",
+        "last_name": "Forsyth",
+        "first_name": "Graham"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900482M",
+    "title": "The Military Service Act fully and clearly explained.",
+    "city": "Manchester",
+    "publisher": null,
+    "year": 1916,
+    "subject": "Great Britain.",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 16,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2014-09-22",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4362697A",
+        "last_name": "Snowden",
+        "first_name": "Philip"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900483M",
+    "title": "The Castle of Edinburgh",
+    "city": "[Edinburgh?]",
+    "publisher": "G. F. Maine",
+    "year": 1925,
+    "subject": "Edinburgh Castle.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 32,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2003-11-12",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437372A",
+        "last_name": "F. Maine",
+        "first_name": "G."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900484M",
+    "title": "Genealogy of Turner - Tuckwell.",
+    "city": "[Hillsdale, Ont.]",
+    "publisher": "the Author",
+    "year": 1977,
+    "subject": "Turner family.",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 178,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2000-09-06",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437373A",
+        "last_name": "Turner",
+        "first_name": "David"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900485M",
+    "title": "Passports of excellence",
+    "city": "[Edinburgh]",
+    "publisher": "Scottish Education Department",
+    "year": 1989,
+    "subject": "SCOTVEC.",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2004-12-19",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1502020A",
+        "last_name": "Lang",
+        "first_name": "Ian"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900486M",
+    "title": "Round and about Inveraray",
+    "city": "Kirn",
+    "publisher": "Argyll Reproductions",
+    "year": 1976,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 48,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2006-10-19",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4336303A",
+        "last_name": "Stirling",
+        "first_name": "Nancy"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900487M",
+    "title": "Highways and byways in Mull and Iona",
+    "city": "Barr",
+    "publisher": "Luath",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 103,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2009-09-29",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL53982A",
+        "last_name": "P. A.",
+        "first_name": "Macnab,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900488M",
+    "title": "Guidelines for the teaching of marketing in the training of librarians, documentalists and archivist",
+    "city": "Paris",
+    "publisher": "Unesco",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 115,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2001-03-06",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437374A",
+        "last_name": "jean Savard",
+        "first_name": "Re"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900489M",
+    "title": "Scotland's castle.",
+    "city": "Edinburgh",
+    "publisher": "Reprographia",
+    "year": 1969,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "sco",
+    "days_keep_count": 30,
+    "adding_date": "2002-04-10",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL544093A",
+        "last_name": "Neill",
+        "first_name": "William"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1390048M",
+    "title": "Invasion",
+    "city": "London, UK",
+    "publisher": "Kuwait Research and Advertising Co.",
+    "year": 1992,
+    "subject": "Persian Gulf War, 1991 -- Atrocities.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 134,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2011-08-14",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL707725A",
+        "last_name": "Muḥammad Damkhī",
+        "first_name": "ʻAlī"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900490M",
+    "title": "Sorabji symposium",
+    "city": "Edinburgh",
+    "publisher": "Edinburgh UniversityStudents' Representative Council",
+    "year": 1965,
+    "subject": "Sorabji, Kaikhosru Shapurji, -- 1892-",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 31,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2010-09-21",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL117944A",
+        "last_name": "Hugh",
+        "first_name": "MacDiarmid,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900491M",
+    "title": "La femme dans la caricature franc ʹaise",
+    "city": "Paris",
+    "publisher": "Me ricant",
+    "year": 1912,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 432,
+    "lang": "fre",
+    "days_keep_count": 10,
+    "adding_date": "2008-10-07",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4326690A",
+        "last_name": "Kahn",
+        "first_name": "Gustave"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900492M",
+    "title": "Dimsie goes to School",
+    "city": "London",
+    "publisher": "Oxford University Press",
+    "year": 1920,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 270,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2001-11-12",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2918727A",
+        "last_name": "Fairlie Bruce",
+        "first_name": "Dorita"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900493M",
+    "title": "Herrin' Jennie.",
+    "city": "London",
+    "publisher": "Ivor Nicholson & Watson",
+    "year": 1936,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 347,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2011-06-24",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4334669A",
+        "last_name": "Albert",
+        "first_name": "Edward"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900494M",
+    "title": "Dimsie grows up",
+    "city": "London",
+    "publisher": "OxfordUniversity Press",
+    "year": 1924,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 288,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2001-09-02",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2918727A",
+        "last_name": "Fairlie Bruce",
+        "first_name": "Dorita"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900495M",
+    "title": "The pirate.",
+    "city": "London",
+    "publisher": "Adam and Charles Black",
+    "year": 1913,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 478,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2003-08-08",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL75235A",
+        "last_name": "Walter Scott",
+        "first_name": "Sir"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900496M",
+    "title": "Poems 1958-1969.",
+    "city": "London",
+    "publisher": "Macmillan",
+    "year": 1971,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 254,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2008-08-23",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4336160A",
+        "last_name": "MacBeth",
+        "first_name": "George"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900497M",
+    "title": "For the White Cockade",
+    "city": "London",
+    "publisher": "Children's Press",
+    "year": 1955,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 188,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2015-09-18",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437375A",
+        "last_name": "Edward Ratcliffe Garth Russell 1st Baron Mountevans.",
+        "first_name": "Evans,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900498M",
+    "title": "The man in the queue.",
+    "city": "London",
+    "publisher": "Methuen & Co.",
+    "year": 1929,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 246,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2000-06-04",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL161715A",
+        "last_name": "Daviot",
+        "first_name": "Gordon"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900499M",
+    "title": "Ann and her mother.",
+    "city": "London",
+    "publisher": "Hodder and Stoughton",
+    "year": 1922,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 302,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2008-10-16",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2307176A",
+        "last_name": "Douglas",
+        "first_name": "O."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1390049M",
+    "title": "The State Consultative Council in eight years, 1981-1989.",
+    "city": "[Oman]",
+    "publisher": "The Council",
+    "year": 1990,
+    "subject": "Oman. Majlis al-Istishārī lil-Dawlah -- Rules and practice.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 207,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2003-02-26",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL707726A",
+        "last_name": "Majlis al-Istishārī lil-Dawlah.",
+        "first_name": "Oman."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL139004M",
+    "title": "Libro homenaje al Padre Luis María Olaso, S.J.36",
+    "city": null,
+    "publisher": null,
+    "year": 1999,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 228,
+    "lang": "spa",
+    "days_keep_count": 200,
+    "adding_date": "2012-08-25",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1416585A",
+        "last_name": "Marethe Egeland",
+        "first_name": "Inger"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900500M",
+    "title": "Catalogue of an exhibition of water colours by Sir John Stirling Maxwell of Pollok, held by the Nati",
+    "city": "[Edinburgh?]",
+    "publisher": "[The Trust?]",
+    "year": 1951,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2004-06-09",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437376A",
+        "last_name": "John Stirling Sir.",
+        "first_name": "Maxwell,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900501M",
+    "title": "Applied mechanics",
+    "city": "London",
+    "publisher": "English Universities Press",
+    "year": 1965,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 470,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2015-11-08",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2081195A",
+        "last_name": "D. Walker",
+        "first_name": "J."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900502M",
+    "title": "A History of the Sikhs",
+    "city": "New Delhi",
+    "publisher": "S.Chand",
+    "year": 1981,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 402,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2006-11-09",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL6367A",
+        "last_name": "Davey Cunningham",
+        "first_name": "Joseph"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900503M",
+    "title": "Fun on wheels",
+    "city": "London",
+    "publisher": "Frederick Muller",
+    "year": 1964,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 117,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2007-09-28",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437377A",
+        "last_name": "Garroway",
+        "first_name": "Dave"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900504M",
+    "title": "Whittaker's arithmetic of electrical engineering",
+    "city": "London",
+    "publisher": "Isaac Pitman",
+    "year": 1945,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 194,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2005-11-08",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL134090A",
+        "last_name": "T. Whittaker",
+        "first_name": "E."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL13900505M",
+    "title": "The Historical function of historical fiction",
+    "city": "Ann Arbor",
+    "publisher": "University Microfilms International",
+    "year": 1987,
+    "subject": "Scott, Walter, -- Sir, -- 1771-1832.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 328,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2011-03-31",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4437378A",
+        "last_name": "Leander MacGregor",
+        "first_name": "Alan"
+      }
+    ]
+  }
+]

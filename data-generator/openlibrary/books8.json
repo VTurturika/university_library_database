@@ -1,0 +1,4692 @@
+[
+  {
+    "openlibrary_id": "/books/OL11737101M",
+    "title": "Convictions of the Heart",
+    "city": null,
+    "publisher": "Autumn Distribution",
+    "year": 2003,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 288,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2006-10-26",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1344225A",
+        "last_name": "Serré",
+        "first_name": "A."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737102M",
+    "title": "Home Healthcare",
+    "city": null,
+    "publisher": "Information for Tomorrow",
+    "year": 1997,
+    "subject": "Health Care Issues",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2003-10-07",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723518A",
+        "last_name": "Kinsella",
+        "first_name": "Audrey"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737103M",
+    "title": "Home Healthcare",
+    "city": null,
+    "publisher": "INFO FOR TOMORROW CATHOLIC UNIVERSITY",
+    "year": 1998,
+    "subject": "Nursing - Home & Community Care",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 115,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2009-08-11",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3097789A",
+        "last_name": "Kinsella",
+        "first_name": "Kinsella"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737104M",
+    "title": "Home Telehealth in the 21st Century",
+    "city": null,
+    "publisher": "Information for Tomorrow",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 110,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2006-08-12",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723518A",
+        "last_name": "Kinsella",
+        "first_name": "Audrey"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737105M",
+    "title": "Home Healthcare",
+    "city": null,
+    "publisher": "Information For Tomorrow",
+    "year": 2003,
+    "subject": "Nursing - Home & Community Care",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 140,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2006-01-20",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1283546A",
+        "last_name": "Soleau",
+        "first_name": "E."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737106M",
+    "title": "Telehospice",
+    "city": null,
+    "publisher": "Information For Tomorrow",
+    "year": 2004,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2000-08-31",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1351300A",
+        "last_name": "M. Curtis",
+        "first_name": "Kenneth"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737107M",
+    "title": "Home Telehealthcare",
+    "city": null,
+    "publisher": "Information For Tomorrow",
+    "year": 2003,
+    "subject": "Nursing - Home & Community Care",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 150,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2012-04-01",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723518A",
+        "last_name": "Kinsella",
+        "first_name": "Audrey"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737108M",
+    "title": "Home Healthcare:Wired & Ready for Telemedicine",
+    "city": null,
+    "publisher": "INFO FOR TOMORROW CATHOLIC UNIVERSITY",
+    "year": 1998,
+    "subject": "Nursing Home Care",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 250,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2000-12-26",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723518A",
+        "last_name": "Kinsella",
+        "first_name": "Audrey"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737109M",
+    "title": "The Demons Behind the New Age ",
+    "city": null,
+    "publisher": "Moriah Press",
+    "year": 1998,
+    "subject": "Body, Mind & Spirit / New Age",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 67,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2007-11-03",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723519A",
+        "last_name": "Kallmyer",
+        "first_name": "J.D."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1173710M",
+    "title": "D + BIWIC 1993",
+    "city": "[Aachen",
+    "publisher": "Mainz]",
+    "year": 1993,
+    "subject": "Crystallization -- Industrial applications -- Congresses.",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 178,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2000-01-12",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL614276A",
+        "last_name": "Workshop for Industrial Crystallization (1993 TU Delft and Universität Bremen)",
+        "first_name": "International"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737110M",
+    "title": "Dreams",
+    "city": null,
+    "publisher": "Moriah Press",
+    "year": 1998,
+    "subject": "Dreams",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 132,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2015-08-22",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3579616A",
+        "last_name": "D. Kallmyer",
+        "first_name": "J."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737111M",
+    "title": "Meet The God Who Loves You",
+    "city": null,
+    "publisher": "Moriah Press",
+    "year": 1998,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 100,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2000-05-15",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723520A",
+        "last_name": "Nehmsmann",
+        "first_name": "Camille"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737112M",
+    "title": "The Power of Intercessory Prayer",
+    "city": null,
+    "publisher": "Moriah Press",
+    "year": 1998,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 122,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2014-12-17",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723520A",
+        "last_name": "Nehmsmann",
+        "first_name": "Camille"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737113M",
+    "title": "Discover Hidden Treasure",
+    "city": null,
+    "publisher": "Moriah Press",
+    "year": 1998,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 80,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2006-07-24",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723520A",
+        "last_name": "Nehmsmann",
+        "first_name": "Camille"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737114M",
+    "title": "The Occult and the New Age Movement ",
+    "city": null,
+    "publisher": "Moriah Press",
+    "year": 2000,
+    "subject": "Christian Theology - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 144,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2012-02-16",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723521A",
+        "last_name": "Press",
+        "first_name": "Moriah"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737115M",
+    "title": "Riding the Texas Railroad",
+    "city": null,
+    "publisher": "Moriah Press",
+    "year": 2000,
+    "subject": "Murder - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 114,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2002-11-13",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3579616A",
+        "last_name": "D. Kallmyer",
+        "first_name": "J."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737116M",
+    "title": "The Gift of a Son",
+    "city": null,
+    "publisher": "Moriah Press/Bookstore",
+    "year": 2000,
+    "subject": "Family & Relationships / Parenting",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 274,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2014-12-30",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723522A",
+        "last_name": "Clark",
+        "first_name": "Gwenn"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737117M",
+    "title": "The Indian Speaks ",
+    "city": null,
+    "publisher": "Moriah Press",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 153,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2012-06-23",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723523A",
+        "last_name": "Angel L. Nunez",
+        "first_name": "Rev."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737118M",
+    "title": "Let Me Live Again ",
+    "city": null,
+    "publisher": "Moriah Press",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 146,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2011-11-26",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723523A",
+        "last_name": "Angel L. Nunez",
+        "first_name": "Rev."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737119M",
+    "title": "Season's Greetings from the White House",
+    "city": null,
+    "publisher": "Presidential Christmas",
+    "year": 2002,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 256,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2006-11-23",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL426491A",
+        "last_name": "Evans Seeley",
+        "first_name": "Mary"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1173711M",
+    "title": "Las palmas silvestres de la Péninsula de Yucatán",
+    "city": "México, D.F",
+    "publisher": "Universidad Nacional Autónoma de México, Instituto de Biología",
+    "year": 1992,
+    "subject": "Palms -- Mexico -- Yucatán Peninsula.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 63,
+    "lang": "spa",
+    "days_keep_count": 100,
+    "adding_date": "2009-07-06",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL614277A",
+        "last_name": "J. Quero",
+        "first_name": "Hermilo"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737120M",
+    "title": "Secrets To Preparing for the LAPD Process",
+    "city": null,
+    "publisher": "Ras-Ventures",
+    "year": 1997,
+    "subject": "California",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 68,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2009-06-21",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723524A",
+        "last_name": "A. Sanchez",
+        "first_name": "Rodger"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737121M",
+    "title": "Like a Pilot Rolf Dieter Brinkmann Selected Poems 1963-1970",
+    "city": null,
+    "publisher": "Morgan",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2013-07-27",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL67297A",
+        "last_name": "Dieter Brinkmann",
+        "first_name": "Rolf"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737122M",
+    "title": "The Last Decade",
+    "city": null,
+    "publisher": "T.L.D. Publishing",
+    "year": 1997,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2008-08-10",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1113724A",
+        "last_name": "Curti",
+        "first_name": "Paul"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737123M",
+    "title": "Do It One-Handed",
+    "city": null,
+    "publisher": "Lenox House",
+    "year": 1997,
+    "subject": "Neurology - General",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 51,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2015-10-15",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2738587A",
+        "last_name": "Cohn",
+        "first_name": "Susan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737124M",
+    "title": "Parsha Parables",
+    "city": null,
+    "publisher": "Philipp Feldheim",
+    "year": 1997,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 208,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2001-09-29",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3006811A",
+        "last_name": "Mordechai Kamenetsky",
+        "first_name": "Rabbi"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737125M",
+    "title": "Parsha parables 3",
+    "city": null,
+    "publisher": "Distributed by Feldheim",
+    "year": 2000,
+    "subject": "Bible",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 222,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2002-03-19",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723525A",
+        "last_name": "Kamenetzky",
+        "first_name": "Mordechai"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737126M",
+    "title": "Parsha Parables the 4th",
+    "city": null,
+    "publisher": null,
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 227,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2001-01-31",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1009170A",
+        "last_name": "Shapiro",
+        "first_name": "Chaim"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737127M",
+    "title": "Stalking & Still-Hunting (The Ground Hunter's Bible)",
+    "city": null,
+    "publisher": "Hunter Image Productions",
+    "year": 1997,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2008-01-26",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2930928A",
+        "last_name": "Fred Asbell",
+        "first_name": "G."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737128M",
+    "title": "And when they began to sing",
+    "city": null,
+    "publisher": "PHOS Pub",
+    "year": 1997,
+    "subject": "Biblical teaching",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 95,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2004-03-23",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723526A",
+        "last_name": "D Fruga",
+        "first_name": "Alvin"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737129M",
+    "title": "Passion for presence",
+    "city": null,
+    "publisher": "PHOS Pub",
+    "year": 1997,
+    "subject": "Attributes",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 82,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2002-08-14",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723527A",
+        "last_name": "F Kayatin",
+        "first_name": "Louis"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1173712M",
+    "title": "Australia and Latin America",
+    "city": "Canberra",
+    "publisher": "The Committee",
+    "year": 1992,
+    "subject": "Australia -- Foreign economic relations -- Latin America.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 423,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2004-11-12",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL614278A",
+        "last_name": "Parliament. Senate. Standing Committee on Foreign Affairs, Defence and Trade.",
+        "first_name": "Australia."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737130M",
+    "title": "How To Issue A Restraining Order Against Satan",
+    "city": null,
+    "publisher": "PHOS Publishing, Inc.",
+    "year": 1999,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 200,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2001-07-16",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723528A",
+        "last_name": "L. Harris",
+        "first_name": "Vivian"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737131M",
+    "title": "Exposing the Enemy",
+    "city": null,
+    "publisher": "PHOS Publishing, Inc.",
+    "year": 1997,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2002-06-16",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1182088A",
+        "last_name": "I. Bezukhov",
+        "first_name": "K."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737132M",
+    "title": "I'm Pregnant and I Know Who The Father Is!",
+    "city": null,
+    "publisher": "PHOS Publishing, Inc.",
+    "year": 1998,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 83,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2015-02-18",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723529A",
+        "last_name": "S. Filkey",
+        "first_name": "Mark"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737133M",
+    "title": "Can You Wait One More Hour",
+    "city": null,
+    "publisher": "Phos Pub Inc",
+    "year": 1998,
+    "subject": "Religion",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2001-12-28",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723530A",
+        "last_name": "Trowbridge",
+        "first_name": "Helen"
+      },
+      {
+        "openlibrary_id": "/authors/OL1608829A",
+        "last_name": "Cramberg",
+        "first_name": "Joanne"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737134M",
+    "title": "Baldrige in Brief",
+    "city": null,
+    "publisher": "Enterprise Design & Publishing",
+    "year": 1998,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 80,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2010-01-09",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3550382A",
+        "last_name": "S. Davison",
+        "first_name": "Karen"
+      },
+      {
+        "openlibrary_id": "/authors/OL3245625A",
+        "last_name": "L. Blazey",
+        "first_name": "Mark"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737135M",
+    "title": "Cf7 Locomotives",
+    "city": null,
+    "publisher": "Railroad Press",
+    "year": 1997,
+    "subject": "Engineering (General)",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 112,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2014-09-23",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2950741A",
+        "last_name": "F. Poole",
+        "first_name": "Cary"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737136M",
+    "title": "ALCO's to Allentown",
+    "city": null,
+    "publisher": "Railroad Press",
+    "year": 1998,
+    "subject": "Railroads - History",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 112,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2013-10-19",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723531A",
+        "last_name": "A. Biery",
+        "first_name": "Thomas"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737137M",
+    "title": "New England 1930's Steam Action ",
+    "city": null,
+    "publisher": "Railroad Pr",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 48,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2001-02-14",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3006815A",
+        "last_name": "Liljestrand",
+        "first_name": "Bob"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737138M",
+    "title": "Children's Railroad Learning & Activity Book",
+    "city": null,
+    "publisher": "Railroad Press",
+    "year": 2000,
+    "subject": "Activity Books - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 64,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2004-02-24",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3006817A",
+        "last_name": "F. M. Serensits",
+        "first_name": "Jaime"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737139M",
+    "title": "Passenger Cars of New England Volume 1 -- Boston & Maine",
+    "city": null,
+    "publisher": "Railroad Pr",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 48,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2014-12-10",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL36199A",
+        "last_name": "R. Sweetland",
+        "first_name": "David"
+      },
+      {
+        "openlibrary_id": "/authors/OL3723532A",
+        "last_name": "A. Liljestrand",
+        "first_name": "Robert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1173713M",
+    "title": "Steel manual",
+    "city": "Düsseldorf",
+    "publisher": "Verein Deutscher Eisenhüttenleute",
+    "year": 1992,
+    "subject": "Steel.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 135,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2005-10-14",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL146028A",
+        "last_name": "York (State). Division of Housing.",
+        "first_name": "New"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737140M",
+    "title": "Passenger Cars of New England Volume 2 -- Bangor & Aroostook and Maine Central",
+    "city": null,
+    "publisher": "Railroad Pr",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 48,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2004-01-04",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723532A",
+        "last_name": "A. Liljestrand",
+        "first_name": "Robert"
+      },
+      {
+        "openlibrary_id": "/authors/OL36199A",
+        "last_name": "R. Sweetland",
+        "first_name": "David"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737141M",
+    "title": "Passenger Cars of New England Volume 3 -- Central Vermont and Rutland",
+    "city": null,
+    "publisher": "Round Hill Pr",
+    "year": 2000,
+    "subject": "Transportation",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 48,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2005-02-09",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723532A",
+        "last_name": "A. Liljestrand",
+        "first_name": "Robert"
+      },
+      {
+        "openlibrary_id": "/authors/OL36199A",
+        "last_name": "R. Sweetland",
+        "first_name": "David"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737142M",
+    "title": "Food for the Soul",
+    "city": null,
+    "publisher": "S M R Inspirations",
+    "year": 1997,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 45,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2006-02-01",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723533A",
+        "last_name": "M. Reid",
+        "first_name": "Stephanie"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737143M",
+    "title": "Scrapbooks Ala Carte (Frogs, Snails, Puppy Dog Tails)",
+    "city": null,
+    "publisher": "Scrapbook Zone",
+    "year": 1997,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 31,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2016-02-29",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1375750A",
+        "last_name": "E. Gholson",
+        "first_name": "Ronald"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737144M",
+    "title": "The Role of Music in the Twenty-First Century (Star to Cell Series Book I) (Star to cell series)",
+    "city": null,
+    "publisher": "Tama-Do Press (AKA Tama-Do Academy)",
+    "year": 1997,
+    "subject": "Health, Mind & Body / Alternative Medicine",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 118,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2005-09-09",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723534A",
+        "last_name": "Maman",
+        "first_name": "Fabien"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737145M",
+    "title": "Raising Human Frequencies: The Way of Chi and the Subtle Bodies",
+    "city": null,
+    "publisher": "Tama-Do Press (AKA Tama-Do Academy)",
+    "year": 1997,
+    "subject": "Health, Mind & Body / Exercise & Fitness",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 79,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2006-06-04",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723534A",
+        "last_name": "Maman",
+        "first_name": "Fabien"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737146M",
+    "title": "The Body as a Harp: Sound and Acupuncture (Star to Cell Series Book III)",
+    "city": null,
+    "publisher": "Tama-Do Press (AKA Tama-Do Academy)",
+    "year": 1997,
+    "subject": "Health, Mind & Body / Exercise & Fitness",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 133,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2003-04-03",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723534A",
+        "last_name": "Maman",
+        "first_name": "Fabien"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737147M",
+    "title": "Healing with Sound, Color and Movement: Nine Evolutionary Healing Techniques",
+    "city": null,
+    "publisher": "Tama-Do Press (AKA Tama-Do Academy)",
+    "year": 1997,
+    "subject": "Health, Mind & Body / Alternative Medicine",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 119,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2004-05-22",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723534A",
+        "last_name": "Maman",
+        "first_name": "Fabien"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737148M",
+    "title": "Split Image Focus",
+    "city": null,
+    "publisher": "Parlez-Moi Press",
+    "year": 2004,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2014-08-12",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1016696A",
+        "last_name": "Gottberg-Talve",
+        "first_name": "Eva"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737149M",
+    "title": "The sting of the Wasp",
+    "city": null,
+    "publisher": "Print Shop",
+    "year": 1997,
+    "subject": "Naval operations, American",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 117,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2008-05-17",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723535A",
+        "last_name": "A Grant",
+        "first_name": "William"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1173714M",
+    "title": "A consumer's guide to water conservation",
+    "city": "Denver, CO",
+    "publisher": "American Water Works Association",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 63,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2009-07-19",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL614279A",
+        "last_name": "Obmascik",
+        "first_name": "Mark"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737150M",
+    "title": "Scientific Foundations for Regulating Drug Product Quality",
+    "city": null,
+    "publisher": "AAPS Press",
+    "year": 1997,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2005-05-22",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1014663A",
+        "last_name": "Clagett",
+        "first_name": "Marshall"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737151M",
+    "title": "Union Pacific rails to the mines",
+    "city": null,
+    "publisher": "T. Waite",
+    "year": 1999,
+    "subject": "History",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 64,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2011-03-25",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL407311A",
+        "last_name": "Waite",
+        "first_name": "Thornton"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737152M",
+    "title": "The Yellowstone bears of the Union Pacific Railroad",
+    "city": null,
+    "publisher": "Thornton Waite",
+    "year": 2000,
+    "subject": "History",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2002-10-06",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL407311A",
+        "last_name": "Waite",
+        "first_name": "Thornton"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737153M",
+    "title": "Gospel Illustrations",
+    "city": null,
+    "publisher": "Clavius Group",
+    "year": 1998,
+    "subject": "Preaching",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 171,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2009-03-15",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL405866A",
+        "last_name": "MacDonnell",
+        "first_name": "Joseph"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737154M",
+    "title": "Poems for the Manly-Man",
+    "city": null,
+    "publisher": "The Protocol Group",
+    "year": 1997,
+    "subject": "Humor",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 55,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2012-06-29",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723536A",
+        "last_name": "Buddy Rodgers",
+        "first_name": "J."
+      },
+      {
+        "openlibrary_id": "/authors/OL3723537A",
+        "last_name": "LeFever",
+        "first_name": "Chuck"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737155M",
+    "title": "Touring Martha's Vineyard with Judy Bigwheels",
+    "city": null,
+    "publisher": "Bigwheels Press",
+    "year": 1997,
+    "subject": "Anecdotes",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2007-12-14",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723538A",
+        "last_name": "Bailow",
+        "first_name": "Judith"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737156M",
+    "title": "Fire Apparatus Fighting Fires 2006 Calendar",
+    "city": null,
+    "publisher": "Chariot Publishing Company, Inc.",
+    "year": 2005,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2010-10-12",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL593703A",
+        "last_name": "Aloisi",
+        "first_name": "Peter"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737157M",
+    "title": "Fire Apparatus Fighting Fires 2007 Calendar",
+    "city": null,
+    "publisher": "Chariot Publishing Co. Inc.",
+    "year": 2006,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2004-11-03",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL593703A",
+        "last_name": "Aloisi",
+        "first_name": "Peter"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737158M",
+    "title": "Fire Apparatus Fighting Fires 2004 Calendar",
+    "city": null,
+    "publisher": "Chariot Publishing Co. Inc.",
+    "year": 2003,
+    "subject": "Calendars - Photography",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 12,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2002-04-29",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL593703A",
+        "last_name": "Aloisi",
+        "first_name": "Peter"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737159M",
+    "title": "Fire Apparatus Fighting Fires 2005 Calendar",
+    "city": null,
+    "publisher": "Chariot Publishing Co. Inc.",
+    "year": 2004,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2010-10-03",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL593703A",
+        "last_name": "Aloisi",
+        "first_name": "Peter"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1173715M",
+    "title": "Mai népi hiedelmek",
+    "city": "Budapest",
+    "publisher": "ELTE",
+    "year": 1975,
+    "subject": "Folklore -- Hungary.",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 156,
+    "lang": "hun",
+    "days_keep_count": 50,
+    "adding_date": "2013-09-12",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1107213A",
+        "last_name": "Michalke-Detmering",
+        "first_name": "Astrid"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737160M",
+    "title": "You Cannot Borrow Your Way Out of Debt",
+    "city": null,
+    "publisher": "Edway Pubns Inc",
+    "year": 1997,
+    "subject": "Business/Economics",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2016-05-14",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723539A",
+        "last_name": "R. Edwards",
+        "first_name": "Barbara"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737161M",
+    "title": "How to Choose and How to Use a Dictionary (Family Learning Guidebook)",
+    "city": null,
+    "publisher": "First Word Learning System",
+    "year": 1999,
+    "subject": "Dictionaries - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 117,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2008-09-19",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2686329A",
+        "last_name": "F. Russell",
+        "first_name": "William"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737162M",
+    "title": "Atlas of Idaho's wildlife",
+    "city": null,
+    "publisher": "Idaho Dept. of Fish and Game, Nongame and Endangered Wildlife Program",
+    "year": 1997,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 372,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2003-03-29",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL138252A",
+        "last_name": "Maceina",
+        "first_name": "Antanas"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737163M",
+    "title": "Proud to Be a Card-Carrying, Flag-Waving, Patriotic American Liberal",
+    "city": null,
+    "publisher": "Jean Hay for Congress/ Jean Hay for U. S. Senate",
+    "year": 1996,
+    "subject": "Politics",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 184,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2002-08-31",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723540A",
+        "last_name": "Hay",
+        "first_name": "Jean"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737164M",
+    "title": "Tim's Place",
+    "city": null,
+    "publisher": "Nu Leaf Pub",
+    "year": 1997,
+    "subject": "Short Stories (single author)",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 205,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2015-03-18",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723541A",
+        "last_name": "I. Fringuello",
+        "first_name": "Judith"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737165M",
+    "title": "Ethical Spirituality",
+    "city": null,
+    "publisher": "Organizational Strategies",
+    "year": 1999,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 48,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2013-12-19",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3324716A",
+        "last_name": "Sarles",
+        "first_name": "Sharon"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737166M",
+    "title": "A Pocket Full Of Smirks",
+    "city": null,
+    "publisher": "Raven Graphix",
+    "year": 2003,
+    "subject": "Poetry - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 206,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2004-11-10",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2514974A",
+        "last_name": "J. Wagner",
+        "first_name": "A."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737167M",
+    "title": "Love Listen Discipline",
+    "city": null,
+    "publisher": "Father in Action",
+    "year": 1997,
+    "subject": "Family/Marriage",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2005-01-24",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723542A",
+        "last_name": "Fundisha-Bey",
+        "first_name": "Tafuta"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737168M",
+    "title": "The Toll Road",
+    "city": null,
+    "publisher": "Pioneer Heritage Publishing",
+    "year": 1997,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 70,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2012-02-22",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723543A",
+        "last_name": "F. Heckethorn",
+        "first_name": "Ada"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737169M",
+    "title": "Problems and Cases in Health Information Management",
+    "city": null,
+    "publisher": "Lenox Publishing Company",
+    "year": 1997,
+    "subject": "Reference",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 93,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2015-06-24",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3246525A",
+        "last_name": "P. Bailey",
+        "first_name": "Susan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1173716M",
+    "title": "Geokriologicheskie issledovanii͡a︡ v Arkticheskikh raĭonakh",
+    "city": "Ti͡u︡menʹ",
+    "publisher": "Akademii͡a︡ nauk SSSR, Sibirskoe otd-nie, In-t problem osvoenii͡a︡ Severa",
+    "year": 1990,
+    "subject": "Frozen ground -- Russia, Northern -- Congresses.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "rus",
+    "days_keep_count": 100,
+    "adding_date": "2012-08-29",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1018036A",
+        "last_name": "L. Mowbray",
+        "first_name": "D."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737170M",
+    "title": "Problems and cases in health information management",
+    "city": null,
+    "publisher": "Lenox Publishing",
+    "year": 1997,
+    "subject": "Case management services",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 71,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2014-10-24",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL222191A",
+        "last_name": "Pritchard Bailey",
+        "first_name": "Susan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737171M",
+    "title": "Roleplays in health information management",
+    "city": null,
+    "publisher": "Lenox pub. co",
+    "year": 1997,
+    "subject": "Medical records",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 138,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2014-03-13",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL222191A",
+        "last_name": "Pritchard Bailey",
+        "first_name": "Susan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737172M",
+    "title": "How to get your kids in show biz: A basic guide book ",
+    "city": null,
+    "publisher": "Talent Books",
+    "year": 1997,
+    "subject": "Children as actors",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 55,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2008-08-22",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723544A",
+        "last_name": "Maese",
+        "first_name": "Lorraine"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737173M",
+    "title": "Butchies Joke Book",
+    "city": null,
+    "publisher": "Butch Fisco Press",
+    "year": 2005,
+    "subject": "Standup Comedy",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 80,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2013-03-18",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2936083A",
+        "last_name": "Fisco",
+        "first_name": "Butch"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737174M",
+    "title": "A presidential legacy",
+    "city": null,
+    "publisher": "James Monroe Museum",
+    "year": 1997,
+    "subject": "Catalogs",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 330,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2012-05-29",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723545A",
+        "last_name": "Langston-Harrison",
+        "first_name": "Lee"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737175M",
+    "title": "Rape seed",
+    "city": null,
+    "publisher": "Adagio Press",
+    "year": 1997,
+    "subject": "Fiction",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 269,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2003-02-08",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723546A",
+        "last_name": "Weiner",
+        "first_name": "Georgene"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737176M",
+    "title": "Cheater's Choice",
+    "city": null,
+    "publisher": "Adagio Press",
+    "year": 1999,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 257,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2001-12-08",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723547A",
+        "last_name": "S. Weiner",
+        "first_name": "Georgene"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737177M",
+    "title": "Chart Your Own Course",
+    "city": null,
+    "publisher": "Applied Business Solutions",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 180,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2001-10-20",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723548A",
+        "last_name": "A Spain",
+        "first_name": "Caryn"
+      },
+      {
+        "openlibrary_id": "/authors/OL3253924A",
+        "last_name": "Wishnoff",
+        "first_name": "Ron"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737178M",
+    "title": "Toxic Tort Law & Science Manual",
+    "city": null,
+    "publisher": "Mealey Publications, Inc.",
+    "year": 1996,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 712,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2000-11-27",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723549A",
+        "last_name": "J. Delany",
+        "first_name": "John"
+      },
+      {
+        "openlibrary_id": "/authors/OL3723550A",
+        "last_name": "M. Governo",
+        "first_name": "David"
+      },
+      {
+        "openlibrary_id": "/authors/OL2772157A",
+        "last_name": "E. Scott",
+        "first_name": "Robert"
+      },
+      {
+        "openlibrary_id": "/authors/OL3723551A",
+        "last_name": "Kenneth Willman",
+        "first_name": "R."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737179M",
+    "title": "Mealey's International Arbitration Review 1996",
+    "city": null,
+    "publisher": "Mealey Publications, Inc.",
+    "year": 1996,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 218,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2005-07-16",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723552A",
+        "last_name": "Hassan Amin",
+        "first_name": "S."
+      },
+      {
+        "openlibrary_id": "/authors/OL3723553A",
+        "last_name": "Thomas Anand",
+        "first_name": "Anita"
+      },
+      {
+        "openlibrary_id": "/authors/OL3723554A",
+        "last_name": "B. Annis",
+        "first_name": "Michael"
+      },
+      {
+        "openlibrary_id": "/authors/OL3723555A",
+        "last_name": "Brazil",
+        "first_name": "Patrick"
+      },
+      {
+        "openlibrary_id": "/authors/OL3723556A",
+        "last_name": "Carbonneau",
+        "first_name": "Tom"
+      },
+      {
+        "openlibrary_id": "/authors/OL3723557A",
+        "last_name": "W. G. Carey",
+        "first_name": "Peter"
+      },
+      {
+        "openlibrary_id": "/authors/OL3723558A",
+        "last_name": "R. Dingess",
+        "first_name": "John"
+      },
+      {
+        "openlibrary_id": "/authors/OL2203213A",
+        "last_name": "F. Ebb",
+        "first_name": "Lawrence"
+      },
+      {
+        "openlibrary_id": "/authors/OL3723559A",
+        "last_name": "Hamid El-Ahdab",
+        "first_name": "Abdul"
+      },
+      {
+        "openlibrary_id": "/authors/OL3723560A",
+        "last_name": "D. Friedland",
+        "first_name": "Paul"
+      },
+      {
+        "openlibrary_id": "/authors/OL3723561A",
+        "last_name": "F. Hochbaum",
+        "first_name": "Johann"
+      },
+      {
+        "openlibrary_id": "/authors/OL1370177A",
+        "last_name": "Iwasaki",
+        "first_name": "Kazuo"
+      },
+      {
+        "openlibrary_id": "/authors/OL221969A",
+        "last_name": "H. Kreindler",
+        "first_name": "Richard"
+      },
+      {
+        "openlibrary_id": "/authors/OL404625A",
+        "last_name": "F. Lowenfeld",
+        "first_name": "Andreas"
+      },
+      {
+        "openlibrary_id": "/authors/OL453219A",
+        "last_name": "B. Maggs",
+        "first_name": "Peter"
+      },
+      {
+        "openlibrary_id": "/authors/OL3723562A",
+        "last_name": "L. Marriott",
+        "first_name": "Arthur"
+      },
+      {
+        "openlibrary_id": "/authors/OL19886A",
+        "last_name": "Robert",
+        "first_name": "Morgan,"
+      },
+      {
+        "openlibrary_id": "/authors/OL590854A",
+        "last_name": "W. Park",
+        "first_name": "William"
+      },
+      {
+        "openlibrary_id": "/authors/OL3723563A",
+        "last_name": "H. Sampliner",
+        "first_name": "Gary"
+      },
+      {
+        "openlibrary_id": "/authors/OL3723564A",
+        "last_name": "Leigh. Weissman",
+        "first_name": "Barry"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1173717M",
+    "title": "HyperStudio",
+    "city": "Cincinnati, Ohio",
+    "publisher": "South-Western Pub. Co.",
+    "year": 1995,
+    "subject": "HyperStudio.",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 154,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2012-06-07",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL242045A",
+        "last_name": "W. Cochran",
+        "first_name": "David"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737180M",
+    "title": "The Drafting History Debate",
+    "city": null,
+    "publisher": "Mealey Publications, Inc.",
+    "year": 1995,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 224,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2012-07-07",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL33939A",
+        "last_name": "R. Anderson",
+        "first_name": "Eugene"
+      },
+      {
+        "openlibrary_id": "/authors/OL3723565A",
+        "last_name": "J. Coyle",
+        "first_name": "Brian"
+      },
+      {
+        "openlibrary_id": "/authors/OL3723566A",
+        "last_name": "C. Harwood",
+        "first_name": "Victor"
+      },
+      {
+        "openlibrary_id": "/authors/OL3723567A",
+        "last_name": "Luppi",
+        "first_name": "Maxa"
+      },
+      {
+        "openlibrary_id": "/authors/OL3723568A",
+        "last_name": "C. Nessman",
+        "first_name": "Alan"
+      },
+      {
+        "openlibrary_id": "/authors/OL800060A",
+        "last_name": "A. Pasich",
+        "first_name": "Kirk"
+      },
+      {
+        "openlibrary_id": "/authors/OL3723569A",
+        "last_name": "C. Russell",
+        "first_name": "Timothy"
+      },
+      {
+        "openlibrary_id": "/authors/OL3723570A",
+        "last_name": "N. Sayler",
+        "first_name": "Robert"
+      },
+      {
+        "openlibrary_id": "/authors/OL3723571A",
+        "last_name": "S. Schaufelberger",
+        "first_name": "Thomas"
+      },
+      {
+        "openlibrary_id": "/authors/OL3723572A",
+        "last_name": "H. Sear",
+        "first_name": "Thomas"
+      },
+      {
+        "openlibrary_id": "/authors/OL3723573A",
+        "last_name": "Zampino",
+        "first_name": "Edward"
+      },
+      {
+        "openlibrary_id": "/authors/OL3723574A",
+        "last_name": "M. Zolensky",
+        "first_name": "David"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737181M",
+    "title": "Mealey's Daubert & Expert Admissibility Conference Handbook",
+    "city": null,
+    "publisher": "Mealey Publications, Inc.",
+    "year": 1997,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 375,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2008-01-02",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723575A",
+        "last_name": "Mealey Publications",
+        "first_name": "Inc."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737182M",
+    "title": "Mealey's Year 2000",
+    "city": null,
+    "publisher": "Mealey Publications, Inc.",
+    "year": 1998,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 377,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2009-07-22",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723575A",
+        "last_name": "Mealey Publications",
+        "first_name": "Inc."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737183M",
+    "title": "Mealey's Toxic Torts",
+    "city": null,
+    "publisher": "Mealey Publications, Inc.",
+    "year": 1998,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 331,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2016-05-09",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723575A",
+        "last_name": "Mealey Publications",
+        "first_name": "Inc."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737184M",
+    "title": "Mealey's Fen-Phen Trial Strategies Conference Handbook 1999",
+    "city": null,
+    "publisher": "Mealey Publications, Inc.",
+    "year": 1999,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 657,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2005-08-12",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723576A",
+        "last_name": "Publications",
+        "first_name": "Mealey"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737185M",
+    "title": "Mealey's Year 2000 Liability Conference Handbook 1999",
+    "city": null,
+    "publisher": "Mealey Publications, Inc.",
+    "year": 1999,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 425,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2013-12-19",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723576A",
+        "last_name": "Publications",
+        "first_name": "Mealey"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737186M",
+    "title": "Mealey's Year 2000 Insurance Conference Handbook 1999",
+    "city": null,
+    "publisher": "Mealey Publications, Inc.",
+    "year": 1999,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 453,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2010-11-13",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723576A",
+        "last_name": "Publications",
+        "first_name": "Mealey"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737187M",
+    "title": "Britain Held Hostage",
+    "city": null,
+    "publisher": "Orange State Pr",
+    "year": 1998,
+    "subject": "EU & European institutions",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 338,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2003-12-24",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723577A",
+        "last_name": "Jenkins",
+        "first_name": "Lindsay"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737188M",
+    "title": "The Last Days of Britain (Britain in Europe)",
+    "city": null,
+    "publisher": "Orange State Press,U.S.",
+    "year": 2000,
+    "subject": "British Isles",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 302,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2015-04-26",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723577A",
+        "last_name": "Jenkins",
+        "first_name": "Lindsay"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737189M",
+    "title": "Disappearing Britain (Britain in Europe)",
+    "city": null,
+    "publisher": "Orange State Press,U.S.",
+    "year": 2005,
+    "subject": "EU & European institutions",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 160,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2016-07-25",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723577A",
+        "last_name": "Jenkins",
+        "first_name": "Lindsay"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1173718M",
+    "title": "Pasado presente",
+    "city": "México, D.F",
+    "publisher": "Fondo de Cultura Económica",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 351,
+    "lang": "spa",
+    "days_keep_count": 100,
+    "adding_date": "2013-01-07",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL182391A",
+        "last_name": "García Ponce",
+        "first_name": "Juan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737190M",
+    "title": "Consecrated Ground",
+    "city": null,
+    "publisher": "Pixieco Press",
+    "year": 1998,
+    "subject": "Cemeteries",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 272,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2014-06-22",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723578A",
+        "last_name": "L Cook",
+        "first_name": "Lisa"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737191M",
+    "title": "Ups and Downs in a Flying Fortress",
+    "city": null,
+    "publisher": "Pulse Press",
+    "year": 1998,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2011-09-16",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3511809A",
+        "last_name": "Lembke",
+        "first_name": "Bud"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737192M",
+    "title": "Where My Footsteps Wandered",
+    "city": null,
+    "publisher": "Ralyn Press",
+    "year": 1997,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2010-02-18",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723579A",
+        "last_name": "M. Bell",
+        "first_name": "Ralph"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737193M",
+    "title": "Favorite Haiku Volume III (Favorite Haiku)",
+    "city": null,
+    "publisher": "Pond Frog Editions",
+    "year": 1999,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 64,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2011-02-14",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3006828A",
+        "last_name": "F. Noyes",
+        "first_name": "H."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737194M",
+    "title": "The Sax Man's Case",
+    "city": null,
+    "publisher": "Red Moon Press",
+    "year": 1998,
+    "subject": "english-language haiku",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 64,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2005-10-25",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723580A",
+        "last_name": "J. Pupello",
+        "first_name": "Anthony"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737195M",
+    "title": "Some of the Silence",
+    "city": null,
+    "publisher": "Pond Frog Editions",
+    "year": 1999,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 80,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2007-10-04",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL69509A",
+        "last_name": "Elsberg",
+        "first_name": "John"
+      },
+      {
+        "openlibrary_id": "/authors/OL2262530A",
+        "last_name": "Stevenson",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737196M",
+    "title": "The Scare Crow",
+    "city": null,
+    "publisher": "Red Moon Press",
+    "year": 1999,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 64,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2009-11-18",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723581A",
+        "last_name": "Kanterman",
+        "first_name": "Leroy"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737197M",
+    "title": "Failure mode and effects analysis",
+    "city": null,
+    "publisher": "Rochester Institute of Technology",
+    "year": 1997,
+    "subject": "Quality control",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 128,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2004-04-24",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723582A",
+        "last_name": "S Jagodzinski",
+        "first_name": "Norbert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737198M",
+    "title": "Waffled",
+    "city": null,
+    "publisher": "Secret Canyon Pr",
+    "year": 1998,
+    "subject": "Fiction",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 324,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2003-10-30",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723583A",
+        "last_name": "Keehn",
+        "first_name": "Michael"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737199M",
+    "title": "The First International Red-Light Guide",
+    "city": null,
+    "publisher": "Sinbins, Inc.",
+    "year": 1997,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 240,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2009-11-01",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723584A",
+        "last_name": "L Jackson",
+        "first_name": "Ed"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1173719M",
+    "title": "Real world weight loss",
+    "city": "Mendota, MN",
+    "publisher": "Gold Publications Inc.",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 45,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2006-08-27",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL614280A",
+        "last_name": "O. Gold",
+        "first_name": "Judd"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL117371M",
+    "title": "Kompozit͡s︡ii͡a︡ \"Krysolova\" i mifologizm M. T͡S︡vetaevoĭ",
+    "city": "Khelʹsinki",
+    "publisher": "Institute for Russian and East European Studies",
+    "year": 1996,
+    "subject": "T͡S︡vetaeva, Marina, 1892-1941.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 206,
+    "lang": "rus",
+    "days_keep_count": 30,
+    "adding_date": "2007-03-12",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL78472A",
+        "last_name": "Suni",
+        "first_name": "Timo"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737200M",
+    "title": "Lute song",
+    "city": null,
+    "publisher": "G.R. Gaynor, Ink",
+    "year": 1997,
+    "subject": "Poetry",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 61,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2007-12-22",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723585A",
+        "last_name": "Talley",
+        "first_name": "Tyra"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737201M",
+    "title": "The Magic of Mess Painting",
+    "city": null,
+    "publisher": "Trans-Hyperborean Institute",
+    "year": 1999,
+    "subject": "Creativity",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 224,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2006-04-14",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723586A",
+        "last_name": "Barclay Goldstein",
+        "first_name": "Virginia"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737202M",
+    "title": "Fat & Fabulous ",
+    "city": null,
+    "publisher": "Zaftig Images",
+    "year": 1997,
+    "subject": "Personal Growth - General",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2001-06-01",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723587A",
+        "last_name": "Drake",
+        "first_name": "Alice"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737203M",
+    "title": "The Legend of Wally the Green Monster",
+    "city": null,
+    "publisher": "DUNFEY",
+    "year": 1997,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2001-06-18",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723588A",
+        "last_name": "CAREY",
+        "first_name": "MAXWELL"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737204M",
+    "title": "Underwear by the Roadside",
+    "city": null,
+    "publisher": "C A K Publishing",
+    "year": 1998,
+    "subject": "Environmental Conservation & Protection - General",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 352,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2013-05-21",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3006829A",
+        "last_name": "Hanket",
+        "first_name": "Glen"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737205M",
+    "title": "Life Mastery Process",
+    "city": null,
+    "publisher": "CAK Publishing",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 120,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2016-01-03",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723589A",
+        "last_name": "Alan Gay",
+        "first_name": "W."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737206M",
+    "title": "Take a Bike",
+    "city": null,
+    "publisher": "Cak Publishing",
+    "year": 2003,
+    "subject": "Cycling - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2016-03-20",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3006829A",
+        "last_name": "Hanket",
+        "first_name": "Glen"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737207M",
+    "title": "Take a Bike",
+    "city": null,
+    "publisher": "Cak Publishing",
+    "year": 2003,
+    "subject": "Cycling - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2004-02-21",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3006829A",
+        "last_name": "Hanket",
+        "first_name": "Glen"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737208M",
+    "title": "Take a Bike",
+    "city": null,
+    "publisher": "Cak Publishing",
+    "year": 2003,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2007-11-12",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3006829A",
+        "last_name": "Hanket",
+        "first_name": "Glen"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737209M",
+    "title": "Aurora/ East Metro Urban Trails (Take A Bike!, 4)",
+    "city": null,
+    "publisher": "CAK Publishing",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2006-02-22",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1464357A",
+        "last_name": "Dehua.",
+        "first_name": "Pan,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1173720M",
+    "title": "The fixer",
+    "city": "New York",
+    "publisher": "Farrar, Straus and Giroux",
+    "year": 1966,
+    "subject": "Jews -- Ukraine -- Fiction.",
+    "genre": "Fiction.",
+    "periodic_release": 3,
+    "page_count": 335,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2011-07-27",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL232501A",
+        "last_name": "Malamud",
+        "first_name": "Bernard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737210M",
+    "title": "Take a Bike",
+    "city": null,
+    "publisher": "Cak Publishing",
+    "year": 2003,
+    "subject": "Cycling - General",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2012-04-03",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3006829A",
+        "last_name": "Hanket",
+        "first_name": "Glen"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737211M",
+    "title": "Take a Bike",
+    "city": null,
+    "publisher": "Cak Publishing",
+    "year": 2003,
+    "subject": "Cycling - General",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2003-04-05",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3006829A",
+        "last_name": "Hanket",
+        "first_name": "Glen"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737212M",
+    "title": "The Family of Angels ",
+    "city": null,
+    "publisher": "Spartacus-Tribune Publications",
+    "year": 2000,
+    "subject": "True Crime / General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 350,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2010-07-10",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723590A",
+        "last_name": "Efty",
+        "first_name": "Efty"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737213M",
+    "title": "Countdown",
+    "city": null,
+    "publisher": "Emmaus Publications",
+    "year": 1998,
+    "subject": "Christian Life - General",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2001-03-23",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL773531A",
+        "last_name": "Hardy",
+        "first_name": "George"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737214M",
+    "title": "As You Are Going... Make Disciples",
+    "city": null,
+    "publisher": "Emmaus Publications",
+    "year": 2001,
+    "subject": "Christian Ministry - Evangelism",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 167,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2006-06-27",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3006830A",
+        "last_name": "L. Prall",
+        "first_name": "Bob"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737215M",
+    "title": "Reflections of the Heart",
+    "city": null,
+    "publisher": "Poets International Society",
+    "year": 1997,
+    "subject": "Anthologies (multiple authors)",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 200,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2007-02-14",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723591A",
+        "last_name": "Monaco",
+        "first_name": "Rachel"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737216M",
+    "title": "How to Develop a Dynamite Memory",
+    "city": null,
+    "publisher": null,
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2003-01-31",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1414683A",
+        "last_name": "A. Uriarte",
+        "first_name": "Carlos"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737217M",
+    "title": "Abend",
+    "city": null,
+    "publisher": "ogle development dawg",
+    "year": 1997,
+    "subject": "Fiction",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 217,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2007-01-16",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723592A",
+        "last_name": "Ogle",
+        "first_name": "Marc"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737218M",
+    "title": "Beauty Plus 2",
+    "city": null,
+    "publisher": "Triangle Press",
+    "year": 2002,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 198,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2003-12-26",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723593A",
+        "last_name": "Williams",
+        "first_name": "S.L."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737219M",
+    "title": "Nickname Mania",
+    "city": null,
+    "publisher": "Admark Communications",
+    "year": 1997,
+    "subject": "History",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 248,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2000-10-26",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723594A",
+        "last_name": "T. Jenkins",
+        "first_name": "Mark"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1173721M",
+    "title": "contenido de clases de la independencia Antología--historia de la cultura de Guatemala",
+    "city": "Guatemala, C.A",
+    "publisher": "Cooperativa de Servicios Varios, Facultad de Ciencias Económicas, Universidad de San Carlos",
+    "year": 1994,
+    "subject": "Guatemala -- History.",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 879,
+    "lang": "spa",
+    "days_keep_count": 50,
+    "adding_date": "2005-08-14",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1154744A",
+        "last_name": "S. Vysot͡s︡iĭ",
+        "first_name": "M."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737220M",
+    "title": "Playing on the Keys, Prep Book B for Piano",
+    "city": null,
+    "publisher": "Alexander Publishing",
+    "year": 1997,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 94,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2008-05-06",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723595A",
+        "last_name": "Cimorelli",
+        "first_name": "Lynne"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737221M",
+    "title": "The Holy Spirit Within",
+    "city": null,
+    "publisher": "Messenger College",
+    "year": 1997,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 152,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2007-07-09",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723596A",
+        "last_name": "McClendon",
+        "first_name": "Phillip"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737222M",
+    "title": "The Drawing of the Father",
+    "city": null,
+    "publisher": "Messenger College",
+    "year": 1999,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 150,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2011-08-14",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723596A",
+        "last_name": "McClendon",
+        "first_name": "Phillip"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737223M",
+    "title": "Dr. Chi's Method of Fingernail and Tongue Analysis",
+    "city": null,
+    "publisher": "Chi's Enterprise, Inc.",
+    "year": 2002,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2009-10-13",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL746866A",
+        "last_name": "Chi",
+        "first_name": "Tsu-Tsair"
+      },
+      {
+        "openlibrary_id": "/authors/OL3723597A",
+        "last_name": "Enterprise Staff",
+        "first_name": "Chis"
+      },
+      {
+        "openlibrary_id": "/authors/OL3723598A",
+        "last_name": "Chi",
+        "first_name": "Cheryl"
+      },
+      {
+        "openlibrary_id": "/authors/OL3723599A",
+        "last_name": "Chi",
+        "first_name": "Jennifer"
+      },
+      {
+        "openlibrary_id": "/authors/OL3723600A",
+        "last_name": "Chi",
+        "first_name": "Shirley"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737224M",
+    "title": "Dr. Chi's Herbal Formulas",
+    "city": null,
+    "publisher": "Chi's Enterprise, Inc.",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2012-11-22",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1314790A",
+        "last_name": "L. Tubbs",
+        "first_name": "David"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737225M",
+    "title": "Dr. Chi's Method of Fingernail and Tongue Diagnosis",
+    "city": null,
+    "publisher": "Chis Enterprises Inc",
+    "year": 1997,
+    "subject": "Medical",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 201,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2011-05-28",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL746866A",
+        "last_name": "Chi",
+        "first_name": "Tsu-Tsair"
+      },
+      {
+        "openlibrary_id": "/authors/OL3723599A",
+        "last_name": "Chi",
+        "first_name": "Jennifer"
+      },
+      {
+        "openlibrary_id": "/authors/OL3723600A",
+        "last_name": "Chi",
+        "first_name": "Shirley"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737226M",
+    "title": "Lonesome Leo The Little Lion",
+    "city": null,
+    "publisher": "Lion Eyes Books! and Publishing",
+    "year": 1997,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 16,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2004-11-21",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723601A",
+        "last_name": "Csellak",
+        "first_name": "Bill"
+      },
+      {
+        "openlibrary_id": "/authors/OL3723602A",
+        "last_name": "Abel",
+        "first_name": "Erik"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737227M",
+    "title": "Leading Contemporary Poets",
+    "city": null,
+    "publisher": "Poetry Intl",
+    "year": 1997,
+    "subject": "Poetry",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2014-02-13",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3659641A",
+        "last_name": "C. Nisula",
+        "first_name": "Dasha"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737228M",
+    "title": "Poetry in Watercolor",
+    "city": null,
+    "publisher": "Wilczewski, Inc.",
+    "year": 1997,
+    "subject": "Poetry",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 34,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2014-08-28",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723603A",
+        "last_name": "C. Wilczewski",
+        "first_name": "Thomas"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737229M",
+    "title": "I love my parents, but I hate divorce",
+    "city": null,
+    "publisher": "Wildwater Publications",
+    "year": 1997,
+    "subject": "Divorce",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2011-05-22",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723604A",
+        "last_name": "Hanna Otto",
+        "first_name": "Pat"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1173722M",
+    "title": "La producción de maíz de temporal en México",
+    "city": "México, D.F",
+    "publisher": "Centro Internacional de Mejoramiento de Maíz y Trigo",
+    "year": 1900,
+    "subject": "Corn -- Economic aspects -- Mexico.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 46,
+    "lang": "spa",
+    "days_keep_count": 100,
+    "adding_date": "2000-06-25",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL614281A",
+        "last_name": "Hibon",
+        "first_name": "Alberíc"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737230M",
+    "title": "Out of the Cocoon",
+    "city": null,
+    "publisher": "New England Novelty Books",
+    "year": 1997,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 103,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2015-01-02",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL890164A",
+        "last_name": "Walker",
+        "first_name": "Simon"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737231M",
+    "title": "Maximilien Luce, 1858-1941",
+    "city": null,
+    "publisher": "Wildenstein (19 East 64th St., New York, N.Y.)",
+    "year": 1997,
+    "subject": "Exhibitions",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 129,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2007-07-24",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2114015A",
+        "last_name": "Luce",
+        "first_name": "Maximilien"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737232M",
+    "title": "Wake up America - Regain Your American Heritage",
+    "city": null,
+    "publisher": "Financial Freedom Enterprises",
+    "year": 1997,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 192,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2016-02-27",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL138155A",
+        "last_name": "Heinrich",
+        "first_name": "Dörrie,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737233M",
+    "title": "Wasp, A Play in One Act",
+    "city": null,
+    "publisher": "Victoria Dailey Publisher",
+    "year": 1996,
+    "subject": "American",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 65,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2004-11-11",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL230240A",
+        "last_name": "Martin",
+        "first_name": "Steve"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737234M",
+    "title": "20/20",
+    "city": null,
+    "publisher": "Greenville County Museum of Art",
+    "year": 1998,
+    "subject": "Exhibitions",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2016-04-07",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL590436A",
+        "last_name": "Mull",
+        "first_name": "Martin"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737235M",
+    "title": "The Pazifische Press",
+    "city": null,
+    "publisher": "Victoria Dailey Pub",
+    "year": 2000,
+    "subject": "History: American",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2015-04-24",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL62239A",
+        "last_name": "Jaeger",
+        "first_name": "Roland"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737236M",
+    "title": "Eyewitness to Warhol",
+    "city": null,
+    "publisher": "Victoria Dailey",
+    "year": 2002,
+    "subject": "Warhol, Andy",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 35,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2014-06-13",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL449112A",
+        "last_name": "Woronov",
+        "first_name": "Mary"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737237M",
+    "title": "Fruit for God",
+    "city": null,
+    "publisher": "St. Andrew Armenian Church",
+    "year": 1996,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2001-06-19",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723605A",
+        "last_name": "Lazarian",
+        "first_name": "Elizabeth"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737238M",
+    "title": "An Introduction to Technical Diving",
+    "city": null,
+    "publisher": "Grale Company",
+    "year": 1999,
+    "subject": "Sports & Recreation / Scuba & Snorkeling",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2002-02-14",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723606A",
+        "last_name": "Kristovich",
+        "first_name": "Ann"
+      },
+      {
+        "openlibrary_id": "/authors/OL2629928A",
+        "last_name": "Hunt",
+        "first_name": "Elizabeth"
+      },
+      {
+        "openlibrary_id": "/authors/OL3575826A",
+        "last_name": "Bowden",
+        "first_name": "Jim"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737239M",
+    "title": "TMJ Tour v2.0",
+    "city": null,
+    "publisher": "Grale Company",
+    "year": 1999,
+    "subject": "CAS - Audio - Self-Help",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2014-05-31",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723607A",
+        "last_name": "Dale Gallagher D.D.S - Oral",
+        "first_name": "Dr."
+      },
+      {
+        "openlibrary_id": "/authors/OL3723608A",
+        "last_name": "Surgeon",
+        "first_name": "Maxillofacial"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1173723M",
+    "title": "Le grand chapitre et le grand choeur",
+    "city": "Strasbourg",
+    "publisher": "Ercal Publications",
+    "year": 1992,
+    "subject": "Cathédrale de Strasbourg. Chapitre -- History -- 17th century.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 223,
+    "lang": "fre",
+    "days_keep_count": 50,
+    "adding_date": "2010-12-29",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL614282A",
+        "last_name": "Xibaut",
+        "first_name": "Bernard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737240M",
+    "title": "Physical Skiing",
+    "city": null,
+    "publisher": "KickPoint Press",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 344,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2008-12-21",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723609A",
+        "last_name": "E. Wolkodoff",
+        "first_name": "Neil"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737241M",
+    "title": "Physical Golf For Women",
+    "city": null,
+    "publisher": "KickPoint Press",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 336,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2012-10-19",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723610A",
+        "last_name": "E. Wolkodoff",
+        "first_name": "Neil,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737242M",
+    "title": "Core Powered Golf",
+    "city": null,
+    "publisher": "Kickpoint Press",
+    "year": 2000,
+    "subject": "Golf - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2016-05-30",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL407568A",
+        "last_name": "Wolkodoff",
+        "first_name": "Neil"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737243M",
+    "title": "The Teacher's Mentor",
+    "city": null,
+    "publisher": "Dyno Teach Pub",
+    "year": 1997,
+    "subject": "Teaching Methods & Materials - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2014-04-25",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723611A",
+        "last_name": "Gentry",
+        "first_name": "Sharon"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737244M",
+    "title": "The Heart of Me",
+    "city": null,
+    "publisher": "Dyno Teach Pub",
+    "year": 1999,
+    "subject": "Education, Elementary",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 76,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2015-12-13",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723611A",
+        "last_name": "Gentry",
+        "first_name": "Sharon"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737245M",
+    "title": "Escenas . . . Como de Pelicula Vieja",
+    "city": null,
+    "publisher": "Tree House Publications",
+    "year": 1997,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 96,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2008-11-25",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723612A",
+        "last_name": "Collazo",
+        "first_name": "Mapa"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737246M",
+    "title": "African Amer Education Data Book: Vol. III",
+    "city": null,
+    "publisher": "Frederick D Patterson Research Inst",
+    "year": 1997,
+    "subject": "Bilingual Education",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2001-06-17",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL298821A",
+        "last_name": "T. Nettles",
+        "first_name": "Michael"
+      },
+      {
+        "openlibrary_id": "/authors/OL3191591A",
+        "last_name": "Perna",
+        "first_name": "Laura"
+      },
+      {
+        "openlibrary_id": "/authors/OL3723613A",
+        "last_name": "M. Rhodes",
+        "first_name": "Erica"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737247M",
+    "title": "Basic hat for employees",
+    "city": null,
+    "publisher": "Ravenwood Management Group",
+    "year": 1999,
+    "subject": "Industrial management",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 135,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2011-07-06",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL42466A",
+        "last_name": "Ron Hubbard",
+        "first_name": "L."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737248M",
+    "title": "Reckless Breeding",
+    "city": null,
+    "publisher": "Super Ego Press",
+    "year": 1997,
+    "subject": "Family/Parenting/Childbirth",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 63,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2010-10-22",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723614A",
+        "last_name": "Craig",
+        "first_name": "Nancy"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737249M",
+    "title": "You Know You Have In-Laws from Hell When...",
+    "city": null,
+    "publisher": "Blonde Bouffants",
+    "year": 1996,
+    "subject": "Form - Comic Strips & Cartoons",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2004-07-20",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723615A",
+        "last_name": "Alfieri",
+        "first_name": "Rebecca"
+      },
+      {
+        "openlibrary_id": "/authors/OL3723616A",
+        "last_name": "Thorne",
+        "first_name": "Allison"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1173724M",
+    "title": "Il manoscritto fiorentino di J.J. Winckelmann =",
+    "city": "Firenze",
+    "publisher": "L.S. Olschki",
+    "year": 1994,
+    "subject": "Art, Ancient.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 264,
+    "lang": "ger",
+    "days_keep_count": 10,
+    "adding_date": "2013-05-02",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL115685A",
+        "last_name": "Joachim Winckelmann",
+        "first_name": "Johann"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737250M",
+    "title": "New Harvest",
+    "city": null,
+    "publisher": "The Brodsky Library Press",
+    "year": 2005,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2013-08-10",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1254762A",
+        "last_name": "Costa",
+        "first_name": "Aurelio"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737251M",
+    "title": "Prodigal Father Reuniting Fathers With T",
+    "city": null,
+    "publisher": "Three Rivers Press",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2001-09-14",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2727884A",
+        "last_name": "Bryan",
+        "first_name": "Mark"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737252M",
+    "title": "Crow in the House, Wolf at the Door",
+    "city": null,
+    "publisher": "City Desk Press",
+    "year": 1995,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 103,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2014-04-26",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL248212A",
+        "last_name": "Nail",
+        "first_name": "Frances"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737253M",
+    "title": "Vegan~Licious",
+    "city": null,
+    "publisher": "Reuel Hesterman",
+    "year": 1996,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 130,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2000-05-20",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723617A",
+        "last_name": "Hesterman",
+        "first_name": "Reuel"
+      },
+      {
+        "openlibrary_id": "/authors/OL3723618A",
+        "last_name": "O'Meara",
+        "first_name": "Marie"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737254M",
+    "title": "The robin",
+    "city": null,
+    "publisher": "First American Prevention Center",
+    "year": 1998,
+    "subject": "Folklore",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 29,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2010-06-23",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723619A",
+        "last_name": "Bainbridge",
+        "first_name": "Dee"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737255M",
+    "title": "1995 China Medical Market Report",
+    "city": null,
+    "publisher": "The Golden Triangle Organization, Inc.",
+    "year": 1995,
+    "subject": "China",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 100,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2002-04-28",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723620A",
+        "last_name": "The Golden Triangle Organization",
+        "first_name": "Inc."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737256M",
+    "title": "1997 Indian Medical Market Report",
+    "city": null,
+    "publisher": "The Golden Triangle Organization, Inc.",
+    "year": 1997,
+    "subject": "Healthcare",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 168,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2000-04-28",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723620A",
+        "last_name": "The Golden Triangle Organization",
+        "first_name": "Inc."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737257M",
+    "title": "The 2001 Vermont Wedding & Event Resource Guide",
+    "city": null,
+    "publisher": "Happy Hollow Promotion",
+    "year": 2000,
+    "subject": "Reference / Personal & Practical Guides",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 352,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2016-09-26",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1521548A",
+        "last_name": "Palmisano",
+        "first_name": "Joanne"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737258M",
+    "title": "Vermont Wedding & Event Resource Guide",
+    "city": null,
+    "publisher": "Wedding Resource Pub",
+    "year": 2001,
+    "subject": "Directories",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 356,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2007-10-05",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1521548A",
+        "last_name": "Palmisano",
+        "first_name": "Joanne"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737259M",
+    "title": "Vermont Wedding & Event Resource Guide",
+    "city": null,
+    "publisher": "Happy Hollow Promotion",
+    "year": 2002,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 352,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2014-07-23",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1521548A",
+        "last_name": "Palmisano",
+        "first_name": "Joanne"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1173725M",
+    "title": "El centro del laberinto",
+    "city": "Pamplona",
+    "publisher": "EUNSA",
+    "year": 1994,
+    "subject": "Borges, Jorge Luis, 1899- -- Philosophy.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 183,
+    "lang": "spa",
+    "days_keep_count": 50,
+    "adding_date": "2009-03-20",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL260813A",
+        "last_name": "Arana Cañedo-Argüelles",
+        "first_name": "Juan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737260M",
+    "title": "The New Hampshire Wedding & Event Resource Guide",
+    "city": null,
+    "publisher": "Happy Hollow Promotion",
+    "year": 2002,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 288,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2015-08-29",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1521548A",
+        "last_name": "Palmisano",
+        "first_name": "Joanne"
+      },
+      {
+        "openlibrary_id": "/authors/OL3307359A",
+        "last_name": "Motch",
+        "first_name": "Franklin"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737261M",
+    "title": "Helping hands, caring hearts",
+    "city": null,
+    "publisher": "4-H Foundation",
+    "year": 2002,
+    "subject": "History",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2016-10-12",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723621A",
+        "last_name": "A Larson",
+        "first_name": "Carol"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737262M",
+    "title": "Sisters by Heart ~ Partners in Aging ",
+    "city": null,
+    "publisher": "KALM",
+    "year": 2001,
+    "subject": "Biography & Autobiography",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 144,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2016-11-08",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2672772A",
+        "last_name": "Lou Fuller",
+        "first_name": "Mary"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737263M",
+    "title": "Community, Sport and Leisure",
+    "city": null,
+    "publisher": "Legend Books",
+    "year": null,
+    "subject": "Psychological aspects",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 186,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2007-09-30",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1433029A",
+        "last_name": "Delaney",
+        "first_name": "Tim"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737264M",
+    "title": "Community, Sport and Leisure",
+    "city": null,
+    "publisher": "Legend Books",
+    "year": 2001,
+    "subject": "Sports & Recreation",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 260,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2004-08-24",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1433029A",
+        "last_name": "Delaney",
+        "first_name": "Tim"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737265M",
+    "title": "Values, Society and Evolution",
+    "city": null,
+    "publisher": "Legend Books",
+    "year": 2002,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2012-10-09",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1218879A",
+        "last_name": "Hassan Zia Tavana",
+        "first_name": "Mohammad"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737266M",
+    "title": "How to Buy a Diamond Without Getting Ripped Off",
+    "city": null,
+    "publisher": "M W Research",
+    "year": 1996,
+    "subject": "Reference",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2016-01-18",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723622A",
+        "last_name": "R. Klein",
+        "first_name": "Mike"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737267M",
+    "title": "Love Coupons",
+    "city": null,
+    "publisher": "MOTH, Inc.",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 21,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2004-12-18",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723623A",
+        "last_name": "Elaine Stevens",
+        "first_name": "Dr."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737268M",
+    "title": "The Readiness Factor ",
+    "city": null,
+    "publisher": "MOTH, Inc.",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2011-08-26",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723623A",
+        "last_name": "Elaine Stevens",
+        "first_name": "Dr."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737269M",
+    "title": "Car Selling 101",
+    "city": null,
+    "publisher": "Me-Me Books]",
+    "year": 1996,
+    "subject": "Business & Economics / Sales & Selling",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 235,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2004-08-13",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723624A",
+        "last_name": "D Raimey",
+        "first_name": "Michael"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1173726M",
+    "title": "Œuvres complètes",
+    "city": "Sceaux",
+    "publisher": "Editions J. Gabay",
+    "year": 1992,
+    "subject": "Abel, Niels Henrik, 1802-1829.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "fre",
+    "days_keep_count": 30,
+    "adding_date": "2014-01-18",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL614283A",
+        "last_name": "Henrik Abel",
+        "first_name": "Niels"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737270M",
+    "title": "Sales Training Work Book, Steps of The Sales",
+    "city": null,
+    "publisher": "MeMe Books Publishing Co.",
+    "year": 1998,
+    "subject": "Business & Economics / Sales & Selling",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 70,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2014-09-10",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723625A",
+        "last_name": "D. Raimey",
+        "first_name": "Michael"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737271M",
+    "title": "Sales Training Work Book, Buying Styles",
+    "city": null,
+    "publisher": "MeMe Books Publishing Co.",
+    "year": 1998,
+    "subject": "Business & Economics / Sales & Selling",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 10,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2010-07-20",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723625A",
+        "last_name": "D. Raimey",
+        "first_name": "Michael"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737272M",
+    "title": "How to choose and keep your partner",
+    "city": null,
+    "publisher": "Phantom Publishing",
+    "year": 1997,
+    "subject": "Health, Mind & Body",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 135,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2015-12-06",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723626A",
+        "last_name": "T. Marei",
+        "first_name": "Maen"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737273M",
+    "title": "Book of Leaders ",
+    "city": null,
+    "publisher": "Philadelphia Business Journal",
+    "year": 1997,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2008-01-02",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1051311A",
+        "last_name": "Baumgarten",
+        "first_name": "Dieter"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737274M",
+    "title": "Manual Therapy",
+    "city": null,
+    "publisher": "Pine Publications",
+    "year": 1998,
+    "subject": "Allied Health Services - Physical Therapy",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 358,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2009-06-30",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723627A",
+        "last_name": "Warmerdam",
+        "first_name": "Ad"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737275M",
+    "title": "Integrating thinking",
+    "city": null,
+    "publisher": "Professional Associates Pub",
+    "year": 1999,
+    "subject": "Activity programs in education",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 59,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2002-01-06",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL435324A",
+        "last_name": "W. Kingore",
+        "first_name": "Bertie"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737276M",
+    "title": "Alphabetters: Thinking adventures using the alphabet ",
+    "city": null,
+    "publisher": "Professional Associates",
+    "year": 1997,
+    "subject": "Activity programs in education",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2002-01-17",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL435324A",
+        "last_name": "W. Kingore",
+        "first_name": "Bertie"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737277M",
+    "title": "Teaching without nonsense",
+    "city": null,
+    "publisher": "Professional Associates",
+    "year": 1999,
+    "subject": "Activity programs in education",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 60,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2016-02-25",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL435324A",
+        "last_name": "W. Kingore",
+        "first_name": "Bertie"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737278M",
+    "title": "Literature celebrations",
+    "city": null,
+    "publisher": "Professional Associates Publishing",
+    "year": 1999,
+    "subject": "Activity programs in education",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 60,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2002-01-01",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL435324A",
+        "last_name": "W. Kingore",
+        "first_name": "Bertie"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737279M",
+    "title": "Risks Worth Taking Poetry and Art From a D",
+    "city": null,
+    "publisher": "Puffin",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2014-08-25",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723628A",
+        "last_name": "Blunk",
+        "first_name": "Timothy"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1173727M",
+    "title": "Diary of a girl in Changi, 1941-45",
+    "city": "Kenthurst, NSW",
+    "publisher": "Kangaroo Press",
+    "year": 1994,
+    "subject": "Allan, Sheila, 1924- -- Diaries.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 168,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2013-11-16",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL614284A",
+        "last_name": "Allan",
+        "first_name": "Sheila"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737280M",
+    "title": "Homemade to Go",
+    "city": null,
+    "publisher": "Purrfect Publishing, Limited",
+    "year": 1997,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 128,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2001-11-20",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723629A",
+        "last_name": "Sarton Bower",
+        "first_name": "Dee"
+      },
+      {
+        "openlibrary_id": "/authors/OL3723630A",
+        "last_name": "Eileen Wells",
+        "first_name": "Mary"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11737281M",
+    "title": "Great Adventures for Kitsap Peninsula",
+    "city": null,
+    "publisher": "R & R Publications",
+    "year": 2003,
+    "subject": "Special Interest - Family",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 154,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2010-09-26",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3723631A",
+        "last_name": "Rude",
+        "first_name": "Christina"
+      },
+      {
+        "openlibrary_id": "/authors/OL3723632A",
+        "last_name": "Rue",
+        "first_name": "Debbie"
+      }
+    ]
+  }
+]

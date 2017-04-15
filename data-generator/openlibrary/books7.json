@@ -1,0 +1,4842 @@
+[
+  {
+    "openlibrary_id": "/books/OL10074384M",
+    "title": "Agreement & Innovation",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 1991,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 256,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2014-02-16",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365919A",
+        "last_name": "DiMartino",
+        "first_name": "Vittorio"
+      },
+      {
+        "openlibrary_id": "/authors/OL808036A",
+        "last_name": "Cressey",
+        "first_name": "Peter"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074385M",
+    "title": "Human Physiology Student Workbook",
+    "city": null,
+    "publisher": "Not Avail",
+    "year": 2001,
+    "subject": "Physiology",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 560,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2006-09-15",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365920A",
+        "last_name": "U. Silverthorn",
+        "first_name": "Dee"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074386M",
+    "title": "Business Applications With Agenda 2.0/Book and Disk (Business Solutions Series)",
+    "city": null,
+    "publisher": "Brady Publishing",
+    "year": 1992,
+    "subject": "Lotus 1-2-3",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 410,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2008-02-08",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365921A",
+        "last_name": "Flast",
+        "first_name": "Robert"
+      },
+      {
+        "openlibrary_id": "/authors/OL1039746A",
+        "last_name": "Flast",
+        "first_name": "Lauren"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074387M",
+    "title": "Keys to Nursing Success",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 2000,
+    "subject": "Child & developmental psychology",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 348,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2014-01-23",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL223005A",
+        "last_name": "R. Katz",
+        "first_name": "Janet"
+      },
+      {
+        "openlibrary_id": "/authors/OL20909A",
+        "last_name": "Carter",
+        "first_name": "Carol"
+      },
+      {
+        "openlibrary_id": "/authors/OL238287A",
+        "last_name": "Bishop",
+        "first_name": "Joyce"
+      },
+      {
+        "openlibrary_id": "/authors/OL2648751A",
+        "last_name": "Lyman Kravits",
+        "first_name": "Sarah"
+      },
+      {
+        "openlibrary_id": "/authors/OL3278515A",
+        "last_name": "Katz",
+        "first_name": "Janet"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074388M",
+    "title": "Business Applications With Agenda 2.0 (Business Solutions Series)",
+    "city": null,
+    "publisher": "Brady Publishing",
+    "year": 1992,
+    "subject": "Lotus 1-2-3",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 410,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2007-09-30",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365921A",
+        "last_name": "Flast",
+        "first_name": "Robert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074389M",
+    "title": "Instructors Manual with Tif, Complete",
+    "city": null,
+    "publisher": "Pearson Higher Education",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2011-01-07",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL238534A",
+        "last_name": "Dessler",
+        "first_name": "Gary"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1007438M",
+    "title": "Kidding around Cleveland",
+    "city": "Santa Fe, N.M",
+    "publisher": "J. Muir Publications",
+    "year": 1997,
+    "subject": "Family recreation -- Ohio -- Cleveland -- Guidebooks -- Juvenile literature.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 139,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2009-05-26",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL19346A",
+        "last_name": "Peacock",
+        "first_name": "Nancy"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074390M",
+    "title": "Implementing Biztalk for E-Commerce",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 350,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2004-07-31",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365922A",
+        "last_name": "Leedy",
+        "first_name": "Jason"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074391M",
+    "title": "Luggage Merchant",
+    "city": null,
+    "publisher": "Pearson Education Imports: Depositories",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2010-08-20",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365809A",
+        "last_name": "HEARING",
+        "first_name": "HEARING"
+      },
+      {
+        "openlibrary_id": "/authors/OL2743550A",
+        "last_name": "DILWOR",
+        "first_name": "DILWOR"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074392M",
+    "title": "Linux Magnum (Swedish)",
+    "city": null,
+    "publisher": "Longman Higher Education",
+    "year": 2000,
+    "subject": "Integrated software packages",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 1136,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2015-12-25",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365923A",
+        "last_name": "Tackett",
+        "first_name": "Tackett"
+      },
+      {
+        "openlibrary_id": "/authors/OL2669879A",
+        "last_name": "Burnett",
+        "first_name": "Burnett"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074393M",
+    "title": "Arco AICPA's Uniform CPA Exam",
+    "city": null,
+    "publisher": "Arco",
+    "year": 1992,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2001-10-26",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2937067A",
+        "last_name": "Institute of Certified Public A",
+        "first_name": "American"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074394M",
+    "title": "Prentice Hall Health's Question and Answer Review of EKG",
+    "city": null,
+    "publisher": "Pearson Education",
+    "year": 2002,
+    "subject": "Electrocardiography",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 245,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2014-10-29",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2653374A",
+        "last_name": "Ellis",
+        "first_name": "Karen"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074395M",
+    "title": "Fundamentals of Nursing:",
+    "city": null,
+    "publisher": "Not Avail",
+    "year": 2000,
+    "subject": "Nursing - Fundamentals & Skills",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2000-02-28",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2650848A",
+        "last_name": "Kozier",
+        "first_name": "Kozier"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074396M",
+    "title": "Foundations of Finance and PH Finance Center Pack (With CD-ROM)",
+    "city": null,
+    "publisher": "Prentice Hall College Div",
+    "year": 2000,
+    "subject": "Economics, Finance, Business and Industry",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 632,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2009-07-13",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365782A",
+        "last_name": "Keown",
+        "first_name": "Arthur"
+      },
+      {
+        "openlibrary_id": "/authors/OL408498A",
+        "last_name": "Martin",
+        "first_name": "John"
+      },
+      {
+        "openlibrary_id": "/authors/OL3365924A",
+        "last_name": "Petty",
+        "first_name": "J."
+      },
+      {
+        "openlibrary_id": "/authors/OL2650137A",
+        "last_name": "F., Jr. Scott",
+        "first_name": "David"
+      },
+      {
+        "openlibrary_id": "/authors/OL2650627A",
+        "last_name": "Keown",
+        "first_name": "Keown"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074397M",
+    "title": "Management of Organizational Behavior",
+    "city": null,
+    "publisher": "Pearon Education",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2006-10-05",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1013603A",
+        "last_name": "Toshiaki",
+        "first_name": "Kawahara,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074398M",
+    "title": "Implementing Sap R/3 Using Microsoft Cluster Server",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 2000,
+    "subject": "Databases & data structures",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 328,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2012-02-23",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3116395A",
+        "last_name": "Gatti",
+        "first_name": "Mauro"
+      },
+      {
+        "openlibrary_id": "/authors/OL3365925A",
+        "last_name": "Schmidt-Dannert",
+        "first_name": "Ralf"
+      },
+      {
+        "openlibrary_id": "/authors/OL3365926A",
+        "last_name": "Cali",
+        "first_name": "Matthew"
+      },
+      {
+        "openlibrary_id": "/authors/OL2318346A",
+        "last_name": "Charles",
+        "first_name": "Edward"
+      },
+      {
+        "openlibrary_id": "/authors/OL3365927A",
+        "last_name": "Dariouch",
+        "first_name": "David"
+      },
+      {
+        "openlibrary_id": "/authors/OL3365928A",
+        "last_name": "De Lampugnani",
+        "first_name": "Olivier"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074399M",
+    "title": "Management Study Guide",
+    "city": null,
+    "publisher": "Prentice-Hall",
+    "year": 2000,
+    "subject": "Management & management techniques",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2014-07-20",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2676133A",
+        "last_name": "Robbins",
+        "first_name": "Harold"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1007439M",
+    "title": "Kidding around Atlanta",
+    "city": "Santa Fe, NM",
+    "publisher": "J. Muir Publications",
+    "year": 1997,
+    "subject": "Family recreation -- Georgia -- Atlanta -- Guidebooks -- Juvenile literature.",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 139,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2005-03-05",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL219206A",
+        "last_name": "Knorr",
+        "first_name": "Rosanne"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL100743M",
+    "title": "Fifteenth century England, 1399-1509",
+    "city": "Stroud, Gloucestershire",
+    "publisher": "A. Sutton",
+    "year": 1995,
+    "subject": "Great Britain -- Politics and government -- 1399-1485 -- Congresses.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 192,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2011-02-01",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1263188A",
+        "last_name": "Kōno",
+        "first_name": "Bairei"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074400M",
+    "title": "Viewpoints 11",
+    "city": null,
+    "publisher": "Pearson Education Canada",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2010-06-07",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365929A",
+        "last_name": "Mathieu, Wendy Lee Joseph",
+        "first_name": "Amanda;"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074401M",
+    "title": "Fall 2000 Nyt Student Succss Career Development",
+    "city": null,
+    "publisher": "Prentice-Hall",
+    "year": 2002,
+    "subject": "Learning & study skills",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2015-09-16",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365930A",
+        "last_name": "NYT",
+        "first_name": "NYT"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074402M",
+    "title": "Finite Mathematics Business Economic Life Sci Social",
+    "city": null,
+    "publisher": "Prentice-Hall",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2012-06-03",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365931A",
+        "last_name": "WOROSZ",
+        "first_name": "WOROSZ"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074403M",
+    "title": "Instructors Solutions Manual to Ti-83/Ti-83 Plus Worksheet",
+    "city": null,
+    "publisher": "Pearson Education Limited",
+    "year": 2001,
+    "subject": "Construction & heavy industry",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2010-07-27",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365931A",
+        "last_name": "WOROSZ",
+        "first_name": "WOROSZ"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074404M",
+    "title": "Instructors Manual",
+    "city": null,
+    "publisher": "Prentice-Hall",
+    "year": 2002,
+    "subject": "Construction & heavy industry",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2011-07-08",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2651158A",
+        "last_name": "Against the Clock",
+        "first_name": "ATC"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074405M",
+    "title": "LabVIEW for Automotive, Telecommunications, Semiconductor, Biomedical, and Other Applications",
+    "city": null,
+    "publisher": "Prentice Hall PTR",
+    "year": 2000,
+    "subject": "Engineering measurement & calibration",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 247,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2004-05-17",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365932A",
+        "last_name": "T. Martin",
+        "first_name": "Hall"
+      },
+      {
+        "openlibrary_id": "/authors/OL3365933A",
+        "last_name": "L. Martin",
+        "first_name": "Meg"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074406M",
+    "title": "Basic Composition Activities Workbook",
+    "city": null,
+    "publisher": "Prentice-Hall",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2007-09-14",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2625839A",
+        "last_name": "Price",
+        "first_name": "Price"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074407M",
+    "title": "Out of Many",
+    "city": null,
+    "publisher": "Prentice Hall College Div",
+    "year": 1999,
+    "subject": "United States - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2006-05-04",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL833807A",
+        "last_name": "Mack Faragher",
+        "first_name": "John"
+      },
+      {
+        "openlibrary_id": "/authors/OL395916A",
+        "last_name": "Jo Buhle",
+        "first_name": "Mari"
+      },
+      {
+        "openlibrary_id": "/authors/OL2648719A",
+        "last_name": "Czitrom",
+        "first_name": "Daniel"
+      },
+      {
+        "openlibrary_id": "/authors/OL1743482A",
+        "last_name": "H. Armitage",
+        "first_name": "Susan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074408M",
+    "title": "Introduction to Data Analysis Using Minitab for Windows and Minitab 2000",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 1999,
+    "subject": "Operating Systems - General",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2014-04-27",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2179147A",
+        "last_name": "McLaughlin",
+        "first_name": "Kathleen"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074409M",
+    "title": "Medical Transcription: Fundamentals & Practice + Rice",
+    "city": null,
+    "publisher": "Prentice Hall Health",
+    "year": 2000,
+    "subject": "Dictionaries & Terminology",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2002-07-18",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2649005A",
+        "last_name": "Campbell",
+        "first_name": "Linda"
+      },
+      {
+        "openlibrary_id": "/authors/OL223331A",
+        "last_name": "Rice",
+        "first_name": "Jane"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1007440M",
+    "title": "Ten tiny monsters",
+    "city": "New York",
+    "publisher": "Crown Publishers",
+    "year": 1997,
+    "subject": "Monsters -- Fiction",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2011-03-15",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL332698A",
+        "last_name": "White Samton",
+        "first_name": "Sheila"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074410M",
+    "title": "Exploring Microsoft Office 2000 Professional",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 1999,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2000-03-09",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1334028A",
+        "last_name": "Stephen L.",
+        "first_name": "Williams,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074411M",
+    "title": "Outline Review For The EKG Technician",
+    "city": null,
+    "publisher": "Prentice Hall Health",
+    "year": 2008,
+    "subject": "Allied Health Services - General",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2008-01-28",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365935A",
+        "last_name": "Weiss",
+        "first_name": "Roberta"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074412M",
+    "title": "Introduction to MathCAD 2000",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 2000,
+    "subject": "Mathematical & statistical software",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 215,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2003-01-10",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL19624A",
+        "last_name": "W. Larsen",
+        "first_name": "Ronald"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074413M",
+    "title": "Psychology (2nd edition)",
+    "city": null,
+    "publisher": "Prentice Hall College Div",
+    "year": 1999,
+    "subject": "Psychology",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2016-09-09",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL23092A",
+        "last_name": "F. Davis",
+        "first_name": "Stephen"
+      },
+      {
+        "openlibrary_id": "/authors/OL2648943A",
+        "last_name": "H. McBurney",
+        "first_name": "Donald"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074414M",
+    "title": "TI Graphics Calculator Approach to Calculus",
+    "city": null,
+    "publisher": "Prentice Hall College Div",
+    "year": 2000,
+    "subject": "Calculus & mathematical analysis",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2007-10-22",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365936A",
+        "last_name": "Gresser",
+        "first_name": "Gresser"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074415M",
+    "title": "Using Mathematics in Economic Analysis",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 2001,
+    "subject": "Applied mathematics",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 604,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2004-08-15",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL549827A",
+        "last_name": "N. Hess",
+        "first_name": "Peter"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074416M",
+    "title": "Soils In Our Environment (9th Edition)",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 2000,
+    "subject": "Agriculture & Farming",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 642,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2006-10-20",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL545847A",
+        "last_name": "W. Miller",
+        "first_name": "Raymond"
+      },
+      {
+        "openlibrary_id": "/authors/OL2650441A",
+        "last_name": "T. Gardiner",
+        "first_name": "Duane"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074417M",
+    "title": "Psychology & Study Guide & Cd-Rom & Psychology Internet 98-99 Pkg",
+    "city": null,
+    "publisher": "Prentice Hall College Div",
+    "year": 1999,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2004-11-11",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3011508A",
+        "last_name": "Kassin",
+        "first_name": "Kassin"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074418M",
+    "title": "Through the Eyes of a Child",
+    "city": null,
+    "publisher": "Prentice Hall College Div",
+    "year": 1998,
+    "subject": "Language Experience Approach",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2002-04-20",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL232398A",
+        "last_name": "E. Norton",
+        "first_name": "Donna"
+      },
+      {
+        "openlibrary_id": "/authors/OL2650572A",
+        "last_name": "E. Norton",
+        "first_name": "Saundra"
+      },
+      {
+        "openlibrary_id": "/authors/OL187804A",
+        "last_name": "T. Stull",
+        "first_name": "Andrew"
+      },
+      {
+        "openlibrary_id": "/authors/OL391825A",
+        "last_name": "J. Ryder",
+        "first_name": "Randall"
+      },
+      {
+        "openlibrary_id": "/authors/OL29399A",
+        "last_name": "D. Kellough",
+        "first_name": "Richard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074419M",
+    "title": "Trato Hecho!: Spanish for Real Life ",
+    "city": null,
+    "publisher": "Prentice Hall College Div",
+    "year": 1999,
+    "subject": "Language",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2010-12-07",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL447971A",
+        "last_name": "T. McMinn",
+        "first_name": "John"
+      },
+      {
+        "openlibrary_id": "/authors/OL2654786A",
+        "last_name": "A. Hemmer",
+        "first_name": "Robert"
+      },
+      {
+        "openlibrary_id": "/authors/OL2654787A",
+        "last_name": "D. Vigil",
+        "first_name": "Virginia"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1007441M",
+    "title": "Virtual Cody",
+    "city": "New York",
+    "publisher": "Viking",
+    "year": 1997,
+    "subject": "Names, Personal -- Fiction.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 83,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2004-06-11",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL224209A",
+        "last_name": "Duffey",
+        "first_name": "Betsy"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074420M",
+    "title": "The Local Macroeconomics Explorer",
+    "city": null,
+    "publisher": "Prentice Hall College Div",
+    "year": 1998,
+    "subject": "Security - Viruses",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2001-05-31",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1263032A",
+        "last_name": "N. Berkutenko",
+        "first_name": "A."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074421M",
+    "title": "The Logal Microeconomics Explorer",
+    "city": null,
+    "publisher": "Prentice Hall College Div",
+    "year": 1998,
+    "subject": "Economics - Microeconomics",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2005-04-08",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365937A",
+        "last_name": "Software",
+        "first_name": "Logal"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074422M",
+    "title": "Sm Statistics First Course T/I",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 1999,
+    "subject": "Probability & statistics",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2008-07-29",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2697089A",
+        "last_name": "Freund",
+        "first_name": "Freund"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074423M",
+    "title": "Instructors Solutions Manual",
+    "city": null,
+    "publisher": "Pearson US Imports & PHIPEs",
+    "year": 1999,
+    "subject": "Probability & statistics",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2008-07-14",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2697089A",
+        "last_name": "Freund",
+        "first_name": "Freund"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074424M",
+    "title": "60 Second Memos B/cd",
+    "city": null,
+    "publisher": "Pearson Education Limited",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2009-05-18",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365938A",
+        "last_name": "Toropov",
+        "first_name": "Toropov"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074425M",
+    "title": "Perspectives on Argument 1998 & Writer's Helpers for Windows 4.0",
+    "city": null,
+    "publisher": "Prentice Hall College Div",
+    "year": 1998,
+    "subject": "Rhetoric",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2015-02-21",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL29876A",
+        "last_name": "V. Wood",
+        "first_name": "Nancy"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074426M",
+    "title": "Instructors Manual with Test Item File",
+    "city": null,
+    "publisher": "Prentice-Hall",
+    "year": 2001,
+    "subject": "Education",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2016-04-16",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3348963A",
+        "last_name": "JACOBUS",
+        "first_name": "JACOBUS"
+      },
+      {
+        "openlibrary_id": "/authors/OL2622492A",
+        "last_name": "Harwood",
+        "first_name": "Harwood"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074427M",
+    "title": "Physics",
+    "city": null,
+    "publisher": "Prentice Hall College Div",
+    "year": 1999,
+    "subject": "Physics",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2009-02-25",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL29129A",
+        "last_name": "C. Giancoli",
+        "first_name": "Douglas"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074428M",
+    "title": "Management (Dutch)",
+    "city": null,
+    "publisher": "Prentice Hall (Higher Education Division, Pearson Education)",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2016-11-18",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3012190A",
+        "last_name": "Stoner",
+        "first_name": "Stoner"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074429M",
+    "title": "Precalculus",
+    "city": null,
+    "publisher": "Prentice Hall College Div",
+    "year": 1999,
+    "subject": "Science/Mathematics",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2001-11-01",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL28708A",
+        "last_name": "Michael",
+        "first_name": "Sullivan,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1007442M",
+    "title": "Young Cam Jansen and the lost tooth",
+    "city": "New York",
+    "publisher": "Viking",
+    "year": 1997,
+    "subject": "Teeth -- Fiction",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 32,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2006-03-17",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL19214A",
+        "last_name": "A. Adler",
+        "first_name": "David"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074430M",
+    "title": "Prentice Hall Reader & S & S Quick Access, 2/E & Supplementary Essays for Writers & English on the I",
+    "city": null,
+    "publisher": "Prentice Hall College Div",
+    "year": 1999,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2011-05-20",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2625192A",
+        "last_name": "Miller",
+        "first_name": "Miller"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074431M",
+    "title": "Western Heritage, Brief Combined Ed & Document Sets Vol I & Doc Sets Vol II Pkg",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 1999,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2014-09-07",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2625003A",
+        "last_name": "Kagan",
+        "first_name": "Kagan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074432M",
+    "title": "Physics",
+    "city": null,
+    "publisher": "Prentice Hall College Div",
+    "year": 1999,
+    "subject": "Science/Mathematics",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2012-01-15",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365665A",
+        "last_name": "Giancoli",
+        "first_name": "Douglas"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074433M",
+    "title": "MCSE Implementing and Supporting Microsoft Systems Management Server 2",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 1999,
+    "subject": "Computing and Information Technology",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 640,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2007-03-16",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL24613A",
+        "last_name": "R. Vacca",
+        "first_name": "John"
+      },
+      {
+        "openlibrary_id": "/authors/OL2636499A",
+        "last_name": "Vacca",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074434M",
+    "title": "Threshold Competitor",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 1998,
+    "subject": "Applications of Computing",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 128,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2014-11-15",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365939A",
+        "last_name": "H. Anderson",
+        "first_name": "Philip"
+      },
+      {
+        "openlibrary_id": "/authors/OL2649206A",
+        "last_name": "A. Beveridge",
+        "first_name": "David"
+      },
+      {
+        "openlibrary_id": "/authors/OL2649205A",
+        "last_name": "W. Scott",
+        "first_name": "Timothy"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074435M",
+    "title": "XML Web Kit",
+    "city": null,
+    "publisher": "Prentice Hall (Higher Education Division, Pearson Education)",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2007-02-24",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1201182A",
+        "last_name": "Derix",
+        "first_name": "Hans-Heribert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074436M",
+    "title": "Prentice Hall's Federal Taxation 2000",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 1999,
+    "subject": "Taxation",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2012-09-30",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2649208A",
+        "last_name": "R. Pope",
+        "first_name": "Thomas"
+      },
+      {
+        "openlibrary_id": "/authors/OL858697A",
+        "last_name": "Anderson",
+        "first_name": "Kenneth"
+      },
+      {
+        "openlibrary_id": "/authors/OL2146593A",
+        "last_name": "Kramer",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074437M",
+    "title": "Sm Ph Fed Tax 2000 Indiv T/B",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 1999,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2004-04-17",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2649207A",
+        "last_name": "& KRAMER",
+        "first_name": "POPE"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074438M",
+    "title": "Prentice Hall's Federal Taxation, 2000",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 1999,
+    "subject": "Taxation",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 1040,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2009-06-24",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL952202A",
+        "last_name": "L. Kramer",
+        "first_name": "John"
+      },
+      {
+        "openlibrary_id": "/authors/OL2649208A",
+        "last_name": "R. Pope",
+        "first_name": "Thomas"
+      },
+      {
+        "openlibrary_id": "/authors/OL2650621A",
+        "last_name": "L. Anderson",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074439M",
+    "title": "Federal Taxation 2000",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 1999,
+    "subject": "Taxation - General",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 816,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2003-12-11",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1007721A",
+        "last_name": "Robert",
+        "first_name": "Thompson,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1007443M",
+    "title": "Night out",
+    "city": "Minneapolis, MN",
+    "publisher": "Milkweed Editions",
+    "year": 1997,
+    "subject": "American poetry -- 20th century.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 362,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2008-03-05",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1076194A",
+        "last_name": "Conference on Psychosomatic Research (16th 1986 Athens, Greece)",
+        "first_name": "European"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074440M",
+    "title": "Cellulosics",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 1994,
+    "subject": "Organic chemistry",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2014-05-12",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2652509A",
+        "last_name": "F. Kennedy",
+        "first_name": "J."
+      },
+      {
+        "openlibrary_id": "/authors/OL2652510A",
+        "last_name": "O. Phillips",
+        "first_name": "G."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074441M",
+    "title": "Activation Id and Password to Access the Website to Accompany Prentice Hall's Federal Taxation 2000 ",
+    "city": null,
+    "publisher": "Prentice Hall College Div",
+    "year": 1999,
+    "subject": "Taxation",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2014-12-06",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL952202A",
+        "last_name": "L. Kramer",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074442M",
+    "title": "Ph Federal Taxation 2000 Comp Surf",
+    "city": null,
+    "publisher": "Pearson US Imports & PHIPEs",
+    "year": 1999,
+    "subject": "USA",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2016-11-23",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365941A",
+        "last_name": "& POPE",
+        "first_name": "KRAMER"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074443M",
+    "title": "Social Dimensions of Systems Engineering",
+    "city": null,
+    "publisher": "Ellis Horwood Ltd",
+    "year": 1993,
+    "subject": "Computer Programming",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 288,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2005-07-25",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3046721A",
+        "last_name": "Quintas",
+        "first_name": "Paul"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074444M",
+    "title": "Special Education Yellow Pages, The",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 1999,
+    "subject": "Teaching of those with special educational needs",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 214,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2012-10-25",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL393415A",
+        "last_name": "Pierangelo",
+        "first_name": "Roger"
+      },
+      {
+        "openlibrary_id": "/authors/OL3365942A",
+        "last_name": "Crane",
+        "first_name": "Rochelle"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074445M",
+    "title": "Sm Stats Mgrs Using MS Excel Disk I/S/M",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 1999,
+    "subject": "Databases & data structures",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2010-08-22",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2649563A",
+        "last_name": "Levine",
+        "first_name": "Levine"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074446M",
+    "title": "Test Item File",
+    "city": null,
+    "publisher": "Prentice-Hall",
+    "year": 1999,
+    "subject": "Sales & marketing",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2007-05-27",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365943A",
+        "last_name": "& BERENSON",
+        "first_name": "LEVINE"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074447M",
+    "title": "Virtual Private Networking",
+    "city": null,
+    "publisher": "Prentice Hall PTR",
+    "year": 1999,
+    "subject": "Computer Hardware & Operating Systems",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 268,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2003-11-07",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365944A",
+        "last_name": "Perlmutter",
+        "first_name": "Bruce"
+      },
+      {
+        "openlibrary_id": "/authors/OL3365945A",
+        "last_name": "Zarkower",
+        "first_name": "Jonathan"
+      },
+      {
+        "openlibrary_id": "/authors/OL3365946A",
+        "last_name": "L. Zarkower",
+        "first_name": "Jonathan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074448M",
+    "title": "Test Item File",
+    "city": null,
+    "publisher": "Pearson Education Limited",
+    "year": 1999,
+    "subject": "C & Visual C",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2008-03-21",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365947A",
+        "last_name": "Ips Publishing",
+        "first_name": "Inc"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074449M",
+    "title": "Literature",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 1994,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2001-02-22",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1236635A",
+        "last_name": "Symposium on Graph Theory (1st 1982 University of Colorado in Boulder)",
+        "first_name": "Colorado"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1007444M",
+    "title": "Shona",
+    "city": "New York",
+    "publisher": "Rosen Pub. Group",
+    "year": 1997,
+    "subject": "Shona (African people) -- Juvenile literature.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 64,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2004-04-30",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL397668A",
+        "last_name": "Van Wyk",
+        "first_name": "Gary"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074450M",
+    "title": "Prentice Hall Federal Taxation 2000",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 1999,
+    "subject": "Taxation law",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 1456,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2014-06-16",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL952202A",
+        "last_name": "L. Kramer",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074451M",
+    "title": "Principles Biodiversity",
+    "city": null,
+    "publisher": "US Imports & PHIPEs",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2007-12-11",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365948A",
+        "last_name": "& VALETINE",
+        "first_name": "HAMILTON"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074452M",
+    "title": "Visual Introduction to AutoCAD and 3D Designing with Release 14, A",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 1999,
+    "subject": "AutoCAD",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 597,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2006-07-28",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL31799A",
+        "last_name": "D. Bethune",
+        "first_name": "James"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074453M",
+    "title": "Spring 1999 Nyt STD Succ Car Dev",
+    "city": null,
+    "publisher": "Pearson US Imports & PHIPEs",
+    "year": 1999,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2010-10-02",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365930A",
+        "last_name": "NYT",
+        "first_name": "NYT"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074454M",
+    "title": "SPSS 9.0 for Windows Student Version",
+    "city": null,
+    "publisher": "Pearson Education",
+    "year": 1999,
+    "subject": "Computer Software Packages",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2010-09-07",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2638755A",
+        "last_name": "Inc.",
+        "first_name": "SPSS"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074455M",
+    "title": "Systat 8.0 for Windows",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 1999,
+    "subject": "Computing and Information Technology",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 233,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2014-06-10",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2649212A",
+        "last_name": "Inc.",
+        "first_name": "Spss"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074456M",
+    "title": "SPSS Base 9.0 Syntax Reference Guide",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 1999,
+    "subject": "Mathematical & statistical software",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2004-08-27",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1426852A",
+        "last_name": "Becker",
+        "first_name": "Shari"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074457M",
+    "title": "SYSTAT 8.0 for Windows Student Version",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 1999,
+    "subject": "Economic statistics",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2011-03-29",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2649212A",
+        "last_name": "Inc.",
+        "first_name": "Spss"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074458M",
+    "title": "Systat 8.0",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 1999,
+    "subject": "Economic statistics",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 134,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2008-07-12",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2649212A",
+        "last_name": "Inc.",
+        "first_name": "Spss"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074459M",
+    "title": "Systat 8.0 for Windows",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 1999,
+    "subject": "Computing and Information Technology",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 268,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2016-11-13",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2649212A",
+        "last_name": "Inc.",
+        "first_name": "Spss"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1007445M",
+    "title": "Resurrection",
+    "city": "New York",
+    "publisher": "Random House",
+    "year": 1997,
+    "subject": "Russia (Federation) -- Politics and government -- 1991-",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 398,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2003-09-01",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL228037A",
+        "last_name": "Remnick",
+        "first_name": "David"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074460M",
+    "title": "Systat 8.0 for Windows",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 1999,
+    "subject": "Computing and Information Technology",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 432,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2001-12-11",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2649212A",
+        "last_name": "Inc.",
+        "first_name": "Spss"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074461M",
+    "title": "Systat 8.0 for Windows",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 1999,
+    "subject": "Computing and Information Technology",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 1086,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2007-05-24",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2649212A",
+        "last_name": "Inc.",
+        "first_name": "Spss"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074462M",
+    "title": "Instructors Solutions Manual, Updated Version",
+    "city": null,
+    "publisher": "Pearson US Imports & PHIPEs",
+    "year": 1998,
+    "subject": "Management of real estate, property & plant",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2009-04-16",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2649563A",
+        "last_name": "Levine",
+        "first_name": "Levine"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074463M",
+    "title": "Tip Top 1 Students Book (Polish) (TIPT)",
+    "city": null,
+    "publisher": "Prentice-Hall",
+    "year": 1998,
+    "subject": "ELT: Learning Material & Coursework",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2004-09-04",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365949A",
+        "last_name": "RIXON",
+        "first_name": "RIXON"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074464M",
+    "title": "Tip Top 2 Students Book (Polish) (TIPT)",
+    "city": null,
+    "publisher": "Prentice-Hall",
+    "year": 1999,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2015-10-05",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365949A",
+        "last_name": "RIXON",
+        "first_name": "RIXON"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074465M",
+    "title": "Tip Top 3 Students Book (Polish) (TIPT)",
+    "city": null,
+    "publisher": "Prentice-Hall",
+    "year": 1998,
+    "subject": "ELT: Learning Material & Coursework",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2012-05-27",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365949A",
+        "last_name": "RIXON",
+        "first_name": "RIXON"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074466M",
+    "title": "Tip Top 1 Workbook (Polish) (TIPT)",
+    "city": null,
+    "publisher": "Prentice-Hall",
+    "year": 1998,
+    "subject": "ELT: Learning Material & Coursework",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2004-10-13",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365949A",
+        "last_name": "RIXON",
+        "first_name": "RIXON"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074467M",
+    "title": "Tip Top 2 Workbook (Polish) (TIPT)",
+    "city": null,
+    "publisher": "Prentice-Hall",
+    "year": 1999,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2015-01-25",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365949A",
+        "last_name": "RIXON",
+        "first_name": "RIXON"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074468M",
+    "title": "Tip Top 3 Workbook (Polish) (TIPT)",
+    "city": null,
+    "publisher": "Prentice-Hall",
+    "year": 1998,
+    "subject": "ELT: Learning Material & Coursework",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2013-09-29",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365949A",
+        "last_name": "RIXON",
+        "first_name": "RIXON"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074469M",
+    "title": "Nevada Real Estate License Law",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 2005,
+    "subject": "Real Estate",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2011-03-09",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1428600A",
+        "last_name": "K. Weber",
+        "first_name": "James"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1007446M",
+    "title": "Butterworth takes a vacation, but decides to give it back",
+    "city": "Sisters, Or",
+    "publisher": "Multnomah Books",
+    "year": 1997,
+    "subject": "Family recreation -- United States -- Fiction.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 150,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2000-12-24",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL451529A",
+        "last_name": "Butterworth",
+        "first_name": "Bill"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074470M",
+    "title": "English for Accountancy Sb (Bbm)",
+    "city": null,
+    "publisher": "Prentice-Hall",
+    "year": 1998,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2012-01-30",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365950A",
+        "last_name": "RADICE",
+        "first_name": "RADICE"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074471M",
+    "title": "Prss",
+    "city": null,
+    "publisher": "Prentice-Hall",
+    "year": 1999,
+    "subject": "ELT: Learning Material & Coursework",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2011-12-20",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365951A",
+        "last_name": "M J",
+        "first_name": "ST-JOHN"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074472M",
+    "title": "Prss:Insurance Sb (Bbm)",
+    "city": null,
+    "publisher": "Prentice-Hall",
+    "year": 1998,
+    "subject": "ELT: English for business",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2000-07-27",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365952A",
+        "last_name": "Sneyd",
+        "first_name": "M"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074473M",
+    "title": "Prss:Accounting Sb (Bbm)",
+    "city": null,
+    "publisher": "Prentice-Hall",
+    "year": 1998,
+    "subject": "ELT: English for business",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2013-06-08",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365952A",
+        "last_name": "Sneyd",
+        "first_name": "M"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074474M",
+    "title": "Exploring Microsoft Office 97",
+    "city": null,
+    "publisher": "Prentice Hall College Div",
+    "year": 1998,
+    "subject": "Computer Books: Integrated Systems",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2013-12-29",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL32678A",
+        "last_name": "T. Grauer",
+        "first_name": "Robert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074475M",
+    "title": "Exploring Microsoft Office 97",
+    "city": null,
+    "publisher": "Prentice Hall College Div",
+    "year": 1998,
+    "subject": "Business Software - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2004-02-07",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL32678A",
+        "last_name": "T. Grauer",
+        "first_name": "Robert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074476M",
+    "title": "Exploring Microsoft Office Professional 97",
+    "city": null,
+    "publisher": "Not Avail",
+    "year": 1998,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2003-09-24",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL32678A",
+        "last_name": "T. Grauer",
+        "first_name": "Robert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074477M",
+    "title": "Early Language of Business English (Bbm)",
+    "city": null,
+    "publisher": "Prentice-Hall",
+    "year": 1998,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2016-08-25",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365953A",
+        "last_name": "BRIEGER",
+        "first_name": "BRIEGER"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074478M",
+    "title": "Intro Matlab Engineering Students",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 208,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2009-01-10",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1522806A",
+        "last_name": "Gustafsson",
+        "first_name": "Fredrik"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074479M",
+    "title": "Instant AutoCAD",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 2000,
+    "subject": "AutoCAD",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 208,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2008-04-22",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL224815A",
+        "last_name": "J. Ethier",
+        "first_name": "Stephen"
+      },
+      {
+        "openlibrary_id": "/authors/OL2648996A",
+        "last_name": "A. Ethier",
+        "first_name": "Christine"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1007447M",
+    "title": "Speaking of history",
+    "city": "East Lansing",
+    "publisher": "Michigan State University Press",
+    "year": 1997,
+    "subject": "Historiography -- United States.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 263,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2010-02-07",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1020151A",
+        "last_name": "Maḥmūd Imām",
+        "first_name": "Muḥammad"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074480M",
+    "title": "Preflight",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 1998,
+    "subject": "Computer Graphics - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 384,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2004-03-28",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2648842A",
+        "last_name": "the Clock",
+        "first_name": "Against"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074481M",
+    "title": "Practical Statistics by Example",
+    "city": null,
+    "publisher": "Prentice Hall College Div",
+    "year": 1999,
+    "subject": "Probability & statistics",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 263,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2005-03-21",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3301969A",
+        "last_name": "Dummeldinger",
+        "first_name": "Dummeldinger"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074482M",
+    "title": "Pre-Calculus",
+    "city": null,
+    "publisher": "Prentice Hall College Div",
+    "year": 1998,
+    "subject": "Pre-Calculus",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2001-02-11",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL28708A",
+        "last_name": "Michael",
+        "first_name": "Sullivan,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074483M",
+    "title": "Verification and Validation of Modern Software-Intensive Systems",
+    "city": null,
+    "publisher": "Prentice Hall PTR",
+    "year": 2000,
+    "subject": "Software engineering",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 512,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2013-09-03",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL884667A",
+        "last_name": "Gordon Schulmeyer",
+        "first_name": "G."
+      },
+      {
+        "openlibrary_id": "/authors/OL3365954A",
+        "last_name": "R. Mackenzie",
+        "first_name": "Garth"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074484M",
+    "title": "Prentice Hall Handbook for Writers and Model Student Essays and English on Internet 98-99 Package",
+    "city": null,
+    "publisher": "Prentice Hall College Div",
+    "year": 1999,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2012-11-11",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2655111A",
+        "last_name": "Kramer",
+        "first_name": "Kramer"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074485M",
+    "title": "UNIX Sys V Ansi C Trans Gde Rel 4.0",
+    "city": null,
+    "publisher": "Prentice Hall PTR",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2012-05-04",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2655631A",
+        "last_name": "AT&T",
+        "first_name": "AT&T"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074486M",
+    "title": "Threshold Entrepreneur",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 2000,
+    "subject": "Small businesses & self-employed",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 128,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2007-05-29",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365939A",
+        "last_name": "H. Anderson",
+        "first_name": "Philip"
+      },
+      {
+        "openlibrary_id": "/authors/OL2649206A",
+        "last_name": "A. Beveridge",
+        "first_name": "David"
+      },
+      {
+        "openlibrary_id": "/authors/OL3365955A",
+        "last_name": "Scott",
+        "first_name": "Thimothy"
+      },
+      {
+        "openlibrary_id": "/authors/OL2687525A",
+        "last_name": "L. Hofmeister",
+        "first_name": "David"
+      },
+      {
+        "openlibrary_id": "/authors/OL2649205A",
+        "last_name": "W. Scott",
+        "first_name": "Timothy"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074487M",
+    "title": "Unix System V Programmers Guide Posix Conformance",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 1996,
+    "subject": "Reference",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2006-05-26",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1450436A",
+        "last_name": "Sina Diatta",
+        "first_name": "Christian"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074488M",
+    "title": "The 1998-1999 Prentice Hall Guide to Marketing Faculty",
+    "city": null,
+    "publisher": null,
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2011-07-13",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1094355A",
+        "last_name": "A. Tolstonogov",
+        "first_name": "A."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074489M",
+    "title": "Prealgebra",
+    "city": null,
+    "publisher": "Prentice Hall College Div",
+    "year": 1998,
+    "subject": "Algebra",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 224,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2007-10-24",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365956A",
+        "last_name": "Blair",
+        "first_name": "Tobey"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1007448M",
+    "title": "The reader's companion to Cuba",
+    "city": "San Diego",
+    "publisher": "Harcourt Brace & Co.",
+    "year": 1997,
+    "subject": "Visitors, Foreign -- Cuba -- Attitudes.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 392,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2007-10-23",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1103085A",
+        "last_name": "I͡U︡. G.",
+        "first_name": "Kaminskiĭ,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074490M",
+    "title": "Visible Analyst Workbench",
+    "city": null,
+    "publisher": "Gale Group",
+    "year": 1997,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2005-01-25",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2626509A",
+        "last_name": "Group",
+        "first_name": "Gale"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074491M",
+    "title": "Student Handbook Enviromental Geol L/M",
+    "city": null,
+    "publisher": "US Imports & PHIPEs",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2012-03-13",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365957A",
+        "last_name": "TRAVIS",
+        "first_name": "TRAVIS"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074492M",
+    "title": "Negocios Sin Fronteras",
+    "city": null,
+    "publisher": "Not Avail",
+    "year": 2002,
+    "subject": "Commodities",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 114,
+    "lang": "spa",
+    "days_keep_count": 50,
+    "adding_date": "2003-02-25",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3245600A",
+        "last_name": "Manny",
+        "first_name": "Karoline"
+      },
+      {
+        "openlibrary_id": "/authors/OL3245601A",
+        "last_name": "Abella",
+        "first_name": "Julie"
+      },
+      {
+        "openlibrary_id": "/authors/OL2896669A",
+        "last_name": "J. Fraser-Molina",
+        "first_name": "Maria"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074493M",
+    "title": "International Commodity Markets Handbook 1993",
+    "city": null,
+    "publisher": "Prentice Hall Trade",
+    "year": 1993,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 480,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2007-10-29",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL969072A",
+        "last_name": "Chalmin",
+        "first_name": "Philippe"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074494M",
+    "title": "The secret language of cats",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 1998,
+    "subject": "Behavior",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 14,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2010-07-05",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL97920A",
+        "last_name": "Madsen",
+        "first_name": "Chris"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074495M",
+    "title": "AICPA Uniform CPA Examination",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 1988,
+    "subject": "Accounting - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 688,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2012-12-30",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365910A",
+        "last_name": "Institute of Certified Public a",
+        "first_name": "American"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074496M",
+    "title": "The Scholarship Book 2000",
+    "city": null,
+    "publisher": "Prentice Hall Trade",
+    "year": 1999,
+    "subject": "Funding of education",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 521,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2004-11-17",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2654922A",
+        "last_name": "J. Cassidy",
+        "first_name": "Daniel"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074497M",
+    "title": "Vest Pocket Tax Advisor 1999 Supplement",
+    "city": null,
+    "publisher": "Prentice-Hall",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2008-07-08",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365958A",
+        "last_name": "& DESCHERER",
+        "first_name": "MYERS"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074498M",
+    "title": "Prentice Hall Guide for College Writers and Mla & Apa Guidelines and Model Student Essays and Sprin ",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 1999,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2005-07-22",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2653179A",
+        "last_name": "Reid",
+        "first_name": "Reid"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074499M",
+    "title": "Internet-Visuell Guide 2:a Utgavan (Swe)",
+    "city": null,
+    "publisher": "Prentice-Hall",
+    "year": 1998,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2002-11-09",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365959A",
+        "last_name": "Wemme",
+        "first_name": "Lars"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1007449M",
+    "title": "Middling planters of Ruxton, 1694-1850",
+    "city": "Baltimore",
+    "publisher": "Maryland Historical Society",
+    "year": 1996,
+    "subject": "Ruxton Region (Md.) -- History.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 83,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2001-08-05",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL543691A",
+        "last_name": "M. Coale",
+        "first_name": "Joseph"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL100744M",
+    "title": "County services",
+    "city": "Sacramento, CA",
+    "publisher": "California State Library, California Research Bureau",
+    "year": 1999,
+    "subject": "Municipal services -- California.",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 113,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2015-04-20",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL67668A",
+        "last_name": "Swenson",
+        "first_name": "Jennifer"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074500M",
+    "title": "Hot topics in marketing",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 1999,
+    "subject": "Marketing",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 44,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2005-01-14",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2650712A",
+        "last_name": "Burk Wood",
+        "first_name": "Marian"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074501M",
+    "title": "Personal Computers for Technology Students",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 2000,
+    "subject": "Personal computers",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 586,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2003-03-26",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365960A",
+        "last_name": "R. Raymond",
+        "first_name": "Charles"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074502M",
+    "title": "The Law and Your Legal Rights",
+    "city": null,
+    "publisher": "Prentice-Hall",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2013-06-09",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365961A",
+        "last_name": "ARAUJO",
+        "first_name": "ARAUJO"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074503M",
+    "title": "Sensation Perception",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 2009,
+    "subject": "Psychology",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 656,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2003-06-09",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2146855A",
+        "last_name": "Hughes",
+        "first_name": "Howard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074504M",
+    "title": "Presswise",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 1999,
+    "subject": "Reference",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 304,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2001-12-08",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2648842A",
+        "last_name": "the Clock",
+        "first_name": "Against"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074505M",
+    "title": "TrapWise and Student CD Package",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 1999,
+    "subject": "Computer graphics software",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 161,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2001-10-30",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1378329A",
+        "last_name": "Africa. Parliament. House of Assembly. Select Committee on Rent Control.",
+        "first_name": "South"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074506M",
+    "title": "Psychology & Study Guide, 2/E & Succeeding Psycholoyg and College Pkg",
+    "city": null,
+    "publisher": "Prentice Hall College Div",
+    "year": 1999,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2005-04-14",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3011508A",
+        "last_name": "Kassin",
+        "first_name": "Kassin"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074507M",
+    "title": "Algebra",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 1989,
+    "subject": "Algebra",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 1,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2000-01-27",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365962A",
+        "last_name": "Angel",
+        "first_name": "Xxx"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074508M",
+    "title": "Enciclopedia De Remedios Caseros Naturales",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 1998,
+    "subject": "Family & Health",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 432,
+    "lang": "spa",
+    "days_keep_count": 10,
+    "adding_date": "2009-08-30",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL709692A",
+        "last_name": "Cameron",
+        "first_name": "Myra"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074509M",
+    "title": "Enciclopedia De Remedios Caseros Naturales",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 1999,
+    "subject": "Family & Health",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "spa",
+    "days_keep_count": 10,
+    "adding_date": "2016-01-08",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL709692A",
+        "last_name": "Cameron",
+        "first_name": "Myra"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1007450M",
+    "title": "Amer ica's adopted son",
+    "city": "Charlottesville, Va",
+    "publisher": "Bookwrights Press of Charlottesville",
+    "year": 1997,
+    "subject": "Nakasian, Samuel, 1915-",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2014-09-08",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL543692A",
+        "last_name": "Nakasian",
+        "first_name": "Samuel"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074510M",
+    "title": "Political Science",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 1999,
+    "subject": "Political science & theory",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 398,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2016-07-13",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL951248A",
+        "last_name": "L. Cord",
+        "first_name": "Robert"
+      },
+      {
+        "openlibrary_id": "/authors/OL1909964A",
+        "last_name": "A. Medeiros",
+        "first_name": "James"
+      },
+      {
+        "openlibrary_id": "/authors/OL2135037A",
+        "last_name": "Jones",
+        "first_name": "Walter"
+      },
+      {
+        "openlibrary_id": "/authors/OL233612A",
+        "last_name": "Roskin",
+        "first_name": "Michael"
+      },
+      {
+        "openlibrary_id": "/authors/OL533270A",
+        "last_name": "S. Jones",
+        "first_name": "Walter"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074511M",
+    "title": "Sm Economics European Ed I/M",
+    "city": null,
+    "publisher": "Pearson Education Limited",
+    "year": 1999,
+    "subject": "Economics",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2004-11-10",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365963A",
+        "last_name": "Fair Gartn",
+        "first_name": "Case"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074512M",
+    "title": "The UK Internet Business Starter Kit",
+    "city": null,
+    "publisher": "Prentice-Hall",
+    "year": 1999,
+    "subject": "Desktop publishing software",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 448,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2013-11-20",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL718546A",
+        "last_name": "Salter",
+        "first_name": "Brian"
+      },
+      {
+        "openlibrary_id": "/authors/OL274517A",
+        "last_name": "Langford-Wood",
+        "first_name": "Naomi"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074513M",
+    "title": "Physics",
+    "city": null,
+    "publisher": "Prentice Hall College Div",
+    "year": 1998,
+    "subject": "Physics",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2008-08-30",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL29129A",
+        "last_name": "C. Giancoli",
+        "first_name": "Douglas"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074514M",
+    "title": "Ti-83 Graphing Calculator Manual for Statistics",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 1999,
+    "subject": "Economic statistics",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2000-03-25",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1082599A",
+        "last_name": "Kelly",
+        "first_name": "Stephen"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074515M",
+    "title": "Western Michigan University Math 110 Supplement",
+    "city": null,
+    "publisher": "Higher Education Publishing Company",
+    "year": 1998,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 58,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2013-11-22",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1180209A",
+        "last_name": "Santvaras",
+        "first_name": "Stasys"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074516M",
+    "title": "Understanding Music",
+    "city": null,
+    "publisher": "Prentice Hall College Div",
+    "year": 1998,
+    "subject": "Instruction & Study - Appreciation",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2015-10-29",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365964A",
+        "last_name": "Yutkin",
+        "first_name": "Yutkin"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074517M",
+    "title": "Virtual Private Networking with L2tp, Volume I",
+    "city": null,
+    "publisher": "Prentice Hall PTR",
+    "year": 2000,
+    "subject": "Computer Communications & Networking",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2004-02-15",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365965A",
+        "last_name": "TOWNSLEY",
+        "first_name": "TOWNSLEY"
+      },
+      {
+        "openlibrary_id": "/authors/OL2685504A",
+        "last_name": "Calhoun",
+        "first_name": "Calhoun"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074518M",
+    "title": "World's History Combined",
+    "city": null,
+    "publisher": "Prentice Hall College Div",
+    "year": 1998,
+    "subject": "World - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2009-03-23",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL293628A",
+        "last_name": "Spodek",
+        "first_name": "Howard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074519M",
+    "title": "Techncl Drawing Funds Autocad Rel 14",
+    "city": null,
+    "publisher": "Pearson US Imports & PHIPEs",
+    "year": 1999,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2011-01-09",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3348917A",
+        "last_name": "Giesecke",
+        "first_name": "Giesecke"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1007451M",
+    "title": "The secret six",
+    "city": "Columbia",
+    "publisher": "University of South Carolina",
+    "year": 1996,
+    "subject": "Brown, John, 1800-1859 -- Friends and associates.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 308,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2004-05-28",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL182755A",
+        "last_name": "Renehan",
+        "first_name": "Edward"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074520M",
+    "title": "Understanding Today's Police (2nd Edition)",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 1999,
+    "subject": "Police Science",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 345,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2007-05-13",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL224754A",
+        "last_name": "L. Dantzker",
+        "first_name": "Mark"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074521M",
+    "title": "Algebra I",
+    "city": null,
+    "publisher": "Simon & Schuster (Software)",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2010-09-03",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365966A",
+        "last_name": "Arrakis Systems",
+        "first_name": "Inc."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074522M",
+    "title": "Prentice Hall Reader/Model Student Essays",
+    "city": null,
+    "publisher": "Prentice Hall College Div",
+    "year": 1998,
+    "subject": "Language",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2010-09-13",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365967A",
+        "last_name": "E. Miller",
+        "first_name": "George"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074523M",
+    "title": "Algebra I",
+    "city": null,
+    "publisher": "Simon & Schuster (Software)",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2008-06-06",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365966A",
+        "last_name": "Arrakis Systems",
+        "first_name": "Inc."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074524M",
+    "title": "An Anthology of American Literature",
+    "city": null,
+    "publisher": "Prentice-Hall",
+    "year": 2001,
+    "subject": "Literary reference works",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2008-10-25",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2635582A",
+        "last_name": "Roberts",
+        "first_name": "Roberts"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074525M",
+    "title": "Society",
+    "city": null,
+    "publisher": "Prentice Hall College Div",
+    "year": 1999,
+    "subject": "Sociology, Social Studies",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 256,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2005-08-01",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL22729A",
+        "last_name": "J. Macionis",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074526M",
+    "title": "American Journey",
+    "city": null,
+    "publisher": "Prentice Hall College Div",
+    "year": 1998,
+    "subject": "United States - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2007-12-26",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2649717A",
+        "last_name": "Goldfield",
+        "first_name": "David"
+      },
+      {
+        "openlibrary_id": "/authors/OL236232A",
+        "last_name": "Abbott",
+        "first_name": "Carl"
+      },
+      {
+        "openlibrary_id": "/authors/OL541054A",
+        "last_name": "Anderson",
+        "first_name": "Virginia"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074527M",
+    "title": "Western Heritage",
+    "city": null,
+    "publisher": "Prentice Hall College Div",
+    "year": 1998,
+    "subject": "Civilization",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2000-11-14",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL232657A",
+        "last_name": "Kagan",
+        "first_name": "Donald"
+      },
+      {
+        "openlibrary_id": "/authors/OL22846A",
+        "last_name": "E. Ozment",
+        "first_name": "Steven"
+      },
+      {
+        "openlibrary_id": "/authors/OL833563A",
+        "last_name": "M. Turner",
+        "first_name": "Frank"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074528M",
+    "title": "Child Development",
+    "city": null,
+    "publisher": "Prentice Hall College Div",
+    "year": 1997,
+    "subject": "Child Development",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2014-09-02",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2633698A",
+        "last_name": "S. Feldman",
+        "first_name": "Robert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074529M",
+    "title": "Prehospital Medicine & The Law",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 2001,
+    "subject": "Medicolegal issues",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 240,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2011-03-16",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365968A",
+        "last_name": "L. Adams J Roemmelt",
+        "first_name": "Belth"
+      },
+      {
+        "openlibrary_id": "/authors/OL3365969A",
+        "last_name": "J. Fogelson",
+        "first_name": "Richard"
+      },
+      {
+        "openlibrary_id": "/authors/OL3365728A",
+        "last_name": "Roemmelt",
+        "first_name": "Roemmelt"
+      },
+      {
+        "openlibrary_id": "/authors/OL395168A",
+        "last_name": "Andujo",
+        "first_name": "Emily"
+      },
+      {
+        "openlibrary_id": "/authors/OL2642174A",
+        "last_name": "Penner",
+        "first_name": "Penner"
+      },
+      {
+        "openlibrary_id": "/authors/OL2649307A",
+        "last_name": "Dreizen",
+        "first_name": "Laverne"
+      },
+      {
+        "openlibrary_id": "/authors/OL2649313A",
+        "last_name": "Partridge",
+        "first_name": "Partridge"
+      },
+      {
+        "openlibrary_id": "/authors/OL2624761A",
+        "last_name": "Becker",
+        "first_name": "Becker"
+      },
+      {
+        "openlibrary_id": "/authors/OL2649312A",
+        "last_name": "Fremgen",
+        "first_name": "Fremgen"
+      },
+      {
+        "openlibrary_id": "/authors/OL2649311A",
+        "last_name": "Bourn Associates",
+        "first_name": "Scott"
+      },
+      {
+        "openlibrary_id": "/authors/OL2649310A",
+        "last_name": "Leuven",
+        "first_name": "Van"
+      },
+      {
+        "openlibrary_id": "/authors/OL2649306A",
+        "last_name": "Frew",
+        "first_name": "Frew"
+      },
+      {
+        "openlibrary_id": "/authors/OL486924A",
+        "last_name": "Page",
+        "first_name": "Bob"
+      },
+      {
+        "openlibrary_id": "/authors/OL2649309A",
+        "last_name": "Porter",
+        "first_name": "Porter"
+      },
+      {
+        "openlibrary_id": "/authors/OL2649308A",
+        "last_name": "Bledsoe",
+        "first_name": "Bledsoe"
+      },
+      {
+        "openlibrary_id": "/authors/OL3365729A",
+        "last_name": "Fogelso",
+        "first_name": "Fogelso"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1007452M",
+    "title": "Oral epics from Africa",
+    "city": "Bloomington",
+    "publisher": "Indiana University Press",
+    "year": 1997,
+    "subject": "Epic literature, African",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 331,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2014-10-23",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1346536A",
+        "last_name": "W. Schneider",
+        "first_name": "Joseph"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074530M",
+    "title": "Super Tots",
+    "city": null,
+    "publisher": "Pearson Education Limited",
+    "year": 2001,
+    "subject": "ELT flashcards & board games",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2002-03-31",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL11740A",
+        "last_name": "Ārthika Yojanā Mantrālaya.",
+        "first_name": "Nepal."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074531M",
+    "title": "Super Tots",
+    "city": null,
+    "publisher": "Pearson Education Limited",
+    "year": 2001,
+    "subject": "ELT flashcards & board games",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2004-12-28",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL10579A",
+        "last_name": "Lal Pandey",
+        "first_name": "Kanhaiya"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074532M",
+    "title": "Training & Development Yearbook 2000 (Training and Development Yearbook)",
+    "city": null,
+    "publisher": "Prentice Hall Trade",
+    "year": 2000,
+    "subject": "Industrial or vocational training",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 512,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2011-10-01",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2634568A",
+        "last_name": "Nilson",
+        "first_name": "Carolyn"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074533M",
+    "title": "60 Minute Tax Planner 2000",
+    "city": null,
+    "publisher": "Longman Higher Education",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2004-08-04",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365970A",
+        "last_name": "LYNN",
+        "first_name": "LYNN"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074534M",
+    "title": "Prentice Hall's Get a Grip on Supervisory Skills",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 2000,
+    "subject": "Economics, Finance, Business and Industry",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 204,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2001-12-20",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365971A",
+        "last_name": "Corporate",
+        "first_name": "Classrooms"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074535M",
+    "title": "A Simple Guide to Upgrading/Repairing Your PC (Simple Guide)",
+    "city": null,
+    "publisher": "Prentice-Hall",
+    "year": 1999,
+    "subject": "Microprocessors",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 200,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2010-05-27",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365972A",
+        "last_name": "Charton",
+        "first_name": "Charton"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074536M",
+    "title": "Corporate Controller's Handbook of Financial Management 2000 Supplement (Corporate Controller's Hand",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 1999,
+    "subject": "Economics, Finance, Business and Industry",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2002-02-26",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365973A",
+        "last_name": "Yoo",
+        "first_name": "Yushion"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074537M",
+    "title": "Simple Guide to Searching the Internet (Simple Guide)",
+    "city": null,
+    "publisher": "FT Prentice Hall",
+    "year": 1999,
+    "subject": "Internet",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 192,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2004-11-21",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365974A",
+        "last_name": "Fouchard",
+        "first_name": "Giles"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074538M",
+    "title": "Top 10 Shareware Manual",
+    "city": null,
+    "publisher": "Prentice-Hall",
+    "year": 1999,
+    "subject": "Computer Software Packages",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 674,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2005-01-22",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL705656A",
+        "last_name": "Martin.",
+        "first_name": "Martin."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074539M",
+    "title": "Internet (Simple Guide)",
+    "city": null,
+    "publisher": "Prentice-Hall",
+    "year": 1999,
+    "subject": "Internet",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 252,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2000-06-17",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365975A",
+        "last_name": "Dreyfus",
+        "first_name": "Dreyfus"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1007453M",
+    "title": "The howling stones",
+    "city": "New York",
+    "publisher": "Ballantine Books",
+    "year": 1997,
+    "subject": "Humanx Commonwealth (Imaginary organization) -- Fiction",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 331,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2001-07-22",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL29487A",
+        "last_name": "Dean Foster",
+        "first_name": "Alan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074540M",
+    "title": "A Simple Guide to Creating Web Pages (Simple Guide)",
+    "city": null,
+    "publisher": "Prentice-Hall",
+    "year": 1999,
+    "subject": "Desktop publishing software",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 232,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2006-06-21",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365975A",
+        "last_name": "Dreyfus",
+        "first_name": "Dreyfus"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074541M",
+    "title": "A Simple Guide to Works 4.5 (Simple Guide)",
+    "city": null,
+    "publisher": "Prentice-Hall",
+    "year": 1999,
+    "subject": "Word processing software",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 200,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2016-06-28",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365976A",
+        "last_name": "Zelphati",
+        "first_name": "Didier"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074542M",
+    "title": "A Simple Guide to Publisher 98 (Simple Guide)",
+    "city": null,
+    "publisher": "Prentice-Hall",
+    "year": 1999,
+    "subject": "Desktop publishing software",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 200,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2016-03-25",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2649255A",
+        "last_name": "Cassade",
+        "first_name": "Manon"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074543M",
+    "title": "A Simple Guide to Money 98 (Simple Guide)",
+    "city": null,
+    "publisher": "Prentice-Hall",
+    "year": 1999,
+    "subject": "Personal finance",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 200,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2011-02-09",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365854A",
+        "last_name": "Petremann",
+        "first_name": "Marc"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074544M",
+    "title": "Thermal Science 2",
+    "city": null,
+    "publisher": "Prentice-Hall",
+    "year": 2008,
+    "subject": "Engineering thermodynamics",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2012-03-28",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1348183A",
+        "last_name": "S. Arpaci",
+        "first_name": "Vedat"
+      },
+      {
+        "openlibrary_id": "/authors/OL3365977A",
+        "last_name": "Guessous",
+        "first_name": "L."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074545M",
+    "title": "Basic Populus Models of Ecology",
+    "city": null,
+    "publisher": "Benjamin Cummings",
+    "year": 2000,
+    "subject": "Applied ecology",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 144,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2007-07-16",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365978A",
+        "last_name": "Alstad",
+        "first_name": "Donald"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074546M",
+    "title": "Winning at Weight Loss",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 2010,
+    "subject": "Popular medicine",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2014-12-06",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2649330A",
+        "last_name": "Prentice-Hall",
+        "first_name": "Prentice-Hall"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074547M",
+    "title": "Strategies for Psychology",
+    "city": null,
+    "publisher": "Prentice Hall College Div",
+    "year": 1998,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2003-01-05",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2858754A",
+        "last_name": "Aron",
+        "first_name": "Aron"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074548M",
+    "title": "S&S Quick Access Ref Writer Mla98",
+    "city": null,
+    "publisher": "Prentice-Hall",
+    "year": 1999,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2010-12-28",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3365979A",
+        "last_name": "& HARMON",
+        "first_name": "GORDON"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074549M",
+    "title": "Almanac of Business and Industrial Financial Ratios, 1989",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 1989,
+    "subject": "Corporate Finance",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 432,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2007-07-09",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL575723A",
+        "last_name": "Troy",
+        "first_name": "Leo"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1007454M",
+    "title": "Dear Timothy Tibbitts",
+    "city": "New York",
+    "publisher": "Cavendish Children's Books",
+    "year": 1997,
+    "subject": "Letters -- Fiction",
+    "genre": "Fiction.",
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2007-01-18",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL18763A",
+        "last_name": "Ross Enderle",
+        "first_name": "Judith"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074550M",
+    "title": "Perl 5 Programmer's Notebook",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 1999,
+    "subject": "High level programming languages",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 350,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2014-05-04",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL228828A",
+        "last_name": "Feiler",
+        "first_name": "Jesse"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074551M",
+    "title": "Adobe Photoshop 5",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 1999,
+    "subject": "Postscript",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 375,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2016-03-30",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1195241A",
+        "last_name": "E. Buja",
+        "first_name": "Maureen"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074552M",
+    "title": "Adobe Photoshop 5",
+    "city": null,
+    "publisher": "Prentice Hall Software",
+    "year": 1999,
+    "subject": "Photoshop",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 375,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2010-10-14",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2649334A",
+        "last_name": "Against The Clock",
+        "first_name": "Inc."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074553M",
+    "title": "Reading Skills Competency Tests: Readiness Level (J-B Ed: Ready-to-Use Activities)",
+    "city": null,
+    "publisher": "Jossey-Bass",
+    "year": 2002,
+    "subject": "English language: reading skills",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 127,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2013-11-01",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2859496A",
+        "last_name": "B. Barbe",
+        "first_name": "Walter"
+      },
+      {
+        "openlibrary_id": "/authors/OL533066A",
+        "last_name": "L. Allen",
+        "first_name": "Henriette"
+      },
+      {
+        "openlibrary_id": "/authors/OL1807188A",
+        "last_name": "B. Sparkman",
+        "first_name": "Brandon"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074554M",
+    "title": "Reading Skills Competency Tests",
+    "city": null,
+    "publisher": "Jossey-Bass",
+    "year": 1999,
+    "subject": "English language: reading skills",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 148,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2000-02-03",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL533066A",
+        "last_name": "L. Allen",
+        "first_name": "Henriette"
+      },
+      {
+        "openlibrary_id": "/authors/OL2859496A",
+        "last_name": "B. Barbe",
+        "first_name": "Walter"
+      },
+      {
+        "openlibrary_id": "/authors/OL3295025A",
+        "last_name": "C. Thornton",
+        "first_name": "Wiley"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074555M",
+    "title": "Reading Skills Competency Tests",
+    "city": null,
+    "publisher": "Jossey-Bass",
+    "year": 1999,
+    "subject": "English language: reading skills",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 140,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2004-08-26",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL533066A",
+        "last_name": "L. Allen",
+        "first_name": "Henriette"
+      },
+      {
+        "openlibrary_id": "/authors/OL2859496A",
+        "last_name": "B. Barbe",
+        "first_name": "Walter"
+      },
+      {
+        "openlibrary_id": "/authors/OL3295025A",
+        "last_name": "C. Thornton",
+        "first_name": "Wiley"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074556M",
+    "title": "Reading Skills Competency Tests: Fourth Level (J-B Ed: Ready-to-Use Activities)",
+    "city": null,
+    "publisher": "Jossey-Bass",
+    "year": 2002,
+    "subject": "English language: reading skills",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 175,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2013-11-17",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2859496A",
+        "last_name": "B. Barbe",
+        "first_name": "Walter"
+      },
+      {
+        "openlibrary_id": "/authors/OL533066A",
+        "last_name": "L. Allen",
+        "first_name": "Henriette"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074557M",
+    "title": "Reading Skills Competency Tests: Sixth Level (J-B Ed: Ready-to-Use Activities)",
+    "city": null,
+    "publisher": "Jossey-Bass",
+    "year": 2002,
+    "subject": "English language: reading skills",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 172,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2016-09-15",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2859496A",
+        "last_name": "B. Barbe",
+        "first_name": "Walter"
+      },
+      {
+        "openlibrary_id": "/authors/OL533066A",
+        "last_name": "L. Allen",
+        "first_name": "Henriette"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074558M",
+    "title": "Reading Skills Competency Tests: Advanced Level (J-B Ed: Ready-to-Use Activities)",
+    "city": null,
+    "publisher": "Jossey-Bass",
+    "year": 2002,
+    "subject": "Educational Tests And Measurements",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 134,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2001-04-15",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2859496A",
+        "last_name": "B. Barbe",
+        "first_name": "Walter"
+      },
+      {
+        "openlibrary_id": "/authors/OL533066A",
+        "last_name": "L. Allen",
+        "first_name": "Henriette"
+      },
+      {
+        "openlibrary_id": "/authors/OL1807188A",
+        "last_name": "B. Sparkman",
+        "first_name": "Brandon"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074559M",
+    "title": "Self-Paced Phonics and Surviving 1st Year Teaching",
+    "city": null,
+    "publisher": "Prentice Hall College Div",
+    "year": 1998,
+    "subject": "Phonetics & Phonics",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2001-03-15",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2833872A",
+        "last_name": "Baer",
+        "first_name": "Baer"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1007455M",
+    "title": "The shadow catcher",
+    "city": "New York",
+    "publisher": "Grove Press",
+    "year": 1997,
+    "subject": "Teenagers -- Fiction",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 161,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2006-09-04",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL56002A",
+        "last_name": "Szczypiorski",
+        "first_name": "Andrzej"
+      },
+      {
+        "openlibrary_id": "/authors/OL7023348A",
+        "last_name": "Szczypiorski",
+        "first_name": "Andrzej"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074560M",
+    "title": "A Simple Guide to Meeting People on the Net (Simple Guide)",
+    "city": null,
+    "publisher": "Prentice-Hall",
+    "year": 1999,
+    "subject": "Internet",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 200,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2010-05-01",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3164112A",
+        "last_name": "Fouchard",
+        "first_name": "Fouchard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074561M",
+    "title": "Distributed COM Application Development Using Visual Basic 6.0 and MTS",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 1999,
+    "subject": "Basic, Visual Basic & QBasic",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 595,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2008-08-11",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL638508A",
+        "last_name": "Maloney",
+        "first_name": "Jim"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074562M",
+    "title": "Technical Mathematics",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 2000,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 92,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2012-04-20",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL225811A",
+        "last_name": "Calter",
+        "first_name": "Paul"
+      },
+      {
+        "openlibrary_id": "/authors/OL2731187A",
+        "last_name": "A. Calter",
+        "first_name": "Michael"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10074563M",
+    "title": "Principle Marketing",
+    "city": null,
+    "publisher": "Prentice Hall",
+    "year": 1998,
+    "subject": "Marketing - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2011-01-03",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2655924A",
+        "last_name": "Kotler",
+        "first_name": "Kotler"
+      }
+    ]
+  }
+]

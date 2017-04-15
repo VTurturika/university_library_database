@@ -45,10 +45,11 @@ function main() {
                     count: booksCount%recordsPerRequest,
                     number: requestsCount+1
                 }))
+                requestsCount++;
             }
 
             utils.runSerial(requestsPromises)
-                .then(() => console.log(`\nAll requests finished\n`+
+                .then(() => console.log(`All requests finished\n`+
                                         `Fetched ${totalCount} records, wrote to ${requestsCount} files`));
         }
     }

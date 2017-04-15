@@ -1,0 +1,4852 @@
+[
+  {
+    "openlibrary_id": "/books/OL1025938M",
+    "title": "Albert Schweitzer",
+    "city": "Paris",
+    "publisher": "A. Michel",
+    "year": 1995,
+    "subject": "Schweitzer, Albert, 1875-1965.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 419,
+    "lang": "fre",
+    "days_keep_count": 200,
+    "adding_date": "2002-01-11",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL551791A",
+        "last_name": "Lassus",
+        "first_name": "Pierre"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259390M",
+    "title": "Microsurgical Dissection of the Cranial Base",
+    "city": null,
+    "publisher": "W.B. Saunders Company",
+    "year": 1996,
+    "subject": "Neurology & clinical neurophysiology",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 176,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2007-06-11",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404833A",
+        "last_name": "Diaz Day",
+        "first_name": "J."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259391M",
+    "title": "Clin Cases Ortho Sports Physical Medicine",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2000,
+    "subject": "Orthopaedics & fractures",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 176,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2004-06-14",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404834A",
+        "last_name": "Donatelli",
+        "first_name": "Betty"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259392M",
+    "title": "Clinical Oncology",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1999,
+    "subject": "Oncology",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2001-02-18",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2706742A",
+        "last_name": "D. Abeloff",
+        "first_name": "Martin"
+      },
+      {
+        "openlibrary_id": "/authors/OL3404746A",
+        "last_name": "Abeloff",
+        "first_name": "Abeloff"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259393M",
+    "title": "Essential Atlas of Infectious Diseases for Primary Care Slides",
+    "city": null,
+    "publisher": "Current Medicine",
+    "year": 1997,
+    "subject": "Infectious Diseases",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2015-05-03",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL755405A",
+        "last_name": "L. Mandell",
+        "first_name": "Gerald"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259394M",
+    "title": "Women's Imaging",
+    "city": null,
+    "publisher": "W.B. Saunders Company",
+    "year": 1998,
+    "subject": "Gynaecology & obstetrics",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 720,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2009-09-11",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404835A",
+        "last_name": "Pellerito",
+        "first_name": "Pellerito"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259395M",
+    "title": "Pocket Companion To Accompany Essentials Of Pediatric Intensive Care",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1997,
+    "subject": "Accident & emergency medicine",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2002-02-16",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1438558A",
+        "last_name": "Milne Hamilton",
+        "first_name": "Archibald"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259396M",
+    "title": "Aquatic Therapy",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2000,
+    "subject": "Medical diagnosis",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2010-11-07",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404836A",
+        "last_name": "Poteat",
+        "first_name": "A."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259397M",
+    "title": "Anesthesiology Boards",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1999,
+    "subject": "Anaesthetics",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 457,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2004-11-16",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404837A",
+        "last_name": "Starr",
+        "first_name": "Michelle"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259398M",
+    "title": "Chiropractic Technique CD-ROM",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2003,
+    "subject": "Chiropractic & osteopathy",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2002-07-14",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL541212A",
+        "last_name": "F. Bergmann",
+        "first_name": "Thomas"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259399M",
+    "title": "Atlas of Anesthesia 8 Volume Set (Slides)",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1999,
+    "subject": "Anaesthetics",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2005-12-05",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3027174A",
+        "last_name": "Miller",
+        "first_name": "Ronald"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1025939M",
+    "title": "De Gouden Zon",
+    "city": "ʼs-Gravenhage",
+    "publisher": "Sdu Uitgeverij Koninginnegracht",
+    "year": 1995,
+    "subject": "Hogere Krijgsschool (Netherlands) -- History.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 322,
+    "lang": "dut",
+    "days_keep_count": 200,
+    "adding_date": "2014-04-30",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL67961A",
+        "last_name": "Bevaart",
+        "first_name": "W."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL102593M",
+    "title": "De wereld wil bedrogen worden",
+    "city": "Amsterdam",
+    "publisher": "Arbeiderspers",
+    "year": 1999,
+    "subject": "Franssens, Jean-Paul, 1938-",
+    "genre": "Biography.",
+    "periodic_release": null,
+    "page_count": 236,
+    "lang": "dut",
+    "days_keep_count": 200,
+    "adding_date": "2005-05-18",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL68902A",
+        "last_name": "Franssens",
+        "first_name": "Jean-Paul"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259400M",
+    "title": "Chiropractic Techniques",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2002,
+    "subject": "Chiropractic & osteopathy",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 880,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2014-03-06",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3341694A",
+        "last_name": "Bergmann",
+        "first_name": "Bergmann"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259401M",
+    "title": "Practical Echocardiography of Congenital Heart Disease",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2000,
+    "subject": "Cardiovascular medicine",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 240,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2000-07-08",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404838A",
+        "last_name": "T. Linker",
+        "first_name": "David"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259402M",
+    "title": "The Independent Medical Examination",
+    "city": null,
+    "publisher": "W.B. Saunders Company",
+    "year": 1998,
+    "subject": "Diagnosis",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 256,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2001-04-13",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404839A",
+        "last_name": "Dowdle",
+        "first_name": "J."
+      },
+      {
+        "openlibrary_id": "/authors/OL2712478A",
+        "last_name": "Dowdle",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259403M",
+    "title": "Ultrasound of the Breast",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1998,
+    "subject": "Anatomy",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2005-06-04",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404840A",
+        "last_name": "Fornage",
+        "first_name": "Fornage"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259404M",
+    "title": "Oncolog Lib Core Serv Ntwk W/m",
+    "city": null,
+    "publisher": "W B Saunders Co",
+    "year": 1995,
+    "subject": "Reference works",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2008-02-29",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404746A",
+        "last_name": "Abeloff",
+        "first_name": "Abeloff"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259405M",
+    "title": "Willerson And Cohn's Cardiovascular Medicine Library",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1995,
+    "subject": "Cardiovascular medicine",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2014-04-22",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404841A",
+        "last_name": "WILLERSON",
+        "first_name": "JAMES,ED."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259406M",
+    "title": "Cardiovas Lib Core Serv Netwrk",
+    "city": null,
+    "publisher": "W B Saunders Co",
+    "year": 1995,
+    "subject": "Cardiovascular medicine",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2002-11-17",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404842A",
+        "last_name": "Willerson",
+        "first_name": "Willerson"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259407M",
+    "title": "Willerson And Cohn's Cardiovascular Medicine Library",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1995,
+    "subject": "Cardiovascular medicine",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2011-02-04",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404841A",
+        "last_name": "WILLERSON",
+        "first_name": "JAMES,ED."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259408M",
+    "title": "Hematol Lib Core+genrx Indiv",
+    "city": null,
+    "publisher": "Harcourt Health Sciences",
+    "year": 1996,
+    "subject": "Haematology",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2015-06-10",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL32467A",
+        "last_name": "Hoffman",
+        "first_name": "Ronald"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259409M",
+    "title": "Hematology Library Core Plus Genrx Network Windows/macintosh",
+    "city": null,
+    "publisher": "Harcourt Health Sciences",
+    "year": 1996,
+    "subject": "Haematology",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2002-11-24",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL32467A",
+        "last_name": "Hoffman",
+        "first_name": "Ronald"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1025940M",
+    "title": "Bargen",
+    "city": "Llanrwst",
+    "publisher": "Gwasg Carreg Gwalch",
+    "year": 1995,
+    "subject": "Wales -- Drama.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 93,
+    "lang": "wel",
+    "days_keep_count": 200,
+    "adding_date": "2001-02-08",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1189042A",
+        "last_name": "L. Mohnkern",
+        "first_name": "Gerald"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259410M",
+    "title": "Urologic Tumors",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1999,
+    "subject": "Urology & urogenital medicine",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 264,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2002-04-19",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404843A",
+        "last_name": "A. SANDBERG",
+        "first_name": "AVERY"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259411M",
+    "title": "Clinical Practice of Pediatric Anesthesia",
+    "city": null,
+    "publisher": "W.B. Saunders Company",
+    "year": 1998,
+    "subject": "Anesthesiology",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 600,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2004-12-11",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404844A",
+        "last_name": "S. Schecter",
+        "first_name": "William"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259412M",
+    "title": "Botulinum Toxin Treatment of Cervical Dystonia",
+    "city": null,
+    "publisher": "Mosby-Year Book",
+    "year": 1994,
+    "subject": "Neurology & clinical neurophysiology",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2000-09-21",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404845A",
+        "last_name": "Jankovic",
+        "first_name": "Jankovic"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259413M",
+    "title": "Wheather Interactive Histology CD-ROM",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1995,
+    "subject": "Histopathology",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2007-01-10",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404846A",
+        "last_name": "BURKITT",
+        "first_name": "BURKITT"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259414M",
+    "title": "Anesthesia Library",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1995,
+    "subject": "Anaesthetics",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2007-02-15",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2778110A",
+        "last_name": "MILLER",
+        "first_name": "MILLER"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259415M",
+    "title": "Radiology Image Museum",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1995,
+    "subject": "Reference works",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2011-04-13",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404847A",
+        "last_name": "MULTIMEDIA",
+        "first_name": "INTL"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259416M",
+    "title": "Radiology Image Bank",
+    "city": null,
+    "publisher": "W.B. Saunders Company",
+    "year": 1995,
+    "subject": "Reference works",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2011-07-30",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2761844A",
+        "last_name": "Churchill",
+        "first_name": "Churchill"
+      },
+      {
+        "openlibrary_id": "/authors/OL3404848A",
+        "last_name": "Med Multimedia",
+        "first_name": "Intl"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259417M",
+    "title": "Intraoperative Transesophageal Echocardiography",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1996,
+    "subject": "Cardiovascular medicine",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2015-08-07",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404849A",
+        "last_name": "K. CAHALAN",
+        "first_name": "MICHAEL"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259418M",
+    "title": "Transplantation Surgery",
+    "city": null,
+    "publisher": "W B Saunders Co",
+    "year": 2001,
+    "subject": "Medical equipment & techniques",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 304,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2014-12-17",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404850A",
+        "last_name": "C. McCowan",
+        "first_name": "Timothy"
+      },
+      {
+        "openlibrary_id": "/authors/OL2706668A",
+        "last_name": "McCowa",
+        "first_name": "McCowa"
+      },
+      {
+        "openlibrary_id": "/authors/OL2706669A",
+        "last_name": "Yu",
+        "first_name": "Yu"
+      },
+      {
+        "openlibrary_id": "/authors/OL2665818A",
+        "last_name": "Marsden",
+        "first_name": "Marsden"
+      },
+      {
+        "openlibrary_id": "/authors/OL2706672A",
+        "last_name": "Norell",
+        "first_name": "Norell"
+      },
+      {
+        "openlibrary_id": "/authors/OL748208A",
+        "last_name": "James.",
+        "first_name": "James."
+      },
+      {
+        "openlibrary_id": "/authors/OL2654942A",
+        "last_name": "Griffin",
+        "first_name": "Griffin"
+      },
+      {
+        "openlibrary_id": "/authors/OL2706673A",
+        "last_name": "L.R. Forsythe",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259419M",
+    "title": "Curr Review Intervenl Cardiology 2/E Pkg",
+    "city": null,
+    "publisher": "Not Avail",
+    "year": 1997,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2013-09-01",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1218219A",
+        "last_name": "Topol",
+        "first_name": "Topol"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1025941M",
+    "title": "Médecin des trois corps, vingt ans après",
+    "city": "Paris",
+    "publisher": "R. Laffont",
+    "year": 1995,
+    "subject": "Relaxation.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 318,
+    "lang": "fre",
+    "days_keep_count": 200,
+    "adding_date": "2000-03-05",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL551792A",
+        "last_name": "Fontaine",
+        "first_name": "Janine"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259420M",
+    "title": "Gastroenterology and Hepatology",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1998,
+    "subject": "Hepatology",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2008-09-08",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1909921A",
+        "last_name": "Feldman",
+        "first_name": "Mark"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259421M",
+    "title": "Gastroenterology and Hepatology",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1998,
+    "subject": "Hepatology",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2016-10-17",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2654523A",
+        "last_name": "Feldman",
+        "first_name": "Feldman"
+      },
+      {
+        "openlibrary_id": "/authors/OL1909921A",
+        "last_name": "Feldman",
+        "first_name": "Mark"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259422M",
+    "title": "Gastro/Hepatlogy 10 Volume Set",
+    "city": null,
+    "publisher": "W.B. Saunders Company",
+    "year": 1997,
+    "subject": "Gastroenterology",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2001-01-10",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2654523A",
+        "last_name": "Feldman",
+        "first_name": "Feldman"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259423M",
+    "title": "Color Guide Package (COLOUR GUIDES)",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1995,
+    "subject": "Diagnosis",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2000-05-06",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404852A",
+        "last_name": "LIVINGSTONE",
+        "first_name": "CHURCHILL"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259424M",
+    "title": "The Third Banff Conference on Allograft Pathology",
+    "city": null,
+    "publisher": "W.B. Saunders Company",
+    "year": 1996,
+    "subject": "Transplant surgery",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2010-04-14",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404853A",
+        "last_name": "Solez",
+        "first_name": "Solez"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259425M",
+    "title": "Anesthesia Library Core Service",
+    "city": null,
+    "publisher": "W B Saunders Co",
+    "year": 1995,
+    "subject": "Anaesthetics",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2011-04-09",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2706704A",
+        "last_name": "D. Miller",
+        "first_name": "Ronald"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259426M",
+    "title": "Endosurgery",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1997,
+    "subject": "Medical equipment & techniques",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 1000,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2010-03-21",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404854A",
+        "last_name": "Toouli",
+        "first_name": "James"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259427M",
+    "title": "The Practice of Chinese Medicine - Book & CD-ROM Package",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1996,
+    "subject": "Medical / Alternative Medicine",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2010-12-02",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL387651A",
+        "last_name": "Maciocia",
+        "first_name": "Giovanni"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259428M",
+    "title": "Essentials of Obstetric and Gynaecologic Pathology",
+    "city": null,
+    "publisher": "Elsevier",
+    "year": 1998,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 360,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2012-03-19",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL537173A",
+        "last_name": "P. Crum",
+        "first_name": "Christopher"
+      },
+      {
+        "openlibrary_id": "/authors/OL3404855A",
+        "last_name": "A. Peters III",
+        "first_name": "Williams"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259429M",
+    "title": "Obstetrics and Gynecology Library Windows/Macintosh CD-ROM <CD",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1997,
+    "subject": "Gynecology & Obstetrics",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2006-05-10",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404856A",
+        "last_name": "Gabbe",
+        "first_name": "Gabbe"
+      },
+      {
+        "openlibrary_id": "/authors/OL2706702A",
+        "last_name": "G. Gabbe",
+        "first_name": "Steven"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1025942M",
+    "title": "Ontwrichting",
+    "city": "Utrecht",
+    "publisher": "J. van Arkel",
+    "year": 1992,
+    "subject": "Finance, Public -- Netherlands.",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 223,
+    "lang": "dut",
+    "days_keep_count": 30,
+    "adding_date": "2002-01-04",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL551793A",
+        "last_name": "Drees",
+        "first_name": "W."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259430M",
+    "title": "Handbook of Common Foot Problems",
+    "city": null,
+    "publisher": "W B Saunders Co",
+    "year": 2007,
+    "subject": "Chiropody & podiatry",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 160,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2015-07-01",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404857A",
+        "last_name": "B. Harkless",
+        "first_name": "Lawrence"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259431M",
+    "title": "Fund Of Laparoscopic Surgery",
+    "city": null,
+    "publisher": "W B Saunders Co",
+    "year": 2007,
+    "subject": "Medical equipment & techniques",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2015-03-14",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3293825A",
+        "last_name": "Way",
+        "first_name": "Margaret"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259432M",
+    "title": "Gastroenterology and Hepatology: the Comprehensive Visual Reference Series: The Comprehensive Visual",
+    "city": null,
+    "publisher": "Elsevier",
+    "year": 2001,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2006-07-13",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1909921A",
+        "last_name": "Feldman",
+        "first_name": "Mark"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259433M",
+    "title": "Current Cancer Therapeutics (Current Medicine)",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1997,
+    "subject": "Oncology",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 427,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2002-01-20",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL230568A",
+        "last_name": "Kirkwood",
+        "first_name": "Jon"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259434M",
+    "title": "Principles and Practice of Infections Diseases",
+    "city": null,
+    "publisher": "W.B. Saunders Company",
+    "year": 1996,
+    "subject": "Infectious & contagious diseases",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 200,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2010-05-10",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3293699A",
+        "last_name": "Mandell",
+        "first_name": "Mandell"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259435M",
+    "title": "Gastroenterology and Hepatology: The Comprehensive Visual Reference (Volume 2: The Colon, Rectum, an",
+    "city": null,
+    "publisher": "Current Medicine",
+    "year": 1996,
+    "subject": "Gastroenterology",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2004-06-14",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1072409A",
+        "last_name": "McCrorie",
+        "first_name": "Brad"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259436M",
+    "title": "Atlas of Infectious Diseases, 10 Volume Slide Set",
+    "city": null,
+    "publisher": "W.B. Saunders Company",
+    "year": 1998,
+    "subject": "Infectious Diseases",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2012-04-21",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3293699A",
+        "last_name": "Mandell",
+        "first_name": "Mandell"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259437M",
+    "title": "Endosurgery",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1996,
+    "subject": "Medical equipment & techniques",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 1058,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2003-03-13",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404854A",
+        "last_name": "Toouli",
+        "first_name": "James"
+      },
+      {
+        "openlibrary_id": "/authors/OL3404858A",
+        "last_name": "Gossot",
+        "first_name": "Dominique"
+      },
+      {
+        "openlibrary_id": "/authors/OL2636712A",
+        "last_name": "G. Hunter",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259438M",
+    "title": "Pancreas (Gastroenterology and Hepatology, V. 8)",
+    "city": null,
+    "publisher": "W.B. Saunders Company",
+    "year": 1998,
+    "subject": "Pancreatic Diseases",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 250,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2006-01-17",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404859A",
+        "last_name": "P. Toskes",
+        "first_name": "Phillip"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259439M",
+    "title": "Neurosurgery of Complex Tumors and Vascular Lesions",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1997,
+    "subject": "Neurology & clinical neurophysiology",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 449,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2003-05-15",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404860A",
+        "last_name": "Kobayashi",
+        "first_name": "Shigeaki"
+      },
+      {
+        "openlibrary_id": "/authors/OL3404861A",
+        "last_name": "Goel",
+        "first_name": "Atul"
+      },
+      {
+        "openlibrary_id": "/authors/OL3404862A",
+        "last_name": "Hongo",
+        "first_name": "Kazuhiro"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1025943M",
+    "title": "100 años de música en Buenos Aires",
+    "city": "Buenos Aires",
+    "publisher": "Ediciones de Arte Gaglianoil",
+    "year": 1992,
+    "subject": "Music -- Argentina -- Buenos Aires -- 20th century -- History and criticism.",
+    "genre": "Chronology.",
+    "periodic_release": null,
+    "page_count": 556,
+    "lang": "spa",
+    "days_keep_count": 50,
+    "adding_date": "2006-07-13",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL200890A",
+        "last_name": "Valenti Ferro",
+        "first_name": "Enzo"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259440M",
+    "title": "Atlas of Infectious Diseases",
+    "city": null,
+    "publisher": "Harcourt Health Sciences",
+    "year": 1997,
+    "subject": "Infectious & contagious diseases",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2006-09-20",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL755405A",
+        "last_name": "L. Mandell",
+        "first_name": "Gerald"
+      },
+      {
+        "openlibrary_id": "/authors/OL3404863A",
+        "last_name": "Lorber",
+        "first_name": "Bennett"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259441M",
+    "title": "Atlas Infectious Disease Series",
+    "city": null,
+    "publisher": "Not Avail",
+    "year": 1997,
+    "subject": "Infectious & contagious diseases",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2007-01-02",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3293699A",
+        "last_name": "Mandell",
+        "first_name": "Mandell"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259442M",
+    "title": "Atlas Infect Dis Cardiovascu",
+    "city": null,
+    "publisher": "Current Medicine",
+    "year": 1996,
+    "subject": "Cardiovascular medicine",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2013-06-16",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL755405A",
+        "last_name": "L. Mandell",
+        "first_name": "Gerald"
+      },
+      {
+        "openlibrary_id": "/authors/OL3404864A",
+        "last_name": "M. Korzeniowski",
+        "first_name": "Oksana"
+      },
+      {
+        "openlibrary_id": "/authors/OL3293699A",
+        "last_name": "Mandell",
+        "first_name": "Mandell"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259443M",
+    "title": "Current Practice of Medicine Vol. 2",
+    "city": null,
+    "publisher": "Current Medicine",
+    "year": 1995,
+    "subject": "Dermatology",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 200,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2016-03-21",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1759817A",
+        "last_name": "P. Callen",
+        "first_name": "Jeffrey"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259444M",
+    "title": "Current Practice of Medicine",
+    "city": null,
+    "publisher": "Current Science",
+    "year": 1996,
+    "subject": "Health Care Issues",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 2806,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2003-09-23",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1033954A",
+        "last_name": "Matyášová",
+        "first_name": "Eva"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259445M",
+    "title": "Heart Disease in Women",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2002,
+    "subject": "Cardiovascular medicine",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 672,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2012-04-17",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1389137A",
+        "last_name": "Boulin Johnson",
+        "first_name": "Leanor"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259446M",
+    "title": "Atlas of Anesthesia",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1999,
+    "subject": "Anaesthetics",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 1934,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2016-07-23",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2625192A",
+        "last_name": "Miller",
+        "first_name": "Miller"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259447M",
+    "title": "Essentials of Tropical Infectious Disease",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2001,
+    "subject": "Infectious & contagious diseases",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 704,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2013-01-26",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1459437A",
+        "last_name": "Yaşar İşcan",
+        "first_name": "M."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259448M",
+    "title": "Women's Primary Health Care",
+    "city": null,
+    "publisher": "W.B. Saunders Company",
+    "year": 1998,
+    "subject": "Women's Health - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 400,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2007-05-21",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404865A",
+        "last_name": "Knuppel",
+        "first_name": "Knuppel"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259449M",
+    "title": "Journal Of Hand Surgery",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1996,
+    "subject": "Orthopaedics & fractures",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2006-05-07",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404866A",
+        "last_name": "OF HAND SURGERY",
+        "first_name": "JOURNAL"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1025944M",
+    "title": "Collieries of Wales",
+    "city": "Aberystwyth",
+    "publisher": "The Commission",
+    "year": 1994,
+    "subject": "Coal mines and mining -- Wales -- History.",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 176,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2005-05-27",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1385686A",
+        "last_name": "Charles W.",
+        "first_name": "Robinson,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259450M",
+    "title": "Manual Cardiac Anesthesia",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2007,
+    "subject": "Anaesthetics",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 576,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2014-02-09",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404867A",
+        "last_name": "J., M.D. Thomas",
+        "first_name": "Stephen"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259451M",
+    "title": "Anesthesia Library",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1996,
+    "subject": "Anaesthetics",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2001-07-29",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2706704A",
+        "last_name": "D. Miller",
+        "first_name": "Ronald"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259452M",
+    "title": "Cardiovascular Medicine Library (WINDOWS/MACINTOSH CD-ROM)",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1996,
+    "subject": "Gynaecology & obstetrics",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2001-04-03",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1459176A",
+        "last_name": "T. Willerson",
+        "first_name": "James"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259453M",
+    "title": "The Johns Hopkins Atlas of Surgical Pathology (Cd-Rom For Windows and Macintosh, Individual Version)",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1999,
+    "subject": "Pathology",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2006-10-19",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2692234A",
+        "last_name": "Nathwani",
+        "first_name": "Bharat"
+      },
+      {
+        "openlibrary_id": "/authors/OL658188A",
+        "last_name": "I. Epstein",
+        "first_name": "Jonathan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259454M",
+    "title": "Listening to the Heart (Current Medicine Title)",
+    "city": null,
+    "publisher": "Elsevier",
+    "year": 1996,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2000-05-27",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2665535A",
+        "last_name": "Mason",
+        "first_name": "Daniel"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259455M",
+    "title": "Anatomy in Diagnostic Imaging",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2001,
+    "subject": "Chiropody & podiatry",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 854,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2001-01-07",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2509340A",
+        "last_name": "A. Levy",
+        "first_name": "Leonard"
+      },
+      {
+        "openlibrary_id": "/authors/OL3404869A",
+        "last_name": "J. Hetherington",
+        "first_name": "Vincent"
+      },
+      {
+        "openlibrary_id": "/authors/OL2706669A",
+        "last_name": "Yu",
+        "first_name": "Yu"
+      },
+      {
+        "openlibrary_id": "/authors/OL2734053A",
+        "last_name": "Rankin",
+        "first_name": "Rankin"
+      },
+      {
+        "openlibrary_id": "/authors/OL3243008A",
+        "last_name": "Harkles",
+        "first_name": "Harkles"
+      },
+      {
+        "openlibrary_id": "/authors/OL2706797A",
+        "last_name": "Dorland",
+        "first_name": "Dorland"
+      },
+      {
+        "openlibrary_id": "/authors/OL3248790A",
+        "last_name": "Abdelhak",
+        "first_name": "Abdelhak"
+      },
+      {
+        "openlibrary_id": "/authors/OL3248792A",
+        "last_name": "Henders",
+        "first_name": "Henders"
+      },
+      {
+        "openlibrary_id": "/authors/OL2625484A",
+        "last_name": "Foster",
+        "first_name": "Foster"
+      },
+      {
+        "openlibrary_id": "/authors/OL2797105A",
+        "last_name": "Behrman",
+        "first_name": "Behrman"
+      },
+      {
+        "openlibrary_id": "/authors/OL2796641A",
+        "last_name": "Fleckenstein",
+        "first_name": "Peter"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259456M",
+    "title": "Clinical Biomechanics (Clinics in Physical Therapy)",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2000,
+    "subject": "Biomechanics, human kinetics",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 275,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2015-06-02",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL580686A",
+        "last_name": "Dvir",
+        "first_name": "Zeevi"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259457M",
+    "title": "Current Review of Interventional Cardiology",
+    "city": null,
+    "publisher": "Current Medicine",
+    "year": 1997,
+    "subject": "Cardiovascular medicine",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 232,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2015-08-08",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL955696A",
+        "last_name": "R. Holmes",
+        "first_name": "David"
+      },
+      {
+        "openlibrary_id": "/authors/OL3138688A",
+        "last_name": "W. Serruys",
+        "first_name": "Patrick"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259458M",
+    "title": "Coronary Disease in Women",
+    "city": null,
+    "publisher": "W.B. Saunders Company",
+    "year": 2007,
+    "subject": "Cardiovascular medicine",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 256,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2009-06-11",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2860238A",
+        "last_name": "Ashton",
+        "first_name": "Ashton"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259459M",
+    "title": "Fine Needle Aspiration Cytology of Superficial Organs and Body Sites",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1999,
+    "subject": "Cytopathology",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 221,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2010-12-12",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL585205A",
+        "last_name": "R. Geisinger",
+        "first_name": "Kim"
+      },
+      {
+        "openlibrary_id": "/authors/OL526343A",
+        "last_name": "F. Silverman",
+        "first_name": "Jan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1025945M",
+    "title": "New computer technologies in control systems",
+    "city": "Pereslavl-Zalessky, Russia",
+    "publisher": "Control Processes Research Center of the Program Systems, Institute of Russian Academy of Sciences",
+    "year": 1994,
+    "subject": "Automatic control -- Data processing -- Congresses.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 99,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2015-08-19",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1120819A",
+        "last_name": "Kestin",
+        "first_name": "Joseph"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259460M",
+    "title": "Interactive Regional Anesthesia",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2005,
+    "subject": "Anaesthetics",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2015-12-31",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3203502A",
+        "last_name": "Hernandez",
+        "first_name": "Hernandez"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259461M",
+    "title": "Manual of Pediatrics Anesthesia Canada Edition",
+    "city": null,
+    "publisher": "Elsevier",
+    "year": null,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 480,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2009-03-05",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404870A",
+        "last_name": "J Steward",
+        "first_name": "D"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259462M",
+    "title": "Rheumatic Disease",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1984,
+    "subject": "Rheumatic Disorders",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2013-04-11",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3258584A",
+        "last_name": "H. Weisman",
+        "first_name": "Michael"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259463M",
+    "title": "Clinical Neurosciences",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1983,
+    "subject": "Neurology & clinical neurophysiology",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 596,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2009-08-18",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1123677A",
+        "last_name": "N. Rosenberg",
+        "first_name": "Roger"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259464M",
+    "title": "Clinical Neurosciences",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1984,
+    "subject": "Neurology - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 3708,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2000-07-26",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1123677A",
+        "last_name": "N. Rosenberg",
+        "first_name": "Roger"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259465M",
+    "title": "Clinical Neurosciences",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1983,
+    "subject": "Neurology & clinical neurophysiology",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 652,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2002-06-30",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1123677A",
+        "last_name": "N. Rosenberg",
+        "first_name": "Roger"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259466M",
+    "title": "Disorders of Fluid and Electrolyte Balance",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1985,
+    "subject": "Allied Health Services - Physical Therapy",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 259,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2010-11-07",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2710143A",
+        "last_name": "B. Puschett",
+        "first_name": "Jules"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259467M",
+    "title": "Neurologic Disorders (Contemporary Issues in Small Animal Practice, Vol 5)",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1986,
+    "subject": "Veterinary Medicine - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 222,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2014-05-23",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2797077A",
+        "last_name": "N. Kornegay",
+        "first_name": "Joe"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259468M",
+    "title": "Cannon Man Hand Splinting Csd 1e",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": null,
+    "subject": "Orthopaedics & fractures",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2004-12-18",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1451892A",
+        "last_name": "Ta-Kouan",
+        "first_name": "Tcheou"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259469M",
+    "title": "Nephrology and Urology (Contemporary Issues in Small Animal Practice, Vol 4)",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1986,
+    "subject": "Veterinary Medicine - General",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 282,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2005-11-17",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404871A",
+        "last_name": "B. Breitschwerdt",
+        "first_name": "Edward"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1025946M",
+    "title": "Septuagint quotations in the context of the Petrine and Pauline speeches of the Acta Apostolorum",
+    "city": "Kampen, Netherlands",
+    "publisher": "Kok Pharos",
+    "year": 1995,
+    "subject": "Bible. N.T. Acts -- Criticism, Textual.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 290,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2006-03-02",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL551794A",
+        "last_name": "Jacobus Steyn",
+        "first_name": "Gert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259470M",
+    "title": "Oncology (Contemporary Issues in Small Animal Practice, Vol 6)",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1986,
+    "subject": "Veterinary Medicine - Small Animal",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 300,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2014-07-01",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2735742A",
+        "last_name": "T. Gorman",
+        "first_name": "Neil"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259471M",
+    "title": "Dermatology (Contemporary Issues in Small Animal Practice, Vol 8)",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1987,
+    "subject": "Dermatology",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 332,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2003-10-29",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL280874A",
+        "last_name": "H. Nesbitt",
+        "first_name": "Gene"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259472M",
+    "title": "Cardiology (Contemporary Issues in Small Animal Practice, Vol 7)",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1987,
+    "subject": "Veterinary Medicine - General",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 352,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2005-01-14",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2796753A",
+        "last_name": "D. Bonagura",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259473M",
+    "title": "Anesthesia (Ise)",
+    "city": null,
+    "publisher": "W.B. Saunders Company",
+    "year": 1988,
+    "subject": "Anesthesiology",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 66,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2005-12-20",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2625192A",
+        "last_name": "Miller",
+        "first_name": "Miller"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259474M",
+    "title": "Study Guide for Obstetrics",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1988,
+    "subject": "Gynaecology & obstetrics",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 152,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2004-08-19",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2706702A",
+        "last_name": "G. Gabbe",
+        "first_name": "Steven"
+      },
+      {
+        "openlibrary_id": "/authors/OL3404872A",
+        "last_name": "R. Niebyl",
+        "first_name": "Jennifewr"
+      },
+      {
+        "openlibrary_id": "/authors/OL3404873A",
+        "last_name": "Leigh Simposon",
+        "first_name": "Loe"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259475M",
+    "title": "Infections Emergency Medicine - 2 (Contemporary Issues in Emergency Medicine)",
+    "city": null,
+    "publisher": "Elsevier",
+    "year": 1990,
+    "subject": "Accident & emergency medicine",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 436,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2007-03-24",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404874A",
+        "last_name": "Schillinger",
+        "first_name": "David"
+      },
+      {
+        "openlibrary_id": "/authors/OL3404875A",
+        "last_name": "Harwood-Nuss",
+        "first_name": "Ann"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259476M",
+    "title": "Handbook of Common Foot Problems",
+    "city": null,
+    "publisher": "W.B. Saunders Company",
+    "year": 1990,
+    "subject": "Chiropody & podiatry",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 105,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2012-04-14",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404857A",
+        "last_name": "B. Harkless",
+        "first_name": "Lawrence"
+      },
+      {
+        "openlibrary_id": "/authors/OL3404876A",
+        "last_name": "M. Krych",
+        "first_name": "Steven"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259477M",
+    "title": "Principles and Practice of Surgical Pathology",
+    "city": null,
+    "publisher": "Elsevier",
+    "year": 1989,
+    "subject": "Surgery",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 1831,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2013-03-10",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2628869A",
+        "last_name": "Silverberg",
+        "first_name": "Silverberg"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259478M",
+    "title": "The Hand",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1990,
+    "subject": "Hand",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2015-08-07",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1165053A",
+        "last_name": "Zarkhi",
+        "first_name": "Aleksandr"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259479M",
+    "title": "Principles of Drug Action",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1990,
+    "subject": "Pharmacology",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 836,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2016-10-22",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1238613A",
+        "last_name": "B. Pratt",
+        "first_name": "William"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1025947M",
+    "title": "Impela ngatalelwa kuhlupheka kulomhlaba",
+    "city": "Pretoria",
+    "publisher": "Kagiso Publishers",
+    "year": 1995,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 110,
+    "lang": "swz",
+    "days_keep_count": 50,
+    "adding_date": "2000-09-20",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL551795A",
+        "last_name": "E. Simelane",
+        "first_name": "H."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259480M",
+    "title": "Geriatrics for Chiropractors",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1991,
+    "subject": "Health/Fitness",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 256,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2003-12-19",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404877A",
+        "last_name": "Foreman",
+        "first_name": "Stephen"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259481M",
+    "title": "The Horse",
+    "city": null,
+    "publisher": "W B Saunders Co",
+    "year": 1995,
+    "subject": "Veterinary science: large animals (domestic / farm)",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2005-02-17",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2796785A",
+        "last_name": "N. Kobluk",
+        "first_name": "Calvin"
+      },
+      {
+        "openlibrary_id": "/authors/OL2796786A",
+        "last_name": "R. Ames",
+        "first_name": "Trevor"
+      },
+      {
+        "openlibrary_id": "/authors/OL2796787A",
+        "last_name": "J. Geor",
+        "first_name": "Raymond"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259482M",
+    "title": "Atlas of Forearm and Hand Cross-Sectional Anatomy with Computed Tomography and Magnetic Resonance Im",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1991,
+    "subject": "Anatomy",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 199,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2014-12-23",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL478807A",
+        "last_name": "A. Meals",
+        "first_name": "Roy"
+      },
+      {
+        "openlibrary_id": "/authors/OL3404878A",
+        "last_name": "L. Seeger",
+        "first_name": "Leanne"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259483M",
+    "title": "Thoracic/ Vascular Anesthesia Package Set",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1991,
+    "subject": "Anaesthetics",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 256,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2001-04-01",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2707057A",
+        "last_name": "A. Kaplan",
+        "first_name": "Joel"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259484M",
+    "title": "Update on Hemostasis. (Contemporary Management in Internal Medicine Ser. ; Vol. 1, No. 2)",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1990,
+    "subject": "Haematology",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 244,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2006-06-27",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404880A",
+        "last_name": "H. Boldt",
+        "first_name": "David"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259485M",
+    "title": "Esophagus Stomach Gi Bleeding (Contemporary Management in Internal Medicine Ser Vol, 1 No. 3)",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1991,
+    "subject": "Dermatology",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 236,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2002-04-14",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404881A",
+        "last_name": "E., III Brady",
+        "first_name": "Charles"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259486M",
+    "title": "Prevention and Screening in Office Practice (Contemporary Management in Internal Medicine)",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1991,
+    "subject": "General practice",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 169,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2014-05-31",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404882A",
+        "last_name": "K. Diehl",
+        "first_name": "Andrew"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259487M",
+    "title": "Rheumatoid Arthritis (Contemporary Management in Internal Medicine Ser Vol, 1 No. 6)",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1991,
+    "subject": "Rheumatology",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 228,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2004-06-11",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404883A",
+        "last_name": "Fischbach",
+        "first_name": "Michael"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259488M",
+    "title": "Mechanical Ventilationa and Assisted Respiration",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1991,
+    "subject": "Accident & emergency medicine",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 212,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2000-05-06",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2130547A",
+        "last_name": "Grenvik",
+        "first_name": "Ake"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259489M",
+    "title": "Acid-Base & Electrolyte Disorders (Contemporary Management in Critical Care)",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1991,
+    "subject": "Hematology",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 240,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2003-03-26",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404884A",
+        "last_name": "Adrogue",
+        "first_name": "Horacio"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1025948M",
+    "title": "L' uomo-orologio e altre storie",
+    "city": "Palermo",
+    "publisher": "Sellerio",
+    "year": 1995,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 92,
+    "lang": "ita",
+    "days_keep_count": 30,
+    "adding_date": "2009-09-25",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL551796A",
+        "last_name": "Quatriglio",
+        "first_name": "Giuseppe"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259490M",
+    "title": "Granulomatous Infections (Contemporary Management in Internal Medicine)",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1992,
+    "subject": "Infectious & contagious diseases",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 187,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2013-12-04",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404885A",
+        "last_name": "D. Williams",
+        "first_name": "Dwight"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259491M",
+    "title": "Acute Myocarial Infarction (CONTEMPORARY MANAGEMENT IN INTERNAL MEDICINE)",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1991,
+    "subject": "Cardiovascular medicine",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 213,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2001-08-03",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404886A",
+        "last_name": "Mccall",
+        "first_name": "David"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259492M",
+    "title": "Medical Dictionary/word Book Package",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1991,
+    "subject": "Literary & Linguistic Reference Works",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 256,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2006-12-18",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2817973A",
+        "last_name": "CHURCHILL",
+        "first_name": "CHURCHILL"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259493M",
+    "title": "A Glance at Transesophageal Echocardiography",
+    "city": null,
+    "publisher": "Elsevier",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2009-09-18",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404887A",
+        "last_name": "A. Gal",
+        "first_name": "Rami"
+      },
+      {
+        "openlibrary_id": "/authors/OL3404888A",
+        "last_name": "Michael Roper-Hall ChM MB ChB FRCS FCOphth DOMS",
+        "first_name": "Sir"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259494M",
+    "title": "Preventing Anesthetic Complication",
+    "city": null,
+    "publisher": "W B Saunders Co",
+    "year": 2000,
+    "subject": "Anesthesiology",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 256,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2007-01-31",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2536761A",
+        "last_name": "Cohen",
+        "first_name": "Cohen"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259495M",
+    "title": "Atlas of Small Animal Surgery",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1992,
+    "subject": "Veterinary Surgery",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 256,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2013-11-26",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL120988A",
+        "last_name": "Erdtman",
+        "first_name": "G."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259496M",
+    "title": "Obstructive Lung Disease (Contemporary Management in Internal Medicine)",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1992,
+    "subject": "Respiratory medicine",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 150,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2002-09-04",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3251459A",
+        "last_name": "G. Jenkinson",
+        "first_name": "Stephen"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259497M",
+    "title": "Atlas Of Elbow Surgery",
+    "city": null,
+    "publisher": "W B Saunders Co",
+    "year": 2007,
+    "subject": "Atlases - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2005-05-31",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2706729A",
+        "last_name": "Hotchkiss",
+        "first_name": "Robert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259498M",
+    "title": "Atlas of Total Knee Surgery",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1998,
+    "subject": "Physical Medicine & Rehabilitation",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 392,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2012-12-21",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2919454A",
+        "last_name": "Windsor",
+        "first_name": "Windsor"
+      },
+      {
+        "openlibrary_id": "/authors/OL3404889A",
+        "last_name": "E. Windsor",
+        "first_name": "Russell"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259499M",
+    "title": "Thoracic & Esophageal Surgery Package",
+    "city": null,
+    "publisher": "Saunders W B Co",
+    "year": 1995,
+    "subject": "Surgery - General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2001-01-16",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2417731A",
+        "last_name": "Pearson",
+        "first_name": "Pearson"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1025949M",
+    "title": "Cyfoeth y Cardi",
+    "city": "Aberystwyth",
+    "publisher": "Cymdeithas Lyfrau Ceredigion",
+    "year": 1995,
+    "subject": "Dyfed (Wales) -- Social life and customs.",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 184,
+    "lang": "wel",
+    "days_keep_count": 10,
+    "adding_date": "2014-10-26",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL551797A",
+        "last_name": "Gerald",
+        "first_name": "Morgan,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL102594M",
+    "title": "De apocrypha ratio",
+    "city": "[Guadalajara, Mexico?]",
+    "publisher": "Ediciones Arlequín",
+    "year": 1997,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 187,
+    "lang": "spa",
+    "days_keep_count": 10,
+    "adding_date": "2005-01-25",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL68903A",
+        "last_name": "Vázquez",
+        "first_name": "Felipe"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259500M",
+    "title": "Diagnostic Renal Pathology",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1997,
+    "subject": "Nephrology",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 600,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2003-03-20",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404853A",
+        "last_name": "Solez",
+        "first_name": "Solez"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259501M",
+    "title": "Miller Anesthesia Clinical Package/Includes Book and Manual",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 1996,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2009-02-21",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2706704A",
+        "last_name": "D. Miller",
+        "first_name": "Ronald"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259502M",
+    "title": "Rehabilitation of Arthritic Hand & Wrist",
+    "city": null,
+    "publisher": "Harcourt Health Sciences Group",
+    "year": 2000,
+    "subject": "Diseases - Nervous System (incl. Brain)",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 224,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2009-01-12",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404890A",
+        "last_name": "Mackin",
+        "first_name": "Mackin"
+      },
+      {
+        "openlibrary_id": "/authors/OL2848011A",
+        "last_name": "J. Mackin",
+        "first_name": "Evelyn"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259503M",
+    "title": "Practices in Children's Nursing",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2006,
+    "subject": "Paediatric nursing",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 408,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2010-02-25",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404642A",
+        "last_name": "Trigg",
+        "first_name": "Ethel"
+      },
+      {
+        "openlibrary_id": "/authors/OL3404891A",
+        "last_name": "Mohammed",
+        "first_name": "Toby"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259504M",
+    "title": "Implementing Mental Health Promotion",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2007,
+    "subject": "Public health & preventive medicine",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 355,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2015-09-23",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1033598A",
+        "last_name": "Barry",
+        "first_name": "Margaret"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259505M",
+    "title": "Acupuncture Research",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2007,
+    "subject": "Acupuncture",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 288,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2016-02-09",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404892A",
+        "last_name": "MacPherson",
+        "first_name": "Hugh"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259506M",
+    "title": "Massage and Bodywork",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2006,
+    "subject": "Nursing & Ancillary Services",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 216,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2012-05-02",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2706846A",
+        "last_name": "A. Mackereth",
+        "first_name": "Peter"
+      },
+      {
+        "openlibrary_id": "/authors/OL1120472A",
+        "last_name": "Carter",
+        "first_name": "Ann"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259507M",
+    "title": "Shared Care of Older People",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2006,
+    "subject": "General practice",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 252,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2016-07-03",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3322987A",
+        "last_name": "Rai",
+        "first_name": "Gurcharan"
+      },
+      {
+        "openlibrary_id": "/authors/OL2044806A",
+        "last_name": "Rosenthal",
+        "first_name": "Joe"
+      },
+      {
+        "openlibrary_id": "/authors/OL589379A",
+        "last_name": "Morris",
+        "first_name": "Jackie"
+      },
+      {
+        "openlibrary_id": "/authors/OL183671A",
+        "last_name": "Iliffe",
+        "first_name": "Steve"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259508M",
+    "title": "Podiatric Assessment and Management of the Diabetic Foot",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2006,
+    "subject": "Chiropody & podiatry",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 320,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2016-11-15",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404893A",
+        "last_name": "Foster",
+        "first_name": "Alethea"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259509M",
+    "title": "Perspectives on Disability and Rehabilitation",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2006,
+    "subject": "Rehabilitation",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 216,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2008-06-08",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2706901A",
+        "last_name": "Whalley Hammell",
+        "first_name": "Karen"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1025950M",
+    "title": "Metod Li͡a︡punova-Arnolʹda v gidrodinamicheskoĭ teorii ustoĭchivosti",
+    "city": "Nizhniĭ Novgorod",
+    "publisher": "Rossiĭskai͡a︡ akademii͡a︡ nauk, In-t prikladnoĭ fiziki",
+    "year": 1995,
+    "subject": "Hydrodynamics.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 63,
+    "lang": "rus",
+    "days_keep_count": 200,
+    "adding_date": "2000-01-26",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL551798A",
+        "last_name": "A. Kali͡a︡gin",
+        "first_name": "V."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259510M",
+    "title": "Research Ethics in the Real World",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2007,
+    "subject": "Medical ethics",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 240,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2001-09-30",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1974477A",
+        "last_name": "Long",
+        "first_name": "Tony"
+      },
+      {
+        "openlibrary_id": "/authors/OL552524A",
+        "last_name": "Johnson",
+        "first_name": "Martin"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259511M",
+    "title": "Oral and Maxillofacial Surgery",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2007,
+    "subject": "Dentistry / oral & maxillofacial medicine",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 285,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2012-10-08",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1001635A",
+        "last_name": "Cheyney",
+        "first_name": "Peter"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259512M",
+    "title": "Dilemmas in Emergency Nursing",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2005,
+    "subject": "Accident & emergency nursing",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 256,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2014-01-09",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL136374A",
+        "last_name": "Stiernstedt",
+        "first_name": "Jan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259513M",
+    "title": "Breast Ultrasound",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2007,
+    "subject": "Ultrasonics",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 288,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2014-05-02",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404894A",
+        "last_name": "Dixon",
+        "first_name": "Anne-Marie"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259514M",
+    "title": "Pass the Preregistration Pharmacy Exam",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2006,
+    "subject": "Pharmacology",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 264,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2013-05-28",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404895A",
+        "last_name": "Cheung",
+        "first_name": "Chi-Loon"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259515M",
+    "title": "Principles and Practice of Homeopathy",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2007,
+    "subject": "Homoeopathy",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 456,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2007-08-05",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2657191A",
+        "last_name": "Owen",
+        "first_name": "David"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259516M",
+    "title": "Techniques in Clinical Neurophysiology",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2005,
+    "subject": "Neurology & clinical neurophysiology",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 440,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2007-05-23",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1442380A",
+        "last_name": "Sofia Lerche.",
+        "first_name": "Vieira,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259517M",
+    "title": "Kanpo",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2006,
+    "subject": "Traditional medicine & remedies",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 224,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2011-11-02",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1073557A",
+        "last_name": "Natasha Taishoff",
+        "first_name": "Marika"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259518M",
+    "title": "Chinese Phytotherapy",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2006,
+    "subject": "Traditional medicine & remedies",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 1052,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2010-08-13",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404896A",
+        "last_name": "Hempen",
+        "first_name": "Carl-Hermann"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259519M",
+    "title": "Diabetes",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2007,
+    "subject": "Diabetes",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 320,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2012-05-09",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1370064A",
+        "last_name": "Caminiti",
+        "first_name": "Giuseppe"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1025951M",
+    "title": "Rethinking the balance",
+    "city": "Amsterdam",
+    "publisher": "VU University Press",
+    "year": 1995,
+    "subject": "Associations, institutions, etc. -- Netherlands.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 176,
+    "lang": "dut",
+    "days_keep_count": 200,
+    "adding_date": "2000-10-13",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1110256A",
+        "last_name": "Crisis Workers Conference (1986 Arlington, Tex.)",
+        "first_name": "Farm"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259520M",
+    "title": "Pharmaceutics",
+    "city": null,
+    "publisher": "Not Avail",
+    "year": 2007,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2012-04-03",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1286188A",
+        "last_name": "B. Pérez",
+        "first_name": "Juan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259521M",
+    "title": "Cawson's Essentials of Oral Pathology and Oral Medicine",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2008,
+    "subject": "Dentistry / oral & maxillofacial medicine",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 472,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2016-03-21",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3336160A",
+        "last_name": "A. Cawson",
+        "first_name": "Roderick"
+      },
+      {
+        "openlibrary_id": "/authors/OL2706954A",
+        "last_name": "Odell",
+        "first_name": "Edward"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259522M",
+    "title": "Stretching Therapy",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2007,
+    "subject": "Physiotherapy",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 288,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2004-07-05",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404897A",
+        "last_name": "Juhani Ylinen",
+        "first_name": "Jari"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259523M",
+    "title": "Maternal Medicine",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2007,
+    "subject": "Materno-fetal medicine",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 400,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2006-05-20",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404566A",
+        "last_name": "A. Greer",
+        "first_name": "Ian"
+      },
+      {
+        "openlibrary_id": "/authors/OL3138792A",
+        "last_name": "Nelson-Piercy",
+        "first_name": "Catherine"
+      },
+      {
+        "openlibrary_id": "/authors/OL2068841A",
+        "last_name": "Walters",
+        "first_name": "Barry"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259524M",
+    "title": "Transcultural Health and Social Care",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2006,
+    "subject": "Health systems & services",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 216,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2005-05-12",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404898A",
+        "last_name": "Papadopoulos",
+        "first_name": "Irena"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259525M",
+    "title": "Red Flags",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2006,
+    "subject": "Orthopaedics & fractures",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 200,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2010-11-21",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404899A",
+        "last_name": "Greenhalgh",
+        "first_name": "Sue"
+      },
+      {
+        "openlibrary_id": "/authors/OL1203324A",
+        "last_name": "Selfe",
+        "first_name": "James"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259526M",
+    "title": "Midwife's Guide to Antenatal Investigations",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2006,
+    "subject": "Midwifery",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 212,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2002-05-11",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3389355A",
+        "last_name": "Sullivan",
+        "first_name": "Amanda"
+      },
+      {
+        "openlibrary_id": "/authors/OL3340461A",
+        "last_name": "Kean",
+        "first_name": "Lucy"
+      },
+      {
+        "openlibrary_id": "/authors/OL3404900A",
+        "last_name": "Cryer",
+        "first_name": "Alison"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259527M",
+    "title": "MRCPCH Mastercourse (MRCPCH Study Guides)",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2007,
+    "subject": "Paediatric medicine",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 394,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2001-06-01",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404901A",
+        "last_name": "I. Levene",
+        "first_name": "Malcom"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259528M",
+    "title": "Evidence-Based Physical Therapy for the Pelvic Floor",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2007,
+    "subject": "Physiotherapy",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 456,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2012-12-16",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404792A",
+        "last_name": "Bo",
+        "first_name": "Kari"
+      },
+      {
+        "openlibrary_id": "/authors/OL3404902A",
+        "last_name": "Berghmans",
+        "first_name": "Bary"
+      },
+      {
+        "openlibrary_id": "/authors/OL3404903A",
+        "last_name": "Morkved",
+        "first_name": "Siv"
+      },
+      {
+        "openlibrary_id": "/authors/OL3404904A",
+        "last_name": "Van Kampen",
+        "first_name": "Marijke"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259529M",
+    "title": "Risk and Choice in Maternity Care",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2007,
+    "subject": "Gynaecology & obstetrics",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 192,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2015-10-19",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2825510A",
+        "last_name": "Symon",
+        "first_name": "Andrew"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1025952M",
+    "title": "Che leggere?",
+    "city": "Roma",
+    "publisher": "Theoria",
+    "year": 1995,
+    "subject": "Democracy -- Bibliography.",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 133,
+    "lang": "ita",
+    "days_keep_count": 10,
+    "adding_date": "2005-05-11",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1095767A",
+        "last_name": "juridiques yougoslavo-suisses (2nd 1986 Belgrade, Serbia)",
+        "first_name": "Journées"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259530M",
+    "title": "Common Foundation Studies in Nursing",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2008,
+    "subject": "Nursing",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 536,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2003-02-20",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3345812A",
+        "last_name": "Spouse",
+        "first_name": "Jenny"
+      },
+      {
+        "openlibrary_id": "/authors/OL1342606A",
+        "last_name": "J. Cook",
+        "first_name": "Michael"
+      },
+      {
+        "openlibrary_id": "/authors/OL1455192A",
+        "last_name": "Cox",
+        "first_name": "Carol"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259531M",
+    "title": "Principles and Practice of Surgery",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2007,
+    "subject": "Surgery",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 606,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2003-09-28",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL443415A",
+        "last_name": "James Garden",
+        "first_name": "O."
+      },
+      {
+        "openlibrary_id": "/authors/OL3404905A",
+        "last_name": "W. Bradbury",
+        "first_name": "Andrew"
+      },
+      {
+        "openlibrary_id": "/authors/OL3315691A",
+        "last_name": "L. R. Forsythe",
+        "first_name": "John"
+      },
+      {
+        "openlibrary_id": "/authors/OL1393286A",
+        "last_name": "W. Parks",
+        "first_name": "Rowan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259532M",
+    "title": "Echocardiology at the Point of Care",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2006,
+    "subject": "Cardiovascular medicine",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 320,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2009-10-16",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404906A",
+        "last_name": "Bogle",
+        "first_name": "Richard"
+      },
+      {
+        "openlibrary_id": "/authors/OL3404907A",
+        "last_name": "Ashrafiam",
+        "first_name": "Houman"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259533M",
+    "title": "Patient Management Problems in Psychiatry",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2005,
+    "subject": "Physician & Patient",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 564,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2014-01-30",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404908A",
+        "last_name": "Olumoroti",
+        "first_name": "Olumuyiwa"
+      },
+      {
+        "openlibrary_id": "/authors/OL3404909A",
+        "last_name": "Kassim",
+        "first_name": "Akim"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259534M",
+    "title": "Biomechanics in Clinic and Research",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2008,
+    "subject": "Chiropody & podiatry",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 256,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2014-01-18",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL359064A",
+        "last_name": "Richards",
+        "first_name": "Jim"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259535M",
+    "title": "Electrotherapy",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2008,
+    "subject": "Sports injuries & medicine",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 400,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2004-11-06",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2779071A",
+        "last_name": "Watson",
+        "first_name": "Tim"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259536M",
+    "title": "Clinical Biochemistry",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2008,
+    "subject": "Medical diagnosis",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 992,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2011-06-21",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2688135A",
+        "last_name": "J. Marshall",
+        "first_name": "William"
+      },
+      {
+        "openlibrary_id": "/authors/OL3404910A",
+        "last_name": "K. Bangert",
+        "first_name": "Stephen"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259537M",
+    "title": "The Nursing Process",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2006,
+    "subject": "Nursing",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 174,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2002-05-03",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1425415A",
+        "last_name": "R. Crider",
+        "first_name": "Michael"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259538M",
+    "title": "The Art and Soul of Midwifery",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2007,
+    "subject": "Midwifery",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 264,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2013-08-16",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2797476A",
+        "last_name": "Davies",
+        "first_name": "Lorna"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259539M",
+    "title": "Churchill's In Clinical Practice Series",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2006,
+    "subject": "Neurology & clinical neurophysiology",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 200,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2003-07-28",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2707174A",
+        "last_name": "Hennerici",
+        "first_name": "Michael"
+      },
+      {
+        "openlibrary_id": "/authors/OL3138666A",
+        "last_name": "Bogousslavsky",
+        "first_name": "Julien"
+      },
+      {
+        "openlibrary_id": "/authors/OL3404911A",
+        "last_name": "Sacco",
+        "first_name": "Ralph"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1025953M",
+    "title": "Los extraños terroristas de la \"Sábana Santa\"",
+    "city": "León [Spain]",
+    "publisher": "S. García",
+    "year": 1994,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 199,
+    "lang": "spa",
+    "days_keep_count": 30,
+    "adding_date": "2004-05-10",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL284607A",
+        "last_name": "Crémer",
+        "first_name": "Victoriano"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259540M",
+    "title": "Learning Disabilities",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2007,
+    "subject": "Disability: social aspects",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 736,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2012-07-02",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL498788A",
+        "last_name": "Gates",
+        "first_name": "Bob"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259541M",
+    "title": "Massage Therapy Research",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2006,
+    "subject": "Complementary Medicine",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 272,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2016-11-26",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL27900A",
+        "last_name": "Field",
+        "first_name": "Tiffany"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259542M",
+    "title": "Sports Injuries",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2006,
+    "subject": "Sports injuries & medicine",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 528,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2005-03-13",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL48983A",
+        "last_name": "Eustace",
+        "first_name": "Stephen"
+      },
+      {
+        "openlibrary_id": "/authors/OL3404912A",
+        "last_name": "Johnston",
+        "first_name": "Ciaran"
+      },
+      {
+        "openlibrary_id": "/authors/OL3404913A",
+        "last_name": "M O'Byrne",
+        "first_name": "John"
+      },
+      {
+        "openlibrary_id": "/authors/OL40236A",
+        "last_name": "O'Neill",
+        "first_name": "Pat"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259543M",
+    "title": "A Colour Atlas of Foot and Ankle Disorders",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2007,
+    "subject": "Chiropody & podiatry",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 196,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2011-12-25",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404893A",
+        "last_name": "Foster",
+        "first_name": "Alethea"
+      },
+      {
+        "openlibrary_id": "/authors/OL3238246A",
+        "last_name": "E. Edmonds",
+        "first_name": "Michael"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259544M",
+    "title": "Radiography and Radiology for Dental Nurses",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2005,
+    "subject": "Dentistry - Dental Assisting",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 252,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2009-05-07",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL767702A",
+        "last_name": "Whaites",
+        "first_name": "Eric"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259545M",
+    "title": "Cardiac Nursing",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2008,
+    "subject": "Cardiovascular medicine",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 674,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2010-01-01",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2706628A",
+        "last_name": "Hatchett",
+        "first_name": "Richard"
+      },
+      {
+        "openlibrary_id": "/authors/OL671529A",
+        "last_name": "R. Thompson",
+        "first_name": "David"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259546M",
+    "title": "Functional Neurology for Practitioners of Manual Therapy",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2007,
+    "subject": "Chiropractic & osteopathy",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 552,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2010-04-30",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404914A",
+        "last_name": "W. Beck",
+        "first_name": "Randy"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259547M",
+    "title": "Arthritis",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2006,
+    "subject": "Clinical & Internal Medicine",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 2,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2010-02-14",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2706982A",
+        "last_name": "John Dickson",
+        "first_name": "D."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259548M",
+    "title": "Skin",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2006,
+    "subject": "Medical",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 2,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2007-05-03",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2797758A",
+        "last_name": "A. Savin",
+        "first_name": "John"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259549M",
+    "title": "Midwifery and Public Health",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2005,
+    "subject": "Birthing methods",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 288,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2000-01-03",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404915A",
+        "last_name": "O'Luanaigh",
+        "first_name": "Padraig"
+      },
+      {
+        "openlibrary_id": "/authors/OL3404916A",
+        "last_name": "Carlson",
+        "first_name": "Cindy"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1025954M",
+    "title": "Y llyfr berfau =",
+    "city": "Llandysul, Dyfed",
+    "publisher": "Gomer",
+    "year": 1995,
+    "subject": "Welsh language -- Verb.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 228,
+    "lang": "wel",
+    "days_keep_count": 200,
+    "adding_date": "2005-08-31",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL190739A",
+        "last_name": "Geraint Lewis",
+        "first_name": "D."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259550M",
+    "title": "Clinical Pharmacology",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2008,
+    "subject": "Clinical Pharmacology",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 704,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2004-09-17",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2706661A",
+        "last_name": "N. Bennett",
+        "first_name": "P."
+      },
+      {
+        "openlibrary_id": "/authors/OL2706662A",
+        "last_name": "J. Brown",
+        "first_name": "Morris"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259551M",
+    "title": "Pulse Diagnosis",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2007,
+    "subject": "Complementary Medicine",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 248,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2002-10-15",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404917A",
+        "last_name": "Walsh",
+        "first_name": "Sean"
+      },
+      {
+        "openlibrary_id": "/authors/OL623543A",
+        "last_name": "King",
+        "first_name": "Emma"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259552M",
+    "title": "Myles Textbook for Midwives",
+    "city": null,
+    "publisher": "Not Avail",
+    "year": 2006,
+    "subject": "Midwifery",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 1138,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2003-02-12",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1330500A",
+        "last_name": "Oskar Dr.",
+        "first_name": "Splett,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259553M",
+    "title": "Medical Devices",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2007,
+    "subject": "Medical equipment & techniques",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 376,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2012-12-16",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1910635A",
+        "last_name": "Jacobson",
+        "first_name": "Bertil"
+      },
+      {
+        "openlibrary_id": "/authors/OL2630860A",
+        "last_name": "Murray",
+        "first_name": "Alan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259554M",
+    "title": "Paediatric Exercise Physiology (Advances in Sport and Exercise Science)",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2006,
+    "subject": "Biomechanics, human kinetics",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 378,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2004-11-18",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404918A",
+        "last_name": "Association of Sport and Exercis",
+        "first_name": "British"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259555M",
+    "title": "Traditional Chinese Medicine Cupping Therapy",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2007,
+    "subject": "Traditional medicine & remedies",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 304,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2008-01-28",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404919A",
+        "last_name": "Z. Chirali",
+        "first_name": "Ilkay"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259556M",
+    "title": "Medical Pharmacology (Master Medicine)",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2007,
+    "subject": "Pharmacology",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 326,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2009-04-07",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404920A",
+        "last_name": "Constable",
+        "first_name": "Simon"
+      },
+      {
+        "openlibrary_id": "/authors/OL2706472A",
+        "last_name": "Winstanley",
+        "first_name": "Peter"
+      },
+      {
+        "openlibrary_id": "/authors/OL2706902A",
+        "last_name": "Walley",
+        "first_name": "Tom"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259557M",
+    "title": "Physiology",
+    "city": null,
+    "publisher": "Not Avail",
+    "year": 2007,
+    "subject": "Physiology",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 328,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2002-01-14",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404921A",
+        "last_name": "McGeown",
+        "first_name": "J.G."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259558M",
+    "title": "Churchill's In Clinical Practice Series",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2005,
+    "subject": "Cardiovascular medicine",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 168,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2010-07-28",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2706583A",
+        "last_name": "J. Krentz",
+        "first_name": "Andrew"
+      },
+      {
+        "openlibrary_id": "/authors/OL716205A",
+        "last_name": "Lawrence",
+        "first_name": "James"
+      },
+      {
+        "openlibrary_id": "/authors/OL3404922A",
+        "last_name": "K. Summers",
+        "first_name": "Lucinda"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259559M",
+    "title": "Churchill's In Clinical Practice Series",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2006,
+    "subject": "Cardiovascular medicine",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 168,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2013-06-20",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2386425A",
+        "last_name": "Katz",
+        "first_name": "Richard"
+      },
+      {
+        "openlibrary_id": "/authors/OL2662724A",
+        "last_name": "Purcell",
+        "first_name": "Henry"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1025955M",
+    "title": "Il dottor Bilob",
+    "city": "Palermo",
+    "publisher": "Sellerio",
+    "year": 1994,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 141,
+    "lang": "ita",
+    "days_keep_count": 10,
+    "adding_date": "2000-10-19",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL46908A",
+        "last_name": "Bonaviri",
+        "first_name": "Giuseppe"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259560M",
+    "title": "Clinical Microbiology and Infectious Diseases",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2007,
+    "subject": "Infectious & contagious diseases",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 264,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2002-01-26",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2706404A",
+        "last_name": "John Spicer",
+        "first_name": "W."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259561M",
+    "title": "Acute Psychiatry",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2007,
+    "subject": "Accident & emergency medicine",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 228,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2002-07-16",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404923A",
+        "last_name": "Castle",
+        "first_name": "Matthew"
+      },
+      {
+        "openlibrary_id": "/authors/OL3258350A",
+        "last_name": "Jones",
+        "first_name": "Rachel"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259562M",
+    "title": "Midwifery",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2007,
+    "subject": "Gynecology & Obstetrics",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 321,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2006-01-10",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1616571A",
+        "last_name": "Reid",
+        "first_name": "Lindsay"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259563M",
+    "title": "Progress in Obstetrics and Gynaecology",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2007,
+    "subject": "Gynaecology & obstetrics",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 472,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2011-11-02",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1457881A",
+        "last_name": "Studd",
+        "first_name": "John"
+      },
+      {
+        "openlibrary_id": "/authors/OL3404924A",
+        "last_name": "Lin Tan",
+        "first_name": "Seang"
+      },
+      {
+        "openlibrary_id": "/authors/OL1074755A",
+        "last_name": "A. Chervenak",
+        "first_name": "Frank"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259564M",
+    "title": "Mental Health in Pregnancy and Childbirth",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2007,
+    "subject": "Gynaecology & obstetrics",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 256,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2008-02-18",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404925A",
+        "last_name": "Ann Price",
+        "first_name": "Sally"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259565M",
+    "title": "Essential Echocardiography",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2007,
+    "subject": "Cardiovascular medicine",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 264,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2014-01-31",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404926A",
+        "last_name": "Duncan Stuart Ryding",
+        "first_name": "Alisdair"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259566M",
+    "title": "Survival Guide for Ward Managers, Sisters and Charge Nurses",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2006,
+    "subject": "Hospital administration & management",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 352,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2002-08-08",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL444286A",
+        "last_name": "Thomas",
+        "first_name": "Jenny"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259567M",
+    "title": "Community Emergency Medicine",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2008,
+    "subject": "First aid & paramedical services",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 256,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2014-08-23",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL78801A",
+        "last_name": "Wardrope",
+        "first_name": "Jim"
+      },
+      {
+        "openlibrary_id": "/authors/OL948964A",
+        "last_name": "Driscoll",
+        "first_name": "Peter"
+      },
+      {
+        "openlibrary_id": "/authors/OL3404927A",
+        "last_name": "Laird",
+        "first_name": "Colville"
+      },
+      {
+        "openlibrary_id": "/authors/OL3404928A",
+        "last_name": "Woollard",
+        "first_name": "Malcolm"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259568M",
+    "title": "Pocketbook of Radiographic Positioning",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2007,
+    "subject": "Radiography",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 172,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2007-05-30",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404782A",
+        "last_name": "Sutherland",
+        "first_name": "Ruth"
+      },
+      {
+        "openlibrary_id": "/authors/OL3404929A",
+        "last_name": "Thomson",
+        "first_name": "Calum"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL10259569M",
+    "title": "The Foundation Programme",
+    "city": null,
+    "publisher": "Churchill Livingstone",
+    "year": 2007,
+    "subject": "Medicine",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 304,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2006-07-31",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3404930A",
+        "last_name": "Welfare",
+        "first_name": "Mark"
+      },
+      {
+        "openlibrary_id": "/authors/OL723274A",
+        "last_name": "Carter",
+        "first_name": "Jonathan"
+      }
+    ]
+  }
+]

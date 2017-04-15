@@ -1,0 +1,4412 @@
+[
+  {
+    "openlibrary_id": "/books/OL11042553M",
+    "title": "Langue des Signes Vol. 3 Dictionnaire Billingue Elementaire",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1990,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 224,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2005-05-03",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532373A",
+        "last_name": "Moody",
+        "first_name": "William"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042554M",
+    "title": "Dictionnaire du Patois de Lille",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1987,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2015-06-01",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL708883A",
+        "last_name": "Legrand",
+        "first_name": "Pierre"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042555M",
+    "title": "Dictionnaire Affectif des Plantes",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1990,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2015-12-02",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL747145A",
+        "last_name": "Vial",
+        "first_name": "Bernard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042556M",
+    "title": "Dictionnaire des Articles Medico­Chirurgicaux/ Articles de Pansements",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1988,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 1200,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2002-10-27",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532374A",
+        "last_name": "Staff",
+        "first_name": "ETIM"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042557M",
+    "title": "Dictionnaire Etim­Freisz 1990",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1990,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2001-08-21",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532374A",
+        "last_name": "Staff",
+        "first_name": "ETIM"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042558M",
+    "title": "Dictionnaire de l'Argot Parisien",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1985,
+    "subject": "Language",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 252,
+    "lang": "fre",
+    "days_keep_count": 50,
+    "adding_date": "2003-02-01",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1474606A",
+        "last_name": "Larchey",
+        "first_name": "Lorédan"
+      },
+      {
+        "openlibrary_id": "/authors/OL3532375A",
+        "last_name": "Larchey",
+        "first_name": "Eitenne­Loredan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042559M",
+    "title": "Da Vinci Code (French Language Edition)",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 2004,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 574,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2005-01-31",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL39307A",
+        "last_name": "Brown",
+        "first_name": "Dan"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1104255M",
+    "title": "The ideal of rationality",
+    "city": "Chicago",
+    "publisher": "Open Court",
+    "year": 1994,
+    "subject": "Rationalism.",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 256,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2003-04-28",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL383651A",
+        "last_name": "Stephen",
+        "first_name": "Nathanson,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042560M",
+    "title": "Dictionnaire Xaracuu­Francais (Nouvelle­Caledonie)",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1986,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2012-02-21",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532361A",
+        "last_name": "Moyse­Faurie",
+        "first_name": "Claire"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042561M",
+    "title": "Dictionnaire Chinois­Francais",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1988,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2014-12-14",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532376A",
+        "last_name": "Zhongfu",
+        "first_name": "Weng"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042562M",
+    "title": "Dictionnaire Chinois­Francais",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1990,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2005-11-18",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1403637A",
+        "last_name": "Pra. Na.",
+        "first_name": "Deśapāṇḍe,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042563M",
+    "title": "Dictionnaire Joly Concurence",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1988,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2006-12-04",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532377A",
+        "last_name": "De Roux",
+        "first_name": "Xavier"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042564M",
+    "title": "Dictionnaire Joly/ Pratique des Contrats Internationaux",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1990,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2015-11-21",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3531711A",
+        "last_name": "Staff",
+        "first_name": "GLN­Joly"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042565M",
+    "title": "Dictionnaire des Arbres et Arbustes des Jardins",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2004-07-25",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532378A",
+        "last_name": "Belot",
+        "first_name": "Andre"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042566M",
+    "title": "Dictionnaire des Patronymes Basques  Euskal Deiruren Hiztegia Vol. 1",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 788,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2011-04-29",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL792752A",
+        "last_name": "Oyhamburu",
+        "first_name": "Philippe"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042567M",
+    "title": "Dictionnaire du Parler Bourbonnais",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2014-10-30",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1131954A",
+        "last_name": "Brunet",
+        "first_name": "Frantz"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042568M",
+    "title": "Petit Vianney Dictionnaire Medical Savant et Sympathetique",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2006-03-04",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532379A",
+        "last_name": "Vianney",
+        "first_name": "Yves­Marie"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042569M",
+    "title": "Dictionnaire Quartet­Systems du Macintosh",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1990,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2005-10-08",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532380A",
+        "last_name": "Piard",
+        "first_name": "Joelle"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1104256M",
+    "title": "Educating the women of Hainan",
+    "city": "Lexington, Ky",
+    "publisher": "University Press of Kentucky",
+    "year": 1995,
+    "subject": "Moninger, Mary Margaret, 1891-1950.",
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 255,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2004-02-06",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL584787A",
+        "last_name": "L. Lodwick",
+        "first_name": "Kathleen"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042570M",
+    "title": "Dictionnaire des Communes Vol. 2 Departement du Loiret",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 586,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2008-08-18",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3163829A",
+        "last_name": "Patron",
+        "first_name": "Patron"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042571M",
+    "title": "Dictionnaire des Communes Vol. 2 Departement du Loiret",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 631,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2014-12-20",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3163829A",
+        "last_name": "Patron",
+        "first_name": "Patron"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042572M",
+    "title": "Dictionnaire des Communes Vol. 1 Departement de la Meuse",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2013-05-15",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2436604A",
+        "last_name": "Lemoine",
+        "first_name": "H."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042573M",
+    "title": "Dictionnaire International du Cyclisme 1993",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2009-06-17",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1139904A",
+        "last_name": "Sudres",
+        "first_name": "Claude"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042574M",
+    "title": "Dictionnaire Nostradamus",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2010-08-28",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2059791A",
+        "last_name": "Dufresne",
+        "first_name": "Michel"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042575M",
+    "title": "Dictionnaire Genealogique des Familles de l'Inde Francais",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2015-03-08",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532382A",
+        "last_name": "Bord",
+        "first_name": "Lucien­Jean"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042576M",
+    "title": "Dictionnaire de la Chimie et du Genie Chimique  French­English­German",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2012-07-31",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532383A",
+        "last_name": "C. Hitzke",
+        "first_name": "Joachim"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042577M",
+    "title": "Dictionnaire Vivant du Batiment et des Travaux Publics",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1988,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2008-02-18",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532384A",
+        "last_name": "Dusserre Telmon",
+        "first_name": "Pierre"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042578M",
+    "title": "DICTIONNAIRE ANALYTIQUE DES MARCHES FINANCIERS ANGLAIS / ALLEMAND/ ESPAGNOL / ITALIEN / NEERLANDAIS ",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 2006,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 352,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2016-12-02",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532385A",
+        "last_name": "France De Villenueve",
+        "first_name": "Jeanne"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042579M",
+    "title": "Dictionnaire Hindi­Francais",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2011-06-05",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532386A",
+        "last_name": "Boschetti",
+        "first_name": "Federica"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1104257M",
+    "title": "Malebranche's first and last critics",
+    "city": "Carbondale, Ill",
+    "publisher": "Published for the Journal of the History of Philosophy, Inc., Southern Illinois University Press",
+    "year": 1995,
+    "subject": "Malebranche, Nicolas, 1638-1715",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 114,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2011-07-27",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1404007A",
+        "last_name": "Saṅs-rgyas-rgya-mtsho.",
+        "first_name": "Saṅs-rgyas-rgya-mtsho."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042580M",
+    "title": "Etymologisches Woerterbuch des Deutschen   2 vols.",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 1665,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2016-01-15",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3171152A",
+        "last_name": "Pfeifer",
+        "first_name": "Wolfgang"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042581M",
+    "title": "Woerterbuch der Chinesischen Wortbildung",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 121,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2002-06-07",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532387A",
+        "last_name": "Beutel",
+        "first_name": "Helga"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042582M",
+    "title": "Chinesisch Deutsches Woerterbuch",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1963,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 821,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2016-03-13",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532388A",
+        "last_name": "Rudenberg",
+        "first_name": "Werner"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042583M",
+    "title": "Monogramm Lexikon  Internationales Verzeichnis der Monogramme Bidlend",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1964,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 931,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2004-06-10",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2641970A",
+        "last_name": "Goldstein",
+        "first_name": "Goldstein"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042584M",
+    "title": "Persisch Deutsches Woerterbuch",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1971,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2013-12-16",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2155886A",
+        "last_name": "Sobhani",
+        "first_name": "Farhad"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042585M",
+    "title": "Biblisches und Emblematisches Woerterbuch",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1994,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 930,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2008-07-21",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532389A",
+        "last_name": "C. Oetinger",
+        "first_name": "Friedrich"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042586M",
+    "title": "Etymologisches Woerterbuch der Deutschen Sprache",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 822,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2013-10-12",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2059616A",
+        "last_name": "Kluge",
+        "first_name": "Friedrich"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042587M",
+    "title": "Woerterbuch der Medizinisches Informatik",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1990,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 550,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2013-12-10",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532390A",
+        "last_name": "J. Seelos",
+        "first_name": "H."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042588M",
+    "title": "Woerterbuch Radioaktivitat/ Strahlenwirkung/ Strahlenschutz",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1987,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2005-08-18",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1330941A",
+        "last_name": "Pschyrembel",
+        "first_name": "Willibald"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042589M",
+    "title": "Kleines Diabetes­Lexikon",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1988,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2004-05-31",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532391A",
+        "last_name": "Bergis",
+        "first_name": "K."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1104258M",
+    "title": "Diagnosis and treatment of pain of vertebral origin",
+    "city": "Baltimore",
+    "publisher": "Williams & Wilkins",
+    "year": 1996,
+    "subject": "Spine -- Diseases -- Treatment",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 550,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2001-04-22",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL584788A",
+        "last_name": "Maigne",
+        "first_name": "Robert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042590M",
+    "title": "Hebraisches und Aramaisches Woerterbuch Zum Alten Testament",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2016-04-09",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2151186A",
+        "last_name": "Fohrer",
+        "first_name": "Georg"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042591M",
+    "title": "Althochdeutsches Woerterbuch   2 vols.",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 1860,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2006-01-14",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL743716A",
+        "last_name": "Splett",
+        "first_name": "Jochen"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042592M",
+    "title": "Altenglisches Elementarbuch  Einfuehrung/ Grammatik/ Woerterbuch",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1990,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 179,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2014-04-24",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL138315A",
+        "last_name": "Lehnert",
+        "first_name": "Martin"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042593M",
+    "title": "Woerterbuch der Deutschen Kauffmannsspache Uf Geschichtlichen Grundlagen",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 224,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2009-01-06",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL155707A",
+        "last_name": "Schirmer",
+        "first_name": "Alfred"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042594M",
+    "title": "Hunnius Pharmazeutisches Woerterbuch",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 1556,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2013-04-19",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1878093A",
+        "last_name": "Hunnius",
+        "first_name": "Curt"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042595M",
+    "title": "Management Enzyklopaedisches Lexikon",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2009-03-17",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL336745A",
+        "last_name": "J. Koschnick",
+        "first_name": "Wolfgang"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042596M",
+    "title": "Hebraisches Woerterbuch Zu Jeremia",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1953,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2013-05-03",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532392A",
+        "last_name": "Rudolph",
+        "first_name": "Wilhelm"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042597M",
+    "title": "Harrap's French to English and English to French Dictionary of Legal Terms ",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 2004,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2009-05-09",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532393A",
+        "last_name": "Staff",
+        "first_name": "Harrap's"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042598M",
+    "title": "Woerterbuch der Mythologie Vol. 2 Gotter und Mythen Im Alten Europa",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1973,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 976,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2003-03-05",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532394A",
+        "last_name": "Haussig",
+        "first_name": "Hans"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042599M",
+    "title": "Woerterbuch der Mythologie Vol. 4 Gotter und Mythen Im Kaukasischen und Iranischen Volker",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1986,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 546,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2002-08-13",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532394A",
+        "last_name": "Haussig",
+        "first_name": "Hans"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1104259M",
+    "title": "Franz Kafka, the Jewish patient",
+    "city": "New York",
+    "publisher": "Routledge",
+    "year": 1995,
+    "subject": "Kafka, Franz, 1883-1924 -- Health",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 328,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2002-07-12",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL227743A",
+        "last_name": "L. Gilman",
+        "first_name": "Sander"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL110425M",
+    "title": "Spatial representation",
+    "city": "Oxford [England]",
+    "publisher": "Oxford University Press",
+    "year": 1999,
+    "subject": "Space perception",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 409,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2016-01-16",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1044519A",
+        "last_name": "Kessler",
+        "first_name": "Michel"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042600M",
+    "title": "Woerterbuch der Mythologie Vol. 6 Gotter und Mythen in Ostasien",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 896,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2011-09-09",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532394A",
+        "last_name": "Haussig",
+        "first_name": "Hans"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042601M",
+    "title": "Woerterbuch der Mythologie Vol. 7 Gotter und Mythen In Zentraleurasien und Nordeurasien",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1999,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2009-01-21",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532394A",
+        "last_name": "Haussig",
+        "first_name": "Hans"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042602M",
+    "title": "Woerterbuch Zur Bibel",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1971,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2009-10-25",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL411057A",
+        "last_name": "Schmidt",
+        "first_name": "Werner"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042603M",
+    "title": "Dictionary of Materials Testing",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1980,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 458,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2001-12-21",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1117406A",
+        "last_name": "Goedecke",
+        "first_name": "Werner"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042604M",
+    "title": "Lexikon Messtechnikund Automatisierungstechnik",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 689,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2013-06-28",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532395A",
+        "last_name": "Schrufer",
+        "first_name": "Elmar"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042605M",
+    "title": "Woerterbuch Deutsches Vietnamesisch",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1999,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2002-04-07",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532396A",
+        "last_name": "Ho",
+        "first_name": "Gia­Huong"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042606M",
+    "title": "Woerterbuch der Falschen Freunde  German & Russian",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2012-06-13",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532397A",
+        "last_name": "Gottlieb",
+        "first_name": "Karl"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042607M",
+    "title": "Salammbo",
+    "city": null,
+    "publisher": "French & European Publications Inc",
+    "year": 2000,
+    "subject": "Movements - Phenomenology",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 125,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2004-02-27",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL79039A",
+        "last_name": "Flaubert",
+        "first_name": "Gustave"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042608M",
+    "title": "Philosophie und Naturwissenschaften   2 vols.",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 1120,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2016-09-29",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3164761A",
+        "last_name": "Hoerz",
+        "first_name": "Herbert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042609M",
+    "title": "Woerterbuch der Literaturwissenschaft",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2010-08-17",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532398A",
+        "last_name": "Trager",
+        "first_name": "Claus"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1104260M",
+    "title": "How do I get to know God",
+    "city": "Grand Rapids, Mich",
+    "publisher": "F.H. Revell",
+    "year": 1995,
+    "subject": "Westminster Confession of Faith.",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 183,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2016-06-20",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL70253A",
+        "last_name": "James Kennedy",
+        "first_name": "D."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042610M",
+    "title": "Bl Lexikon der Wein",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1990,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2012-09-28",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532399A",
+        "last_name": "Gussek",
+        "first_name": "Karl­Diether"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042611M",
+    "title": "Kleines Woerterbuch der Weltliteratur",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1990,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2003-03-13",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532400A",
+        "last_name": "Greiner­Mai",
+        "first_name": "Herbert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042612M",
+    "title": "Woerterbuch Portugiesich Deutsch",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1999,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2016-03-21",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2303516A",
+        "last_name": "Klare",
+        "first_name": "Johannes"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042613M",
+    "title": "Woerterbuch Deutsch Portugiesisch",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1999,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2016-06-20",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2303516A",
+        "last_name": "Klare",
+        "first_name": "Johannes"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042614M",
+    "title": "Woerterbuch Bulgarisch­Deutsch",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2002-07-15",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1622197A",
+        "last_name": "Endler",
+        "first_name": "Dietmar"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042615M",
+    "title": "Woerterbuch Sanskrit­Deutsch",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 583,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2003-01-04",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL327677A",
+        "last_name": "Mylius",
+        "first_name": "Klaus"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042616M",
+    "title": "Woerterbuch Tibetisch­Deutsch",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 444,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2012-10-23",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1111451A",
+        "last_name": "Richter",
+        "first_name": "Eberhardt"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042617M",
+    "title": "Worterbuch Khmer­Deutsch   2 vols.",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 1321,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2001-12-26",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532401A",
+        "last_name": "Gaudes",
+        "first_name": "Rudiger"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042618M",
+    "title": "Woerterbuch der Bibliothekwessens  Russian­German/ German­Russian",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1988,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2016-07-12",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL864317A",
+        "last_name": "Wasilewitsch",
+        "first_name": "Gennadi"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042619M",
+    "title": "Woerterbuch Mongolisch­Deutsch",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1988,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 417,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2000-05-28",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532402A",
+        "last_name": "Vietze",
+        "first_name": "Hans­Peter"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1104261M",
+    "title": "Fit bodies, fat minds",
+    "city": "Grand Rapids, Mich",
+    "publisher": "Hourglass Books",
+    "year": 1994,
+    "subject": "Evangelicalism -- United States.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 160,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2011-03-09",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL33409A",
+        "last_name": "Guinness",
+        "first_name": "Os"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042620M",
+    "title": "Woerterbuch Deutsch­Sanskrit",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 322,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2007-06-01",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL327677A",
+        "last_name": "Mylius",
+        "first_name": "Klaus"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042621M",
+    "title": "Woerterbuch Deutsch­Hindi",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1994,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 646,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2003-02-18",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532403A",
+        "last_name": "Gatzlaff­Halsig",
+        "first_name": "Margot"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042622M",
+    "title": "Woerterbuch Vietnamesisch Deutsch",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1999,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2014-03-05",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532396A",
+        "last_name": "Ho",
+        "first_name": "Gia­Huong"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042623M",
+    "title": "WOerterbuch Mongolisch­Deutsch",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1984,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2001-06-25",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532404A",
+        "last_name": "Zebek",
+        "first_name": "Schalanow"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042624M",
+    "title": "Woerterbuch Hindi Deutsch",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1999,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2007-11-26",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1954342A",
+        "last_name": "Klemm",
+        "first_name": "Erika"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042625M",
+    "title": "Phraseologisches Woerterbuch Polnisch­Deutsch",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1990,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 299,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2015-02-07",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532405A",
+        "last_name": "Ehegoetz",
+        "first_name": "Erika"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042626M",
+    "title": "Woerterbuch Deutsch­Swahili",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1990,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2016-03-29",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3436666A",
+        "last_name": "Legere",
+        "first_name": "Kersten"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042627M",
+    "title": "Woerterbuch Swahili­Deutsch",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2003-06-15",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532406A",
+        "last_name": "Hoeftmann",
+        "first_name": "Hildegard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042628M",
+    "title": "Woerterbuch Deutsch­Indonesisch",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1994,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 667,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2004-05-15",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL705797A",
+        "last_name": "Heuken",
+        "first_name": "Adolf"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042629M",
+    "title": "Woerterbuch der Veterinarmedizin   2 vols.",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 1662,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2002-02-03",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1245097A",
+        "last_name": "Wiesner",
+        "first_name": "Ekkehard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1104262M",
+    "title": "A mother's book of poems.",
+    "city": "Chicago",
+    "publisher": "Contemporary Books",
+    "year": 1994,
+    "subject": "Mother and child -- Poetry.",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 156,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2013-09-17",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1166936A",
+        "last_name": "Cámara Nacional de Apelaciones del Trabajo (Capital Federal)",
+        "first_name": "Argentina."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042630M",
+    "title": "Lexikon der Rechtsmedizin",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 309,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2002-09-28",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532407A",
+        "last_name": "Hunger",
+        "first_name": "Horst"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042631M",
+    "title": "Polytechnisches Woerterbuch  German­Portuguese",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 640,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2007-07-17",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532408A",
+        "last_name": "Franzke",
+        "first_name": "Lutz"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042632M",
+    "title": "Abkurzungen in der Technik  Kleines Lexikon",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2004-12-06",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532409A",
+        "last_name": "Verlag Staff",
+        "first_name": "Fachbuch"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042633M",
+    "title": "Oekonomisches Woertebuch  German­Portuguese",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1986,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2010-06-05",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532410A",
+        "last_name": "Von Helmut",
+        "first_name": "Dora"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042634M",
+    "title": "Deutsch­Deutsch  Ein Satirisches Woerterbuch",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2011-03-28",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532411A",
+        "last_name": "Rohl",
+        "first_name": "Ernst"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042635M",
+    "title": "Lexikon der Kunst Vol. 1 A­Cim",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1987,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 850,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2011-01-28",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL855438A",
+        "last_name": "Strauss",
+        "first_name": "Gerhard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042636M",
+    "title": "Lexikon der Kunst Vol. 2 Cin­Gree",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 842,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2014-06-15",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL855438A",
+        "last_name": "Strauss",
+        "first_name": "Gerhard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042637M",
+    "title": "Lexikon der Kunst Vol. 3 Greg­Konv",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 850,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2001-12-04",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL855438A",
+        "last_name": "Strauss",
+        "first_name": "Gerhard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042638M",
+    "title": "Lexikon der Kunst Vol. 4 Kony­Mosa",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 850,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2012-08-13",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL855438A",
+        "last_name": "Strauss",
+        "first_name": "Gerhard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042639M",
+    "title": "Lexikon der Kunst Vol. 5 Mosb­Q",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 841,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2003-02-07",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL855438A",
+        "last_name": "Strauss",
+        "first_name": "Gerhard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1104263M",
+    "title": "Bananaheart & other stories",
+    "city": "Honolulu, Hawaii",
+    "publisher": "Bamboo Ridge Press",
+    "year": 1994,
+    "subject": "Japanese American women -- Fiction",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 164,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2004-09-12",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL584789A",
+        "last_name": "Hara",
+        "first_name": "Marie"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042640M",
+    "title": "Neues Lexikon der Vornamen",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1999,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2011-02-06",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532412A",
+        "last_name": "Burkhart",
+        "first_name": "Walter"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042641M",
+    "title": "Lexikon der Gesundheit Medizinisches Fachwoerterbuch",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2004-07-24",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1738671A",
+        "last_name": "Draeger",
+        "first_name": "Wolfhart"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042642M",
+    "title": "Multilingual Dictionary of Biology in English, French, German and Spanish",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1981,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 680,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2008-01-23",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3531777A",
+        "last_name": "Haensch",
+        "first_name": "Guenther"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042643M",
+    "title": "Woerterbuch der Rechtssprache und Wirtschaftssprache Vol. 1 German­Russian",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1990,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 564,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2006-11-10",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532413A",
+        "last_name": "Decsi",
+        "first_name": "Gyula"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042644M",
+    "title": "Woerterbuch der Rechtssprache und Wirtschaftssprache Vol. 2 Russian­German",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1985,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 725,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2013-03-10",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532413A",
+        "last_name": "Decsi",
+        "first_name": "Gyula"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042645M",
+    "title": "Woerterbuch der Rechtssprache und Wirtschaftssprache Vol. 1 Portuguese­German",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2006-10-02",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL484571A",
+        "last_name": "Jayme",
+        "first_name": "Erik"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042646M",
+    "title": "Woerterbuch der Rechtssprache und Wirtschaftssprache Vol. 2 German­Portuguese",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1990,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2014-12-09",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL484571A",
+        "last_name": "Jayme",
+        "first_name": "Erik"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042647M",
+    "title": "New York Shoppisme (Shopping GUide to New York in French)",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 2007,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "fre",
+    "days_keep_count": 30,
+    "adding_date": "2001-02-14",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532414A",
+        "last_name": "Ochs",
+        "first_name": "Cecile"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042648M",
+    "title": "Woerterbuch Soziale Arbeit",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1988,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2015-12-19",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3340167A",
+        "last_name": "Kreft",
+        "first_name": "Dieter"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042649M",
+    "title": "German to English and English to German Dictionary of Logistics and Supply Chain Management / Fachwo",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 2003,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 639,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2005-07-20",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3165315A",
+        "last_name": "Kiesel",
+        "first_name": "Jens"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1104264M",
+    "title": "Little Vampire and the Midnight Bear",
+    "city": "New York",
+    "publisher": "Dial Books for Young Readers",
+    "year": 1995,
+    "subject": "Vampires -- Fiction.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 48,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2012-04-24",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL584790A",
+        "last_name": "DeBall Kwitz",
+        "first_name": "Mary"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042650M",
+    "title": "Gabler Wirtschaftsinformatik­Lexikon",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 1000,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2011-04-02",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532415A",
+        "last_name": "Staff",
+        "first_name": "Gabler"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042651M",
+    "title": "Gabler Kleines Lexikon Informatik",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2001-07-17",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2704830A",
+        "last_name": "Braun",
+        "first_name": "Braun"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042652M",
+    "title": "English to Bulgarian Law Dictionary - CD ROM ",
+    "city": null,
+    "publisher": "French & European Publications Inc",
+    "year": 2005,
+    "subject": "General",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 600,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2000-01-08",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532416A",
+        "last_name": "Balkandzhieva",
+        "first_name": "B."
+      },
+      {
+        "openlibrary_id": "/authors/OL3532417A",
+        "last_name": "Punt",
+        "first_name": "Capelle"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042653M",
+    "title": "Gabler Fremd­Woerterbuch Wirtschaft",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 400,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2001-07-10",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532415A",
+        "last_name": "Staff",
+        "first_name": "Gabler"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042654M",
+    "title": "Gabler Kompakt Lexikon Recht",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2010-10-17",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532418A",
+        "last_name": "Gerd",
+        "first_name": "Jauch"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042655M",
+    "title": "Lexikon Baufinanzierung Von A Bis Z",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 667,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2006-08-31",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532419A",
+        "last_name": "Gerhards",
+        "first_name": "Harald"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042656M",
+    "title": "Gabler Kleines Lexicon Wirtschaft",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2015-06-17",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532415A",
+        "last_name": "Staff",
+        "first_name": "Gabler"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042657M",
+    "title": "Woerterbuch der Physikalisch­Technischen Begriffe der Medizinischen Radiologie  German/ French­Engli",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1986,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2016-02-16",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532420A",
+        "last_name": "Staff",
+        "first_name": "IEC"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042658M",
+    "title": "Duden Taschenbucher  Fremdworter Woerterbuch",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1970,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2006-03-20",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532421A",
+        "last_name": "Ahlheim",
+        "first_name": "Karl­Heinz"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042659M",
+    "title": "Duden Taschenbucher  Woerterbuch der Osterreich",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1980,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 252,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2008-09-24",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1677007A",
+        "last_name": "Ebner",
+        "first_name": "Jakob"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1104265M",
+    "title": "History and annotated bibliography of American religious periodicals and newspapers established from",
+    "city": "Worcester",
+    "publisher": "American Antiquarian Society",
+    "year": 1994,
+    "subject": "Religious newspapers and periodicals -- United States -- History.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": "eng",
+    "days_keep_count": 50,
+    "adding_date": "2012-11-11",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL584791A",
+        "last_name": "P. Albaugh",
+        "first_name": "Gaylord"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042660M",
+    "title": "Duden Taschenbucher  Woerterbuch der Schweizerischen",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 380,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2002-03-25",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL36843A",
+        "last_name": "Meyer",
+        "first_name": "Kurt"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042661M",
+    "title": "DTV Woerterbuch zur Psychologie",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1994,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2013-06-07",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532422A",
+        "last_name": "Von Frohlich",
+        "first_name": "Werner"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042662M",
+    "title": "Allgemeines Lexikon der Bildenden Kunstler 25 vols",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1985,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2010-10-11",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1690793A",
+        "last_name": "Thieme",
+        "first_name": "Ulrich"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042663M",
+    "title": "Computer­Lexikon",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1994,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2016-09-08",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532424A",
+        "last_name": "Grieser",
+        "first_name": "Franz"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042664M",
+    "title": "Knaurs Grosses Woerterbuch der Deutschen Sprache",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1985,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2000-09-12",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1278713A",
+        "last_name": "Hermann",
+        "first_name": "Ursula"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042665M",
+    "title": "Knaurs Woerterbuch der Medizin",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1988,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2002-04-15",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532425A",
+        "last_name": "Narciss",
+        "first_name": "Georg"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042666M",
+    "title": "Vitamin­Lexikon  Fur Artze/ Apotheker und Ernahrungswissenschaftler",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 432,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2008-09-07",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532426A",
+        "last_name": "Bassler",
+        "first_name": "Karl­Heinz"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042667M",
+    "title": "Helpflanzen­Lexikon fur Arzte und Apotheker  Lexicon for Doctors & Pharmacists",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1987,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2004-04-29",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532427A",
+        "last_name": "Bruan",
+        "first_name": "Hans"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042668M",
+    "title": "Kleines Lexikon der Wirtschaft",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2007-01-29",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532428A",
+        "last_name": "Hoefer",
+        "first_name": "Gerhard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042669M",
+    "title": "Woerterbuch der Medizinischer Fachausdrucke",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2010-07-19",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532429A",
+        "last_name": "Hammerschmid­Gollwitzer",
+        "first_name": "Josef"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1104266M",
+    "title": "Eleanor Roosevelt",
+    "city": "Hillside, N.J",
+    "publisher": "Enslow Publishers",
+    "year": 1995,
+    "subject": "Roosevelt, Eleanor, 1884-1962 -- Juvenile literature.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 128,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2005-05-10",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL21247A",
+        "last_name": "Schuman",
+        "first_name": "Michael"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042670M",
+    "title": "Deutsch Turkisches Woerterbuch",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1961,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 502,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2002-09-26",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2230587A",
+        "last_name": "Jansky",
+        "first_name": "Herbert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042671M",
+    "title": "Kleines Woerterbuch der Japanologie",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1968,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 593,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2000-02-29",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL951762A",
+        "last_name": "Lewin",
+        "first_name": "Bruno"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042672M",
+    "title": "Deutsch­Turkisches Woerterbuch",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1987,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 669,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2008-10-19",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1891710A",
+        "last_name": "Steuerwald",
+        "first_name": "Karl"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042673M",
+    "title": "Turkisch­Deutsches Woerterbuch",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1988,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 1294,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2004-07-20",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1891710A",
+        "last_name": "Steuerwald",
+        "first_name": "Karl"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042674M",
+    "title": "Kleines Psychologisches Woerterbuch",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2016-01-08",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL784191A",
+        "last_name": "Michel",
+        "first_name": "Christian"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042675M",
+    "title": "Philosophisches Woerterbuch",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2003-12-27",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2846641A",
+        "last_name": "Muller",
+        "first_name": "Max"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042676M",
+    "title": "Kleines Paedagogisches Woerterbuch",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2003-01-18",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1253393A",
+        "last_name": "Keller",
+        "first_name": "Josef"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042677M",
+    "title": "New Age Woerterbuch",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1999,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2013-05-27",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL82811A",
+        "last_name": "Gruber",
+        "first_name": "Elmar"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042678M",
+    "title": "Kleines Theologisches Woerterbuch",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2016-09-24",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL22117A",
+        "last_name": "Karl",
+        "first_name": "Rahner,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042679M",
+    "title": "Woerterbuch Zur Biblischen Botschaft",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1981,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2006-03-30",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532431A",
+        "last_name": "Léon-Dufour",
+        "first_name": "Xavier"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1104267M",
+    "title": "A natural history of nature writing",
+    "city": "Washington, D.C",
+    "publisher": "Island Press [for] Shearwater Books",
+    "year": 1995,
+    "subject": "American prose literature -- History and criticism.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 279,
+    "lang": "eng",
+    "days_keep_count": 100,
+    "adding_date": "2016-07-01",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL584792A",
+        "last_name": "Frank",
+        "first_name": "Stewart,"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042680M",
+    "title": "Das\\Grosse Lexikon der Musik   8 vols.",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2016-09-26",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1731283A",
+        "last_name": "Honegger",
+        "first_name": "Marc"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042681M",
+    "title": "Chemie Des Alltags A­Z  Ein Lexikon der Praktischen Chemie",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2015-03-24",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532432A",
+        "last_name": "Raaf",
+        "first_name": "Hermann"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042682M",
+    "title": "Woerterbuch der Musik",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2015-07-18",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL88223A",
+        "last_name": "Lindlar",
+        "first_name": "Heinrich"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042683M",
+    "title": "Philosophisches Woerterbuch",
+    "city": null,
+    "publisher": "French & European Publications Inc",
+    "year": 1994,
+    "subject": "Reference",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2003-04-01",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL32293A",
+        "last_name": "Voltaire",
+        "first_name": "Voltaire"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042684M",
+    "title": "Woerterbuch Wirtschatsrussisch  German­Russian",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 496,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2012-02-12",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532433A",
+        "last_name": "Nikiforowa",
+        "first_name": "Anna"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042685M",
+    "title": "Woerterbuch Wirtschatsrussisch  Russian­German",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1994,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 496,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2008-08-14",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532433A",
+        "last_name": "Nikiforowa",
+        "first_name": "Anna"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042686M",
+    "title": "Woerterbuch Vertragswesen  Russian­German/ German­Russian",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2015-02-13",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532434A",
+        "last_name": "Fraer",
+        "first_name": "Tatjana"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042687M",
+    "title": "Woerterbuch Papier und Druck",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2003-12-19",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL469308A",
+        "last_name": "Walenski",
+        "first_name": "Wolfgang"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042688M",
+    "title": "Woerterbuch Zum Neuen Testament",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1977,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2011-06-04",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532431A",
+        "last_name": "Léon-Dufour",
+        "first_name": "Xavier"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042689M",
+    "title": "Langenscheidt's Encyclopedic Dictionary of English and German Vol. 1 English to ­German, Letters A-M",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 883,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2011-01-03",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL685121A",
+        "last_name": "Muret",
+        "first_name": "Eduard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1104268M",
+    "title": "Maggie's secret longing",
+    "city": "Eugene, OR",
+    "publisher": "Harvest House",
+    "year": 1994,
+    "subject": "Teachers -- Fiction.",
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 165,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2011-05-12",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL31161A",
+        "last_name": "E. Wiggin",
+        "first_name": "Eric"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042690M",
+    "title": "Langenscheidt's Encyclopedic Dictionary of English and German Vol. 2 English to ­German Letters N-Z",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 956,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2001-08-20",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL685121A",
+        "last_name": "Muret",
+        "first_name": "Eduard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042691M",
+    "title": "Langenscheidt's Encyclopedic Dictionary of English and German Vol. 3 German to ­English Letters A-K",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 973,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2006-07-31",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL685121A",
+        "last_name": "Muret",
+        "first_name": "Eduard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042692M",
+    "title": "Langenscheidt's Encyclopedic Dictionary of English and German Vol. 4 German­ to English Letters L­-Z",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 1046,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2004-07-03",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL685121A",
+        "last_name": "Muret",
+        "first_name": "Eduard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042693M",
+    "title": "Langenscheidts Woerterbuch der Ungangssprache Franzoesisch",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2004-08-08",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532436A",
+        "last_name": "Meissner",
+        "first_name": "Franz­Joseph"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042694M",
+    "title": "Super Mario Super Englisch  Woerterbuch fur Kids",
+    "city": null,
+    "publisher": "French & European Publications Inc",
+    "year": 1993,
+    "subject": "French",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 576,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2011-06-01",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2891531A",
+        "last_name": "Publishers",
+        "first_name": "Langenscheidt"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042695M",
+    "title": "Englisch  Langenscheidts Selbstlernkurse with 4 cassettes",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 911,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2008-01-25",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL4016569A",
+        "last_name": "Hoffmann",
+        "first_name": "Hans-Georg"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042696M",
+    "title": "Franzoesich  Langenscheidt's Selbstlernkurse",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 862,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2010-07-02",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL912460A",
+        "last_name": "Ilgenfritz",
+        "first_name": "Peter"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042697M",
+    "title": "Steuerrecht und Finanzrecht",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 660,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2011-05-10",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532437A",
+        "last_name": "Klein",
+        "first_name": "Franz"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042698M",
+    "title": "Lexikon Des Rechts der Wirtschafts/ Zur Fortsetzung",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2003-01-11",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532438A",
+        "last_name": "Bunte",
+        "first_name": "Hermann­Josef"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042699M",
+    "title": "Althochdeutsches Woerterbuch",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2012-11-18",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532439A",
+        "last_name": "Schutzeichel",
+        "first_name": "Rudolf"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1104269M",
+    "title": "The knight and the dove",
+    "city": "Eugene, OR",
+    "publisher": "Harvest House Publishers",
+    "year": 1995,
+    "subject": "Knights and knighthood -- Fiction",
+    "genre": "Fiction.",
+    "periodic_release": 2,
+    "page_count": 345,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2009-09-17",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL18951A",
+        "last_name": "Wick",
+        "first_name": "Lori"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL110426M",
+    "title": "Public attitudes to rabbit calicivirus disease in New Zealand",
+    "city": "Lincoln, N.Z",
+    "publisher": "Manaaki Whenua Press",
+    "year": 1998,
+    "subject": "Rabbit calicivirus disease -- New Zealand -- Public opinion.",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 56,
+    "lang": "eng",
+    "days_keep_count": 30,
+    "adding_date": "2012-10-17",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL73947A",
+        "last_name": "Wilkinson",
+        "first_name": "Roger"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042700M",
+    "title": "Kleines Mitelhochdeutsches Woerterbuch",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2010-12-27",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL604327A",
+        "last_name": "Hennig",
+        "first_name": "Beate"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042701M",
+    "title": "Historisches Woerterbuch der Rhetorik   Set 8 vols.",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2000-05-27",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532440A",
+        "last_name": "Gert",
+        "first_name": "Ueding"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042702M",
+    "title": "Wirtschaftinformaik­Lexikon",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 2,
+    "page_count": 737,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2008-10-27",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532441A",
+        "last_name": "Heinrich",
+        "first_name": "Lutz"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042703M",
+    "title": "Dictionnaire des Devises Heraldiques Avec Supplement",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1999,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 1624,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2014-05-25",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532442A",
+        "last_name": "Chassant",
+        "first_name": "Louis­Alphonse"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042704M",
+    "title": "Woerterbuch der Duala­Sprache (Kamerun) German­French­English",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1976,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 675,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2005-03-21",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1674676A",
+        "last_name": "Ittmann",
+        "first_name": "Johannes"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042705M",
+    "title": "Logistik-Wörterbuch :  Deutsch - Englisch /  Englisch - Deutsch :  Dictionary of Logistics ",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 2004,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 480,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2008-05-22",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1396543A",
+        "last_name": "Scott-Sabic",
+        "first_name": "Vanessa"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042706M",
+    "title": "Woerterbuch des Althochdeutschen Sprachschatzes",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 1660,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2012-10-02",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3292847A",
+        "last_name": "Kobler",
+        "first_name": "Gerhard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042707M",
+    "title": "Ursprung der Woerter  Etymologisches Woerterbuch der Deutschen Sprache",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1985,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2016-03-09",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL139402A",
+        "last_name": "Mackensen",
+        "first_name": "Lutz"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042708M",
+    "title": "Marcel Proust Lexikon",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 514,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2000-05-04",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532443A",
+        "last_name": "Michel­Thiriet",
+        "first_name": "Philippe"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042709M",
+    "title": "Woerterbuch der Antike",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2014-12-14",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1940241A",
+        "last_name": "Kroh",
+        "first_name": "Paul"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1104270M",
+    "title": "A soldier's legacy",
+    "city": "Evanston, Ill",
+    "publisher": "Northwestern University Press",
+    "year": 1994,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 131,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2000-01-04",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL2633288A",
+        "last_name": "Böll",
+        "first_name": "Heinrich"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042710M",
+    "title": "Woerterbuch der Symbolik",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 871,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2004-02-28",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL919051A",
+        "last_name": "Lurker",
+        "first_name": "Manfred"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042711M",
+    "title": "Etymologisches Woerterbuch des Althochdeutschen Set 8 vols.",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1994,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2000-10-09",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532444A",
+        "last_name": "Lloyd",
+        "first_name": "Albert"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042712M",
+    "title": "Griechisch­Deutsches Woerterbuch Zum Neuen Testament",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2000-10-28",
+    "count": 50,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL744042A",
+        "last_name": "Rehkopf",
+        "first_name": "Friedrich"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042713M",
+    "title": "Parat Lexikon Chemische Technik",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1988,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 742,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2013-01-05",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532445A",
+        "last_name": "Hengeln",
+        "first_name": "Ernst"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042714M",
+    "title": "Parat Lexikon Elektrochemie",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1987,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 257,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2002-03-05",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1025350A",
+        "last_name": "B. Hibbert",
+        "first_name": "D."
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042715M",
+    "title": "Parat Lexikon Elektronik",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 1000,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2008-07-25",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532446A",
+        "last_name": "Moschwitzer",
+        "first_name": "Albrecht"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042716M",
+    "title": "Lexikon Elektrotechnik",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1994,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2014-08-04",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3180322A",
+        "last_name": "Muller",
+        "first_name": "German"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042717M",
+    "title": "Parat Lexikon Folientechnik",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 550,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2010-07-09",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532447A",
+        "last_name": "Nentwig",
+        "first_name": "Joachim"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042718M",
+    "title": "Dictionary of Environmental Protection  English­German/ German­English",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 500,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2005-12-24",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL610354A",
+        "last_name": "Lukhaup",
+        "first_name": "Dieter"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042719M",
+    "title": "Multilingual Glossary of Transmission Elements and Gear Production Control",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 268,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2003-12-16",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532448A",
+        "last_name": "Staff",
+        "first_name": "Eurotans"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1104271M",
+    "title": "The  age of consent",
+    "city": "New York",
+    "publisher": "Knopf",
+    "year": 1995,
+    "subject": "Community life -- Fiction",
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 226,
+    "lang": "eng",
+    "days_keep_count": 10,
+    "adding_date": "2007-04-25",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL455335A",
+        "last_name": "Wolff",
+        "first_name": "Geoffrey"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042720M",
+    "title": "Multilingual Glossary of Transmission Elements and Gear Production Contol in 5 Volumes",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1982,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 1,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2007-02-16",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532448A",
+        "last_name": "Staff",
+        "first_name": "Eurotans"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042721M",
+    "title": "Kleines Woerterbuch Medizin  English­German",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2009-01-11",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532449A",
+        "last_name": "Staff",
+        "first_name": "Urban"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042722M",
+    "title": "Lexikon Angiologie/ Kardiologie",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1992,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2002-10-15",
+    "count": 5,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL867063A",
+        "last_name": "Busch",
+        "first_name": "Ulrich"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042723M",
+    "title": "Ullstein Synonymen Lexikon",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1989,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 10,
+    "adding_date": "2012-09-14",
+    "count": 100,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1226896A",
+        "last_name": "Bauer",
+        "first_name": "Bernhard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042724M",
+    "title": "Die\\Krauterkuche  Ein Lexikon der Kuchenkrauter mit Uber 200 Franzoesischen Rezepten",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 2000,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2013-11-12",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532450A",
+        "last_name": "Messegue",
+        "first_name": "Maurice"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042725M",
+    "title": "Bertelsmann Lexikon der Abkurzungen",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1994,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 100,
+    "adding_date": "2008-02-02",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL497529A",
+        "last_name": "Koblischke",
+        "first_name": "Heinz"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042726M",
+    "title": "Bertelsmann Lexikon Informatik/ EDV/ Computertechnik",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2005-03-14",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532451A",
+        "last_name": "Bertelsmann",
+        "first_name": "Annekatrin"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042727M",
+    "title": "Bertelsmann Lexikon Astronomie",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2006-07-31",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532451A",
+        "last_name": "Bertelsmann",
+        "first_name": "Annekatrin"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042728M",
+    "title": "Deutsches Woerterbuch",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 2006,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 1728,
+    "lang": "ger",
+    "days_keep_count": 200,
+    "adding_date": "2003-01-23",
+    "count": 300,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL417132A",
+        "last_name": "Wahrig",
+        "first_name": "Gerhard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042729M",
+    "title": "Wahrig Illustriertes Woerterbuch der Deutschen Sprache",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 2006,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 1008,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2012-11-30",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL417132A",
+        "last_name": "Wahrig",
+        "first_name": "Gerhard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL1104272M",
+    "title": "Theorizing satire",
+    "city": "New York",
+    "publisher": "St. Martin's Press",
+    "year": 1995,
+    "subject": "Satire -- History and criticism",
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 212,
+    "lang": "eng",
+    "days_keep_count": 200,
+    "adding_date": "2015-10-13",
+    "count": 10,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL1252583A",
+        "last_name": "Dueñas Martínez",
+        "first_name": "Antonio"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042730M",
+    "title": "Fremdwoerter­Lexikon",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 50,
+    "adding_date": "2004-02-19",
+    "count": 20,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL417132A",
+        "last_name": "Wahrig",
+        "first_name": "Gerhard"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042731M",
+    "title": "Bertelsmann Lexikon Geschichte",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1991,
+    "subject": null,
+    "genre": null,
+    "periodic_release": null,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 30,
+    "adding_date": "2000-09-06",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532451A",
+        "last_name": "Bertelsmann",
+        "first_name": "Annekatrin"
+      }
+    ]
+  },
+  {
+    "openlibrary_id": "/books/OL11042732M",
+    "title": "Grammatik der Deutschen Sprache",
+    "city": null,
+    "publisher": "French & European Pubns",
+    "year": 1993,
+    "subject": null,
+    "genre": null,
+    "periodic_release": 3,
+    "page_count": 0,
+    "lang": null,
+    "days_keep_count": 200,
+    "adding_date": "2011-04-26",
+    "count": 500,
+    "authors": [
+      {
+        "openlibrary_id": "/authors/OL3532452A",
+        "last_name": "von Lutz",
+        "first_name": "Gotze"
+      }
+    ]
+  }
+]
