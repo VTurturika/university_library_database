@@ -14,7 +14,7 @@ FROM book b
 INNER JOIN (
 	SELECT be.*, s.reader_id, s.last_name, s.first_name FROM book_event be
 	INNER JOIN (
-		SELECT DISTINCT * FROM reader
+		SELECT DISTINCT * FROM student
 		WHERE faculty='Механіко-математичний факультет'
 	) s
 	ON s.reader_id = be.reader_id
@@ -43,9 +43,9 @@ OR (be.start_date BETWEEN current_date - INTERVAL '1 year' AND current_date
 AND be.end_date BETWEEN current_date - INTERVAL '1 year' AND current_date);
 
 -- 5 --
-SELECT section_id, count(reader_id), sum(punishment_cost)
+SELECT section_id, count(reader_id), count(punishment_cost)
 FROM book_event
-WHERE violation = 'загублена' GROUP BY section_id ORDER BY sum desc
+WHERE violation = 'загублена' GROUP BY section_id ORDER BY sum DESC;
 
 -- 6 --
 SELECT b.*
@@ -116,6 +116,6 @@ SELECT r.*, be.*
 FROM reader r
 INNER JOIN (
 	SELECT * FROM book_event
+	WHERE reader_id=1305
 ) be
-ON be.reader_id=r.reader_id
-WHERE r.reader_id=1305
+ON be.reader_id=r.reader_id;
